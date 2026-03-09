@@ -1,0 +1,536 @@
+{
+  "title": "The Lead Tablet of Apellis",
+  "subtitle": "Love, Curses, and Choral Competition in Greek Sicily, c. 475--450 BCE",
+  "summary": "A man named Apellis inscribes a lead curse tablet out of love for Eunikos in a Greek colony in Sicily, naming rival lovers, cursing chorus leaders, and revealing a web of male desire woven through the competitive, performative world of the fifth-century BCE western Mediterranean.",
+  "category": "Love & Desire",
+  "tags": [
+    "same-sex love",
+    "curse tablets",
+    "Greek Sicily",
+    "5th century BCE",
+    "symposium culture",
+    "choral competition",
+    "defixiones",
+    "Gela",
+    "magic",
+    "erastes-eromenos"
+  ],
+  "sections": [
+    {
+      "id": "the-text",
+      "title": "I. The Text",
+      "body_html": "<p>The tablet was found near <span class=\"entity\" data-entity-id=\"gela\" data-type=\"place\">Gela</span>, though the precise circumstances of its discovery are not well documented in the archaeological record.<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup> It is a single sheet of lead, inscribed on one side, and its text is remarkably long for a defixio of this period &ndash; over a dozen lines of densely packed Doric Greek, far exceeding the terse name-lists that constitute the majority of early Sicilian curse tablets.<sup><a href=\"#note-5\" class=\"note-ref\" data-note=\"5\">5</a></sup> The translation, by Peter Wilson and Federica Favi, reads in full:</p>\n<blockquote>\n<p>Prayer: <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>, for love of <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> (prays) that no one be taken more seriously or be more popular than <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>, but (all) should praise and admire (him) both willingly and unwillingly. For Love of <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> I mark down all the khoragoi so that they be ineffectual both in word and in deed, along with their sons and fathers, and so that they fail both in the contest and outside the contests. Whoever does not leave him (sc. <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>) with me. I mark down <span class=\"entity\" data-entity-id=\"kaledias-gela-sicily-c-475-450-bce\" data-type=\"person\">Kaledias</span> to keep him apart from <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>, along with all those in between there and here. I mark down <span class=\"entity\" data-entity-id=\"sosias-gela-sicily-c-475-450-bce\" data-type=\"person\">Sosias</span>, the one from the shop of the Alkiadai, because of his love of (Mel)anthios. <span class=\"entity\" data-entity-id=\"pyrias-gela-sicily-c-475-450-bce\" data-type=\"person\">Pyrias</span>, <span class=\"entity\" data-entity-id=\"mysskelos-gela-sicily-c-475-450-bce\" data-type=\"person\">Mysskelos</span>, <span class=\"entity\" data-entity-id=\"damophantos-gela-sicily-c-475-450-bce\" data-type=\"person\">Damophantos</span> and their khoragos I mark down, along with their sons and fathers, and all the others who arrive here. May no one be taken more seriously than <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> either among men or women. As this lead (does), so may my spells against those men draw away their honour. For <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> may there be victory always, everywhere. On the lead for love of <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> I write.<sup><a href=\"#note-6\" class=\"note-ref\" data-note=\"6\">6</a></sup></p>\n</blockquote>\n<p>Read it again. Every sentence repays attention.</p>\n<p>The tablet opens and closes with the same phrase: <em>epi philotati tai <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikou</span></em> &ndash; &ldquo;for love of <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>.&rdquo; The text is framed, bookended, sealed. Everything between those two declarations is contained within the gravitational field of desire. <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> does not merely curse; he explains why he curses. He curses because he loves.</p>\n<hr></hr>"
+    },
+    {
+      "id": "the-names",
+      "title": "II. The Names",
+      "body_html": "<p>Start with what we can see. The tablet names nine individuals &ndash; an extraordinary density for a document of its kind and period.</p>\n<p><strong><span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span></strong>: the author. The man who writes, who curses, who loves. The name is a shortened form of Apollonidas or a cognate &ndash; common in Doric-speaking communities, attested across the western Greek world.<sup><a href=\"#note-7\" class=\"note-ref\" data-note=\"7\">7</a></sup> Unusually for a defixio, <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> names himself. Most curse tablets are anonymous: the curser hides behind the spell, leaving no signature, relying on the gods to know who asks and whom to curse. <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> does not hide. He writes his name twice. He wants the gods &ndash; and perhaps <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> himself &ndash; to know who did this.</p>\n<p><strong><span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span></strong>: the beloved. The name means &ldquo;good victory&rdquo; or &ldquo;victorious&rdquo; &ndash; from <em>eu</em> (good) and <em>nike</em> (victory).<sup><a href=\"#note-8\" class=\"note-ref\" data-note=\"8\">8</a></sup> The name is itself a kind of charm: <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> prays for <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>&rsquo;s victory, and the beloved&rsquo;s very name already contains that victory within it. <em><span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikou</span> ae nikan pantei</em> &ndash; &ldquo;for <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> may there be victory always, everywhere.&rdquo; The prayer and the name are one.</p>\n<p>Who was <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>? The tablet tells us that he was involved in choral competition &ndash; the <em>khoragoi</em> are cursed on his behalf. He was someone over whom multiple men competed. He was, in the economy of desire that governed fifth-century Greek communities, a prize. Whether he was a chorus member himself &ndash; a singer, a dancer &ndash; or the object of attention from those who organized and financed choruses, the tablet does not make entirely clear. What is clear is that his social world was one of public performance and public admiration.</p>\n<p><strong><span class=\"entity\" data-entity-id=\"kaledias-gela-sicily-c-475-450-bce\" data-type=\"person\">Kaledias</span></strong>: a rival. <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> marks him down specifically &ldquo;to keep him apart from <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>&rdquo; &ndash; the clearest statement of sexual rivalry in the text.<sup><a href=\"#note-9\" class=\"note-ref\" data-note=\"9\">9</a></sup> <span class=\"entity\" data-entity-id=\"kaledias-gela-sicily-c-475-450-bce\" data-type=\"person\">Kaledias</span> is someone who might come between <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> and <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>, someone who might draw <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> away. The curse is a fence. Keep out.</p>\n<p><strong><span class=\"entity\" data-entity-id=\"sosias-gela-sicily-c-475-450-bce\" data-type=\"person\">Sosias</span></strong>: another figure in the web. He is identified with unusual precision: &ldquo;the one from the shop of the Alkiadai&rdquo; &ndash; <em>apo tou kapeleiou Alkidan</em>.<sup><a href=\"#note-10\" class=\"note-ref\" data-note=\"10\">10</a></sup> This is not a household identification but a commercial one. <span class=\"entity\" data-entity-id=\"sosias-gela-sicily-c-475-450-bce\" data-type=\"person\">Sosias</span> works at or near a <em>kapeleion</em>, a tavern or retail shop, run by or associated with a family called the Alkiadai. And he is cursed not for his designs on <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> but &ldquo;because of his love of (Mel)anthios&rdquo; &ndash; <em>epi tai Melanthiou philotati</em>. <span class=\"entity\" data-entity-id=\"sosias-gela-sicily-c-475-450-bce\" data-type=\"person\">Sosias</span> loves <span class=\"entity\" data-entity-id=\"melanthios-gela-sicily-c-475-450-bce\" data-type=\"person\">Melanthios</span>. The same word &ndash; <em>philotati</em> &ndash; that describes <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>&rsquo;s feeling for <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> describes <span class=\"entity\" data-entity-id=\"sosias-gela-sicily-c-475-450-bce\" data-type=\"person\">Sosias</span>&rsquo;s feeling for <span class=\"entity\" data-entity-id=\"melanthios-gela-sicily-c-475-450-bce\" data-type=\"person\">Melanthios</span>. A parallel desire. A parallel threat.</p>\n<p>Why does <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> curse <span class=\"entity\" data-entity-id=\"sosias-gela-sicily-c-475-450-bce\" data-type=\"person\">Sosias</span> for loving <span class=\"entity\" data-entity-id=\"melanthios-gela-sicily-c-475-450-bce\" data-type=\"person\">Melanthios</span>? Perhaps <span class=\"entity\" data-entity-id=\"melanthios-gela-sicily-c-475-450-bce\" data-type=\"person\">Melanthios</span> is connected to one of the rival choral groups, and <span class=\"entity\" data-entity-id=\"sosias-gela-sicily-c-475-450-bce\" data-type=\"person\">Sosias</span>&rsquo;s devotion to him strengthens the competition. Perhaps the web of desire is more tangled than we can see &ndash; <span class=\"entity\" data-entity-id=\"melanthios-gela-sicily-c-475-450-bce\" data-type=\"person\">Melanthios</span> may also desire <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>, or <span class=\"entity\" data-entity-id=\"sosias-gela-sicily-c-475-450-bce\" data-type=\"person\">Sosias</span> may be an ally of <span class=\"entity\" data-entity-id=\"kaledias-gela-sicily-c-475-450-bce\" data-type=\"person\">Kaledias</span>. The tablet does not explain. It operates within a social world whose connections are obvious to the author and invisible to us.</p>\n<p><strong><span class=\"entity\" data-entity-id=\"melanthios-gela-sicily-c-475-450-bce\" data-type=\"person\">Melanthios</span></strong>: the man loved by <span class=\"entity\" data-entity-id=\"sosias-gela-sicily-c-475-450-bce\" data-type=\"person\">Sosias</span>. His name means &ldquo;flower-man&rdquo; or &ldquo;of the dark flowers&rdquo; &ndash; from <em>melas</em> (dark) and <em>anthos</em> (flower).<sup><a href=\"#note-11\" class=\"note-ref\" data-note=\"11\">11</a></sup> He appears only as the object of <span class=\"entity\" data-entity-id=\"sosias-gela-sicily-c-475-450-bce\" data-type=\"person\">Sosias</span>&rsquo;s love. But a man with this same name appears on another lead tablet from the same region and roughly the same period &ndash; ISic030032, a curse tablet listing individuals &ldquo;inscribed for failure,&rdquo; including one <span class=\"entity\" data-entity-id=\"melanthios-gela-sicily-c-475-450-bce\" data-type=\"person\">Melanthios</span>.<sup><a href=\"#note-12\" class=\"note-ref\" data-note=\"12\">12</a></sup> If this is the same man, he moved through a world where lead tablets circulated like weapons, where being named on a sheet of scored metal was an occupational hazard of social prominence.</p>\n<p><strong><span class=\"entity\" data-entity-id=\"pyrias-gela-sicily-c-475-450-bce\" data-type=\"person\">Pyrias</span>, <span class=\"entity\" data-entity-id=\"mysskelos-gela-sicily-c-475-450-bce\" data-type=\"person\">Mysskelos</span>, <span class=\"entity\" data-entity-id=\"damophantos-gela-sicily-c-475-450-bce\" data-type=\"person\">Damophantos</span></strong>: three men cursed together with their <em>khoragos</em> &ndash; their chorus leader or chorus sponsor.<sup><a href=\"#note-13\" class=\"note-ref\" data-note=\"13\">13</a></sup> The grouping suggests they belong to a single choral troupe, a team competing against <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>&rsquo;s group. Their unnamed khoragos is cursed along with them, and the curse extends to &ldquo;their sons and fathers&rdquo; &ndash; a formula that aims to destroy not merely the individuals but their entire family lines, their social capital, their standing in the community across generations.</p>\n<p><strong>The Alkiadai</strong>: the family whose shop (<em>kapeleion</em>) identifies <span class=\"entity\" data-entity-id=\"sosias-gela-sicily-c-475-450-bce\" data-type=\"person\">Sosias</span>. The name may derive from <em>alkē</em> (strength, valor) and suggests a prominent local family &ndash; perhaps merchants, perhaps tavern-keepers &ndash; whose commercial establishment served as a social landmark in the city.<sup><a href=\"#note-14\" class=\"note-ref\" data-note=\"14\">14</a></sup></p>\n<p><strong>Phintionos</strong> (possibly): the tablet may also name a figure called Phintionos in a partially damaged line, mentioned as someone who should not be taken more seriously than <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>.<sup><a href=\"#note-15\" class=\"note-ref\" data-note=\"15\">15</a></sup> If so, this is yet another rival or competitor &ndash; another node in the web.</p>\n<p>Nine names. Nine lives. A social network inscribed in lead.</p>\n<hr></hr>"
+    },
+    {
+      "id": "the-word-for-love",
+      "title": "III. The Word for Love",
+      "body_html": "<p><em>Philotati.</em></p>\n<p>The word demands attention. It is the Doric dative of <em>philotēs</em> &ndash; a noun whose semantic range runs from friendship to affection to sexual love to the act of lovemaking itself.<sup><a href=\"#note-16\" class=\"note-ref\" data-note=\"16\">16</a></sup> In Homer, <em>philotēs</em> can mean the bond between host and guest, the love between husband and wife, or the sexual act between lovers. In the <em>Iliad</em>, when Hera seduces Zeus on Mount Ida, the poet uses <em>philotēs</em> for their union: &ldquo;and they lay together in love (<em>philotēti</em>) on the peak of Gargaron.&rdquo;<sup><a href=\"#note-17\" class=\"note-ref\" data-note=\"17\">17</a></sup> The word does not distinguish between emotional attachment and physical consummation. It encompasses both. It assumes both.</p>\n<p><span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> uses this word three times. At the opening: <em>epi philotati tai <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikou</span></em> &ndash; &ldquo;for the sake of the love of <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>.&rdquo; At the close: <em>epi philotati tai <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikou</span> grapho</em> &ndash; &ldquo;for the love of <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> I write.&rdquo; And once more, describing <span class=\"entity\" data-entity-id=\"sosias-gela-sicily-c-475-450-bce\" data-type=\"person\">Sosias</span>: <em>epi tai Melanthiou philotati</em> &ndash; &ldquo;because of the love of <span class=\"entity\" data-entity-id=\"melanthios-gela-sicily-c-475-450-bce\" data-type=\"person\">Melanthios</span>.&rdquo; The repetition is deliberate. The word is the tablet&rsquo;s engine.</p>\n<p>Note what <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> does <em>not</em> write. He does not use <em>erōs</em>, the word for passionate, consuming, often painful desire &ndash; the force that Sappho called &ldquo;limb-loosening&rdquo; and Plato called divine madness.<sup><a href=\"#note-18\" class=\"note-ref\" data-note=\"18\">18</a></sup> He does not use <em>potheo</em>, to long for, to yearn. He uses <em>philotēs</em> &ndash; a word that suggests not the torment of unrequited desire but the warmth of a bond that already exists, a relationship that is real and that he is fighting to protect. <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> is not pursuing <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>. He already has him. The curse is not to win love but to keep it.</p>\n<p>This matters. The tablet is not a love spell &ndash; those would come later, in the Hellenistic and Roman periods, with their agonized prayers to make someone burn with desire.<sup><a href=\"#note-19\" class=\"note-ref\" data-note=\"19\">19</a></sup> It is a <em>defixio</em> &ndash; a binding curse aimed at rivals, a weapon deployed within a competitive social field. <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> is not asking the gods to change <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>&rsquo;s heart. He is asking them to destroy everyone who threatens what already exists between them.</p>\n<p>&ldquo;Whoever does not leave him with me&rdquo; &ndash; <em>hoitines mē par&rsquo; em&rsquo; apolepoien</em>.<sup><a href=\"#note-20\" class=\"note-ref\" data-note=\"20\">20</a></sup> The pronoun <em>em&rsquo;</em> &ndash; &ldquo;me&rdquo; &ndash; is the only first-person word of possession in the tablet, and it is devastating. Leave him with me. He is mine. Do not take him.</p>\n<hr></hr>"
+    },
+    {
+      "id": "the-chorus-leaders",
+      "title": "IV. The Chorus Leaders",
+      "body_html": "<p>The <em>khoragoi</em> &ndash; chorus leaders or chorus sponsors &ndash; are the tablet&rsquo;s primary targets. <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> curses them all, collectively and individually, &ldquo;so that they be ineffectual both in word and in deed&rdquo; &ndash; <em>ep&rsquo; ateleiiai kēpeōn kai ergōn</em>.<sup><a href=\"#note-21\" class=\"note-ref\" data-note=\"21\">21</a></sup> The phrase is comprehensive: their words will fail, their actions will fail, their preparations will come to nothing. They will fail &ldquo;both in the contest and outside the contests&rdquo; &ndash; <em>kēn agōni kekthos agōnōn</em>. The curse is not limited to the performance itself. It extends to every aspect of their lives.</p>\n<p>What were these contests? In the Greek world, choral performance was among the most important forms of public competition. At Athens, the Great Dionysia featured choruses of fifty men and fifty boys performing dithyrambs in honor of Dionysus, organized and financed by wealthy citizens called <em>chorēgoi</em> who competed for prestige through the quality of their choruses.<sup><a href=\"#note-22\" class=\"note-ref\" data-note=\"22\">22</a></sup> The <em>chorēgia</em> &ndash; the act of sponsoring a chorus &ndash; was one of the most expensive and most visible forms of public service (<em>leitourgia</em>) that a wealthy citizen could perform. Pericles himself served as <em>chorēgos</em> for the first production of Aeschylus&rsquo;s <em>Persians</em> in 472 BCE.<sup><a href=\"#note-23\" class=\"note-ref\" data-note=\"23\">23</a></sup></p>\n<p>But this is not Athens. This is Sicily. And the nature of choral competition in the western Greek colonies, while clearly attested, is less well documented than its Athenian counterpart. Peter Wilson, in his study of Sicilian choruses, has argued that the curse tablet itself constitutes some of our best evidence for the existence of organized choral competitions in Greek Sicily during the early fifth century.<sup><a href=\"#note-24\" class=\"note-ref\" data-note=\"24\">24</a></sup> The tablet tells us that there were <em>khoragoi</em> &ndash; plural, multiple sponsors or leaders &ndash; competing against one another in formal <em>agōnes</em> (contests). It tells us that these competitions were important enough to provoke magical intervention. And it tells us that the world of choral performance overlapped with the world of male desire in ways that were, apparently, so well understood that they needed no explanation.</p>\n<p>Why would choral competition and male desire be connected? Because in the Greek world, the chorus was a site of beauty. Young men and boys trained their bodies for months, learning synchronized movement, coordinated singing, the display of physical grace under public scrutiny.<sup><a href=\"#note-25\" class=\"note-ref\" data-note=\"25\">25</a></sup> The chorus was where the community&rsquo;s most beautiful young men were put on display. The symposium was where desire for them was openly expressed. The curse tablet is where the two worlds &ndash; performance and desire &ndash; intersect.</p>\n<p>Consider the Athenian parallel. In Athens, <em>kalos</em> inscriptions on drinking vessels &ndash; &ldquo;So-and-so is beautiful&rdquo; &ndash; celebrated the beauty of named youths, many of whom were known to participate in choral and athletic competitions.<sup><a href=\"#note-26\" class=\"note-ref\" data-note=\"26\">26</a></sup> The symposium was the social space where older men (<em>erastai</em>) courted younger men (<em>eromenoi</em>), and the beauty on display at the festival was the same beauty admired over wine. When Xenophon describes the symposium of Callias, the host is &ldquo;enamoured of the boy Autolycus,&rdquo; a young pancratium champion whose beauty &ldquo;compelled every one to look at him&rdquo; &ndash; a boy whose physical splendor at an athletic competition becomes the centerpiece of a drinking party.<sup><a href=\"#note-27\" class=\"note-ref\" data-note=\"27\">27</a></sup></p>\n<p><span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>&rsquo;s tablet reveals the same overlap in a Sicilian context. <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> is connected to the choral competitions. The <em>khoragoi</em> are his rivals or the sponsors of his rivals. And <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>, who loves <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>, deploys magic to ensure that <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> triumphs &ndash; &ldquo;for <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> may there be victory always, everywhere.&rdquo; The beloved&rsquo;s success in the public arena and the lover&rsquo;s possession of the beloved in the private sphere are not separate concerns. They are the same concern.</p>\n<hr></hr>"
+    },
+    {
+      "id": "the-world-of-lead",
+      "title": "V. The World of Lead",
+      "body_html": "<p><span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>&rsquo;s tablet did not exist in isolation. It emerged from a world saturated with lead magic.</p>\n<p>The earliest surviving <em>defixiones</em> in the Greek world come from Sicily &ndash; specifically from the cities of Selinus (modern Selinunte), <span class=\"entity\" data-entity-id=\"akragas-agrigento\" data-type=\"place\">Akragas (Agrigento)</span>, and <span class=\"entity\" data-entity-id=\"gela\" data-type=\"place\">Gela</span> &ndash; dating to the late sixth and early fifth centuries BCE.<sup><a href=\"#note-28\" class=\"note-ref\" data-note=\"28\">28</a></sup> Some twenty-two tablets were found at Selinus alone, mostly from the early fifth century, constituting the oldest known corpus of Greek curse tablets anywhere in the Mediterranean.<sup><a href=\"#note-29\" class=\"note-ref\" data-note=\"29\">29</a></sup> Sicily was not the periphery of this practice. It was the origin.</p>\n<p>A near-contemporary tablet from the same region, ISic030032, dated to approximately 460&ndash;440 BCE, preserves a simpler but equally chilling curse: &ldquo;These following are inscribed for failure&rdquo; &ndash; <em>hoi de gegrabbatai epi dyspragiai</em> &ndash; followed by a list of names and the closing imprecation: &ldquo;May all these be bloodless; wretched may they be.&rdquo;<sup><a href=\"#note-30\" class=\"note-ref\" data-note=\"30\">30</a></sup> Among the names listed: <span class=\"entity\" data-entity-id=\"melanthios-gela-sicily-c-475-450-bce\" data-type=\"person\">Melanthios</span>. And <span class=\"entity\" data-entity-id=\"geloios-gela-sicily-c-499-480-bce\" data-type=\"person\">Geloios</span>. Both names appear in other inscriptions from this world &ndash; <span class=\"entity\" data-entity-id=\"geloios-gela-sicily-c-499-480-bce\" data-type=\"person\">Geloios</span> is the lover who declares his passion for Aka on the <span class=\"entity\" data-entity-id=\"gela\" data-type=\"place\">Gela</span> graffito, repeating it twice for emphasis; <span class=\"entity\" data-entity-id=\"melanthios-gela-sicily-c-475-450-bce\" data-type=\"person\">Melanthios</span> is the man loved by <span class=\"entity\" data-entity-id=\"sosias-gela-sicily-c-475-450-bce\" data-type=\"person\">Sosias</span> in <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>&rsquo;s tablet.<sup><a href=\"#note-31\" class=\"note-ref\" data-note=\"31\">31</a></sup> Whether these are the same individuals cannot be proven. But the coincidence is remarkable. The same names, circulating through a small community, appearing on drinking cups and curse tablets and graffiti walls, connected by threads of desire and rivalry that we can only partially reconstruct.</p>\n<p>Another tablet from <span class=\"entity\" data-entity-id=\"gela\" data-type=\"place\">Gela</span>, ISic030010, dated to the same half-century, curses a man named Chamis, binding him &ldquo;in the crisis of fatal illness so that he cannot achieve his goals&rdquo; &ndash; <em>ep&rsquo; ateleiiai</em>, the same word for futility that <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> uses against the <em>khoragoi</em>.<sup><a href=\"#note-32\" class=\"note-ref\" data-note=\"32\">32</a></sup> The vocabulary of cursing was shared. The metaphors of binding &ndash; failure, futility, impotence &ndash; formed a common language. When <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> sat down to write his tablet, he was drawing on a tradition, a technology, a set of formulas that his community understood.</p>\n<p>And the technology was specific. Lead was the medium of binding magic not by accident but by design. Its physical properties &ndash; grey, cold, heavy, inert, resistant to decay &ndash; made it a natural analog for the state the curser wished to impose on the victim.<sup><a href=\"#note-33\" class=\"note-ref\" data-note=\"33\">33</a></sup> When <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> writes, &ldquo;As this lead, so may my spells against those men draw away their honour&rdquo; &ndash; <em>hos houtos ho bolimos</em> &ndash; he is invoking sympathetic magic, the principle that like affects like.<sup><a href=\"#note-34\" class=\"note-ref\" data-note=\"34\">34</a></sup> As the lead is cold, so may the rivals grow cold. As the lead is buried, so may their ambitions be buried. As the lead endures, so may the curse endure.</p>\n<p>The formula &ldquo;as this lead&rdquo; (<em>hos houtos ho bolimos</em>) appears across the Greek curse-tablet tradition, from Sicily to Attica to the Black Sea coast. It is the fundamental spell-logic of the defixio: the tablet is not merely a message to the gods but a magical object in its own right, a material anchor for the spell&rsquo;s power.<sup><a href=\"#note-35\" class=\"note-ref\" data-note=\"35\">35</a></sup> When the tablet was folded &ndash; and many were folded, sometimes pierced with nails &ndash; the act of folding was itself part of the magic, a physical enactment of binding, of enclosure, of the victim&rsquo;s entrapment.</p>\n<p>Where was <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>&rsquo;s tablet deposited? The convention was burial &ndash; in a grave, in a sanctuary of chthonic deities, at a crossroads, near running water.<sup><a href=\"#note-36\" class=\"note-ref\" data-note=\"36\">36</a></sup> The dead were the intermediaries. The tablet was placed among them so that the spirits of the underworld would carry out the curse. At Selinus, tablets were found in the sanctuary of Demeter Malophoros &ndash; the same goddess who appears on the great Selinunte victory inscription, one of the city&rsquo;s divine protectors.<sup><a href=\"#note-37\" class=\"note-ref\" data-note=\"37\">37</a></sup> At Athens, tablets were deposited in graves, in wells, in the Kerameikos cemetery. The geography of cursing was the geography of death.</p>\n<hr></hr>"
+    },
+    {
+      "id": "gela",
+      "title": "VI. Gela",
+      "body_html": "<p>The city behind the tablet deserves attention.</p>\n<p><span class=\"entity\" data-entity-id=\"gela\" data-type=\"place\">Gela</span> was founded around 689 BCE by colonists from Rhodes and Crete &ndash; a Doric colony on the southern coast of Sicily, facing the open Mediterranean.<sup><a href=\"#note-38\" class=\"note-ref\" data-note=\"38\">38</a></sup> By the early fifth century, it had become one of the most powerful cities in the Greek west. Its tyrants &ndash; Hippocrates and then Gelon &ndash; built an empire that stretched across eastern Sicily, and in 485 BCE Gelon transferred his capital to <span class=\"entity\" data-entity-id=\"syracuse\" data-type=\"place\">Syracuse</span>, taking with him half of <span class=\"entity\" data-entity-id=\"gela\" data-type=\"place\">Gela</span>&rsquo;s citizen population.<sup><a href=\"#note-39\" class=\"note-ref\" data-note=\"39\">39</a></sup> The city that remained was diminished but still substantial, still Greek, still a place where men trained choruses and competed for glory and wrote each other&rsquo;s names on drinking cups.</p>\n<p>At its peak, <span class=\"entity\" data-entity-id=\"gela\" data-type=\"place\">Gela</span> may have housed 30,000 inhabitants.<sup><a href=\"#note-40\" class=\"note-ref\" data-note=\"40\">40</a></sup> It was a city of temples and terracotta &ndash; famous across the Greek world for its painted vases and its magnificent architectural decorations, the <em>antefixes</em> and <em>simas</em> that adorned the rooflines of its sacred buildings.<sup><a href=\"#note-41\" class=\"note-ref\" data-note=\"41\">41</a></sup> Aeschylus, the great Athenian tragedian, died at <span class=\"entity\" data-entity-id=\"gela\" data-type=\"place\">Gela</span> in 456 or 455 BCE, and was buried there with public honors, his grave becoming a place of pilgrimage.<sup><a href=\"#note-42\" class=\"note-ref\" data-note=\"42\">42</a></sup> The connection between <span class=\"entity\" data-entity-id=\"gela\" data-type=\"place\">Gela</span> and choral performance is not incidental. This was a city that took performance seriously, that competed in the cultural arena of the Greek Mediterranean, that attracted poets and dramatists and &ndash; inevitably &ndash; the men who loved the performers.</p>\n<p>The date of <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>&rsquo;s tablet &ndash; roughly 475&ndash;450 BCE &ndash; places it in the generation after Gelon&rsquo;s depopulation of the city. This is a community recovering, rebuilding, reasserting itself. The choral competitions that the tablet attests may be part of that reassertion &ndash; civic festivals where the remaining citizens displayed their cultural vitality, their Greekness, their capacity to produce beauty under duress. In this context, <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>&rsquo;s victory is not merely a personal triumph. It is a civic one.</p>\n<hr></hr>"
+    },
+    {
+      "id": "the-symposium",
+      "title": "VII. The Symposium",
+      "body_html": "<p>To understand the tablet, you must understand the symposium.</p>\n<p>The <em>symposion</em> &ndash; the drinking-together &ndash; was the central institution of Greek male social life. It was where men reclined on couches, drank wine mixed with water from a shared <em>krater</em>, sang songs, recited poetry, debated philosophy, and declared their loves.<sup><a href=\"#note-43\" class=\"note-ref\" data-note=\"43\">43</a></sup> It was where the names of beautiful youths were spoken aloud, toasted, inscribed on cups. It was where desire was performed.</p>\n<p>The evidence from <span class=\"entity\" data-entity-id=\"gela\" data-type=\"place\">Gela</span> is vivid. A drinking cup &ndash; a <em>skyphos</em> &ndash; from the same city and period as <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>&rsquo;s tablet bears an inscription in the same Doric dialect:</p>\n<blockquote>\n<p><span class=\"entity\" data-entity-id=\"porkos-gela-sicily-c-499-480-bce\" data-type=\"person\">Porkos</span> returns this skyphos to the thiasos of the drinkers. Since he is in love with Phryna, it is not another who will take her. He has written, the one who reads will practice sodomy.<sup><a href=\"#note-44\" class=\"note-ref\" data-note=\"44\">44</a></sup></p>\n</blockquote>\n<p>Parse this carefully. <span class=\"entity\" data-entity-id=\"porkos-gela-sicily-c-499-480-bce\" data-type=\"person\">Porkos</span> is returning a communal drinking cup to the <em>thiasos</em> &ndash; the drinking-fellowship, the band of companions who share the wine. He declares his love for Phryna, a woman, and asserts exclusive claim to her. And then the joke: whoever reads this inscription will &ldquo;practice sodomy&rdquo; &ndash; <em>pugixei</em>, a verb derived from <em>pygē</em> (buttocks), meaning literally to penetrate anally.<sup><a href=\"#note-45\" class=\"note-ref\" data-note=\"45\">45</a></sup></p>\n<p>The joke is crude. It is also revealing. The casual reference to anal sex in a convivial inscription tells us that same-sex sexual acts were not unspeakable in this community &ndash; they were the stuff of humor, of banter, of the kind of ribald teasing that men exchanged over wine. The <em>pugixei</em> joke assumes that its audience will laugh, not recoil. It assumes a world in which male-male sexual contact is familiar enough to be funny.</p>\n<p>Another inscription from the same world, ISic020580, doubles down on the symposium&rsquo;s erotic economy:</p>\n<blockquote>\n<p><span class=\"entity\" data-entity-id=\"geloios-gela-sicily-c-499-480-bce\" data-type=\"person\">Geloios</span> is in love with Aka. <span class=\"entity\" data-entity-id=\"geloios-gela-sicily-c-499-480-bce\" data-type=\"person\">Geloios</span> is in love with Aka. But it is <span class=\"entity\" data-entity-id=\"eumachos-gela-sicily-c-499-480-bce\" data-type=\"person\">Eumachos</span> who pays.<sup><a href=\"#note-46\" class=\"note-ref\" data-note=\"46\">46</a></sup></p>\n</blockquote>\n<p>The repetition &ndash; <em><span class=\"entity\" data-entity-id=\"geloios-gela-sicily-c-499-480-bce\" data-type=\"person\">Geloios</span> Akas eratai, <span class=\"entity\" data-entity-id=\"geloios-gela-sicily-c-499-480-bce\" data-type=\"person\">Geloios</span> Akas eratai</em> &ndash; mimics the obsessive quality of desire itself, the way love cannot say a thing once but must say it again. And the punchline: <span class=\"entity\" data-entity-id=\"eumachos-gela-sicily-c-499-480-bce\" data-type=\"person\">Eumachos</span> pays. The verb <em>misthoutai</em> means to hire, to pay wages, to compensate. <span class=\"entity\" data-entity-id=\"eumachos-gela-sicily-c-499-480-bce\" data-type=\"person\">Eumachos</span> is the one who foots the bill &ndash; for the symposium, for the entertainment, for the transaction that desire requires. Perhaps <span class=\"entity\" data-entity-id=\"eumachos-gela-sicily-c-499-480-bce\" data-type=\"person\">Eumachos</span> is a <em>chorēgos</em>, a sponsor, a patron. Perhaps the joke is that <span class=\"entity\" data-entity-id=\"geloios-gela-sicily-c-499-480-bce\" data-type=\"person\">Geloios</span> gets the love and <span class=\"entity\" data-entity-id=\"eumachos-gela-sicily-c-499-480-bce\" data-type=\"person\">Eumachos</span> gets the tab.</p>\n<p>A later inscription from the same region, ISic020594 (c. 420&ndash;380 BCE), is even simpler:</p>\n<blockquote>\n<p>Tittabo, beloved.<sup><a href=\"#note-47\" class=\"note-ref\" data-note=\"47\">47</a></sup></p>\n</blockquote>\n<p><em>Tittabō philē.</em> Two words. A name and an adjective. Beloved. The name Tittabo may be a nickname &ndash; perhaps onomatopoeic, from the sound of a bird (<em>tittabizein</em>, to chirp like a sparrow).<sup><a href=\"#note-48\" class=\"note-ref\" data-note=\"48\">48</a></sup> Someone loved Tittabo enough to scratch the name into a surface and add the word for &ldquo;dear.&rdquo; That is all we have. Two words from the edge of silence.</p>\n<p>Taken together, these inscriptions sketch a social world: a community of Greek men in southern Sicily who gathered to drink, who declared their loves on the vessels they shared, who joked about sex acts, who competed for the affections of the beautiful. <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> and <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> are not anomalies in this world. They are products of it.</p>\n<hr></hr>"
+    },
+    {
+      "id": "the-erastes-and-the-eromenos",
+      "title": "VIII. The Erastes and the Eromenos",
+      "body_html": "<p><span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>&rsquo;s relationship with <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> must be understood within the broader framework of Greek same-sex love, though that framework was neither simple nor uniform.</p>\n<p>In the standard model that scholars have reconstructed &ndash; largely from Athenian evidence, and subject to ongoing revision &ndash; male-male desire in the archaic and classical Greek world was organized around an asymmetric pair: the <em>erastēs</em> (lover, the older active partner) and the <em>erōmenos</em> (beloved, the younger passive partner).<sup><a href=\"#note-49\" class=\"note-ref\" data-note=\"49\">49</a></sup> The erastēs was typically an adult citizen; the eromenos was typically an adolescent or young man in the transitional period between boyhood and full adulthood. The relationship was expected to be pedagogical &ndash; the older man mentored the younger, introducing him to the <span class=\"term\" data-definition=\"Not just a sports facility — in Greco-Roman Egypt, the gymnasium was the center of Greek civic life, offering athletics, education, and marking Greek citizen status.\">gymnasium</span>, the symposium, the hunt, and the civic virtues that would make him a proper citizen.<sup><a href=\"#note-50\" class=\"note-ref\" data-note=\"50\">50</a></sup></p>\n<p>Was <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> an erastēs and <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> an eromenos? The tablet does not use those words. It does not specify their ages or the nature of their physical relationship. But the structure of the text implies the pattern: <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> is the active agent, the one who writes, curses, and fights to possess; <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> is the object of admiration, the one whose beauty and success attract multiple suitors, the one whose &ldquo;victory&rdquo; is prayed for by another. The multiplicity of rivals &ndash; <span class=\"entity\" data-entity-id=\"kaledias-gela-sicily-c-475-450-bce\" data-type=\"person\">Kaledias</span>, the unnamed khoragoi, perhaps others &ndash; suggests that <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> is a young man of exceptional attractiveness, the kind of person around whom competition naturally clusters.</p>\n<p>In Pausanias&rsquo;s speech in Plato&rsquo;s <em>Symposium</em>, the &ldquo;Heavenly Love&rdquo; (<em>Ourania Aphrodite</em>) is described as the love that &ldquo;partakes not of the female but only of the male&rdquo; and is directed toward boys who have &ldquo;begun to acquire some mind &ndash; a growth associated with that of down on their chins.&rdquo;<sup><a href=\"#note-51\" class=\"note-ref\" data-note=\"51\">51</a></sup> Those inspired by this love, Pausanias says, are &ldquo;prepared to be always with them and share all with them as long as life shall last.&rdquo; This is the philosophical ideal. Whether <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> and <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> fit it &ndash; whether they were philosopher and pupil, soldier and squire, patron and protege &ndash; the tablet does not say. What it says is simpler and more direct: I love him. Keep everyone else away.</p>\n<p>The Athenian orator Aeschines, in his speech <em>Against Timarchus</em> (346 BCE), drew a sharp distinction between &ldquo;chaste and lawful love&rdquo; and the degraded love that involved selling one&rsquo;s body for money. Harmodius and Aristogeiton &ndash; the tyrannicides, the lovers who killed the tyrant and became the founding myth of Athenian democracy &ndash; exemplified the former: &ldquo;so nurtured by that chaste and lawful love&hellip; that when we hear men praising what they did, we feel that words are inadequate to the eulogy of their deeds.&rdquo;<sup><a href=\"#note-52\" class=\"note-ref\" data-note=\"52\">52</a></sup> But Timarchus, who had prostituted himself to multiple older men, exemplified the latter: a man who had forfeited his citizen rights by making his body a commodity.</p>\n<p>The distinction that Aeschines draws &ndash; between love that ennobles and love that degrades &ndash; maps onto a social rather than a moral boundary. The issue is not same-sex desire itself, which is openly celebrated, but the commercialization of it, the transformation of the beloved&rsquo;s body into something bought and sold. In the <span class=\"entity\" data-entity-id=\"gela\" data-type=\"place\">Gela</span> inscriptions, we see hints of this economic dimension: &ldquo;<span class=\"entity\" data-entity-id=\"eumachos-gela-sicily-c-499-480-bce\" data-type=\"person\">Eumachos</span> pays,&rdquo; the graffito says. Someone funds the symposium, someone sponsors the chorus, someone underwrites the infrastructure of desire. But <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> does not pay for <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>. He prays for him. He curses for him. He writes on lead for him. The currency is not money. It is magic.</p>\n<hr></hr>"
+    },
+    {
+      "id": "the-economics-of-magic",
+      "title": "IX. The Economics of Magic",
+      "body_html": "<p>Who made the tablet? Did <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> inscribe it himself, or did he commission a specialist?</p>\n<p>The question matters because it touches on the social infrastructure of magical practice in the early Greek world. By the Hellenistic and Roman periods, professional magicians &ndash; <em>goes</em> (sorcerers), <em>pharmakeis</em> (potion-makers), <em>agogimon</em> specialists (attraction-spell writers) &ndash; plied a brisk trade in curse tablets and love spells, advertising their services to the lovesick and the vindictive.<sup><a href=\"#note-53\" class=\"note-ref\" data-note=\"53\">53</a></sup> The great magical papyri of Roman Egypt preserve recipe books for such practitioners: &ldquo;Take a lead tablet and write with a bronze stylus the following&hellip;&rdquo; The spells were formulas; the clients paid for expertise.</p>\n<p>But in the early fifth century BCE, the evidence for professional spell-writers in Sicily is slim. The Sicilian curse tablets of this period are highly individualized, varying widely in language, length, and sophistication &ndash; suggesting that they may have been written by the cursers themselves rather than produced to order by specialists.<sup><a href=\"#note-54\" class=\"note-ref\" data-note=\"54\">54</a></sup> <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>&rsquo;s tablet is linguistically sophisticated &ndash; its vocabulary is rich, its syntax complex, its rhetoric purposeful &ndash; but that may simply mean that <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> was a man of some education. The fact that his name appears elsewhere in the <span class=\"entity\" data-entity-id=\"gela\" data-type=\"place\">Gela</span> epigraphic record &ndash; on a legal document, ISic030016, in which &ldquo;Anthemokritos bade <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> offer security&rdquo; in what appears to be a dispute over cattle prices &ndash; suggests a man embedded in the economic life of the community, capable of writing legal and commercial texts as well as magical ones.<sup><a href=\"#note-55\" class=\"note-ref\" data-note=\"55\">55</a></sup></p>\n<p>If <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> wrote the tablet himself, the act was deeply personal. He chose the lead. He heated it or cold-worked it into a thin sheet. He took a stylus and pressed the letters into the soft metal, letter by letter, name by name, curse by curse. He folded it. He carried it to a grave, or a sanctuary, or a place where the chthonic powers could receive it. He placed it in the earth.</p>\n<p>Every act was meaningful. The writing was itself a magical operation &ndash; the verb <em>apographō</em> that <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> uses repeatedly (&ldquo;I mark down,&rdquo; &ldquo;I register,&rdquo; &ldquo;I inscribe&rdquo;) is not a neutral word for writing but a technical term drawn from legal and administrative language, meaning to register, to enroll, to add to an official list.<sup><a href=\"#note-56\" class=\"note-ref\" data-note=\"56\">56</a></sup> When <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> says &ldquo;I mark down <span class=\"entity\" data-entity-id=\"kaledias-gela-sicily-c-475-450-bce\" data-type=\"person\">Kaledias</span>,&rdquo; he is performing a bureaucratic act in the realm of the supernatural: enrolling <span class=\"entity\" data-entity-id=\"kaledias-gela-sicily-c-475-450-bce\" data-type=\"person\">Kaledias</span> on the register of the cursed, filing him in the archives of the underworld. The curse is a document. The gods are the clerks.</p>\n<hr></hr>"
+    },
+    {
+      "id": "the-silence-of-eunikos",
+      "title": "X. The Silence of Eunikos",
+      "body_html": "<p>Here is what we do not know: what <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> thought.</p>\n<p>The tablet is entirely <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>&rsquo;s voice. <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> does not speak. He does not write. He does not consent or resist. He is the gravitational center of the text, the name around which every curse orbits, but he is absent from it as a person. He is present only as a beloved &ndash; as the object of love, the cause of the prayer, the reason for the lead.</p>\n<p>Did <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> know about the tablet? Did he ask for it? Was it a gift, a surprise, an unwanted intrusion? In the world of Greek <em>erōs</em>, the eromenos was supposed to be aloof &ndash; yielding only gradually, never appearing too eager, preserving the modesty that made the pursuit worthwhile.<sup><a href=\"#note-57\" class=\"note-ref\" data-note=\"57\">57</a></sup> The lover chased; the beloved was chased. If <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> was playing this role, the tablet might be a desperate escalation &ndash; a lover&rsquo;s attempt to shift the game in his favor by invoking powers beyond the social. If <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> welcomed <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>&rsquo;s attention, the tablet might be a collaborative weapon, a tool deployed by both of them against shared rivals.</p>\n<p>We do not know. The lead is silent on this point. <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> is the most important person in the text and the one about whom we know the least.</p>\n<p>This is a recurring problem in the archaeology of desire. The objects that survive &ndash; the curse tablets, the graffiti, the kalos inscriptions on pottery &ndash; record the desire of the desirer. They rarely record the response of the desired. When someone scratches &ldquo;<span class=\"entity\" data-entity-id=\"geloios-gela-sicily-c-499-480-bce\" data-type=\"person\">Geloios</span> loves Aka&rdquo; on a wall, we hear <span class=\"entity\" data-entity-id=\"geloios-gela-sicily-c-499-480-bce\" data-type=\"person\">Geloios</span>. We do not hear Aka. When someone writes on a cup that &ldquo;the one who reads this will practice sodomy,&rdquo; we hear the joker. We do not hear the butt of the joke. The archive of desire is an archive of one-sided declarations, of unilateral claims, of voices speaking into silence.</p>\n<p><span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>&rsquo;s tablet is the fullest, richest, most emotionally urgent of these voices from Greek Sicily. But it is still only one voice. The beloved remains silent.</p>\n<hr></hr>"
+    },
+    {
+      "id": "the-selinunte-inscription",
+      "title": "XI. The Selinunte Inscription",
+      "body_html": "<p><span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>&rsquo;s world was also a world at war. A near-contemporary inscription from the city of <span class=\"entity\" data-entity-id=\"selinus-selinunte\" data-type=\"place\">Selinus (Selinunte)</span>, dated to roughly the same period (475&ndash;450 BCE), celebrates a military victory with a list of divine patrons:</p>\n<blockquote>\n<p>It is through the gods listed here that the Selinuntines win victory. Through Zeus we conquer and through Phobos and through Herakles and through Apollo and through Poseidon and through the Tyndaridai and through Athena and through Malophoros and through Pasikrateia and through the other gods, but through Zeus above all.<sup><a href=\"#note-58\" class=\"note-ref\" data-note=\"58\">58</a></sup></p>\n</blockquote>\n<p>The inscription is remarkable for its comprehensiveness &ndash; nine named deities, plus &ldquo;the other gods,&rdquo; enlisted in the city&rsquo;s defense. Victory (<em>nikē</em>) is achieved through divine patronage, through the accumulation of supernatural allies, through the naming of powers. The structure is not unlike <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>&rsquo;s curse tablet: a list of names, an invocation of power, a prayer for victory. The Selinunte inscription prays for the city&rsquo;s victory in war. <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> prays for <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>&rsquo;s victory in choral competition. Both understand victory as something that requires divine intervention. Both deploy the technology of inscription &ndash; writing on durable material, depositing it in sacred space &ndash; to secure that intervention.</p>\n<p>The parallel illuminates something about the culture of the Greek west in the early fifth century. This was a world that believed in the efficacy of the written word as a magical tool. To write was to act. To inscribe was to bind. The Selinuntines wrote their gods&rsquo; names on stone and dedicated it in the sanctuary of Apollo. <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> wrote his enemies&rsquo; names on lead and buried it in the earth. Both gestures assumed that writing had power &ndash; that the material inscription of words could change the world.</p>\n<hr></hr>"
+    },
+    {
+      "id": "what-survives",
+      "title": "XII. What Survives",
+      "body_html": "<p><span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>&rsquo;s tablet survives because lead survives. <span class=\"term\" data-definition=\"Writing material made from the papyrus reed, which grew abundantly in the Nile marshes. Egypt's dry climate preserved tens of thousands of documents.\">Papyrus</span> rots. Wood burns. Wax melts. But lead endures in the soil for millennia, its soft surface holding the impressions of a stylus as faithfully as the day they were made. The material that <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> chose for its magical properties &ndash; coldness, weight, association with death &ndash; also possessed the accidental property of archaeological permanence. His prayer endured because it was written on the one material that the earth does not consume.</p>\n<p>This is the paradox of the defixio as a source for social history. We have <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span>&rsquo;s curse because he intended it to be permanent &ndash; but permanent for the gods, not for us. He buried it so that it would work forever in the darkness. He did not intend for archaeologists to dig it up twenty-four centuries later and read it under electric light, parsing his Doric Greek for evidence of same-sex desire in the early classical period. The tablet was never meant to be read by human eyes again.</p>\n<p>And yet here we are, reading it. Knowing that a man named <span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> loved a man named <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span> in a Greek city on the coast of Sicily, sometime around 470 BCE. Knowing that he cursed <span class=\"entity\" data-entity-id=\"kaledias-gela-sicily-c-475-450-bce\" data-type=\"person\">Kaledias</span> and <span class=\"entity\" data-entity-id=\"sosias-gela-sicily-c-475-450-bce\" data-type=\"person\">Sosias</span> and <span class=\"entity\" data-entity-id=\"pyrias-gela-sicily-c-475-450-bce\" data-type=\"person\">Pyrias</span> and <span class=\"entity\" data-entity-id=\"mysskelos-gela-sicily-c-475-450-bce\" data-type=\"person\">Mysskelos</span> and <span class=\"entity\" data-entity-id=\"damophantos-gela-sicily-c-475-450-bce\" data-type=\"person\">Damophantos</span> and all the <em>khoragoi</em> and their sons and their fathers and everyone who might come between them. Knowing that he believed the lead could hold his prayer. Knowing that, in a way he never intended, it did.</p>\n<p>The other documents from this world &ndash; the <span class=\"entity\" data-entity-id=\"porkos-gela-sicily-c-499-480-bce\" data-type=\"person\">Porkos</span> drinking cup, the <span class=\"entity\" data-entity-id=\"geloios-gela-sicily-c-499-480-bce\" data-type=\"person\">Geloios</span> graffito, the &ldquo;beloved Tittabo&rdquo; inscription &ndash; survive because they too were inscribed on durable materials: pottery, stone, metal. Together they compose a fragmentary mosaic of erotic life in a Greek colonial community: men loving men, men loving women, men paying for the privilege, men joking about sex, men cursing their rivals. The mosaic is incomplete. Most of the tiles are missing. But the ones that remain are vivid enough to suggest the whole.</p>\n<p><span class=\"entity\" data-entity-id=\"apellis-gela-sicily-c-475-450-bce\" data-type=\"person\">Apellis</span> did not know he was writing history. He was writing a prayer. A prayer for <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>, for victory, for love that would not be taken from him. The lead held his words. The earth held the lead. And twenty-five centuries later, the words that were meant for the gods below have risen to the surface, carrying with them the voice of a man who loved, and feared, and wrote in lead because he believed that writing could bind the world.</p>\n<p><em>Epi philotati tai <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikou</span> graphō.</em></p>\n<p>On the lead, for love of <span class=\"entity\" data-entity-id=\"eunikos-gela-sicily-c-475-450-bce\" data-type=\"person\">Eunikos</span>, I write.</p>\n<hr></hr>"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "section": "",
+      "text": "On the script and literacy level of early Sicilian curse tablets, see M. Dreher, \"Orality, Written Literacy, and Early Sicilian Curse Tablets,\" *Greece & Rome* 65.2 (2018): 176--195. The handwriting on Sicilian defixiones of this period varies widely, suggesting that many were produced by individuals rather than professional scribes.",
+      "corpus_ids": []
+    },
+    {
+      "id": 2,
+      "section": "",
+      "text": "ISic030019 (Corpus ID: 8373). Source: I.Sicily. Date: 475--450 BCE. The Doric form *eucha* (prayer) opens the text.",
+      "corpus_ids": []
+    },
+    {
+      "id": 3,
+      "section": "",
+      "text": "The tablet was found near Gela, Sicily. See the discussion in P. Wilson, \"Sicilian Choruses,\" in P. Wilson (ed.), *The Greek Theatre and Festivals: Documentary Studies* (Oxford: Oxford University Press, 2007), 351--377; and Livius.org, \"A Sicilian Curse Tablet,\" https://www.livius.org/sources/content/ig/a-sicilian-curse-tablet/.",
+      "corpus_ids": []
+    },
+    {
+      "id": 4,
+      "section": "the-text",
+      "text": "Precise findspot and excavation context are not securely documented in published sources; the tablet is attributed to the vicinity of Gela on palaeographic and dialectal grounds.",
+      "corpus_ids": []
+    },
+    {
+      "id": 5,
+      "section": "the-text",
+      "text": "Most early Sicilian defixiones consist of simple name-lists -- columns of names with little or no accompanying text. See L. Dubois, *Inscriptions grecques dialectales de Sicile*, vol. 1 (Rome, 1989), nos. 32--40; and D.R. Jordan, \"A Survey of Greek Defixiones Not Included in the Special Corpora,\" *Greek, Roman and Byzantine Studies* 26 (1985): 151--197.",
+      "corpus_ids": []
+    },
+    {
+      "id": 6,
+      "section": "the-text",
+      "text": "ISic030019 (Corpus ID: 8373). Translation by P. Wilson and F. Favi, as preserved in I.Sicily. Greek text: *Εὐχά. Ἀπέλλις ἐπὶ φιλότατι τᾶι Εὐνίκου... ἐπὶ φιλότατι τᾶι Εὐνίκου γράφω.*",
+      "corpus_ids": []
+    },
+    {
+      "id": 7,
+      "section": "the-names",
+      "text": "The name Apellis (*Ἄπελλις*) appears in Doric inscriptions across the western Greek world and is attested in another Gela text, ISic030016 (Corpus ID: 8389).",
+      "corpus_ids": []
+    },
+    {
+      "id": 8,
+      "section": "the-names",
+      "text": "The name Eunikos (*Εὔνικος*) derives from *εὖ* (good, well) + *νίκη* (victory). Cf. the prayer in the tablet's closing lines: *Εὐνίκοι ἀεὶ νικᾶν* -- \"for Eunikos, always to conquer.\"",
+      "corpus_ids": []
+    },
+    {
+      "id": 9,
+      "section": "the-names",
+      "text": "ISic030019, line 6: *Καλεδίαν ἀπογράφω ἀπ' Ἀπελλίος* -- \"I mark down Kaledias (to keep him) from Apellis.\"",
+      "corpus_ids": []
+    },
+    {
+      "id": 10,
+      "section": "the-names",
+      "text": "ISic030019, line 7: *Σωσίαν ἀπογράφω ἀπὸ τοῦ καπηλείου Ἀλκιδᾶν* -- \"I mark down Sosias, the one from the shop of the Alkiadai.\"",
+      "corpus_ids": []
+    },
+    {
+      "id": 11,
+      "section": "the-names",
+      "text": "The name Melanthios (*Μελάνθιος*) derives from *μέλας* (dark, black) + *ἄνθος* (flower).",
+      "corpus_ids": []
+    },
+    {
+      "id": 12,
+      "section": "the-names",
+      "text": "ISic030032 (Corpus ID: 8420). Date: 460--440 BCE. Greek text includes *Μελάνθιος* among the names listed for failure. The tablet was published by Dubois, *IGDS* I, no. 32.",
+      "corpus_ids": []
+    },
+    {
+      "id": 13,
+      "section": "the-names",
+      "text": "ISic030019, lines 8--9: *Πυρίαν, Μύσσκελον, Δαμόφαντον καὶ τὸν χοραγὸν ἀπογράφω* -- \"Pyrias, Mysskelos, Damophantos and their khoragos I mark down.\"",
+      "corpus_ids": []
+    },
+    {
+      "id": 14,
+      "section": "the-names",
+      "text": "The *Ἀλκιδᾶν* (genitive plural) designates a family or clan name, possibly related to *Ἀλκίδης*, a patronymic meaning \"descendant of Alkas/Alkē.\"",
+      "corpus_ids": []
+    },
+    {
+      "id": 15,
+      "section": "the-names",
+      "text": "ISic030019, line 1: *μηδὲ Φιντίωνα* -- \"not even Phintionos.\" The reading is debated; Wilson and Favi interpret this as a personal name indicating another rival.",
+      "corpus_ids": []
+    },
+    {
+      "id": 16,
+      "section": "the-word-for-love",
+      "text": "LSJ s.v. *φιλότης*: (1) friendship, affection; (2) sexual love, intercourse. The semantic range runs from Homer (*Il.* 14.353, of Zeus and Hera) through lyric poetry to documentary usage. See also P. Chantraine, *Dictionnaire etymologique de la langue grecque* (Paris, 1968), s.v. *φίλος*.",
+      "corpus_ids": []
+    },
+    {
+      "id": 17,
+      "section": "the-word-for-love",
+      "text": "Homer, *Iliad* 14.352--353: *ἐν φιλότητι... ἐπ' ἀκροτάτῃ κορυφῇ Γαργάρου* -- \"in love, on the topmost peak of Gargaron.\"",
+      "corpus_ids": []
+    },
+    {
+      "id": 18,
+      "section": "the-word-for-love",
+      "text": "Sappho fr. 130 (Voigt): *Ἔρος... λυσιμέλης* -- \"Eros, loosener of limbs.\" Plato, *Phaedrus* 244a--245c, on divine madness (*theia mania*) as the source of erotic inspiration.",
+      "corpus_ids": []
+    },
+    {
+      "id": 19,
+      "section": "the-word-for-love",
+      "text": "For the development of erotic love spells in the Hellenistic and Roman periods, see C.A. Faraone, *Ancient Greek Love Magic* (Cambridge, MA: Harvard University Press, 1999), chs. 2--4; and J.G. Gager, *Curse Tablets and Binding Spells from the Ancient World* (New York: Oxford University Press, 1992), 78--115.",
+      "corpus_ids": []
+    },
+    {
+      "id": 20,
+      "section": "the-word-for-love",
+      "text": "ISic030019, line 5: *οἵτινες μὴ παρ' ἐμ' ἀπολείποιεν* -- \"whoever does not leave him with me.\"",
+      "corpus_ids": []
+    },
+    {
+      "id": 21,
+      "section": "the-chorus-leaders",
+      "text": "ISic030019, lines 3--5: *ἀπογράφω τοὺς χοραγοὺς πάντας ἐπ' ἀτελείᾳ κἠπέων καὶ ἔργων* -- \"I mark down all the chorus leaders for futility of words and deeds.\"",
+      "corpus_ids": []
+    },
+    {
+      "id": 22,
+      "section": "the-chorus-leaders",
+      "text": "On the Athenian choregia, see P. Wilson, *The Athenian Institution of the Khoregia: The Chorus, the City, and the Stage* (Cambridge: Cambridge University Press, 2000), esp. chs. 1--3. The Great Dionysia featured ten dithyrambic choruses of fifty men each and ten of fifty boys.",
+      "corpus_ids": []
+    },
+    {
+      "id": 23,
+      "section": "the-chorus-leaders",
+      "text": "Plutarch, *Cimon* 8.7--9. On the cost of choregic service, see Wilson (2000), 110--130, estimating that a tragic choregia could cost 3,000 drachmas or more -- roughly ten times the annual income of a skilled laborer.",
+      "corpus_ids": []
+    },
+    {
+      "id": 24,
+      "section": "the-chorus-leaders",
+      "text": "Wilson, \"Sicilian Choruses,\" 351--377, argues that the curse tablet \"provides testimony for the existence of choral competition in the western Greek world\" and that its reference to multiple competing *khoragoi* implies an organized festival context.",
+      "corpus_ids": []
+    },
+    {
+      "id": 25,
+      "section": "the-chorus-leaders",
+      "text": "On choral training and the display of male beauty, see A. D'Angour, *The Greeks and the New: Novelty in Ancient Greek Imagination and Experience* (Cambridge: Cambridge University Press, 2011), ch. 5; and C. Calame, *Choruses of Young Women in Ancient Greece* (Lanham, MD: Rowman and Littlefield, 1997), 1--30.",
+      "corpus_ids": []
+    },
+    {
+      "id": 26,
+      "section": "the-chorus-leaders",
+      "text": "On *kalos* inscriptions, see D. Robinson and E. Fluck, *A Study of the Greek Love-Names* (Baltimore: Johns Hopkins University Press, 1937); and T.J. Webster, \"Some Attic Vase-Painters and the Kalos Inscriptions,\" *Journal of Hellenic Studies* 52 (1932): 12--28.",
+      "corpus_ids": []
+    },
+    {
+      "id": 27,
+      "section": "the-chorus-leaders",
+      "text": "Xenophon, *Symposium* 1.2--1.9 (Corpus IDs: 126419--126428). Callias is \"enamoured of the boy Autolycus\" and brings him to the banquet; \"the beauty of Autolycus compelled every one to look at him.\"",
+      "corpus_ids": []
+    },
+    {
+      "id": 28,
+      "section": "the-world-of-lead",
+      "text": "On the chronology of early Greek defixiones, see D.R. Jordan, \"A Survey of Greek Defixiones,\" *GRBS* 26 (1985): 151--197; E. Eidinow, *Oracles, Curses, and Risk Among the Ancient Greeks* (Oxford: Oxford University Press, 2007), 139--160.",
+      "corpus_ids": []
+    },
+    {
+      "id": 29,
+      "section": "the-world-of-lead",
+      "text": "J. Curbera, \"The Selinunte Defixiones as Evidence for Epigraphic Literacy and Western Sicilian Identities,\" in M. De Vos (ed.), *Sicilia Ellenistica, Consuetudo Italica* (Bologna: Ante Quem, 2018), 1--15.",
+      "corpus_ids": []
+    },
+    {
+      "id": 30,
+      "section": "the-world-of-lead",
+      "text": "ISic030032 (Corpus ID: 8420). Greek text: *ἀναίματοι ἔστων οἵδε πάντες, δύσσοοι* -- \"May all these be bloodless, wretched may they be.\" Translation after Dubois, *IGDS* I, no. 32.",
+      "corpus_ids": []
+    },
+    {
+      "id": 31,
+      "section": "the-world-of-lead",
+      "text": "ISic020580 (Corpus ID: 8399): \"Geloios is in love with Aka.\" ISic030032 names both *Γελοῖος* and *Μελάνθιος*. Whether these are the same individuals cannot be confirmed but is plausible given the small community size.",
+      "corpus_ids": []
+    },
+    {
+      "id": 32,
+      "section": "the-world-of-lead",
+      "text": "ISic030010 (Corpus ID: 8583). Greek text: *Χᾶμις ἐπέχω καὶ νόσῳ ῥοπᾷ ἐπ' ἀτελείᾳ* -- the same word *ἀτέλεια* (futility, failure to accomplish) that Apellis uses. See Dubois, *IGDS* I, no. 10.",
+      "corpus_ids": []
+    },
+    {
+      "id": 33,
+      "section": "the-world-of-lead",
+      "text": "On the properties of lead and its magical associations, see Faraone, *Ancient Greek Love Magic*, 3--15; and C. Gordon, \"The Properties of Lead as Magical Material,\" in R. Gordon and F.M. Simón (eds.), *Magical Practice in the Latin West* (Leiden: Brill, 2010), 153--176.",
+      "corpus_ids": []
+    },
+    {
+      "id": 34,
+      "section": "the-world-of-lead",
+      "text": "ISic030019, line 11: *ὡς οὗτος ὁ βόλιμος* -- \"as this lead.\" The word *βόλιμος* (or *μόλιβος*) is the Doric form of *μόλυβδος* (lead). The simile formula is discussed in N. Voutiras, \"'May Their Limbs Melt, Just as This Lead Shall Melt...': Sympathetic Magic and Similia Similibus Formulae in Greek and Latin Curse Tablets,\" *Kernos* 32 (2019): 147--190.",
+      "corpus_ids": []
+    },
+    {
+      "id": 35,
+      "section": "the-world-of-lead",
+      "text": "On the \"as this lead\" formula across the defixio corpus, see Gager, *Curse Tablets*, 3--18; and A. Kropp, \"Sympathetic Magic in Curse Tablets,\" *Classical Antiquity* 27.2 (2008): 337--381.",
+      "corpus_ids": []
+    },
+    {
+      "id": 36,
+      "section": "the-world-of-lead",
+      "text": "On the deposition context of defixiones, see Eidinow, *Oracles, Curses, and Risk*, 148--155; and Gager, *Curse Tablets*, 18--22.",
+      "corpus_ids": []
+    },
+    {
+      "id": 37,
+      "section": "the-world-of-lead",
+      "text": "ISic001087 (Corpus ID: 8559): the Selinunte victory inscription names Malophoros among the city's divine protectors. The sanctuary of Demeter Malophoros at Selinus was a major cult site; see C. Dehl-von Kaenel, *Die archaische Keramik aus dem Malophoros-Heiligtum in Selinunt* (Berlin: Deutsches Archäologisches Institut, 1995).",
+      "corpus_ids": []
+    },
+    {
+      "id": 38,
+      "section": "gela",
+      "text": "Thucydides 6.4.3. On the foundation of Gela, see T.J. Dunbabin, *The Western Greeks* (Oxford: Clarendon Press, 1948), 105--118.",
+      "corpus_ids": []
+    },
+    {
+      "id": 39,
+      "section": "gela",
+      "text": "Herodotus 7.153--156. Gelon transferred the populations of Gela, Kamarina, and other cities to Syracuse, \"since he no longer counted Gela among the leading cities but Syracuse.\" See also I. Malkin, *A Small Greek World: Networks in the Ancient Mediterranean* (Oxford: Oxford University Press, 2011), 186--200.",
+      "corpus_ids": []
+    },
+    {
+      "id": 40,
+      "section": "gela",
+      "text": "Population estimates for Gela are uncertain; the figure of 30,000 is sometimes given for the city at its peak before Gelon's transfer of population. See Dunbabin, *Western Greeks*, 107.",
+      "corpus_ids": []
+    },
+    {
+      "id": 41,
+      "section": "gela",
+      "text": "On Gela's terracotta production, see P. Orlandini, \"Gela: Nuovi scavi sull'acropoli,\" *Monumenti Antichi* 46 (1963): 1--78.",
+      "corpus_ids": []
+    },
+    {
+      "id": 42,
+      "section": "gela",
+      "text": "The death of Aeschylus at Gela: Vita Aeschyli; Plutarch, *Moralia* 604F; Pausanias 1.14.5. On the tradition of his tomb as a pilgrimage site, see A.H. Sommerstein, *Aeschylean Tragedy* (London: Duckworth, 2010), 1--2.",
+      "corpus_ids": []
+    },
+    {
+      "id": 43,
+      "section": "the-symposium",
+      "text": "On the symposium as institution, see O. Murray (ed.), *Sympotica: A Symposium on the Symposion* (Oxford: Clarendon Press, 1990); and W. Rösler, \"The Symposium as a Ritual of Community: An Introduction,\" in W. Slater (ed.), *Dining in a Classical Context* (Ann Arbor: University of Michigan Press, 1991), 1--12.",
+      "corpus_ids": []
+    },
+    {
+      "id": 44,
+      "section": "the-symposium",
+      "text": "ISic020579 (Corpus ID: 8398). Date: 499--480 BCE. Greek text: *τοῦτον τὸν σκύφον Πόρκος ἀποδίδωτι ἐς τὸν θίασον τῶν ποτᾶν. αἰ δὲ φίλη Φρύναν, οὐκ ἄλλος κ' ἄγη. ὁ δὲ γράψας τὸν ἀννέμοντα πυγιξεῖ.*",
+      "corpus_ids": []
+    },
+    {
+      "id": 45,
+      "section": "the-symposium",
+      "text": "The verb *πυγίζειν* (from *πυγή*, buttocks) means to engage in anal intercourse. See J.N. Adams, *The Latin Sexual Vocabulary* (Baltimore: Johns Hopkins University Press, 1982), 123--124, for the Latin cognates; and K.J. Dover, *Greek Homosexuality* (London: Duckworth, 1978), 140--145, for the Greek usage.",
+      "corpus_ids": []
+    },
+    {
+      "id": 46,
+      "section": "the-symposium",
+      "text": "ISic020580 (Corpus ID: 8399). Date: 499--480 BCE. Greek text: *Γελοῖος Ἄκας ἔραται. Γελοῖος Ἄκας ἔραται. Εὔμαχος δὲ μισθοῦται.*",
+      "corpus_ids": []
+    },
+    {
+      "id": 47,
+      "section": "the-symposium",
+      "text": "ISic020594 (Corpus ID: 8548). Date: 420--380 BCE. Greek text: *Τιτταβώ φίλη.*",
+      "corpus_ids": []
+    },
+    {
+      "id": 48,
+      "section": "the-symposium",
+      "text": "The name Tittabo may be related to *τιτυβίζω* or *τιττυβίζω*, onomatopoeic words for the chirping of small birds. See R. Arena, *Iscrizioni greche arcaiche di Sicilia e Magna Grecia*, vol. 2 (Milan, 1996), no. 68.",
+      "corpus_ids": []
+    },
+    {
+      "id": 49,
+      "section": "the-erastes-and-the-eromenos",
+      "text": "The foundational study is K.J. Dover, *Greek Homosexuality* (London: Duckworth, 1978; 2nd ed. 1989). See also D.M. Halperin, *One Hundred Years of Homosexuality and Other Essays on Greek Love* (New York: Routledge, 1990); and J. Davidson, *The Greeks and Greek Love* (London: Weidenfeld and Nicolson, 2007), for a critique of the Dover model.",
+      "corpus_ids": []
+    },
+    {
+      "id": 50,
+      "section": "the-erastes-and-the-eromenos",
+      "text": "On the pedagogical dimension of Greek pederasty, see H.I. Marrou, *A History of Education in Antiquity* (London: Sheed and Ward, 1956), 26--35; and T.K. Hubbard (ed.), *Homosexuality in Greece and Rome: A Sourcebook of Basic Documents* (Berkeley: University of California Press, 2003), 1--20.",
+      "corpus_ids": []
+    },
+    {
+      "id": 51,
+      "section": "the-erastes-and-the-eromenos",
+      "text": "Plato, *Symposium* 181b--d (Corpus ID: 132402). Pausanias distinguishes \"Common Aphrodite\" (love of women and boys indiscriminately) from \"Heavenly Aphrodite\" (love of males, specifically those who have begun to develop intelligence along with the first growth of beard).",
+      "corpus_ids": []
+    },
+    {
+      "id": 52,
+      "section": "the-erastes-and-the-eromenos",
+      "text": "Aeschines, *Against Timarchus* 140--141 (Corpus IDs: 116245--116254). Translation from C.D. Adams (Loeb Classical Library, 1919).",
+      "corpus_ids": []
+    },
+    {
+      "id": 53,
+      "section": "the-economics-of-magic",
+      "text": "On professional magical practitioners in the ancient world, see M.W. Dickie, *Magic and Magicians in the Greco-Roman World* (London: Routledge, 2001), 18--43.",
+      "corpus_ids": []
+    },
+    {
+      "id": 54,
+      "section": "the-economics-of-magic",
+      "text": "Dreher, \"Orality, Written Literacy, and Early Sicilian Curse Tablets,\" 185--190, argues that the individualized character of early Sicilian defixiones \"suggests a degree of personal composition rather than reliance on standardized formulas supplied by professional curse-writers.\"",
+      "corpus_ids": []
+    },
+    {
+      "id": 55,
+      "section": "the-economics-of-magic",
+      "text": "ISic030016 (Corpus ID: 8389). Date: 500--475 BCE. Text: \"Anthemokritos bade Apellis offer security... Myskon sitting along the avenue... came (not?) having the money, the price of the cattle.\" If the Apellis named here is the same as the author of the curse tablet -- which is plausible given the shared city and period, though unproven -- he was a man involved in legal and commercial transactions involving surety and livestock trade.",
+      "corpus_ids": []
+    },
+    {
+      "id": 56,
+      "section": "the-economics-of-magic",
+      "text": "The verb *ἀπογράφω* in administrative Greek means to register, enroll, or list in an official document. Its use in the defixio transfers the bureaucratic act to the supernatural sphere: the cursed names are \"registered\" with the chthonic powers as one might register a debt or a legal claim with the city authorities. See D.R. Jordan, \"Inscribed Lead Tablets from the Games at Isthmia,\" *Hesperia* 69.1 (2000): 55--77.",
+      "corpus_ids": []
+    },
+    {
+      "id": 57,
+      "section": "the-silence-of-eunikos",
+      "text": "On the eromenos's expected modesty and restraint, see Dover, *Greek Homosexuality*, 81--100; and Halperin, *One Hundred Years*, 30--37.",
+      "corpus_ids": []
+    },
+    {
+      "id": 58,
+      "section": "the-selinunte-inscription",
+      "text": "ISic001087 (Corpus ID: 8559). Date: 475--450 BCE. Greek text: *διὰ τοὺς θεοὺς τούσδε νικῶντι τοὶ Σελινόντιοι. διὰ τὸν Δία νικῶμες...* The inscription was inscribed on a lead plaque and dedicated in the Apollonion at Selinus.",
+      "corpus_ids": []
+    }
+  ],
+  "sources": [
+    {
+      "corpus_id": 8373,
+      "reference": "ISic030019",
+      "date": "475--450 BCE",
+      "description": "Apellis's lead curse tablet for love of Eunikos. Found near Gela, Sicily. Lead defixio with Doric Greek text.",
+      "greek": "Ε ὐχά Ἀπέλλις ἐπὶ φιλότατι τᾶι Εὐνίϙοˉ μεˉδέν’ Ε ὐνίϙοˉ σπευ δ δ αι ότερον ε῏μεν μεˉδὲ Φίντίοˉνα ἀλλ’ἐπαινε῀ ν καὶ ἑϙόντα κἀέϙ όντα καὶ φιλετἄν ἐπὶ φιλότατι τᾶι όντα καὶ φιλετἄν ἐπὶ φιλότατι τᾶι Εὐνίϙοˉ ἀπογ α ράφοˉ τὸˉ ς χορᾱγὸˉς πάντας ἐπ’ ἀτελεία ς χορᾱγὸˉς πάντας ἐπ’ ἀτελεία ι κἐˉπέοˉν καὶ ἔργοˉν καὶ τ ὸˉς παι῀δ ὸˉς παι῀δ ι ας ἀπὸ τένον καὶ τὸˉς πατέρας κἀπρακτίαι κἐˉν ἀγο῀ νι κἐχθὸς ἀγόˉνοˉν οἵτινες μὲ παρ’ ἐμ’ ἀπολείποιεν νι κἐχθὸς ἀγόˉνοˉν οἵτινες μὲ παρ’ ἐμ’ ἀπολείποιεν Καλεδίαν ἀπογ α ράφοˉ ἀπ’ Ἀπελλίος καὶ τὸˉς ς τεˉνε῀ι πάντας ἐπὶ μεσοτερ ο ... ἐντάδα Σοˉσίαν ἀπογράφοˉ ἀπὸ το῀ καπεˉλείοˉ Ἀλκιδᾶν ἐπὶ τᾶ ι Μελ ανθίοˉ φιλότᾱτι Πυρία μ Μύσσκελον Δᾱμόφαντον καὶ τὸν χοραγ ὸν ἀπογράφοˉ ἀπὸ το῀μ παίδοˉν καὶ το῀μ πατέροˉν καὶ τὸˉς ἄλλ ος πά ντας οἵτινες ἐντάδε ἀφικνοίατο μεˉδέν’ Εὐνίκοˉ σπευδαιό τερο ν γενέσθαι, μέˉτ’ ἄνδρεσι μέˉτε γυναικέσσι ὁς οὗτος ὁ βόλιμοˉς τὸˉς τε . νον επ ο ι δ ι α ὶ τιμὰν ἐρύσαιντο Εὐνίκοˉι ἀὲ νίκᾶν παντε῀ ἐμ βολύμο ι ἐ π ὶ φιλ ότατι τᾶι Εὐνίκοˉ γ ρά άρ φοˉ",
+      "translation": "Prayer: Apellis, for love of Eunikos (prays) that no one be taken more seriously or be more popular than Eunikos, but (all) should praise and admire (him) both willingly and unwillingly. For Love of Eunikos I mark down all the khoragoi so that they be ineffectual both in word and in deed, along with their sons and fathers, and so that they fail both in the contest and outside the contests. Whoever does not leave him (sc. Eunikos) with me. I mark down Kaledias to keep him apart from Apellis, along with all those in between there and here [fortasse 'all those there against the arbiters here']. I mark down Sosias, the one from the shop of the Alkiadai, bacause of his love of (Mel)anthios. Pyrias, Mysskelos, Damophantos and their khoragos I mark down, along with their sons and fathers, and all the others who arrive here. May no one be taken more seriously than Eunikos either among men or women. As this lead (does), so may my spells against those men draw away their honour. For Eunikos may there be victory always, everywhere. on the lead for love of Eunikos I write [Trans. P. Wilson F. Favi]"
+    },
+    {
+      "corpus_id": 8398,
+      "reference": "ISic020579",
+      "date": "499--480 BCE",
+      "description": "Porkos drinking cup inscription. Skyphos with love declaration for Phryna and \"sodomy\" joke.",
+      "greek": "τοῦτον τὸν σϙύφον τοῦτον τὸν σϙύφον Πόρϙος ἀποδίδο̄τι ἐς τὸν θίασον το͂ν π οτᾶ ν αἰ δὲ φίλε̄ αἰ δὲ φίλε̄ Φρύνᾱν οὐκ ἄλλος κ’ ἄγε̄ hο δὲ γράπσας τὸν ἀννέμο hο δὲ γράπσας τὸν ἀννέμο ν τα πυγιξεῖ",
+      "translation": "Porkos returns this skyphos to the thiasos of the drinkers.\n                       Since he is in love with Phryna, it is not another who will take her.\n                       He has written, the one who reads will practice sodomy."
+    },
+    {
+      "corpus_id": 8399,
+      "reference": "ISic020580",
+      "date": "499--480 BCE",
+      "description": "Geloios-Aka graffito. Symposium inscription: \"Geloios is in love with Aka... Eumachos pays.\"",
+      "greek": "Γελο͂ιος Ἄκ α ς ἔραται Γελο͂ιο Γελο͂ιο ς Ἄκας ς Ἄκας ἔραται ἔραται Εὔμαχος δὲ Εὔμαχος δὲ μισ μισ θ ο͂ τ αι",
+      "translation": "Geloios is in love with Aka.\n                       Geloios is in love with Aka.\n                       But it is Eumachos who pays."
+    },
+    {
+      "corpus_id": 8548,
+      "reference": "ISic020594",
+      "date": "420--380 BCE",
+      "description": "\"To beloved Tittabo.\" Two-word dedication.",
+      "greek": "Τιτταβο̄̀ ⁝ φίλη",
+      "translation": "To beloved Tittabo."
+    },
+    {
+      "corpus_id": 8420,
+      "reference": "ISic030032",
+      "date": "460--440 BCE",
+      "description": "Curse tablet listing names (including Melanthios, Geloios) \"for failure.\"",
+      "greek": "hοί δε γεγράβαται ἐπὶ δυσπραγ ἐπὶ δυσπραγ ίαι Κέρδο̄ν Ἐ λ αχ ιξ ͱο Τοπερκο Πύθον Διοκλ έος Τίτά Ἐξάκο ν ͱυι ος ος Ἐξάκονος Μελάνθιο ς . ατίμο Δίον Π αρ μέ νονος Όνάσιμ ος Αθ άνιος Δαρχον Τ έλλον Εὔθυμο ς .. θ .. Ε ὐφραίο Γελο͂ιος δας Γελο̄́ιο̄ Γῆρυς Παρ ρ Ἀγνος Χαΐρις Διο ιβείο Ξήνιππος Μ ίο Ναραονίδα ἀναίμα ἀναίμα τοι ἔστο̄ν ͱοί δε πάντες δύσσοοι δύσσοοι",
+      "translation": "Ceux qui suivent sont inscrits (dans le plomb) pour qu'ils échouent : (liste des individus maudits). Que tous ceux-ci soient exsangues, malheureux soient-ils. (Dubois)"
+    },
+    {
+      "corpus_id": 8583,
+      "reference": "ISic030010",
+      "date": "499--450 BCE",
+      "description": "Curse tablet binding Chamis \"in the crisis of fatal illness.\"",
+      "greek": "Χάμις ἐπέ χ ο̄ κα κα ὶ νόσο̄ ῥοπᾶι ἐπ’ ἀτελείαι ℎο ἐπ’ ἀτελείαι ℎο τ ι ΚΑ .. Ε .. Ο ΝΤΙ",
+      "translation": "Je te maintiens dans la crise fatale de la maladie afin que tu ne puisses atteindre tes objectifs.(Dubois)"
+    },
+    {
+      "corpus_id": 8389,
+      "reference": "ISic030016",
+      "date": "500--475 BCE",
+      "description": "Legal text naming Apellis in a surety dispute over cattle.",
+      "greek": "Μ υσκο̄ν : Δάμιος : τοῦ Κοβέτου Ἀνθ εμόκριτος : ἐφίετο Ἄπελιν ἐνγυάσασθαι μ α δὲ ἔφα εἴμειν κατελάζετο το͂ν Λεοντίνο̄ν ξε Μύσκο̄να : ἐν τᾶι πλατείαι θο̄κέοντας ἀργύριον ἔχο̄ν hῖκε βοο͂ν τιμάν οὐκ ἐπρίατο αι ποτ’ Ἐνπεδοκλε͂ τὸν Μνασιμάχου ποτε̄́νθετο γενέσθο̄ ἐν γ υάσασθαι",
+      "translation": "[...] Myskon, son of Damis son of Kobetos [...] Anthemokritos bade Apellis offer security \n                    [...] said [...] was; he came upon [...] of the Leontines [...] Myskon sitting along the avenue [...] \n                    came (not?) having the money, the price of the cattle; he did not buy [...] went to Empedokles, \n                    son of Mnasimachos [...] let [...] become (liable?) to act as surety (trans. by Miller)."
+    },
+    {
+      "corpus_id": 8559,
+      "reference": "ISic001087",
+      "date": "475--450 BCE",
+      "description": "Selinunte victory inscription listing divine patrons.",
+      "greek": "δι ὰ το̄̀ς θεο̄̀ς το̄́ σ δε νικο͂ντι τοὶ Σελινο̄́ν τιοι δι ὰ τὸν Δία νικο͂μες καὶ διὰ τὸν Φόβον καὶ δ ιὰ hερακλέα καὶ δι’ Ἀπόλλο̄να καὶ διὰ Π οτ ει ει δᾶ να καὶ διὰ Τυνδαρίδας καὶ δι᾿ Ἀθ α ναίαν ναίαν καὶ διὰ Μ α λοφόρον καὶ διὰ Πασι κ ρά ρά τ ειαν καὶ διὰ το̄̀ς ἄλλο̄ς θεο̄̀ς διὰ δ ὲ Δία μάλιστα φιλία ς δὲ γενομένας ἐν χ ρ υσ έο̄ι έο̄ι ἐλά με ν τὰ δ᾿ ἔτι ὀνύματα ταῦτα κολ άψαντ άψαντ ες εἰς τ ὸ Ἀπο λλο̄́νιον κάθθεμε ν ν τὸ Διὸ ς προ γρά ψα ντες τὸ δὲ χρυσίον h εξε̄́κ οντα τ αλάντο̄ν ἐ͂μεν",
+      "translation": "It is through the gods listed here that the Selinuntines win victory. Through Zeus we conquer and through Phobos and through Herakles and through Apollo and through Poseidon and through the Tyndaridai and through Athena and through Malophoros and through Pasikrateia and through the other gods, but through Zeus above all. Since there is friendship (it is resolved), that having forged in gold, and having engraved these names, to dedicate in the Apollonion, having written the name of Zeus in first place; and that the gold be sixty talents."
+    },
+    {
+      "corpus_id": 45,
+      "reference": "ISic020443",
+      "date": "6th--5th c. BCE",
+      "description": "Cup of Panchares: \"I am shared among his friends.\"",
+      "greek": "Πανχάρεός εἰμι καὶ το͂ν φίλο̄ν ϙοινά εἰμι καὶ το͂ν φίλο̄ν ϙοινά εἰμι",
+      "translation": "I am (the cup) of Panchares, and I am shared among (his) friends."
+    },
+    {
+      "corpus_id": 42,
+      "reference": "ISic001481",
+      "date": "late 6th--early 5th c. BCE",
+      "description": "Funerary inscription: \"Both of them, in fine fashion, their beloved son has buried.\"",
+      "greek": "τεῖδε Χοροὶ Κα τ ελὸς ελὸς κεῖ ν ται θα ν άτοιο άτοιο λαχόντ ε ς ς ἀνφοτέρος δ ὲ ὲ καλὸς ͱυιὸς ἔ θαπσε θαπσε φίλος",
+      "translation": "Here lie Choro and Katelos, having come to death. Both of them, in fine fashion, their beloved son has buried."
+    },
+    {
+      "corpus_id": 132402,
+      "reference": "translation_pairs_a-batch-3773",
+      "date": "4th c. BCE",
+      "description": "Plato, *Symposium*: Pausanias on \"Heavenly Love.\"",
+      "greek": "ὁ δὲ τῆς Οὐρανίας πρῶτον μὲν οὐ μετεχούσης θήλεος ἀλλ’ ἄρρενος μόνον καὶ ἔστιν οὗτος ὁ τῶν παίδων ἔρως ἔπειτα πρεσβυτέρας, ὕβρεως ἀμοίρου·\nὅθεν δὴ ἐπὶ τὸ ἄρρεν τρέπονται οἱ ἐκ τούτου τοῦ ἔρωτος ἔπιπνοι, τὸ φύσει ἐρρωμενέστερον καὶ νοῦν μᾶλλον ἔχον ἀγαπῶντες.\nκαί τις ἂν γνοίη καὶ ἐν αὐτῇ τῇ παιδεραστίᾳ τοὺς εἰλικρινῶς ὑπὸ τούτου τοῦ ἔρωτος ὡρμημένους·\nοὐ γὰρ ἐρῶσι παίδων, ἀλλ’ ἐπειδὰν ἤδη ἄρχωνται νοῦν ἴσχειν, τοῦτο δὲ πλησιάζει τῷ γενειάσκειν.\nπαρεσκευασμένοι γὰρ οἶμαί εἰσιν οἱ ἐντεῦθεν ἀρχόμενοι ἐρᾶν ὡς τὸν βίον ἅπαντα συνεσόμενοι καὶ κοινῇ συμβιωσόμενοι, ἀλλ’ οὐκ ἐξαπατήσαντες, ἐν ἀφροσύνῃ λαβόντες ὡς νέον, καταγελάσαντες οἰχήσεσθαι ἐπ’ ἄλλον ἀποτρέχοντες.\nχρῆν δὲ καὶ νόμον εἶναι μὴ ἐρᾶν παίδων, ἵνα μὴ εἰς ἄδηλον πολλὴ σπουδὴ ἀνηλίσκετο·\nτὸ γὰρ τῶν παίδων τέλος ἄδηλον οἷ τελευτᾷ κακίας καὶ ἀρετῆς ψυχῆς τε πέρι καὶ σώματος.\nοἱ μὲν οὖν ἀγαθοὶ τὸν νόμον τοῦτον αὐτοὶ αὑτοῖς ἑκόντες τίθενται, χρῆν δὲ καὶ τούτους τοὺς πανδήμους ἐραστὰς προσαναγκάζειν τὸ τοιοῦτον, ὥσπερ καὶ τῶν ἐλευθέρων γυναικῶν προσαναγκάζομεν αὐτοὺς καθ’ ὅσον δυνάμεθα μὴ ἐρᾶν.\nοὗτοι γάρ εἰσιν οἱ καὶ τὸ ὄνειδος πεποιηκότες, ὥστε τινὰς τολμᾶν λέγειν ὡς αἰσχρὸν χαρίζεσθαι ἐρασταῖς·\nλέγουσι δὲ εἰς τούτους ἀποβλέποντες, ὁρῶντες αὐτῶν τὴν ἀκαιρίαν καὶ ἀδικίαν, ἐπεὶ οὐ δήπου κοσμίως γε καὶ νομίμως ὁτιοῦν πρᾶγμα πραττόμενον ψόγον ἂν δικαίως φέροι.\nκαὶ δὴ καὶ ὁ περὶ τὸν ἔρωτα νόμος ἐν μὲν ταῖς ἄλλαις πόλεσι νοῆσαι ῥᾴδιος, ἁπλῶς γὰρ ὥρισται· ὁ δ’ ἐνθάδε καὶ ἐν Λακεδαίμονι ποικίλος.\nἐν Ἤλιδι μὲν γὰρ καὶ ἐν Βοιωτοῖς, καὶ οὗ μὴ σοφοὶ λέγειν, ἁπλῶς νενομοθέτηται καλὸν τὸ χαρίζεσθαι ἐρασταῖς, καὶ οὐκ ἄν τις εἴποι οὔτε νέος οὔτε παλαιὸς ὡς αἰσχρόν, ἵνα οἶμαι μὴ πράγματ’ ἔχωσιν λόγῳ πειρώμενοι πείθειν τοὺς νέους, ἅτε ἀδύνατοι λέγειν·\nτῆς δὲ Ἰωνίας καὶ ἄλλοθι πολλαχοῦ αἰσχρὸν νενόμισται, ὅσοι ὑπὸ βαρβάροις οἰκοῦσιν.\nτοῖς γὰρ βαρβάροις διὰ τὰς τυραννίδας αἰσχρὸν τοῦτό γε καὶ ἥ γε φιλοσοφία καὶ ἡ φιλογυμναστία·\nοὐ γὰρ οἶμαι συμφέρει τοῖς ἄρχουσι φρονήματα μεγάλα ἐγγίγνεσθαι τῶν ἀρχομένων, οὐδὲ φιλίας ἰσχυρὰς καὶ κοινωνίας, ὃ δὴ μάλιστα φιλεῖ τά τε ἄλλα πάντα καὶ ὁ ἔρως ἐμποιεῖν.\nἔργῳ δὲ τοῦτο ἔμαθον καὶ οἱ ἐνθάδε τύραννοι·\nὁ γὰρ Ἀριστογείτονος ἔρως καὶ ἡ Ἁρμοδίου φιλία βέβαιος γενομένη κατέλυσεν αὐτῶν τὴν ἀρχήν.\nοὕτως οὗ μὲν αἰσχρὸν ἐτέθη χαρίζεσθαι ἐρασταῖς, κακίᾳ τῶν θεμένων κεῖται, τῶν μὲν ἀρχόντων πλεονεξίᾳ, τῶν δὲ ἀρχομένων ἀνανδρίᾳ·\nοὗ δὲ καλὸν ἁπλῶς ἐνομίσθη, διὰ τὴν τῶν θεμένων τῆς ψυχῆς ἀργίαν.\nἐνθάδε δὲ πολὺ τούτων κάλλιον νενομοθέτηται, καὶ ὅπερ εἶπον, οὐ ῥᾴδιον κατανοῆσαι.\nὃ δὲ δεινότατον, ὥς γε λέγουσιν οἱ πολλοί, ὅτι καὶ ὀμνύντι μόνῳ συγγνώμη παρὰ θεῶν ἐκβάντι τῶν ὅρκων ἀφροδίσιον γὰρ ὅρκον οὔ φασιν εἶναι·\nοὕτω καὶ οἱ θεοὶ καὶ οἱ ἄνθρωποι πᾶσαν ἐξουσίαν πεποιήκασι τῷ ἐρῶντι, ὡς ὁ νόμος φησὶν ὁ ἐνθάδε ταύτῃ μὲν οὖν οἰηθείη ἄν τις πάγκαλον νομίζεσθαι ἐν τῇδε τῇ πόλει καὶ τὸ ἐρᾶν καὶ τὸ φίλους γίγνεσθαι τοῖς ἐρασταῖς.\nἐπειδὰν δὲ παιδαγωγοὺς ἐπιστήσαντες οἱ πατέρες τοῖς ἐρωμένοις μὴ ἐῶσι διαλέγεσθαι τοῖς ἐρασταῖς, καὶ τῷ παιδαγωγῷ ταῦτα προστεταγμένα ᾖ, ἡλικιῶται δὲ καὶ ἑταῖροι ὀνειδίζωσιν ἐάν τι ὁρῶσιν τοιοῦτον γιγνόμενον, καὶ τοὺς ὀνειδίζοντας αὖ οἱ πρεσβύτεροι μὴ διακωλύωσι μηδὲ λοιδορῶσιν ὡς οὐκ ὀρθῶς λέγοντας, εἰς δὲ ταῦτά τις αὖ βλέψας ἡγήσαιτ’ ἂν πάλιν αἴσχιστον τὸ τοιοῦτον ἐνθάδε νομίζεσθαι.\nτὸ δὲ οἶμαι ὧδ’ ἔχει·\nοὐχ ἁπλοῦν ἐστιν, ὅπερ ἐξ ἀρχῆς ἐλέχθη οὔτε καλὸν εἶναι αὐτὸ καθ’ αὑτὸ οὔτε αἰσχρόν, ἀλλὰ καλῶς μὲν πραττόμενον καλόν, αἰσχρῶς δὲ αἰσχρόν.\nαἰσχρῶς μὲν οὖν ἐστι πονηρῷ τε καὶ πονηρῶς χαρίζεσθαι, καλῶς δὲ χρηστῷ τε καὶ καλῶς.\nπονηρὸς δ’ ἐστὶν ἐκεῖνος ὁ ἐραστὴς ὁ πάνδημος, ὁ τοῦ σώματος μᾶλλον ἢ τῆς ψυχῆς ἐρῶν·\nκαὶ γὰρ οὐδὲ μόνιμός ἐστιν, ἅτε οὐδὲ μονίμου ἐρῶν πράγματος.\nἅμα γὰρ τῷ τοῦ σώματος ἄνθει λήγοντι, οὗπερ ἤρα, οἴχεται ἀποπτάμενος, πολλοὺς λόγους καὶ ὑποσχέσεις καταισχύνας·\nὁ δὲ τοῦ ἤθους χρηστοῦ ὄντος ἐραστὴς διὰ βίου μένει, ἅτε μονίμῳ συντακείς.\nτούτους δὴ βούλεται ὁ ἡμέτερος νόμος εὖ καὶ καλῶς βασανίζειν, καὶ τοῖς μὲν χαρίσασθαι, τοὺς δὲ διαφεύγειν.\nδιὰ ταῦτα οὖν τοῖς μὲν διώκειν παρακελεύεται, τοῖς δὲ φεύγειν, ἀγωνοθετῶν καὶ βασανίζων ποτέρων ποτέ ἐστιν ὁ ἐρῶν καὶ ποτέρων ὁ ἐρώμενος.\nοὕτω δὴ ὑπὸ ταύτης τῆς αἰτίας πρῶτον μὲν τὸ ἁλίσκεσθαι ταχὺ αἰσχρὸν νενόμισται, ἵνα χρόνος ἐγγένηται, ὃς δὴ δοκεῖ τὰ πολλὰ καλῶς βασανίζειν, ἔπειτα τὸ ὑπὸ χρημάτων καὶ ὑπὸ πολιτικῶν δυνάμεων ἁλῶναι αἰσχρόν, ἐάν τε κακῶς πάσχων πτήξῃ καὶ μὴ καρτερήσῃ, ἄν τ’ εὐεργετούμενος εἰς χρήματα ἢ εἰς διαπράξεις πολιτικὰς μὴ καταφρονήσῃ·\nοὐδὲν γὰρ δοκεῖ τούτων οὔτε βέβαιον οὔτε μόνιμον εἶναι, χωρὶς τοῦ μηδὲ πεφυκέναι ἀπ’ αὐτῶν γενναίαν φιλίαν.\nμία δὴ λείπεται τῷ ἡμετέρῳ νόμῳ ὁδός, εἰ μέλλει καλῶς χαριεῖσθαι ἐραστῇ παιδικά.\nἔστι γὰρ ἡμῖν νόμος, ὥσπερ ἐπὶ τοῖς ἐρασταῖς ἦν δουλεύειν ἐθέλοντα ἡντινοῦν δουλείαν παιδικοῖς μὴ κολακείαν εἶναι μηδὲ ἐπονείδιστον, οὕτω δὴ καὶ ἄλλη μία μόνη δουλεία ἑκούσιος λείπεται οὐκ ἐπονείδιστος·\nαὕτη δ’ ἐστὶν ἡ περὶ τὴν ἀρετήν.\nνενόμισται γὰρ δὴ ἡμῖν, ἐάν τις ἐθέλῃ τινὰ θεραπεύειν ἡγούμενος δι’ ἐκεῖνον ἀμείνων ἔσεσθαι ἢ κατὰ σοφίαν τινὰ ἢ κατὰ ἄλλο ὁτιοῦν μέρος ἀρετῆς, αὕτη αὖ ἡ ἐθελοδουλεία οὐκ αἰσχρὰ εἶναι οὐδὲ κολακεία.\nδεῖ δὴ τὼ νόμω τούτω συμβαλεῖν εἰς ταὐτόν, τόν τε περὶ τὴν παιδεραστίαν καὶ τὸν περὶ τὴν φιλοσοφίαν τε καὶ τὴν ἄλλην ἀρετήν, εἰ μέλλει συμβῆναι καλὸν γενέσθαι τὸ ἐραστῇ παιδικὰ χαρίσασθαι.\nἐπὶ τούτῳ καὶ ἐξαπατηθῆναι οὐδὲν αἰσχρόν·\nἐπὶ δὲ τοῖς ἄλλοις πᾶσι καὶ ἐξαπατωμένῳ αἰσχύνην φέρει καὶ μή.\nεἰ γάρ τις ἐραστῇ ὡς πλουσίῳ πλούτου ἕνεκα χαρισάμενος ἐξαπατηθείη καὶ μὴ λάβοι χρήματα, ἀναφανέντος τοῦ ἐραστοῦ πένητος, οὐδὲν ἧττον αἰσχρόν·\nδοκεῖ γὰρ ὁ τοιοῦτος τό γε αὑτοῦ ἐπιδεῖξαι, ὅτι ἕνεκα χρημάτων ὁτιοῦν ἂν ὁτῳοῦν ὑπηρετοῖ, τοῦτο δὲ οὐ καλόν.\nκατὰ τὸν αὐτὸν δὴ λόγον κἂν εἴ τις ὡς ἀγαθῷ χαρισάμενος καὶ αὐτὸς ὡς ἀμείνων ἐσόμενος διὰ τὴν φιλίαν ἐραστοῦ ἐξαπατηθείη, ἀναφανέντος ἐκείνου κακοῦ καὶ οὐ κεκτημένου ἀρετήν, ὅμως καλὴ ἡ ἀπάτη·\nδοκεῖ γὰρ αὖ καὶ οὗτος τὸ καθ’ αὑτὸν δεδηλωκέναι, ὅτι ἀρετῆς γ’ ἕνεκα καὶ τοῦ βελτίων γενέσθαι πᾶν ἂν παντὶ προθυμηθείη, τοῦτο δὲ αὖ πάντων κάλλιστον·\nοὕτω πᾶν πάντως γε καλὸν ἀρετῆς γ’ ἕνεκα χαρίζεσθαι.\nοὗτός ἐστιν ὁ τῆς οὐρανίας θεοῦ ἔρως καὶ οὐράνιος καὶ πολλοῦ ἄξιος καὶ πόλει καὶ ἰδιώταις, πολλὴν ἐπιμέλειαν ἀναγκάζων ποιεῖσθαι πρὸς ἀρετὴν τόν τε ἐρῶντα αὐτὸν αὑτοῦ καὶ τὸν ἐρώμενον·\nοἱ δ’ ἕτεροι πάντες τῆς ἑτέρας, τῆς πανδήμου.\nταῦτά σοι, ἔφη, ὡς ἐκ τοῦ παραχρῆμα, ὦ Φαῖδρε, περὶ Ἔρωτος συμβάλλομαι.\nΠαυσανίου δὲ παυσαμένου διδάσκουσι γάρ με ἴσα λέγειν οὑτωσὶ οἱ σοφοί ἔφη ὁ Ἀριστόδημος δεῖν μὲν Ἀριστοφάνη λέγειν, τυχεῖν δὲ αὐτῷ τινα ἢ ὑπὸ πλησμονῆς ἢ ὑπό τινος ἄλλου λύγγα ἐπιπεπτωκυῖαν καὶ οὐχ οἷόν τε εἶναι λέγειν, ἀλλ’ εἰπεῖν αὐτόν ἐν τῇ κάτω γὰρ αὐτοῦ τὸν ἰατρὸν Ἐρυξίμαχον κατακεῖσθαι ὦ Ἐρυξίμαχε, δίκαιος εἶ ἢ παῦσαί με τῆς λυγγὸς ἢ λέγειν ὑπὲρ ἐμοῦ, ἕως ἂν ἐγὼ παύσωμαι.",
+      "translation": "But the other Love springs from the Heavenly goddess who, firstly, partakes not of the female but only of the male and secondly, is the elder, untinged with wantonness\nwherefore those who are inspired by this Love betake them to the male, in fondness for what has the robuster nature and a larger share of mind.\nEven in the passion for boys you may note the way of those who are under the single incitement of this Love\nthey love boys only when they begin to acquire some mind—a growth associated with that of down on their chins.\nFor I conceive that those who begin to love them at this age are prepared to be always with them and share all with them as long as life shall last they will not take advantage of a boy’s green thoughtlessness to deceive him and make a mock of him by running straight off to another.\nAgainst this love of boys a law should have been enacted, to prevent the sad waste of attentions paid to an object so uncertain\nfor who can tell where a boy will end at last, vicious or virtuous in body and soul?\nGood men, however, voluntarily make this law for themselves, and it is a rule which those popular lovers ought to be forced to obey, just as we force them, so far as we can, to refrain from loving our freeborn women.\nThese are the persons responsible for the scandal which prompts some to say it is a shame to gratify one’s lover\nsuch are the cases they have in view, for they observe all their reckless and wrongful doings and surely, whatsoever is done in an orderly and lawful manner can never justly bring reproach.\nFurther, it is easy to note the rule with regard to love in other cities there it is laid down in simple terms, while ours here is complicated.\nFor in Elis and Boeotia and where there is no skill in speech they have simply an ordinance that it is seemly to gratify lovers, and no one whether young or old will call it shameful, in order, I suppose, to save themselves the trouble of trying what speech can do to persuade the youths for they have no ability for speaking.\nBut in Ionia and many other regions where they live under foreign sway, it is counted a disgrace.\nForeigners hold this thing, and all training in philosophy and sports, to be disgraceful, because of their despotic government\nsince, I presume, it is not to the interest of their princes to have lofty notions engendered in their subjects, or any strong friendships and communions all of which Love is pre-eminently apt to create.\nIt is a lesson that our despots learnt by experience\nfor Aristogeiton’s love and Harmodius’s friendship grew to be so steadfast that it wrecked their power.\nThus where it was held a disgrace to gratify one’s lover, the tradition is due to the evil ways of those who made such a law— that is, to the encroachments of the rulers and to the cowardice of the ruled.\nBut where it was accepted as honorable without any reserve, this was due to a sluggishness of mind in the law-makers.\nIn our city we have far better regulations, which, as I said, are not so easily grasped.\nfor while the latter would reproach him with adulation and ill-breeding, the former would admonish him and feel ashamed of his conduct. But in a lover all such doings only win him favor by free grant of our law he may behave thus without reproach, as compassing a most honorable end. Strangest of all, he alone in the vulgar opinion has indulgence from the gods when he forsakes the vow he has sworn\nSo true it is that both gods and men have given absolute licence to the lover, as our Athenian law provides. Thus far, then, we have ground for supposing that here in our city both loving some one and showing affection to one’s lover are held in highest honor.\nBut it happens that fathers put tutors in charge of their boys when they are beloved, to prevent them from conversing with their lovers the tutor has strict injunctions on the matter, and when they observe a boy to be guilty of such a thing his playmates and fellows reproach him, while his reproachers are not in their turn withheld or upbraided by their elders as speaking amiss and from this it might rather be inferred that his behavior is held to be a great disgrace in Athens.\nYet the truth of it, I think, is this\nthe affair is no simple thing you remember we said that by itself it was neither noble nor base, but that it was noble if nobly conducted, and base if basely.\nTo do the thing basely is to gratify a wicked man in a wicked manner nobly means having to do with a good man in a noble manner.\nBy wicked we mean that popular lover, who craves the body rather than the soul\nas he is not in love with what abides, he himself is not abiding.\nAs soon as the bloom of the body he so loved begins to fade he flutters off and is gone, leaving all his speeches and promises dishonored\nwhereas the lover of a nature that is worthy abides throughout life, as being fused into one with the abiding.\nNow our law has a sure and excellent test for the trial of these persons, showing which are to be favored and which to be shunned.\nIn the one case, accordingly, it encourages pursuit, but flight in the other, applying ordeals and tests in each case, whereby we are able to rank the lover and the beloved on this side or on that.\nAnd so it is for this reason that our convention regards a quick capitulation as a disgrace for there ought, first, to be a certain interval—the generally approved touchstone—of time and, second, it is disgraceful if the surrender is due to gold or public preferment, or is a mere cowering away from the endurance of ill-treatment, or shows the youth not properly contemptuous of such benefits as he may receive in pelf or political success.\nFor in these there appears nothing steadfast or abiding, unless it be the impossibility of their producing a noble friendship.\nOne way remains in our custom whereby a favorite may rightly gratify his lover\nit is our rule that, just as in the case of the lovers it was counted no flattery or scandal for them to be willingly and utterly enslaved to their favorites, so there is left one sort of voluntary thraldom which is not scandalous\nI mean, in the cause of virtue.\nIt is our settled tradition that when a man freely devotes his service to another in the belief that his friend will make him better in point of wisdom, it may be, or in any of the other parts of virtue, this willing bondage also is no sort of baseness or flattery.\nLet us compare the two rules—one dealing with the passion for boys, and the other with the love of wisdom and all virtuous ways by this we shall see if we are to conclude it a good thing that a favorite should gratify his lover.\nTo have such hopes deceived is no disgrace\nwhile those of any other sort must be disgraceful, whether deceived or not.\nFor suppose that a youth had a lover he deemed to be wealthy and, after obliging him for the sake of his wealth, were to find himself deceived and no money to be got, since the lover proved to be poor this would be disgraceful all the same\nsince the youth may be said to have revealed his character, and shown himself ready to do anyone any service for pelf, and this is not honorable.\nBy the same token, when a youth gratifies a friend, supposing him to be a good man and expecting to be made better himself as a result of his lover’s affection, and then finds he is deceived, since his friend proves to be vile and destitute of virtue even so the deception is honorable.\nFor this youth is also held to have discovered his nature, by showing that he would make anyone the object of his utmost ardor for the sake of virtuous improvement and this by contrast is supremely honorable.\nThus by all means it is right to bestow this favor for the sake of virtue.\nThis is the Love that belongs to the Heavenly Goddess, heavenly itself and precious to both public and private life for this compels lover and beloved alike to feel a zealous concern for their own virtue.\nBut lovers of the other sort belong all to the other Goddess, the Popular.\nSuch, Phaedrus, is the contribution I am able to offer you, on the spur of the moment, towards the discussion of Love.\nPausanias’ praise made a pause with this phrase—you see what jingles the schoolmen are teaching me! The next speaker, so Aristodemus told me, was to have been Aristophanes but a surfeit or some other cause had chanced to afflict him with a hiccough, which prevented him from speaking and he could only just say to Eryximachus the doctor, whose place was next below him, I look to you Eryximachus, either to stop my hiccough, or to speak in my stead until I can stop it."
+    }
+  ],
+  "further_reading": [
+    "**Dover, Kenneth J.** *Greek Homosexuality*. London: Duckworth, 1978; 2nd ed. 1989. The foundational study of male same-sex desire in the ancient Greek world, drawing on vase-painting, literature, and legal texts.",
+    "**Wilson, Peter.** *The Athenian Institution of the Khoregia: The Chorus, the City, and the Stage*. Cambridge: Cambridge University Press, 2000. The definitive study of chorus sponsorship in classical Athens; essential for understanding the *khoragoi* in Apellis's tablet.",
+    "**Wilson, Peter.** \"Sicilian Choruses.\" In P. Wilson (ed.), *The Greek Theatre and Festivals: Documentary Studies*. Oxford: Oxford University Press, 2007, 351--377. The key scholarly treatment of the Apellis tablet in the context of western Greek choral competition.",
+    "**Faraone, Christopher A.** *Ancient Greek Love Magic*. Cambridge, MA: Harvard University Press, 1999. Comprehensive study of erotic magic in the Greek world, including curse tablets and attraction spells.",
+    "**Gager, John G.** *Curse Tablets and Binding Spells from the Ancient World*. New York: Oxford University Press, 1992. Anthology and analysis of defixiones with extensive commentary.",
+    "**Dubois, Laurent.** *Inscriptions grecques dialectales de Sicile*. 2 vols. Rome: Ecole francaise de Rome, 1989--2008. The standard corpus of Greek dialect inscriptions from Sicily, including the Gela and Selinus curse tablets.",
+    "**Eidinow, Esther.** *Oracles, Curses, and Risk Among the Ancient Greeks*. Oxford: Oxford University Press, 2007. Innovative study of curse tablets as evidence for risk management and social competition in Greek communities.",
+    "**Halperin, David M.** *One Hundred Years of Homosexuality and Other Essays on Greek Love*. New York: Routledge, 1990. Influential theoretical study challenging modern categories of sexuality as applied to the ancient Greek world.",
+    "**Davidson, James.** *The Greeks and Greek Love*. London: Weidenfeld and Nicolson, 2007. A revisionist history arguing that Greek same-sex relationships were more diverse and egalitarian than the Dover model suggests.",
+    "**Dreher, Martin.** \"Orality, Written Literacy, and Early Sicilian Curse Tablets.\" *Greece & Rome* 65.2 (2018): 176--195. Study of the relationship between oral and written practices in early Sicilian defixiones.",
+    "**Dunbabin, T.J.** *The Western Greeks*. Oxford: Clarendon Press, 1948. Classic study of Greek colonization in Sicily and southern Italy.",
+    "**Murray, Oswyn, ed.** *Sympotica: A Symposium on the Symposion*. Oxford: Clarendon Press, 1990. Collected essays on the symposium as a social institution.",
+    "**Hubbard, Thomas K., ed.** *Homosexuality in Greece and Rome: A Sourcebook of Basic Documents*. Berkeley: University of California Press, 2003. Essential sourcebook of primary texts in translation.",
+    "---"
+  ]
+}
