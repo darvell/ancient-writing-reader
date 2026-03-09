@@ -688,6 +688,3448 @@
       "stories": [
         "mistress-of-her-own-person"
       ]
+    },
+    "syra-oxyrhynchus-fl-20-50-ce": {
+      "id": "syra-oxyrhynchus-fl-20-50-ce",
+      "type": "person",
+      "canonical_name": "Syra",
+      "name_variants": [
+        "Syra daughter of Theon"
+      ],
+      "patronymic": "daughter of Theon",
+      "dates": "fl. 20-50 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "petitioner",
+          "date": "",
+          "location": "Oxyrhynchus"
+        },
+        {
+          "title": "abandoned wife",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        43400
+      ],
+      "bio": "Woman who petitioned the archidikastes Heraclides for recovery of her dowry after her husband Sarapion squandered her property, abused her, and deserted her. She appears to act without a male guardian (kyrios), which is unusual for the period.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.281"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "sarapion-oxyrhynchus-fl-20-50-ce": {
+      "id": "sarapion-oxyrhynchus-fl-20-50-ce",
+      "type": "person",
+      "canonical_name": "Sarapion",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 20-50 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "respondent",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        43400
+      ],
+      "bio": "Syra's husband, described as destitute when he married her. Accused of squandering her dowry, physical abuse, and desertion.",
+      "disambiguation": "Not the same as Sarapion son of Theon, the weaver of Gymnasium Square.",
+      "physical_ids": [
+        "P.Oxy. 2.281"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "theon-oxyrhynchus-fl-1st-century-ce": {
+      "id": "theon-oxyrhynchus-fl-1st-century-ce",
+      "type": "person",
+      "canonical_name": "Theon",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 1st century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "father of Syra",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        43400
+      ],
+      "bio": "Syra's father, owner of the house where Syra received Sarapion. Common Oxyrhynchite name.",
+      "disambiguation": "Not the same as Theon the archidikastes.",
+      "physical_ids": [
+        "P.Oxy. 2.281"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "heraclides-alexandria-fl-20-50-ce": {
+      "id": "heraclides-alexandria-fl-20-50-ce",
+      "type": "person",
+      "canonical_name": "Heraclides",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 20-50 CE",
+      "location": "Alexandria",
+      "roles": [
+        {
+          "title": "priest, archidikastes, superintendent of the chrematistae and other courts",
+          "date": "",
+          "location": "Alexandria"
+        }
+      ],
+      "corpus_ids": [
+        43400
+      ],
+      "bio": "Chief justice of Egypt and addressee of Syra's petition for dowry recovery.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.281"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "sarapion-son-of-theon-oxyrhynchus-fl-ca-50-ce": {
+      "id": "sarapion-son-of-theon-oxyrhynchus-fl-ca-50-ce",
+      "type": "person",
+      "canonical_name": "Sarapion son of Theon",
+      "name_variants": [],
+      "patronymic": "son of Theon",
+      "dates": "fl. ca. 50 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "weaver",
+          "date": "",
+          "location": "Gymnasium Square, Oxyrhynchus"
+        },
+        {
+          "title": "petitioner",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        43401
+      ],
+      "bio": "Weaver of Gymnasium Square quarter who petitioned against the corrupt tax collector Apollophanes. Possibly a brother of Syra.",
+      "disambiguation": "Not the same as Sarapion, Syra's husband.",
+      "physical_ids": [
+        "P.Oxy. 2.285"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "apollophanes-oxyrhynchus-fl-ca-50-ce": {
+      "id": "apollophanes-oxyrhynchus-fl-ca-50-ce",
+      "type": "person",
+      "canonical_name": "Apollophanes",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. ca. 50 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "former collector of weavers' trade tax",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        43401,
+        44673
+      ],
+      "bio": "Former collector of the weavers' trade tax who extorted multiple weavers in Oxyrhynchus.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.284",
+        "P.Oxy. 2.285"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "alexandrus-son-of-apollonius-oxyrhynchus-fl-ca-50-ce": {
+      "id": "alexandrus-son-of-apollonius-oxyrhynchus-fl-ca-50-ce",
+      "type": "person",
+      "canonical_name": "Alexandrus son of Apollonius",
+      "name_variants": [],
+      "patronymic": "son of Apollonius",
+      "dates": "fl. ca. 50 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "weaver",
+          "date": "",
+          "location": "Square of Thoeris, Oxyrhynchus"
+        },
+        {
+          "title": "petitioner",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        44673
+      ],
+      "bio": "Weaver of the Square of Thoeris quarter who petitioned against Apollophanes.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.284"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "tiberius-claudius-pasion-oxyrhynchus-fl-ca-50-ce": {
+      "id": "tiberius-claudius-pasion-oxyrhynchus-fl-ca-50-ce",
+      "type": "person",
+      "canonical_name": "Tiberius Claudius Pasion",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. ca. 50 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "strategus",
+          "date": "",
+          "location": "Oxyrhynchite nome"
+        }
+      ],
+      "corpus_ids": [
+        43401,
+        44673
+      ],
+      "bio": "Local governor and addressee of the weavers' petitions against the corrupt tax collector Apollophanes.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.284",
+        "P.Oxy. 2.285"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "tryphon-son-of-dionysius-oxyrhynchus-fl-ca-20s-70s-ce": {
+      "id": "tryphon-son-of-dionysius-oxyrhynchus-fl-ca-20s-70s-ce",
+      "type": "person",
+      "canonical_name": "Tryphon son of Dionysius",
+      "name_variants": [],
+      "patronymic": "son of Dionysius",
+      "dates": "fl. ca. 20s-70s CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "weaver",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        43381,
+        43391,
+        43394,
+        141045
+      ],
+      "bio": "Artisan described as a 'Persian of the Epigone,' central figure of the Tryphon archive. Released from military service due to cataracts (52 CE).",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.264",
+        "P.Oxy. 2.267",
+        "P.Oxy. 2.275",
+        "P.Oxy. 2.282"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "demetrous-oxyrhynchus-fl-29-37-ce": {
+      "id": "demetrous-oxyrhynchus-fl-29-37-ce",
+      "type": "person",
+      "canonical_name": "Demetrous",
+      "name_variants": [
+        "Demetrous daughter of Heraclides"
+      ],
+      "patronymic": "daughter of Heraclides",
+      "dates": "fl. 29-37 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "wife of Tryphon",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        141045
+      ],
+      "bio": "Tryphon's first wife, accused of desertion and theft.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.282"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "saraeus-oxyrhynchus-fl-37-ce": {
+      "id": "saraeus-oxyrhynchus-fl-37-ce",
+      "type": "person",
+      "canonical_name": "Saraeus",
+      "name_variants": [
+        "Saraeus daughter of Apion"
+      ],
+      "patronymic": "daughter of Apion",
+      "dates": "fl. 37 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "wife of Tryphon",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        43391
+      ],
+      "bio": "Tryphon's second wife, who brought a dowry of 72 drachmae. Her guardian was Onnophris son of Antipater.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.267"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "thoenis-son-of-tryphon-oxyrhynchus-fl-66-ce": {
+      "id": "thoenis-son-of-tryphon-oxyrhynchus-fl-66-ce",
+      "type": "person",
+      "canonical_name": "Thoenis son of Tryphon",
+      "name_variants": [],
+      "patronymic": "son of Tryphon",
+      "dates": "fl. 66 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "apprentice weaver",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        43394
+      ],
+      "bio": "Son of Tryphon and Saraeus, apprenticed to the weaver Ptolemaeus.",
+      "disambiguation": "Son of Tryphon by his second wife Saraeus.",
+      "physical_ids": [
+        "P.Oxy. 2.275"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "thoonis-son-of-dionysius-oxyrhynchus-fl-44-ce": {
+      "id": "thoonis-son-of-dionysius-oxyrhynchus-fl-44-ce",
+      "type": "person",
+      "canonical_name": "Thoonis son of Dionysius",
+      "name_variants": [],
+      "patronymic": "son of Dionysius",
+      "dates": "fl. 44 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "missing person",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43381
+      ],
+      "bio": "Son of Tryphon by his first wife Demetrous. Reported missing in 44 CE; described as having 'no trade' and 'possessing no means.'",
+      "disambiguation": "Tryphon's first son, by Demetrous.",
+      "physical_ids": [
+        "P.Oxy. 2.251"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "thamounion-oxyrhynchus-fl-44-ce": {
+      "id": "thamounion-oxyrhynchus-fl-44-ce",
+      "type": "person",
+      "canonical_name": "Thamounion",
+      "name_variants": [
+        "Thamounion daughter of Onnophris"
+      ],
+      "patronymic": "daughter of Onnophris",
+      "dates": "fl. 44 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "grandmother",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        43381
+      ],
+      "bio": "Tryphon's mother, who reported her grandson missing. Her guardian was Sarapion son of Sarapion.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.251"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "ptolemaeus-son-of-pausirion-oxyrhynchus-fl-66-ce": {
+      "id": "ptolemaeus-son-of-pausirion-oxyrhynchus-fl-66-ce",
+      "type": "person",
+      "canonical_name": "Ptolemaeus son of Pausirion",
+      "name_variants": [],
+      "patronymic": "son of Pausirion",
+      "dates": "fl. 66 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "master weaver",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        43394
+      ],
+      "bio": "Master weaver who took Tryphon's son Thoenis as an apprentice.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.275"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "thaesis-daughter-of-thonis-oxyrhynchus-fl-96-ce": {
+      "id": "thaesis-daughter-of-thonis-oxyrhynchus-fl-96-ce",
+      "type": "person",
+      "canonical_name": "Thaesis daughter of Thonis",
+      "name_variants": [],
+      "patronymic": "daughter of Thonis",
+      "dates": "fl. 96 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "divorced wife",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        141040
+      ],
+      "bio": "Woman who amicably divorced Petosarapis; her dowry of 400 drachmae was returned. Her guardian was her step-father Onnophris.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.266"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "dionysia-daughter-of-chaeremon-oxyrhynchus-fl-2nd-century-ce": {
+      "id": "dionysia-daughter-of-chaeremon-oxyrhynchus-fl-2nd-century-ce",
+      "type": "person",
+      "canonical_name": "Dionysia daughter of Chaeremon",
+      "name_variants": [],
+      "patronymic": "daughter of Chaeremon",
+      "dates": "fl. 2nd century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "litigant",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        141383
+      ],
+      "bio": "Woman who fought a landmark legal battle against her father.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.237"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "julia-heracla-oxyrhynchus-fl-95-ce": {
+      "id": "julia-heracla-oxyrhynchus-fl-95-ce",
+      "type": "person",
+      "canonical_name": "Julia Heracla",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 95 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "Roman citizen",
+          "date": "",
+          "location": "Oxyrhynchus"
+        },
+        {
+          "title": "landowner",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        43392
+      ],
+      "bio": "Roman citizen woman who transferred land to her daughter.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.273"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "theon-archidikastes-alexandria-fl-after-57-ce": {
+      "id": "theon-archidikastes-alexandria-fl-after-57-ce",
+      "type": "person",
+      "canonical_name": "Theon (archidikastes)",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. after 57 CE",
+      "location": "Alexandria",
+      "roles": [
+        {
+          "title": "chief justice and superintendent of the chrematistae",
+          "date": "",
+          "location": "Alexandria"
+        }
+      ],
+      "corpus_ids": [
+        141041
+      ],
+      "bio": "Archidikastes of Egypt, attested after 57 CE.",
+      "disambiguation": "Not the same as Theon, Syra's father.",
+      "physical_ids": [
+        "P.Oxy. 2.268"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "pallas-alexandria-fl-81-ce": {
+      "id": "pallas-alexandria-fl-81-ce",
+      "type": "person",
+      "canonical_name": "Pallas",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 81 CE",
+      "location": "Alexandria",
+      "roles": [
+        {
+          "title": "priest, archidikastes, superintendent of the chrematistae",
+          "date": "",
+          "location": "Alexandria"
+        }
+      ],
+      "corpus_ids": [
+        43245
+      ],
+      "bio": "Archidikastes of Egypt, attested in 81 CE.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 12.1471"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "aurelius-gaius-alexandria-fl-267-ce": {
+      "id": "aurelius-gaius-alexandria-fl-267-ce",
+      "type": "person",
+      "canonical_name": "Aurelius Gaius",
+      "name_variants": [
+        "Harpocration"
+      ],
+      "patronymic": "",
+      "dates": "fl. 267 CE",
+      "location": "Alexandria",
+      "roles": [
+        {
+          "title": "priest, archidikastes, superintendent of the chrematistae",
+          "date": "",
+          "location": "Alexandria"
+        }
+      ],
+      "corpus_ids": [
+        43248
+      ],
+      "bio": "Archidikastes of Egypt, also called Harpocration, attested in 267 CE.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 12.1475"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "aurelius-heroneinos-theadelphia-arsinoite-nome-fl-249-268-ce": {
+      "id": "aurelius-heroneinos-theadelphia-arsinoite-nome-fl-249-268-ce",
+      "type": "person",
+      "canonical_name": "Aurelius Heroneinos",
+      "name_variants": [
+        "Heroninos",
+        "Heroninos phrontistes"
+      ],
+      "patronymic": "",
+      "dates": "fl. 249-268 CE",
+      "location": "Theadelphia, Arsinoite nome",
+      "roles": [
+        {
+          "title": "Phrontistes (estate manager)",
+          "date": "249-268 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        50034,
+        50047,
+        50048,
+        50169,
+        50180,
+        50190,
+        50191,
+        50194,
+        50205,
+        50208,
+        50209,
+        50210,
+        50211,
+        50213,
+        50214,
+        50224,
+        50230,
+        50234,
+        50242,
+        50273,
+        50300,
+        50304,
+        50308,
+        50309,
+        50311,
+        50330,
+        50337,
+        50353,
+        50356,
+        50404,
+        50435,
+        50442,
+        50451,
+        50457,
+        50481,
+        50510,
+        50552,
+        50606,
+        50757,
+        50760,
+        50761
+      ],
+      "bio": "Estate manager (phrontistes) who ran the Theadelphia division of the Appianus estate in the Fayum for at least 19 years during the Crisis of the Third Century. Approximately 247 documents chronicle his wine production, grain transport, labor management, and financial accounting. His son Maximos served as diastoleus for the estate.\n",
+      "disambiguation": "Not to be confused with an earlier Heroneinos at Theadelphia attested in P.Freib. 4.70 (206 CE), probably a grandfather or great-uncle.\n",
+      "physical_ids": [
+        "TM Arch 103"
+      ],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "aurelius-appianus-alexandria-fl-249-268-ce": {
+      "id": "aurelius-appianus-alexandria-fl-249-268-ce",
+      "type": "person",
+      "canonical_name": "Aurelius Appianus",
+      "name_variants": [
+        "Apianos",
+        "Appianos"
+      ],
+      "patronymic": "",
+      "dates": "fl. 249-268 CE",
+      "location": "Alexandria",
+      "roles": [
+        {
+          "title": "Former exegetes of Alexandria",
+          "date": "before 249 CE",
+          "location": "Alexandria"
+        },
+        {
+          "title": "Bouleutes (councillor) of Alexandria",
+          "date": "249-268 CE",
+          "location": "Alexandria"
+        },
+        {
+          "title": "Estate owner",
+          "date": "249-268 CE",
+          "location": "Arsinoite nome"
+        }
+      ],
+      "corpus_ids": [
+        50205,
+        50208,
+        50209,
+        50210,
+        50211,
+        50213,
+        50214,
+        50308,
+        50405,
+        50481,
+        50613,
+        50618,
+        50646,
+        50757,
+        148385
+      ],
+      "bio": "Wealthy Alexandrian landowner whose vast estate in the Fayum was managed by village-level phrontistai. His letters reveal an imperious, demanding personality given to threats over trivial matters like jujubes and figs, but also capable of generosity toward former household servants. Brothers: Ophellios and Apollonios.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "alypios-arsinoe-nome-capital-fl-257-267-ce": {
+      "id": "alypios-arsinoe-nome-capital-fl-257-267-ce",
+      "type": "person",
+      "canonical_name": "Alypios",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 257-267 CE",
+      "location": "Arsinoe (nome capital)",
+      "roles": [
+        {
+          "title": "Chief administrator of Appianus estate",
+          "date": "257-267 CE",
+          "location": "Arsinoe"
+        }
+      ],
+      "corpus_ids": [
+        50116,
+        50169,
+        50172,
+        50180,
+        50190,
+        50191,
+        50194
+      ],
+      "bio": "Head administrator of the Appianus estate, based at the nome capital of Arsinoe. Coordinated between Appianus in Alexandria and the village managers. Efficient and businesslike but memorable for his complaint about a thin piglet. Assistant: Ischyrion.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "aurelius-maximos-theadelphia-alexandria-route-fl-264-265-ce": {
+      "id": "aurelius-maximos-theadelphia-alexandria-route-fl-264-265-ce",
+      "type": "person",
+      "canonical_name": "Aurelius Maximos",
+      "name_variants": [],
+      "patronymic": "son of Heroneinos",
+      "dates": "fl. 264-265 CE",
+      "location": "Theadelphia / Alexandria route",
+      "roles": [
+        {
+          "title": "Diastoleus (agent/distributor)",
+          "date": "264-265 CE",
+          "location": "Appianus estate"
+        }
+      ],
+      "corpus_ids": [
+        50180,
+        50300,
+        50356
+      ],
+      "bio": "Son of Heroneinos the phrontistes. Served as diastoleus for the Appianus estate, managing wine shipments to the city. Addressed Heroneinos as \"father\" in November 264 CE and acknowledged receipt of over 1,900 jars of wine.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "ischyrion-arsinoe-fl-249-ce": {
+      "id": "ischyrion-arsinoe-fl-249-ce",
+      "type": "person",
+      "canonical_name": "Ischyrion",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 249 CE",
+      "location": "Arsinoe",
+      "roles": [
+        {
+          "title": "Secretary/assistant to Alypios",
+          "date": "249 CE",
+          "location": "Arsinoe"
+        }
+      ],
+      "corpus_ids": [
+        50353
+      ],
+      "bio": "Secretary and assistant to the chief administrator Alypios. Frequently relayed orders to Heroneinos.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "syros-arsinoe-or-sathro-fl-255-257-ce": {
+      "id": "syros-arsinoe-or-sathro-fl-255-257-ce",
+      "type": "person",
+      "canonical_name": "Syros",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 255-257 CE",
+      "location": "Arsinoe or Sathro",
+      "roles": [
+        {
+          "title": "Estate administrator",
+          "date": "255-257 CE",
+          "location": "Appianus estate"
+        }
+      ],
+      "corpus_ids": [
+        50510,
+        50760
+      ],
+      "bio": "Mid-level administrator who coordinated between estates. Wrote to Heroneinos about the children of Pontikos and reported on canal maintenance needs.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "pontikos-theadelphia-fl-251-255-ce": {
+      "id": "pontikos-theadelphia-fl-251-255-ce",
+      "type": "person",
+      "canonical_name": "Pontikos",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 251-255 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "Assistant manager",
+          "date": "251-252 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        50481,
+        50760
+      ],
+      "bio": "Served as Heroneinos's assistant at Theadelphia, earning 20 drachmas per month. Disappears from the wage lists by the mid-250s. A letter of October 255 from Syros concerns his children, suggesting Pontikos had died or become incapacitated.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "sodike-theadelphia-fl-254-258-ce": {
+      "id": "sodike-theadelphia-fl-254-258-ce",
+      "type": "person",
+      "canonical_name": "Sodike",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 254-258 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "Shepherdess (poimenissa)",
+          "date": "254-258 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        50034,
+        50035,
+        50036,
+        50037,
+        50038
+      ],
+      "bio": "Female shepherdess at Theadelphia who appears on transport ostraca between 254 and 258 CE, carrying grain by donkey. One of the very few women visible in the operational records of the Appianus estate.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "aurelius-euprodokios-theadelphia-fl-250-ce": {
+      "id": "aurelius-euprodokios-theadelphia-fl-250-ce",
+      "type": "person",
+      "canonical_name": "Aurelius Euprodokios",
+      "name_variants": [],
+      "patronymic": "slave of Appianus",
+      "dates": "fl. 250 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "Slave (doulos)",
+          "date": "250 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        50646
+      ],
+      "bio": "Slave of Aurelius Appianus who submitted a sacrifice certificate (libellus) during the Decian persecution of 250 CE.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "aurelius-sarapammon-servant-theadelphia-fl-250-ce": {
+      "id": "aurelius-sarapammon-servant-theadelphia-fl-250-ce",
+      "type": "person",
+      "canonical_name": "Aurelius Sarapammon (servant)",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 250 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "Servant (hyperetes) of Appianus",
+          "date": "250 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        148385
+      ],
+      "bio": "Servant of Appianus who submitted a Decian sacrifice certificate at Theadelphia in 250 CE.\n",
+      "disambiguation": "Not to be confused with the worker Sarapammon listed in P.Flor. 3.321 at 4 drachmas/month, nor with the overseer Sarapammon who directed vintage operations.\n",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "eirenaios-euhemeria-fl-249-268-ce": {
+      "id": "eirenaios-euhemeria-fl-249-268-ce",
+      "type": "person",
+      "canonical_name": "Eirenaios",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 249-268 CE",
+      "location": "Euhemeria",
+      "roles": [
+        {
+          "title": "Phrontistes of Euhemeria",
+          "date": "249-268 CE",
+          "location": "Euhemeria"
+        }
+      ],
+      "corpus_ids": [],
+      "bio": "Manager (phrontistes) of the Euhemeria division of the Appianus estate.",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "palas-philoteris-fl-265-ce": {
+      "id": "palas-philoteris-fl-265-ce",
+      "type": "person",
+      "canonical_name": "Palas",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 265 CE",
+      "location": "Philoteris",
+      "roles": [
+        {
+          "title": "Phrontistes of Philoteris",
+          "date": "265 CE",
+          "location": "Philoteris"
+        }
+      ],
+      "corpus_ids": [
+        50442
+      ],
+      "bio": "Manager (phrontistes) of the Philoteris division of the Appianus estate. Shipped 80 Oxyrhynchite jars in the October 265 register.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "horion-dionysias-fl-249-268-ce": {
+      "id": "horion-dionysias-fl-249-268-ce",
+      "type": "person",
+      "canonical_name": "Horion",
+      "name_variants": [
+        "Horeion"
+      ],
+      "patronymic": "",
+      "dates": "fl. 249-268 CE",
+      "location": "Dionysias",
+      "roles": [
+        {
+          "title": "Phrontistes of Dionysias and Sentrepaei",
+          "date": "249-268 CE",
+          "location": "Dionysias"
+        }
+      ],
+      "corpus_ids": [
+        50230
+      ],
+      "bio": "Manager (phrontistes) of the Dionysias and Sentrepaei divisions.",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "hatres-theadelphia-fl-254-260-ce": {
+      "id": "hatres-theadelphia-fl-254-260-ce",
+      "type": "person",
+      "canonical_name": "Hatres",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 254-260 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "Cowherd",
+          "date": "254-260 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        50308
+      ],
+      "bio": "Cowherd at Theadelphia earning 48 drachmas per month.",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "dorion-theadelphia-fl-252-260-ce": {
+      "id": "dorion-theadelphia-fl-252-260-ce",
+      "type": "person",
+      "canonical_name": "Dorion",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 252-260 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "Ox-driver",
+          "date": "252-260 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        50308,
+        50481
+      ],
+      "bio": "Ox-driver at Theadelphia earning 48 drachmas per month.",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "kastor-theadelphia-fl-252-260-ce": {
+      "id": "kastor-theadelphia-fl-252-260-ce",
+      "type": "person",
+      "canonical_name": "Kastor",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 252-260 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "Donkey-driver",
+          "date": "252-260 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        50308,
+        50481
+      ],
+      "bio": "Senior donkey-driver at Theadelphia earning 17 drachmas 1 obol per month.",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "pouaris-theadelphia-fl-252-260-ce": {
+      "id": "pouaris-theadelphia-fl-252-260-ce",
+      "type": "person",
+      "canonical_name": "Pouaris",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 252-260 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "Donkey-driver",
+          "date": "252-260 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        50308,
+        50457,
+        50481
+      ],
+      "bio": "Donkey-driver at Theadelphia earning 8 drachmas per month.",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "kiot-theadelphia-fl-252-260-ce": {
+      "id": "kiot-theadelphia-fl-252-260-ce",
+      "type": "person",
+      "canonical_name": "Kiot",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 252-260 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "Headman/foreman of Chaio",
+          "date": "252-260 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        50308,
+        50457,
+        50481
+      ],
+      "bio": "Foreman at Theadelphia earning 8 drachmas per month plus 1 artaba wheat.",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "hermes-theadelphia-fl-252-255-ce": {
+      "id": "hermes-theadelphia-fl-252-255-ce",
+      "type": "person",
+      "canonical_name": "Hermes",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 252-255 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "Household slave (oikogenes)",
+          "date": "252 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        50481
+      ],
+      "bio": "Household slave at Theadelphia earning 4 drachmas per month. Also sent to guard palm trees.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "monimos-fl-257-ce": {
+      "id": "monimos-fl-257-ce",
+      "type": "person",
+      "canonical_name": "Monimos",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 257 CE",
+      "location": "",
+      "roles": [
+        {
+          "title": "Wine receiver/distributor",
+          "date": "257 CE",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        50242
+      ],
+      "bio": "Received wine shipments and complained about receiving vinegar.",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "herais-theadelphia-or-alexandria-fl-258-ce": {
+      "id": "herais-theadelphia-or-alexandria-fl-258-ce",
+      "type": "person",
+      "canonical_name": "Herais",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 258 CE",
+      "location": "Theadelphia or Alexandria",
+      "roles": [
+        {
+          "title": "Former wet-nurse (tithenos)",
+          "date": "before 258 CE",
+          "location": "Appianus household"
+        }
+      ],
+      "corpus_ids": [
+        50213
+      ],
+      "bio": "Former wet-nurse of the Appianus household who received a charitable gift of two jars of wine in February 258 CE.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "ophellios-alexandria-fl-249-268-ce": {
+      "id": "ophellios-alexandria-fl-249-268-ce",
+      "type": "person",
+      "canonical_name": "Ophellios",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 249-268 CE",
+      "location": "Alexandria",
+      "roles": [
+        {
+          "title": "Brother of Appianus",
+          "date": "249-268 CE",
+          "location": "Appianus estate"
+        }
+      ],
+      "corpus_ids": [],
+      "bio": "Brother of Aurelius Appianus, involved in estate management.",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "apollonios-fl-255-ce": {
+      "id": "apollonios-fl-255-ce",
+      "type": "person",
+      "canonical_name": "Apollonios",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 255 CE",
+      "location": "",
+      "roles": [
+        {
+          "title": "Brother of Appianus",
+          "date": "255 CE",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        50757
+      ],
+      "bio": "Brother of Appianus who cut timber in the fields, requiring Heroneinos's bull-teams to drag it before the flood.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "ninnos-fl-249-268-ce": {
+      "id": "ninnos-fl-249-268-ce",
+      "type": "person",
+      "canonical_name": "Ninnos",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 249-268 CE",
+      "location": "",
+      "roles": [
+        {
+          "title": "Estate agent",
+          "date": "249-268 CE",
+          "location": "Appianus estate"
+        }
+      ],
+      "corpus_ids": [],
+      "bio": "Agent handling wine transport and inter-estate coordination.",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "sarapammon-overseer-fl-249-268-ce": {
+      "id": "sarapammon-overseer-fl-249-268-ce",
+      "type": "person",
+      "canonical_name": "Sarapammon (overseer)",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 249-268 CE",
+      "location": "",
+      "roles": [
+        {
+          "title": "Estate overseer for vintage operations",
+          "date": "249-268 CE",
+          "location": "Appianus estate"
+        }
+      ],
+      "corpus_ids": [],
+      "bio": "Estate overseer who directed vintage operations.",
+      "disambiguation": "Distinct from Aurelius Sarapammon the servant who filed a Decian libellus, and from the worker Sarapammon in P.Flor. 3.321.\n",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "deios-theadelphia-fl-252-260-ce": {
+      "id": "deios-theadelphia-fl-252-260-ce",
+      "type": "person",
+      "canonical_name": "Deios",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 252-260 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "Cowherd",
+          "date": "252-260 CE",
+          "location": "Theadelphia"
+        },
+        {
+          "title": "Donkey-guard",
+          "date": "252 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        50308,
+        50457,
+        50481
+      ],
+      "bio": "Worker at Theadelphia appearing in multiple roles. One Deios served as cowherd at varying wages; another as donkey-guard. These may be two different individuals sharing a common name.\n",
+      "disambiguation": "Possibly two individuals: Deios the cowherd and Deios the donkey-guard.",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "polion-theadelphia-fl-252-ce": {
+      "id": "polion-theadelphia-fl-252-ce",
+      "type": "person",
+      "canonical_name": "Polion",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 252 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "Cowherd",
+          "date": "252 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        50457,
+        50481
+      ],
+      "bio": "Cowherd at Theadelphia earning 17 drachmas 1 obol per month.",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "patas-theadelphia-fl-254-260-ce": {
+      "id": "patas-theadelphia-fl-254-260-ce",
+      "type": "person",
+      "canonical_name": "Patas",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 254-260 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "Ox-driver",
+          "date": "254-260 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        50308
+      ],
+      "bio": "Ox-driver at Theadelphia earning 34 drachmas 2 obols per month.",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "aseis-theadelphia-fl-252-ce": {
+      "id": "aseis-theadelphia-fl-252-ce",
+      "type": "person",
+      "canonical_name": "Aseis",
+      "name_variants": [
+        "Abies",
+        "Akies"
+      ],
+      "patronymic": "",
+      "dates": "fl. 252 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "Cowherd",
+          "date": "252 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        50481
+      ],
+      "bio": "Cowherd at Theadelphia earning 48 drachmas per month.",
+      "disambiguation": "The names Aseis, Akies, and Abies may represent the same individual or distinct workers; the papyri are ambiguous.\n",
+      "physical_ids": [],
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "aurelia-techosis-small-oasis-bahariya-oxyrhynchus-fl-295-ce": {
+      "id": "aurelia-techosis-small-oasis-bahariya-oxyrhynchus-fl-295-ce",
+      "type": "person",
+      "canonical_name": "Aurelia Techosis",
+      "name_variants": [
+        "Aurelia Techosis daughter of Diodorus",
+        "Techosis daughter of Diodorus and Techosis"
+      ],
+      "patronymic": "daughter of Diodorus",
+      "dates": "fl. 295 CE",
+      "location": "Small Oasis (Bahariya); Oxyrhynchus",
+      "roles": [
+        {
+          "title": "petitioner",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "heir",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        22939
+      ],
+      "bio": "Woman originally from the Small Oasis (Bahariya Oasis), residing in Oxyrhynchus by 295 CE. She petitioned the beneficiarius Aurelius Ammonius on 8 February 295 CE after her mother's death, claiming intestate inheritance and reporting that two neighbours had robbed her mother's quarters of gold, furniture, and valuable clothes while she was occupied with funeral arrangements. She was illiterate and had her petition written by the scribe Aurelius Agathodaemon son of Serenus. Her petition reveals a sophisticated two-stage legal strategy: requesting security bonds from the accused and announcing her intention to escalate the case to the praefect of Egypt.\n",
+      "disambiguation": "Not to be confused with her mother, also named Techosis. The daughter bears the nomen Aurelia, indicating Roman citizenship under the Constitutio Antoniniana.\n",
+      "physical_ids": [
+        "P.Oxy. 8.1121"
+      ],
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "techosis-mother-small-oasis-bahariya-oxyrhynchus-d-early-february-295-ce": {
+      "id": "techosis-mother-small-oasis-bahariya-oxyrhynchus-d-early-february-295-ce",
+      "type": "person",
+      "canonical_name": "Techosis (mother)",
+      "name_variants": [
+        "Techosis mother of Aurelia Techosis"
+      ],
+      "patronymic": "unknown",
+      "dates": "d. early February 295 CE",
+      "location": "Small Oasis (Bahariya); Oxyrhynchus",
+      "roles": [
+        {
+          "title": "decedent",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "property owner",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        22939
+      ],
+      "bio": "Mother of the petitioner Aurelia Techosis and wife of Diodorus. Originally from the Small Oasis, she died intestate in Oxyrhynchus shortly before 8 February 295 CE after an illness during which her daughter nursed her. She had accumulated considerable property including gold, furniture, and valuable clothes, all of which were stolen by neighbours after her death.\n",
+      "disambiguation": "Mother of the petitioner, who bore the same name -- a common Egyptian practice of matronymic naming.\n",
+      "physical_ids": [
+        "P.Oxy. 8.1121"
+      ],
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "diodorus-small-oasis-bahariya-or-oxyrhynchus-unknown": {
+      "id": "diodorus-small-oasis-bahariya-or-oxyrhynchus-unknown",
+      "type": "person",
+      "canonical_name": "Diodorus",
+      "name_variants": [],
+      "patronymic": "unknown",
+      "dates": "unknown",
+      "location": "Small Oasis (Bahariya) or Oxyrhynchus",
+      "roles": [
+        {
+          "title": "father of petitioner",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        22939
+      ],
+      "bio": "Father of Aurelia Techosis. Named in the petition's identification formula but absent from the narrative of illness, death, and robbery. His Greek name (meaning \"gift of Zeus\") provides no definitive evidence of ethnicity or origin. He may have died before 295 CE or may have remained in the Small Oasis.\n",
+      "disambiguation": "Common Greek name in Roman Egypt. This Diodorus is identified only through his daughter's petition, P.Oxy. 8.1121.\n",
+      "physical_ids": [
+        "P.Oxy. 8.1121"
+      ],
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "aurelius-ammonius-oxyrhynchus-fl-295-ce": {
+      "id": "aurelius-ammonius-oxyrhynchus-fl-295-ce",
+      "type": "person",
+      "canonical_name": "Aurelius Ammonius",
+      "name_variants": [],
+      "patronymic": "unknown",
+      "dates": "fl. 295 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "beneficiarius of the praefect of Egypt",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        22939
+      ],
+      "bio": "Military officer holding the rank of beneficiarius, stationed at a fixed post (statio) in Oxyrhynchus and attached to the praefect of Egypt. He received Aurelia Techosis's petition on 8 February 295 CE. Filing notes on the verso indicate he was simultaneously handling at least one other petition, from a woman named Tasabes against her children. His Egyptian-derived name (from the god Ammon) combined with the nomen Aurelius suggests an Egyptian-born Roman citizen in military service.\n",
+      "disambiguation": "Identified as beneficiarius praefecti Aegypti in P.Oxy. 8.1121.\n",
+      "physical_ids": [
+        "P.Oxy. 8.1121"
+      ],
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "sotas-oxyrhynchus-fl-295-ce": {
+      "id": "sotas-oxyrhynchus-fl-295-ce",
+      "type": "person",
+      "canonical_name": "Sotas",
+      "name_variants": [],
+      "patronymic": "unknown",
+      "dates": "fl. 295 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "accused robber",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "neighbour of deceased",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        22939
+      ],
+      "bio": "Neighbour of Techosis's mother in the same multi-unit house in Oxyrhynchus. Accused by Aurelia Techosis of carrying off her deceased mother's gold, furniture, clothes, and other movable property while Techosis was occupied with funeral arrangements.\n",
+      "disambiguation": "Identified only through P.Oxy. 8.1121.",
+      "physical_ids": [
+        "P.Oxy. 8.1121"
+      ],
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "papontos-oxyrhynchus-fl-295-ce": {
+      "id": "papontos-oxyrhynchus-fl-295-ce",
+      "type": "person",
+      "canonical_name": "Papontos",
+      "name_variants": [],
+      "patronymic": "unknown",
+      "dates": "fl. 295 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "accused robber",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "neighbour of deceased",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        22939
+      ],
+      "bio": "Neighbour of Techosis's mother in the same multi-unit house in Oxyrhynchus. Together with Sotas, accused by Aurelia Techosis of stealing her mother's property after the mother's death.\n",
+      "disambiguation": "Identified only through P.Oxy. 8.1121.",
+      "physical_ids": [
+        "P.Oxy. 8.1121"
+      ],
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "aurelius-agathodaemon-oxyrhynchus-fl-295-ce": {
+      "id": "aurelius-agathodaemon-oxyrhynchus-fl-295-ce",
+      "type": "person",
+      "canonical_name": "Aurelius Agathodaemon",
+      "name_variants": [],
+      "patronymic": "son of Serenus",
+      "dates": "fl. 295 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "scribe",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "petition writer",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        22939
+      ],
+      "bio": "Professional scribe who wrote Aurelia Techosis's petition on her behalf because she was illiterate. His role likely extended beyond mere transcription to informal legal advising -- the petition's rhetorical sophistication and precise legal terminology suggest a scribe familiar with petition formulae and Roman legal concepts.\n",
+      "disambiguation": "Identified as the writer of P.Oxy. 8.1121.",
+      "physical_ids": [
+        "P.Oxy. 8.1121"
+      ],
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "tasabes-oxyrhynchus-probable-fl-295-ce": {
+      "id": "tasabes-oxyrhynchus-probable-fl-295-ce",
+      "type": "person",
+      "canonical_name": "Tasabes",
+      "name_variants": [],
+      "patronymic": "unknown",
+      "dates": "fl. 295 CE",
+      "location": "Oxyrhynchus (probable)",
+      "roles": [
+        {
+          "title": "petitioner",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        22939
+      ],
+      "bio": "Woman who filed a petition with the same beneficiarius Aurelius Ammonius, apparently complaining against her own children. Known only from a filing note on the verso of P.Oxy. 8.1121.\n",
+      "disambiguation": "Known only from a verso note on P.Oxy. 8.1121.",
+      "physical_ids": [
+        "P.Oxy. 8.1121 (verso)"
+      ],
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "polydeukes-unknown-fl-295-ce-probable": {
+      "id": "polydeukes-unknown-fl-295-ce-probable",
+      "type": "person",
+      "canonical_name": "Polydeukes",
+      "name_variants": [],
+      "patronymic": "unknown",
+      "dates": "fl. 295 CE (probable)",
+      "location": "unknown",
+      "roles": [
+        {
+          "title": "unknown",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        22939
+      ],
+      "bio": "Person named in a damaged filing note on the verso of P.Oxy. 8.1121: \"To Polydeukes from the [...] before this year's time.\" The context is unclear.\n",
+      "disambiguation": "Known only from a fragmentary verso note on P.Oxy. 8.1121.\n",
+      "physical_ids": [
+        "P.Oxy. 8.1121 (verso)"
+      ],
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "aurelius-gordianos-karanis-region-fl-297-ce": {
+      "id": "aurelius-gordianos-karanis-region-fl-297-ce",
+      "type": "person",
+      "canonical_name": "Aurelius Gordianos",
+      "name_variants": [],
+      "patronymic": "unknown",
+      "dates": "fl. 297 CE",
+      "location": "Karanis region",
+      "roles": [
+        {
+          "title": "beneficiarius",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        139321
+      ],
+      "bio": "Beneficiarius on station duty who received a petition from Aurelia Taesis daughter of Kopres about violence, dated after 20 November 297 CE. His case parallels Techosis's petition two years earlier.\n",
+      "disambiguation": "Beneficiarius attested in P.Cair.Isid. 63.",
+      "physical_ids": [
+        "P.Cair.Isid. 63"
+      ],
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "aurelia-taesis-karanis-fl-297-ce": {
+      "id": "aurelia-taesis-karanis-fl-297-ce",
+      "type": "person",
+      "canonical_name": "Aurelia Taesis",
+      "name_variants": [],
+      "patronymic": "daughter of Kopres",
+      "dates": "fl. 297 CE",
+      "location": "Karanis",
+      "roles": [
+        {
+          "title": "petitioner",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        139321
+      ],
+      "bio": "Woman from the village of Karanis who petitioned beneficiarius Aurelius Gordianos about violence and an unlawful attack, using language closely parallel to Techosis's petition.\n",
+      "disambiguation": "Identified in P.Cair.Isid. 63.",
+      "physical_ids": [
+        "P.Cair.Isid. 63"
+      ],
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "valerius-pompeianus-alexandria-seat-of-praefect-fl-287-289-ce": {
+      "id": "valerius-pompeianus-alexandria-seat-of-praefect-fl-287-289-ce",
+      "type": "person",
+      "canonical_name": "Valerius Pompeianus",
+      "name_variants": [
+        "Flavius Valerius Pompeianus"
+      ],
+      "patronymic": "unknown",
+      "dates": "fl. 287-289 CE",
+      "location": "Alexandria (seat of praefect)",
+      "roles": [
+        {
+          "title": "praefect of Egypt",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        137150,
+        141158
+      ],
+      "bio": "Praefect of Egypt who issued proclamations affecting both the Oxyrhynchite nome and the Small Oasis, including a decree on orphan guardianship (287 CE) and instructions to the strategi of the Heptanomia and Small Oasis (289 CE).\n",
+      "disambiguation": "Praefect of Egypt attested ca. 287-289 CE.",
+      "physical_ids": [
+        "P.Oxy. 6.888",
+        "P.Amh. 2.137"
+      ],
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "aurelius-plutarchus-oxyrhynchus-small-oasis-fl-299-ce": {
+      "id": "aurelius-plutarchus-oxyrhynchus-small-oasis-fl-299-ce",
+      "type": "person",
+      "canonical_name": "Aurelius Plutarchus",
+      "name_variants": [
+        "Atactius"
+      ],
+      "patronymic": "also called Atactius",
+      "dates": "fl. 299 CE",
+      "location": "Oxyrhynchus; Small Oasis",
+      "roles": [
+        {
+          "title": "military official",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        141264
+      ],
+      "bio": "Official sent to the Small Oasis in 299 CE for the discharge of soldiers stationed there, by order of the praefect Aelius Publius. His petition reveals active military connections between Oxyrhynchus and the Small Oasis in the same decade as Techosis's petition.\n",
+      "disambiguation": "Attested in P.Oxy. 9.1204.",
+      "physical_ids": [
+        "P.Oxy. 9.1204"
+      ],
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "aurelia-tinoutis-unknown-fl-269-ce": {
+      "id": "aurelia-tinoutis-unknown-fl-269-ce",
+      "type": "person",
+      "canonical_name": "Aurelia Tinoutis",
+      "name_variants": [
+        "Theodora"
+      ],
+      "patronymic": "daughter of Pinoution",
+      "dates": "fl. 269 CE",
+      "location": "unknown",
+      "roles": [
+        {
+          "title": "petitioner",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        37824
+      ],
+      "bio": "Woman who formally renounced her deceased brother's intestate estate in 269 CE to avoid liability for his debts.\n",
+      "disambiguation": "Also called Theodora; attested in P.Ryl. 2.117.",
+      "physical_ids": [
+        "P.Ryl. 2.117"
+      ],
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "clodius-culcianus-alexandria-seat-of-praefect-fl-303-306-ce": {
+      "id": "clodius-culcianus-alexandria-seat-of-praefect-fl-303-306-ce",
+      "type": "person",
+      "canonical_name": "Clodius Culcianus",
+      "name_variants": [],
+      "patronymic": "unknown",
+      "dates": "fl. 303-306 CE",
+      "location": "Alexandria (seat of praefect)",
+      "roles": [
+        {
+          "title": "praefect of Egypt",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        23923,
+        147201
+      ],
+      "bio": "Praefect of Egypt who enforced Diocletian's Great Persecution against Christians beginning in 303 CE. His praefecture began approximately eight years after Techosis filed her petition.\n",
+      "disambiguation": "Praefect of Egypt attested 303-306 CE.",
+      "physical_ids": [
+        "P.Oxy. 1.71 col. 1",
+        "P.Oxy. 6.895r"
+      ],
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "euphrosyne-oxyrhynchus-ca-51---after-86-ce": {
+      "id": "euphrosyne-oxyrhynchus-ca-51---after-86-ce",
+      "type": "person",
+      "canonical_name": "Euphrosyne",
+      "name_variants": [
+        "Euphrosyne",
+        "Euphrosynē"
+      ],
+      "patronymic": "",
+      "dates": "ca. 51 - after 86 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "house-born slave (oikogenes)",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "freedwoman (apeleuthera)",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43162
+      ],
+      "bio": "House-born slave freed at age 35 on 16 October 86 CE by her mistress Aloine daughter of Komon. Born in the household ca. 51 CE, daughter of the slave Demetrous. Manumitted under the Zeus-Earth-Sun formula by ransom through the agoranomus of Oxyrhynchus. Her name means \"Joy\" and is shared with one of the Three Graces of Greek mythology. She disappears from the record after this single attestation.\n",
+      "disambiguation": "Distinct from Euphrosynus (male) in P.Oxy. 12.1451 (corpus ID 69362), a house-born slave of the Roman citizen Trunnia, 175 CE.\n",
+      "physical_ids": [
+        "P.Oxy. 1.48 (Vaughan Library, Harrow School)"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "demetrous-oxyrhynchus-1st-century-ce": {
+      "id": "demetrous-oxyrhynchus-1st-century-ce",
+      "type": "person",
+      "canonical_name": "Demetrous",
+      "name_variants": [
+        "Demetrous",
+        "Dēmetrous"
+      ],
+      "patronymic": "",
+      "dates": "1st century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "slave (doule)",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43162
+      ],
+      "bio": "Slave in the household of Aloine daughter of Komon in Oxyrhynchus. Mother of Euphrosyne. Her name derives from Demeter, goddess of grain. No further information survives; she cannot be definitively identified with any of the other women named Demetrous in the Oxyrhynchus papyri.\n",
+      "disambiguation": "Not the Demetrous daughter of Ammonius in P.Oxy. 2.346 (corpus ID 43427), who was a free woman.\n",
+      "physical_ids": [
+        "P.Oxy. 1.48 (Vaughan Library, Harrow School)"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "aloine-oxyrhynchus-1st-century-ce": {
+      "id": "aloine-oxyrhynchus-1st-century-ce",
+      "type": "person",
+      "canonical_name": "Aloine",
+      "name_variants": [
+        "Aloine",
+        "Aloinē"
+      ],
+      "patronymic": "daughter of Komon son of Dionysius",
+      "dates": "1st century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "slave-owner (despotis)",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "free woman of Oxyrhynchus",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43162
+      ],
+      "bio": "Free woman of Oxyrhynchus who manumitted her house-born slave Euphrosyne on 16 October 86 CE. Daughter of Komon son of Dionysius. Required a male guardian (kyrios) for the transaction; her full brother Dioscorus had died, so guardianship passed to Dioscorus's son, also named Komon. No husband is named in the document.\n",
+      "disambiguation": "No other attestation of this name in the Oxyrhynchus papyri.\n",
+      "physical_ids": [
+        "P.Oxy. 1.48 (Vaughan Library, Harrow School)"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "komon-son-of-dionysius-oxyrhynchus-1st-century-ce": {
+      "id": "komon-son-of-dionysius-oxyrhynchus-1st-century-ce",
+      "type": "person",
+      "canonical_name": "Komon son of Dionysius",
+      "name_variants": [
+        "Komon",
+        "Komōn"
+      ],
+      "patronymic": "son of Dionysius",
+      "dates": "1st century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "father of Aloine and Dioscorus",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43162
+      ],
+      "bio": "Father of Aloine (the slave-owner) and Dioscorus. Son of Dionysius. Named in the manumission document as part of Aloine's genealogical identification. Whether alive at the time of the manumission is unclear.\n",
+      "disambiguation": "Distinct from his grandson Komon son of Dioscorus, who served as Aloine's guardian.\n",
+      "physical_ids": [
+        "P.Oxy. 1.48 (Vaughan Library, Harrow School)"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "dioscorus-son-of-komon-oxyrhynchus-1st-century-ce-deceased-by-86-ce": {
+      "id": "dioscorus-son-of-komon-oxyrhynchus-1st-century-ce-deceased-by-86-ce",
+      "type": "person",
+      "canonical_name": "Dioscorus son of Komon",
+      "name_variants": [
+        "Dioscorus",
+        "Dioskoros"
+      ],
+      "patronymic": "son of Komon son of Dionysius",
+      "dates": "1st century CE (deceased by 86 CE)",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "brother of Aloine (deceased)",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43162
+      ],
+      "bio": "Full brother (gnesios adelphos) of Aloine, son of Komon son of Dionysius. Deceased by the time of Euphrosyne's manumission in 86 CE. His son Komon served as Aloine's legal guardian in the transaction.\n",
+      "disambiguation": "Not the freedman Dioscorus in P.Oxy. 10.1263 (corpus ID 43194).\n",
+      "physical_ids": [
+        "P.Oxy. 1.48 (Vaughan Library, Harrow School)"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "komon-son-of-dioscorus-oxyrhynchus-1st-century-ce": {
+      "id": "komon-son-of-dioscorus-oxyrhynchus-1st-century-ce",
+      "type": "person",
+      "canonical_name": "Komon son of Dioscorus",
+      "name_variants": [
+        "Komon",
+        "Komōn"
+      ],
+      "patronymic": "son of Dioscorus son of Komon",
+      "dates": "1st century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "guardian (kyrios) of Aloine",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43162
+      ],
+      "bio": "Son of the deceased Dioscorus, nephew of Aloine. Named after his grandfather Komon son of Dionysius, following the alternating-generation naming convention (papponymy). Served as Aloine's legal guardian (kyrios) for the manumission of Euphrosyne.\n",
+      "disambiguation": "Distinct from his grandfather Komon son of Dionysius.\n",
+      "physical_ids": [
+        "P.Oxy. 1.48 (Vaughan Library, Harrow School)"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "chaeremon-oxyrhynchus-1st-century-ce": {
+      "id": "chaeremon-oxyrhynchus-1st-century-ce",
+      "type": "person",
+      "canonical_name": "Chaeremon",
+      "name_variants": [
+        "Chaeremon",
+        "Chairēmōn"
+      ],
+      "patronymic": "",
+      "dates": "1st century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "official/intermediary at the agoranomeion",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43162,
+        44088
+      ],
+      "bio": "Wrote to the agoranomus of Oxyrhynchus to authorize Euphrosyne's manumission. Also appears (possibly the same individual) in P.Oxy. 75.5051, writing to the agoranomus to register the sale of the slave Plousia, using an identical format. May have been a nominee or deputy of the agoranomos's office. His name means \"rejoice\" -- the same verb (chairein) that opens his letter.\n",
+      "disambiguation": "Possibly identical with the Chaeremon in P.Oxy. 75.5051 (corpus ID 44088). Distinct from Chaeremon son of Chaeremon of the Maronian deme in P.Oxy. 2.243 (corpus ID 141037), and from Chaeremon son of Onnophris in P.Oxy. 7.1028 (corpus ID 44043).\n",
+      "physical_ids": [
+        "P.Oxy. 1.48 (Vaughan Library, Harrow School)"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "apollonous-oxyrhynchus-ca-65---after-91-ce": {
+      "id": "apollonous-oxyrhynchus-ca-65---after-91-ce",
+      "type": "person",
+      "canonical_name": "Apollonous",
+      "name_variants": [
+        "Apollonous"
+      ],
+      "patronymic": "",
+      "dates": "ca. 65 - after 91 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "slave",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "freedwoman",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43608
+      ],
+      "bio": "Slave freed in Oxyrhynchus on 29 August 91 CE, five years after Euphrosyne. Aged about 26. Freed under the Zeus-Earth-Sun formula by ransom. Had been freed in stages: the other two-thirds of her ownership had already been liberated. Ransom paid by Heraclas son of Tryphon. Physical description: middle height, fair, long face, scar on the right foot.\n",
+      "disambiguation": "Not otherwise attested.\n",
+      "physical_ids": [
+        "P.Oxy. 4.722"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "achilleus-oxyrhynchus-ca-71---after-91-ce": {
+      "id": "achilleus-oxyrhynchus-ca-71---after-91-ce",
+      "type": "person",
+      "canonical_name": "Achilleus",
+      "name_variants": [
+        "Achilleus"
+      ],
+      "patronymic": "son of [...] son of Ammonius",
+      "dates": "ca. 71 - after 91 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "co-owner of Apollonous",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43608
+      ],
+      "bio": "Brother of Sarapas. Aged about 20 in 91 CE. Co-freed the slave Apollonous (their one-third share). Physical description: middle height, fair, long face, scar on the middle of his forehead.\n",
+      "disambiguation": "Not otherwise attested.\n",
+      "physical_ids": [
+        "P.Oxy. 4.722"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "sarapas-oxyrhynchus-1st-century-ce": {
+      "id": "sarapas-oxyrhynchus-1st-century-ce",
+      "type": "person",
+      "canonical_name": "Sarapas",
+      "name_variants": [
+        "Sarapas"
+      ],
+      "patronymic": "son of [...] son of Ammonius",
+      "dates": "1st century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "co-owner of Apollonous",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43608
+      ],
+      "bio": "Brother of Achilleus. Co-freed the slave Apollonous (their one-third share) in 91 CE. Physical description: middle height, fair, long face, scar on left [damaged].\n",
+      "disambiguation": "Not otherwise attested.\n",
+      "physical_ids": [
+        "P.Oxy. 4.722"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "heraclas-son-of-tryphon-oxyrhynchus-ca-60---after-91-ce": {
+      "id": "heraclas-son-of-tryphon-oxyrhynchus-ca-60---after-91-ce",
+      "type": "person",
+      "canonical_name": "Heraclas son of Tryphon",
+      "name_variants": [
+        "Heraclas",
+        "Hēraklas"
+      ],
+      "patronymic": "son of Tryphon",
+      "dates": "ca. 60 - after 91 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "ransom payer for Apollonous",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43608
+      ],
+      "bio": "Paid 200 drachmae of imperial silver coin plus copper talents as ransom for the slave Apollonous in 91 CE. Aged about 31. Physical description: middle height, fair, long face, scar above right knee. His relationship to Apollonous is not specified in the document.\n",
+      "disambiguation": "Not otherwise attested.\n",
+      "physical_ids": [
+        "P.Oxy. 4.722"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "serenus-oxyrhynchus-2nd-century-ce": {
+      "id": "serenus-oxyrhynchus-2nd-century-ce",
+      "type": "person",
+      "canonical_name": "Serenus",
+      "name_variants": [
+        "Serenus",
+        "Serēnos"
+      ],
+      "patronymic": "freedman of Apollonianus son of Sarapion",
+      "dates": "2nd century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "freedman (apeleutheros)",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "creditor",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        141057
+      ],
+      "bio": "Freedman who became a substantial creditor, lending 900 silver drachmae secured by a slave. Petitioned the archidicastes Antoninus (also called Pudens) in Alexandria to enforce repayment after the borrower defaulted, demonstrating the legal standing and economic agency available to freedpersons in Roman Egypt.\n",
+      "disambiguation": "Not otherwise attested in the Oxyrhynchus papyri.\n",
+      "physical_ids": [
+        "P.Oxy. 3.485"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "dioscorus-freedman-oxyrhynchus-2nd-century-ce": {
+      "id": "dioscorus-freedman-oxyrhynchus-2nd-century-ce",
+      "type": "person",
+      "canonical_name": "Dioscorus (freedman)",
+      "name_variants": [
+        "Dioscorus",
+        "Dioskoros"
+      ],
+      "patronymic": "freedman of Sarapion son of Sarapion",
+      "dates": "2nd century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "freedman",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "river-worker",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43194
+      ],
+      "bio": "Freedman who applied for a license to practice the trade of river-worker in Oxyrhynchus in 128-129 CE, during Hadrian's reign. Demonstrates economic integration of freedpersons after manumission.\n",
+      "disambiguation": "Not the Dioscorus son of Komon who was Aloine's brother.\n",
+      "physical_ids": [
+        "P.Oxy. 10.1263"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "ophelas-oxyrhynchus-2nd-century-ce": {
+      "id": "ophelas-oxyrhynchus-2nd-century-ce",
+      "type": "person",
+      "canonical_name": "Ophelas",
+      "name_variants": [
+        "Corax",
+        "Ophelas"
+      ],
+      "patronymic": "freedman of Apia (also called Dionysia)",
+      "dates": "2nd century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "freedman",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "tenant farmer",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43205
+      ],
+      "bio": "Freedman of a female owner (Apia/Dionysia), who leased three arourae of state land for five years in 139 CE. Also known by the nickname Corax (\"Crow\"). His case parallels Euphrosyne's in that both were freed by female owners.\n",
+      "disambiguation": "Not otherwise attested.\n",
+      "physical_ids": [
+        "P.Oxy. 10.1279"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "dionysous-freedwoman-oxyrhynchus-2nd-century-ce": {
+      "id": "dionysous-freedwoman-oxyrhynchus-2nd-century-ce",
+      "type": "person",
+      "canonical_name": "Dionysous (freedwoman)",
+      "name_variants": [
+        "Dionysous"
+      ],
+      "patronymic": "freedwoman of Dionysia daughter of Dionysius",
+      "dates": "2nd century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "freedwoman",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43464
+      ],
+      "bio": "Freedwoman who declared her son Ptollis eligible for the 12-drachma tax class in 133 CE, demonstrating that freedwomen's children could attain privileged metropolitan status in Oxyrhynchus.\n",
+      "disambiguation": "Not otherwise attested.\n",
+      "physical_ids": [
+        "P.Oxy. 3.478"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "aphroditous-oxyrhynchus-early-2nd-century-ce": {
+      "id": "aphroditous-oxyrhynchus-early-2nd-century-ce",
+      "type": "person",
+      "canonical_name": "Aphroditous",
+      "name_variants": [
+        "Aphroditous",
+        "Demarous"
+      ],
+      "patronymic": "freedwoman of Epicrates son of Epicrates",
+      "dates": "early 2nd century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "freedwoman",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "adopted daughter",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "landowner",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43482
+      ],
+      "bio": "Freedwoman adopted by her former master Epicrates, becoming his legal daughter. Sold 6 2/3 arourae of catoecic land for 1,000 silver drachmae. A remarkable case of social integration after manumission, with the former master-slave relationship transformed into a legal parent-child relationship.\n",
+      "disambiguation": "Not otherwise attested.\n",
+      "physical_ids": [
+        "P.Oxy. 3.504"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "syntyche-oxyrhynchus-2nd-century-ce": {
+      "id": "syntyche-oxyrhynchus-2nd-century-ce",
+      "type": "person",
+      "canonical_name": "Syntyche",
+      "name_variants": [
+        "Syntyche",
+        "Syntychē"
+      ],
+      "patronymic": "freedwoman of Sarapias daughter of Dionysius",
+      "dates": "2nd century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "freedwoman",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        42635
+      ],
+      "bio": "Freedwoman who received grain transfers at the village of Seryphis in 135 CE, demonstrating economic participation by freedwomen in the commodity economy.\n",
+      "disambiguation": "Not otherwise attested.\n",
+      "physical_ids": [
+        "P.Oxy. 72.4875"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "abascantus-oxyrhynchus-2nd-century-ce": {
+      "id": "abascantus-oxyrhynchus-2nd-century-ce",
+      "type": "person",
+      "canonical_name": "Abascantus",
+      "name_variants": [
+        "Abascantus",
+        "Abaskantos"
+      ],
+      "patronymic": "freedman of Samus son of Heraclides",
+      "dates": "2nd century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "freedman",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "guardian (epitropos)",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        141073
+      ],
+      "bio": "Freedman who served as legal guardian for the children of Theon in 186 CE, a position of trust that indicates high social standing despite freed status.\n",
+      "disambiguation": "Not otherwise attested.\n",
+      "physical_ids": [
+        "P.Oxy. 4.716"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "plousia-oxyrhynchus-late-1st-century-ce": {
+      "id": "plousia-oxyrhynchus-late-1st-century-ce",
+      "type": "person",
+      "canonical_name": "Plousia",
+      "name_variants": [
+        "Kale Phasis",
+        "Plousia"
+      ],
+      "patronymic": "",
+      "dates": "late 1st century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "slave",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        44088
+      ],
+      "bio": "Slave woman, about 23 years old, sold by Serapous daughter of Zoilus to Harthoonis (also called Theon) for 10 talents 5,000 drachmae in bronze. Her dual name may indicate prior ownership changes. Sold through the same Chaeremon-agoranomus channel as Euphrosyne's manumission.\n",
+      "disambiguation": "Not otherwise attested.\n",
+      "physical_ids": [
+        "P.Oxy. 75.5051"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "julia-heracla-oxyrhynchus-1st-century-ce": {
+      "id": "julia-heracla-oxyrhynchus-1st-century-ce",
+      "type": "person",
+      "canonical_name": "Julia Heracla",
+      "name_variants": [
+        "Julia Heracla"
+      ],
+      "patronymic": "",
+      "dates": "1st century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "Roman citizen",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "property owner",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43392
+      ],
+      "bio": "Roman citizen woman in Oxyrhynchus who ceded property to her daughter in 95 CE. Her Roman citizenship conferred legal capacities different from those of Greek-status women like Aloine.\n",
+      "disambiguation": "Not otherwise attested.\n",
+      "physical_ids": [
+        "P.Oxy. 2.273"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "victor-son-of-cornelius-unknown-egypt-6th-century-ce": {
+      "id": "victor-son-of-cornelius-unknown-egypt-6th-century-ce",
+      "type": "person",
+      "canonical_name": "Victor son of Cornelius",
+      "name_variants": [
+        "Victor"
+      ],
+      "patronymic": "son of Cornelius",
+      "dates": "6th century CE",
+      "location": "Unknown (Egypt)",
+      "roles": [
+        {
+          "title": "monk",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "slave-owner",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        15581
+      ],
+      "bio": "Monk of the monastery of Apa Makrobios who freed his house-born slave Menas on 14 July 589 CE, \"in order to find remission and redemption of all my sins.\" A late antique Christian manumission showing the continuity of house-born slavery into the Byzantine period.\n",
+      "disambiguation": "Not otherwise attested.\n",
+      "physical_ids": [
+        "P.Koeln 3.157"
+      ],
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "psates-son-of-abraamios-panopolis-originally-this-thinite-nome-fl-592-ce-d-before-july-600-ce": {
+      "id": "psates-son-of-abraamios-panopolis-originally-this-thinite-nome-fl-592-ce-d-before-july-600-ce",
+      "type": "person",
+      "canonical_name": "Psates son of Abraamios",
+      "name_variants": [
+        "Aurelius Psates",
+        "Psates"
+      ],
+      "patronymic": "son of Abraamios",
+      "dates": "fl. 592 CE, d. before July 600 CE",
+      "location": "Panopolis (originally); This, Thinite nome",
+      "roles": [
+        {
+          "title": "porphyropoles (purple-seller)",
+          "date": "592 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        5267,
+        25044
+      ],
+      "bio": "Purple-seller who migrated from Panopolis (Akhmim) to the village of This in the Thinite nome of Upper Egypt. Resident for a long time by 592 CE. Sold a dilapidated house to his son Pachymios in that year. Died between 592 and 600 CE. His mother was Tmouthes. Illiterate; a deacon wrote on his behalf.\n",
+      "disambiguation": "Father of Pachymios, Ioannes, and Tarsene. Not to be confused with the deacon Psates son of Papnouthios who served as scribe in the 592 sale.\n",
+      "physical_ids": [
+        "P.Paris 21bis",
+        "P.Paris 20"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "maria-daughter-of-philamon-panopolis-originally-this-thinite-nome-fl-592-ce-d-before-july-600-ce": {
+      "id": "maria-daughter-of-philamon-panopolis-originally-this-thinite-nome-fl-592-ce-d-before-july-600-ce",
+      "type": "person",
+      "canonical_name": "Maria daughter of Philamon",
+      "name_variants": [
+        "Aurelia Maria",
+        "Maria"
+      ],
+      "patronymic": "daughter of Philamon",
+      "dates": "fl. 592 CE, d. before July 600 CE",
+      "location": "Panopolis (originally); This, Thinite nome",
+      "roles": [
+        {
+          "title": "property co-owner and co-seller",
+          "date": "592 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        5267,
+        25044
+      ],
+      "bio": "Wife of Psates son of Abraamios. Daughter of Philamon, whose mother was Taniskene. Originally from Panopolis, resident in This. Co-seller of the family house in 592 CE. Died between 592 and 600 CE. Illiterate.\n",
+      "disambiguation": "Mother of Pachymios, Ioannes, and Tarsene. Not to be confused with the Maria who is named as mother of Pyras daughter of Besatas in P.Paris 21 (616 CE), a different individual.\n",
+      "physical_ids": [
+        "P.Paris 21bis",
+        "P.Paris 20"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "pachymios-son-of-psates-panopolis-origin-this-thinite-nome-fl-592-616-ce": {
+      "id": "pachymios-son-of-psates-panopolis-origin-this-thinite-nome-fl-592-616-ce",
+      "type": "person",
+      "canonical_name": "Pachymios son of Psates",
+      "name_variants": [
+        "Aurelius Pachymios",
+        "Pachoumis",
+        "Pachymios",
+        "Pachymis"
+      ],
+      "patronymic": "son of Psates",
+      "dates": "fl. 592-616 CE",
+      "location": "Panopolis (origin); This, Thinite nome",
+      "roles": [
+        {
+          "title": "porphyropoles (purple-seller)",
+          "date": "592-616 CE",
+          "location": "This, Thinite nome"
+        },
+        {
+          "title": "workshop owner",
+          "date": "605 CE",
+          "location": "This, Thinite nome"
+        },
+        {
+          "title": "moneylender",
+          "date": "606-613 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        5267,
+        6310,
+        6311,
+        6312,
+        6313,
+        25044
+      ],
+      "bio": "Eldest son of Psates and Maria. Purple-seller who inherited and expanded the family business in This. Bought a dilapidated house from his parents in 592 CE. After their deaths, confirmed as legitimate owner in the 600 CE inheritance division. Ran a workshop with multiple hired purple-workers by 605 CE. Lent money to village workers in 606 and 613 CE. Purchased an adjacent house in 616 CE, consolidating his property holdings. Active across the reigns of Maurice, Phocas, and Heraclius.\n",
+      "disambiguation": "Son of Psates son of Abraamios. Name appears in various spellings (Pachymios, Pachymis, Pachoumis) across the family dossier.\n",
+      "physical_ids": [
+        "P.Paris 21bis",
+        "P.Paris 20",
+        "SB 1.4503",
+        "SB 1.4505",
+        "SB 1.4504",
+        "P.Paris 21"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "ioannes-son-of-psates-panopolis-this-thinite-nome-fl-600-ce": {
+      "id": "ioannes-son-of-psates-panopolis-this-thinite-nome-fl-600-ce",
+      "type": "person",
+      "canonical_name": "Ioannes son of Psates",
+      "name_variants": [
+        "Aurelius Ioannes",
+        "Ioannes"
+      ],
+      "patronymic": "son of Psates",
+      "dates": "fl. 600 CE",
+      "location": "Panopolis; This, Thinite nome",
+      "roles": [
+        {
+          "title": "porphyropoles (purple-seller)",
+          "date": "600 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        5267
+      ],
+      "bio": "Second son of Psates and Maria, full brother of Pachymios and Tarsene. Purple-seller. Participated in the inheritance division of 600 CE, receiving one-third of the estate and acknowledging Pachymios's prior house purchase.\n",
+      "disambiguation": "Possibly identical with Ioannes son of Abraamios, priest from This, who witnessed the 606 CE wine loan (SB 1.4505, corpus ID 6313), if the patronymic refers to the grandfather. Unconfirmed.\n",
+      "physical_ids": [
+        "P.Paris 20"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "tarsene-daughter-of-psates-panopolis-this-thinite-nome-fl-600-ce": {
+      "id": "tarsene-daughter-of-psates-panopolis-this-thinite-nome-fl-600-ce",
+      "type": "person",
+      "canonical_name": "Tarsene daughter of Psates",
+      "name_variants": [
+        "Aurelia Tarsene",
+        "Tarsene",
+        "Tarsenia"
+      ],
+      "patronymic": "daughter of Psates",
+      "dates": "fl. 600 CE",
+      "location": "Panopolis; This, Thinite nome",
+      "roles": [
+        {
+          "title": "widow (chera)",
+          "date": "600 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        5267
+      ],
+      "bio": "Daughter of Psates and Maria, full sister of Pachymios and Ioannes. Described as a widow in the 600 CE inheritance division. Received one-third of the parental estate, equal to her brothers' shares.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Paris 20"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "dioskoros-son-of-harsynios-this-thinite-nome-fl-605-ce": {
+      "id": "dioskoros-son-of-harsynios-this-thinite-nome-fl-605-ce",
+      "type": "person",
+      "canonical_name": "Dioskoros son of Harsynios",
+      "name_variants": [
+        "Aurelius Dioskoros",
+        "Dioskoros"
+      ],
+      "patronymic": "son of Harsynios",
+      "dates": "fl. 605 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "misthios porphyropoles (hired purple-worker)",
+          "date": "605-607 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        6311
+      ],
+      "bio": "Hired purple-worker who contracted with Pachymios in January 605 CE for a two-year term. Paid in grain (19 artabai over 2 years) plus food. His mother Tibellas co-signed the contract.\n",
+      "disambiguation": "Not to be confused with the notary Dioskoros who drafted the 600 CE inheritance division (P.Paris 20).\n",
+      "physical_ids": [
+        "SB 1.4503"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "tibellas-this-thinite-nome-fl-605-ce": {
+      "id": "tibellas-this-thinite-nome-fl-605-ce",
+      "type": "person",
+      "canonical_name": "Tibellas",
+      "name_variants": [
+        "Tibellas"
+      ],
+      "patronymic": "",
+      "dates": "fl. 605 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "mother and co-signatory",
+          "date": "605 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        6311
+      ],
+      "bio": "Mother of the hired purple-worker Dioskoros son of Harsynios. Co-signatory of his employment contract with Pachymios in 605 CE, possibly serving as guarantor.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "SB 1.4503"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "kallinikos-son-of-senouthes-this-thinite-nome-fl-606-613-ce": {
+      "id": "kallinikos-son-of-senouthes-this-thinite-nome-fl-606-613-ce",
+      "type": "person",
+      "canonical_name": "Kallinikos son of Senouthes",
+      "name_variants": [
+        "Aurelius Kallinikos",
+        "Kallinikos"
+      ],
+      "patronymic": "son of Senouthes",
+      "dates": "fl. 606-613 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "misthios (hired worker)",
+          "date": "606-613 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        6312,
+        6313
+      ],
+      "bio": "Hired worker in the village of This who borrowed gold from Pachymios on two occasions (606 and 613 CE), repaying in wine from local vineyards. His mother was Tloullas.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "SB 1.4505",
+        "SB 1.4504"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "senouthes-the-builder-this-thinite-nome-fl-592-ce": {
+      "id": "senouthes-the-builder-this-thinite-nome-fl-592-ce",
+      "type": "person",
+      "canonical_name": "Senouthes the builder",
+      "name_variants": [
+        "Senouthes",
+        "Senouthes oikodomos"
+      ],
+      "patronymic": "",
+      "dates": "fl. 592 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "oikodomos (builder/mason)",
+          "date": "592 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        25044
+      ],
+      "bio": "Builder from the village of This who assessed the value of the dilapidated house sold by Psates and Maria to Pachymios in 592 CE, setting the price at three nomismata less one keration.\n",
+      "disambiguation": "Not to be confused with Senouthes son of Phaliout, a prior property owner, nor with the father of Kallinikos, also named Senouthes.\n",
+      "physical_ids": [
+        "P.Paris 21bis"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "psates-son-of-papnouthios-this-thinite-nome-fl-592-ce": {
+      "id": "psates-son-of-papnouthios-this-thinite-nome-fl-592-ce",
+      "type": "person",
+      "canonical_name": "Psates son of Papnouthios",
+      "name_variants": [
+        "Psates"
+      ],
+      "patronymic": "son of Papnouthios",
+      "dates": "fl. 592 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "deacon (diakonos)",
+          "date": "592 CE",
+          "location": "This, Thinite nome"
+        },
+        {
+          "title": "scribe",
+          "date": "592 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        25044
+      ],
+      "bio": "Deacon from This who served as scribe for the 592 CE house sale, writing on behalf of the illiterate Psates son of Abraamios and Maria.\n",
+      "disambiguation": "Not the same person as Psates son of Abraamios the purple-seller. Shares the common name Psates but has a different patronymic.\n",
+      "physical_ids": [
+        "P.Paris 21bis"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "besatas-son-of-elias-this-thinite-nome-fl-592-ce": {
+      "id": "besatas-son-of-elias-this-thinite-nome-fl-592-ce",
+      "type": "person",
+      "canonical_name": "Besatas son of Elias",
+      "name_variants": [
+        "Besatas"
+      ],
+      "patronymic": "son of Elias",
+      "dates": "fl. 592 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "deacon (diakonos)",
+          "date": "592 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        25044
+      ],
+      "bio": "Deacon from This who witnessed the 592 CE house sale. Possibly the father of Elias son of Besatas, priest, who witnessed the 616 CE sale.\n",
+      "disambiguation": "Possibly father of Elias son of Besatas, priest (P.Paris 21, corpus ID 6310, 616 CE).\n",
+      "physical_ids": [
+        "P.Paris 21bis"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "athanasios-son-of-paamios-this-thinite-nome-fl-592-ce": {
+      "id": "athanasios-son-of-paamios-this-thinite-nome-fl-592-ce",
+      "type": "person",
+      "canonical_name": "Athanasios son of Paamios",
+      "name_variants": [
+        "Athanasios"
+      ],
+      "patronymic": "son of Paamios",
+      "dates": "fl. 592 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "priest (presbyteros)",
+          "date": "592 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        25044
+      ],
+      "bio": "Priest from This who witnessed the 592 CE house sale.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Paris 21bis"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "ioulios-the-notary-this-thinite-nome-fl-592-ce": {
+      "id": "ioulios-the-notary-this-thinite-nome-fl-592-ce",
+      "type": "person",
+      "canonical_name": "Ioulios the notary",
+      "name_variants": [
+        "Ioulios"
+      ],
+      "patronymic": "",
+      "dates": "fl. 592 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "symboilaiographos (notary)",
+          "date": "592 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        25044
+      ],
+      "bio": "Professional notary who drafted the 592 CE house sale document in This.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Paris 21bis"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "viktor-son-of-psaios-this-thinite-nome-before-592-ce": {
+      "id": "viktor-son-of-psaios-this-thinite-nome-before-592-ce",
+      "type": "person",
+      "canonical_name": "Viktor son of Psaios",
+      "name_variants": [
+        "Viktor"
+      ],
+      "patronymic": "son of Psaios",
+      "dates": "before 592 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "prior property owner",
+          "date": "before 592 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        25044
+      ],
+      "bio": "Prior owner of the property in This that Psates purchased and later sold to Pachymios. Named alongside Senouthes son of Phaliout as source of the two old sale documents.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Paris 21bis"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "senouthes-son-of-phaliout-this-thinite-nome-before-592-ce": {
+      "id": "senouthes-son-of-phaliout-this-thinite-nome-before-592-ce",
+      "type": "person",
+      "canonical_name": "Senouthes son of Phaliout",
+      "name_variants": [
+        "Senouthes"
+      ],
+      "patronymic": "son of Phaliout",
+      "dates": "before 592 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "prior property owner",
+          "date": "before 592 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        25044
+      ],
+      "bio": "Prior owner of the property in This, co-seller with Viktor son of Psaios.\n",
+      "disambiguation": "Not to be confused with Senouthes the builder who assessed the property value in 592 CE.\n",
+      "physical_ids": [
+        "P.Paris 21bis"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "pebos-son-of-horos-this-thinite-nome-fl-592-616-ce": {
+      "id": "pebos-son-of-horos-this-thinite-nome-fl-592-616-ce",
+      "type": "person",
+      "canonical_name": "Pebos son of Horos",
+      "name_variants": [
+        "Pebos"
+      ],
+      "patronymic": "son of Horos",
+      "dates": "fl. 592-616 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "neighbour and property owner",
+          "date": "592-616 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        6310,
+        25044
+      ],
+      "bio": "Property owner in This whose house appears as a boundary marker in both the 592 and 616 CE sales, indicating long-term residence in the village.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Paris 21bis",
+        "P.Paris 21"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "pyras-daughter-of-besatas-this-thinite-nome-fl-616-ce": {
+      "id": "pyras-daughter-of-besatas-this-thinite-nome-fl-616-ce",
+      "type": "person",
+      "canonical_name": "Pyras daughter of Besatas",
+      "name_variants": [
+        "Aurelia Pyras",
+        "Pyras"
+      ],
+      "patronymic": "daughter of Besatas",
+      "dates": "fl. 616 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "property seller",
+          "date": "616 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        6310
+      ],
+      "bio": "Daughter of Besatas, whose mother was Maria. Sold a house in This to Pachymios in 616 CE, acting also on behalf of her sister Rose.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Paris 21"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "rose-daughter-of-besatas-this-thinite-nome-fl-616-ce": {
+      "id": "rose-daughter-of-besatas-this-thinite-nome-fl-616-ce",
+      "type": "person",
+      "canonical_name": "Rose daughter of Besatas",
+      "name_variants": [
+        "Rose"
+      ],
+      "patronymic": "daughter of Besatas",
+      "dates": "fl. 616 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "property co-seller",
+          "date": "616 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        6310
+      ],
+      "bio": "Sister of Pyras daughter of Besatas. Co-seller of a house in This to Pachymios in 616 CE, represented by her sister Pyras.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Paris 21"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "antheria-daughter-of-senouthes-this-thinite-nome-fl-616-ce": {
+      "id": "antheria-daughter-of-senouthes-this-thinite-nome-fl-616-ce",
+      "type": "person",
+      "canonical_name": "Antheria daughter of Senouthes",
+      "name_variants": [
+        "Antheria"
+      ],
+      "patronymic": "daughter of Senouthes",
+      "dates": "fl. 616 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "property co-seller",
+          "date": "616 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        6310
+      ],
+      "bio": "Daughter of Senouthes, whose mother was Kyra. Co-seller of a house in This to Pachymios in 616 CE alongside Pyras and Rose.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Paris 21"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "elias-son-of-besatas-this-thinite-nome-fl-616-ce": {
+      "id": "elias-son-of-besatas-this-thinite-nome-fl-616-ce",
+      "type": "person",
+      "canonical_name": "Elias son of Besatas",
+      "name_variants": [
+        "Elias"
+      ],
+      "patronymic": "son of Besatas",
+      "dates": "fl. 616 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "priest (presbyteros)",
+          "date": "616 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        6310
+      ],
+      "bio": "Priest from This who witnessed the 616 CE house sale. Possibly the son of the deacon Besatas son of Elias who witnessed the 592 CE sale.\n",
+      "disambiguation": "If son of the 592 deacon, the name-reversal pattern (father Besatas son of Elias, son Elias son of Besatas) and clerical promotion is consistent with a generational transition.\n",
+      "physical_ids": [
+        "P.Paris 21"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "mousaios-son-of-papnouthios-this-thinite-nome-fl-616-ce": {
+      "id": "mousaios-son-of-papnouthios-this-thinite-nome-fl-616-ce",
+      "type": "person",
+      "canonical_name": "Mousaios son of Papnouthios",
+      "name_variants": [
+        "Mousaios"
+      ],
+      "patronymic": "son of Papnouthios",
+      "dates": "fl. 616 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "priest (presbyteros)",
+          "date": "616 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        6310
+      ],
+      "bio": "Priest from This who witnessed the 616 CE house sale. Possibly related to the deacon Psates son of Papnouthios who served as scribe in 592 CE.\n",
+      "disambiguation": "Shares the patronymic Papnouthios with the 592 scribe, but common names make the connection uncertain.\n",
+      "physical_ids": [
+        "P.Paris 21"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "ioannes-son-of-abraamios-priest-this-thinite-nome-fl-606-ce": {
+      "id": "ioannes-son-of-abraamios-priest-this-thinite-nome-fl-606-ce",
+      "type": "person",
+      "canonical_name": "Ioannes son of Abraamios (priest)",
+      "name_variants": [
+        "Ioannes"
+      ],
+      "patronymic": "son of Abraamios",
+      "dates": "fl. 606 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "priest (presbyteros)",
+          "date": "606 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        6313
+      ],
+      "bio": "Priest from This who witnessed the 606 CE wine loan. Possibly identical with Ioannes son of Psates son of Abraamios, the brother of Pachymios, if the patronymic refers to the grandfather.\n",
+      "disambiguation": "The identification with Pachymios's brother remains uncertain.\n",
+      "physical_ids": [
+        "SB 1.4505"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "chariston-the-copper-worker-panopolis-or-this-fl-600-ce": {
+      "id": "chariston-the-copper-worker-panopolis-or-this-fl-600-ce",
+      "type": "person",
+      "canonical_name": "Chariston the copper-worker",
+      "name_variants": [
+        "Chariston orichalkeus"
+      ],
+      "patronymic": "",
+      "dates": "fl. 600 CE",
+      "location": "Panopolis or This",
+      "roles": [
+        {
+          "title": "orichalkeus (copper-worker)",
+          "date": "600 CE",
+          "location": "This or Panopolis"
+        }
+      ],
+      "corpus_ids": [
+        5267
+      ],
+      "bio": "Copper-worker listed as shared property in the 600 CE inheritance division. Legal status (enslaved, debt-bonded, or contracted) unclear from document.\n",
+      "disambiguation": "Distinguished from another Chariston the ironworker in the same document.\n",
+      "physical_ids": [
+        "P.Paris 20"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "chariston-the-ironworker-panopolis-or-this-fl-600-ce": {
+      "id": "chariston-the-ironworker-panopolis-or-this-fl-600-ce",
+      "type": "person",
+      "canonical_name": "Chariston the ironworker",
+      "name_variants": [
+        "Chariston siderurgos"
+      ],
+      "patronymic": "",
+      "dates": "fl. 600 CE",
+      "location": "Panopolis or This",
+      "roles": [
+        {
+          "title": "siderurgos (ironworker)",
+          "date": "600 CE",
+          "location": "This or Panopolis"
+        }
+      ],
+      "corpus_ids": [
+        5267
+      ],
+      "bio": "Ironworker listed as shared property in the 600 CE inheritance division. Legal status unclear.\n",
+      "disambiguation": "Distinguished from Chariston the copper-worker in the same document.\n",
+      "physical_ids": [
+        "P.Paris 20"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "tmouthes-panopolis-uncertain": {
+      "id": "tmouthes-panopolis-uncertain",
+      "type": "person",
+      "canonical_name": "Tmouthes",
+      "name_variants": [
+        "Tmouthes"
+      ],
+      "patronymic": "",
+      "dates": "uncertain",
+      "location": "Panopolis",
+      "roles": [
+        {
+          "title": "mother of Psates son of Abraamios",
+          "date": "",
+          "location": "Panopolis"
+        }
+      ],
+      "corpus_ids": [
+        25044
+      ],
+      "bio": "Mother of Psates son of Abraamios, named in the 592 CE sale document per the standard matronymic identification formula.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Paris 21bis"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "taniskene-panopolis-uncertain": {
+      "id": "taniskene-panopolis-uncertain",
+      "type": "person",
+      "canonical_name": "Taniskene",
+      "name_variants": [
+        "Taniskene"
+      ],
+      "patronymic": "",
+      "dates": "uncertain",
+      "location": "Panopolis",
+      "roles": [
+        {
+          "title": "mother of Maria daughter of Philamon",
+          "date": "",
+          "location": "Panopolis"
+        }
+      ],
+      "corpus_ids": [
+        25044
+      ],
+      "bio": "Mother of Maria daughter of Philamon, named in the 592 CE sale document.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Paris 21bis"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "tloullas-this-thinite-nome-fl-606-613-ce": {
+      "id": "tloullas-this-thinite-nome-fl-606-613-ce",
+      "type": "person",
+      "canonical_name": "Tloullas",
+      "name_variants": [
+        "Tloullas"
+      ],
+      "patronymic": "",
+      "dates": "fl. 606-613 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "mother of Kallinikos",
+          "date": "",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        6312,
+        6313
+      ],
+      "bio": "Mother of Kallinikos son of Senouthes, named in the matronymic identification formula of both wine loan documents (606 and 613 CE).\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "SB 1.4505",
+        "SB 1.4504"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "monathios-son-of-pamidos-this-thinite-nome-fl-616-ce": {
+      "id": "monathios-son-of-pamidos-this-thinite-nome-fl-616-ce",
+      "type": "person",
+      "canonical_name": "Monathios son of Pamidos",
+      "name_variants": [
+        "Monathios"
+      ],
+      "patronymic": "son of Pamidos",
+      "dates": "fl. 616 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "neighbour and property owner",
+          "date": "616 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        6310
+      ],
+      "bio": "Property owner in This whose house appears as the western boundary marker in the 616 CE sale to Pachymios.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Paris 21"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "mousaios-son-of-psaros-this-thinite-nome-fl-616-ce": {
+      "id": "mousaios-son-of-psaros-this-thinite-nome-fl-616-ce",
+      "type": "person",
+      "canonical_name": "Mousaios son of Psaros",
+      "name_variants": [
+        "Mousaios"
+      ],
+      "patronymic": "son of Psaros",
+      "dates": "fl. 616 CE",
+      "location": "This, Thinite nome",
+      "roles": [
+        {
+          "title": "priest (presbyteros)",
+          "date": "616 CE",
+          "location": "This, Thinite nome"
+        }
+      ],
+      "corpus_ids": [
+        6310
+      ],
+      "bio": "Priest from This whose house appears as the southern boundary marker in the 616 CE sale to Pachymios.\n",
+      "disambiguation": "Not to be confused with Mousaios son of Papnouthios, the priest who witnessed the same 616 sale.\n",
+      "physical_ids": [
+        "P.Paris 21"
+      ],
+      "stories": [
+        "the-purple-sellers-house"
+      ]
     }
   },
   "places": {
@@ -695,11 +4137,13 @@
       "id": "oxyrhynchus-heptanomia-middle-egypt",
       "type": "place",
       "name": "Oxyrhynchus",
-      "ancient_variants": [],
+      "ancient_variants": [
+        "Per-Medjed"
+      ],
       "modern_location": "",
       "region": "Heptanomia (Middle Egypt)",
       "period": "",
-      "bio": "",
+      "bio": "Provincial capital on the Bahr Yusuf, a channel of the Nile. Major textile center with a large community of artisan weavers. Site of the municipal rubbish dumps where the papyri were discovered by Grenfell and Hunt beginning in 1896-97. Notable quarters include Gymnasium Square, Square of Thoeris, and Temouenouthis. Landmarks include the Serapeum, Gymnasium, and Hippodrome.",
       "stories": [
         "she-conducted-herself-blamelessly"
       ]
@@ -744,9 +4188,11 @@
       "modern_location": "Alexandria, Egypt",
       "region": "Lower Egypt",
       "period": "Ptolemaic through modern",
-      "bio": "Capital of Roman Egypt and seat of the praefect. Dionysia traveled roughly 200 km from Oxyrhynchus to Alexandria in 131 CE to appear before the praefect's court. The city was the ultimate destination for legal disputes that provincial officials could not resolve.",
+      "bio": "Capital of Roman Egypt; seat of the archidikastes (chief justice). Syra's petition is addressed to Heraclides in Alexandria. Tryphon traveled there for his military service medical examination (52 CE). The prefect and highest courts of the province were based here.",
       "stories": [
-        "mistress-of-her-own-person"
+        "mistress-of-her-own-person",
+        "no-small-danger",
+        "she-conducted-herself-blamelessly"
       ]
     },
     "temgenouthis-oxyrhynchus": {
@@ -941,7 +4387,7 @@
       "modern_location": "",
       "region": "",
       "period": "",
-      "bio": "",
+      "bio": "Capital of the Oxyrhynchite nome in Middle Egypt, on the western bank of the Bahr Yusuf canal, approximately 160 km south-southwest of Cairo. One of the most important archaeological sites for Greek papyri, excavated from 1896 by Grenfell and Hunt, yielding tens of thousands of documents spanning a millennium of daily life. Euphrosyne lived, was enslaved, and was freed here. Economy based on agriculture (irrigated wheat and flax) and textile production.\n",
       "stories": [
         "no-small-danger",
         "the-weavers-boy",
@@ -1038,6 +4484,376 @@
       "stories": [
         "the-weavers-boy"
       ]
+    },
+    "theadelphia-arsinoite-nome-themistos-division": {
+      "id": "theadelphia-arsinoite-nome-themistos-division",
+      "type": "place",
+      "name": "Theadelphia",
+      "ancient_variants": [
+        "Batn el-Harit",
+        "Kasr el-Harit"
+      ],
+      "modern_location": "Kasr el-Harit, Fayum, Egypt",
+      "region": "Arsinoite nome, Themistos division",
+      "period": "Ptolemaic through Late Roman",
+      "bio": "Medium-sized village in the Fayum depression, founded in the early Ptolemaic period and named for Arsinoe II Philadelphos. Center of the largest division of the Appianus estate, with c. 250 arourai of arable land and c. 100 arourai of vineyards. Had its own granary, bath-house, and administrative offices. The Heroneinos archive of approximately 1,000 papyri was excavated here by Grenfell and Hunt.\n",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "alexandria-coastal-egypt": {
+      "id": "alexandria-coastal-egypt",
+      "type": "place",
+      "name": "Alexandria",
+      "ancient_variants": [],
+      "modern_location": "Alexandria, Egypt",
+      "region": "Coastal Egypt",
+      "period": "Ptolemaic through Late Roman",
+      "bio": "Residence of the estate owner Aurelius Appianus. Destination for wine and grain shipments from the Fayum estates.\n",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "arsinoe-arsinoite-nome": {
+      "id": "arsinoe-arsinoite-nome",
+      "type": "place",
+      "name": "Arsinoe",
+      "ancient_variants": [
+        "Krokodilopolis",
+        "Medinet el-Fayum"
+      ],
+      "modern_location": "Medinet el-Fayum, Egypt",
+      "region": "Arsinoite nome",
+      "period": "Ptolemaic through Late Roman",
+      "bio": "Capital of the Arsinoite nome. Administrative seat of the Appianus estate's central administration under Alypios.\n",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "euhemeria-arsinoite-nome-themistos-division": {
+      "id": "euhemeria-arsinoite-nome-themistos-division",
+      "type": "place",
+      "name": "Euhemeria",
+      "ancient_variants": [
+        "Qasr el-Banat"
+      ],
+      "modern_location": "Qasr el-Banat, Fayum, Egypt",
+      "region": "Arsinoite nome, Themistos division",
+      "period": "Ptolemaic through Late Roman",
+      "bio": "Village managed by the phrontistes Eirenaios as a division of the Appianus estate.",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "philoteris-arsinoite-nome-themistos-division": {
+      "id": "philoteris-arsinoite-nome-themistos-division",
+      "type": "place",
+      "name": "Philoteris",
+      "ancient_variants": [
+        "Wadfa"
+      ],
+      "modern_location": "Wadfa, Fayum, Egypt",
+      "region": "Arsinoite nome, Themistos division",
+      "period": "Ptolemaic through Late Roman",
+      "bio": "Village managed by the phrontistes Palas as a division of the Appianus estate.",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "dionysias-arsinoite-nome-themistos-division": {
+      "id": "dionysias-arsinoite-nome-themistos-division",
+      "type": "place",
+      "name": "Dionysias",
+      "ancient_variants": [
+        "Qasr Qarun"
+      ],
+      "modern_location": "Qasr Qarun, Fayum, Egypt",
+      "region": "Arsinoite nome, Themistos division",
+      "period": "Ptolemaic through Late Roman",
+      "bio": "Village at the western edge of the Fayum managed by Horion.",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "sathro-arsinoite-nome": {
+      "id": "sathro-arsinoite-nome",
+      "type": "place",
+      "name": "Sathro",
+      "ancient_variants": [],
+      "modern_location": "Fayum, Egypt (exact location uncertain)",
+      "region": "Arsinoite nome",
+      "period": "Roman",
+      "bio": "Estate division with fishing grounds extending six schoinoi along the shore.",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "taureinos-arsinoite-nome": {
+      "id": "taureinos-arsinoite-nome",
+      "type": "place",
+      "name": "Taureinos",
+      "ancient_variants": [],
+      "modern_location": "Fayum, Egypt (exact location uncertain)",
+      "region": "Arsinoite nome",
+      "period": "Roman",
+      "bio": "Estate division with timber resources. In 266 CE, cattle were transferred there to trample grain being eaten by mice.\n",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "ibion-argaiou-arsinoite-nome": {
+      "id": "ibion-argaiou-arsinoite-nome",
+      "type": "place",
+      "name": "Ibion Argaiou",
+      "ancient_variants": [],
+      "modern_location": "Fayum, Egypt (exact location uncertain)",
+      "region": "Arsinoite nome",
+      "period": "Roman",
+      "bio": "Estate division from which 100 jars of wine were released for the Amesysia festival at Theadelphia.\n",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "ptolemais-hormou-arsinoite-nome": {
+      "id": "ptolemais-hormou-arsinoite-nome",
+      "type": "place",
+      "name": "Ptolemais Hormou",
+      "ancient_variants": [],
+      "modern_location": "Fayum, Egypt",
+      "region": "Arsinoite nome",
+      "period": "Roman",
+      "bio": "Estate holding where a ten-cubit axle broke and required emergency replacement.",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "talei-arsinoite-nome": {
+      "id": "talei-arsinoite-nome",
+      "type": "place",
+      "name": "Talei",
+      "ancient_variants": [],
+      "modern_location": "Fayum, Egypt (exact location uncertain)",
+      "region": "Arsinoite nome",
+      "period": "Roman",
+      "bio": "Grape-harvesting location for the Appianus estate.",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "sentrepaei-arsinoite-nome": {
+      "id": "sentrepaei-arsinoite-nome",
+      "type": "place",
+      "name": "Sentrepaei",
+      "ancient_variants": [],
+      "modern_location": "Fayum, Egypt (exact location uncertain)",
+      "region": "Arsinoite nome",
+      "period": "Roman",
+      "bio": "Estate division under Horion's management.",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "oxyrhynchus-oxyrhynchite-nome-middle-egypt": {
+      "id": "oxyrhynchus-oxyrhynchite-nome-middle-egypt",
+      "type": "place",
+      "name": "Oxyrhynchus",
+      "ancient_variants": [],
+      "modern_location": "el-Bahnasa, Egypt",
+      "region": "Oxyrhynchite nome, Middle Egypt",
+      "period": "",
+      "bio": "Major city on the Bahr Yusuf canal in Middle Egypt, capital of the Oxyrhynchite nome. One of the most important administrative and economic centres in Roman Egypt, with a functioning city senate, gymnasium, temples, and extensive bureaucratic apparatus. Called \"the illustrious and most illustrious city\" in official documents of the Tetrarchic period. The ancient rubbish mounds yielded tens of thousands of papyri when excavated by Grenfell and Hunt beginning in 1897. Techosis filed her petition here in 295 CE before the beneficiarius at his statio.\n",
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "small-oasis-mikra-oasis-heptanomia-administrative-district": {
+      "id": "small-oasis-mikra-oasis-heptanomia-administrative-district",
+      "type": "place",
+      "name": "Small Oasis (Mikra Oasis)",
+      "ancient_variants": [],
+      "modern_location": "Bahariya Oasis, Western Desert, Egypt",
+      "region": "Heptanomia administrative district",
+      "period": "",
+      "bio": "Cluster of settlements in Egypt's Western Desert, approximately 370 km southwest of Cairo. Known as Oasis parva in Latin from 45 CE. Administratively linked to the Oxyrhynchite nome and grouped with the Heptanomia under the epistrategos. Garrisoned by Roman troops supplied from Oxyrhynchus, with a military fort at Qarat el-Toub. Connected to the Nile valley by desert roads monitored by Roman fortresses. Home community of Aurelia Techosis and her mother before they migrated to Oxyrhynchus.\n",
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "karanis-arsinoite-nome-fayum": {
+      "id": "karanis-arsinoite-nome-fayum",
+      "type": "place",
+      "name": "Karanis",
+      "ancient_variants": [],
+      "modern_location": "Kom Aushim, Egypt",
+      "region": "Arsinoite nome (Fayum)",
+      "period": "",
+      "bio": "Village in the Fayum region from which Aurelia Taesis filed a petition to a beneficiarius in 297 CE, and where Aurelia Herois filed a census declaration in 299 CE.\n",
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "teruthis-oxyrhynchite-nome": {
+      "id": "teruthis-oxyrhynchite-nome",
+      "type": "place",
+      "name": "Teruthis",
+      "ancient_variants": [],
+      "modern_location": "unknown",
+      "region": "Oxyrhynchite nome",
+      "period": "",
+      "bio": "Village whose comarchs received orders from a beneficiarius regarding the transfer of a prisoner named Pachoumis.\n",
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "paimis-oxyrhynchite-nome-western-toparchy": {
+      "id": "paimis-oxyrhynchite-nome-western-toparchy",
+      "type": "place",
+      "name": "Paimis",
+      "ancient_variants": [],
+      "modern_location": "unknown",
+      "region": "Oxyrhynchite nome, western toparchy",
+      "period": "",
+      "bio": "Village in the western toparchy of the Oxyrhynchite nome whose inhabitants petitioned the deputy praefect in 298 CE about administrative difficulties under the Tetrarchy.\n",
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "vaughan-library-harrow-school": {
+      "id": "vaughan-library-harrow-school",
+      "type": "place",
+      "name": "Vaughan Library, Harrow School",
+      "ancient_variants": [],
+      "modern_location": "Harrow, England",
+      "region": "",
+      "period": "",
+      "bio": "Repository of P.Oxy. 1.48, Euphrosyne's manumission document. Part of the distribution of Oxyrhynchus papyri to institutions that funded the excavations by Grenfell and Hunt.\n",
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "seryphis": {
+      "id": "seryphis",
+      "type": "place",
+      "name": "Seryphis",
+      "ancient_variants": [],
+      "modern_location": "Unknown, Oxyrhynchite nome",
+      "region": "",
+      "period": "",
+      "bio": "Village in the Oxyrhynchite nome where the freedwoman Syntyche received grain transfers in 135 CE (P.Oxy. 72.4875, corpus ID 42635).\n",
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "small-oasis-psobthis": {
+      "id": "small-oasis-psobthis",
+      "type": "place",
+      "name": "Small Oasis (Psobthis)",
+      "ancient_variants": [],
+      "modern_location": "Bahariya Oasis, Egypt",
+      "region": "",
+      "period": "",
+      "bio": "Settlement in the Western Desert where Sarapias daughter of Podon lived, the debtor of the freedman Serenus. Shows the geographic reach of Oxyrhynchite economic networks.\n",
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "delphi": {
+      "id": "delphi",
+      "type": "place",
+      "name": "Delphi",
+      "ancient_variants": [],
+      "modern_location": "Delphi, Greece",
+      "region": "",
+      "period": "",
+      "bio": "Panhellenic sanctuary of Apollo in central Greece where over 1,000 manumission inscriptions survive, documenting the sacral manumission system in which slaves were fictitiously \"sold\" to the god. The Zeus-Earth-Sun formula used in Egypt served an analogous function.\n",
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "this-thinis-upper-egypt-thinite-nome-theban-province": {
+      "id": "this-thinis-upper-egypt-thinite-nome-theban-province",
+      "type": "place",
+      "name": "This (Thinis)",
+      "ancient_variants": [
+        "Thinis",
+        "Tin",
+        "Tjenu",
+        "kome Thinon"
+      ],
+      "modern_location": "near Girga, Sohag Governorate, Egypt",
+      "region": "Upper Egypt, Thinite nome, Theban province",
+      "period": "Predynastic through Islamic",
+      "bio": "One of the most ancient cities in Egypt, traditionally considered the first capital of united Egypt under Menes (c. 3100 BCE). By the Byzantine period it functioned as a village (kome). Its exact site remains unidentified; scholarly consensus places it near Abydos and modern Girga.\n",
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "panopolis-akhmim-upper-egypt-panopolite-nome": {
+      "id": "panopolis-akhmim-upper-egypt-panopolite-nome",
+      "type": "place",
+      "name": "Panopolis (Akhmim)",
+      "ancient_variants": [
+        "Akhmim",
+        "Chemmis",
+        "Khemmis",
+        "Panopolis"
+      ],
+      "modern_location": "Akhmim, Sohag Governorate, Egypt",
+      "region": "Upper Egypt, Panopolite nome",
+      "period": "Pharaonic through modern",
+      "bio": "Major textile production centre in Upper Egypt. Home city of Psates and Maria before they migrated to This. Site of the family's secondary property holdings on the lane of the holy place of Apa Kollouthos. Strabo mentions its linen-weaving. Archaeological excavations have produced elaborately woven textiles from the 5th-7th centuries CE.\n",
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "aphrodite-aphrodito-upper-egypt-antaiopolite-nome": {
+      "id": "aphrodite-aphrodito-upper-egypt-antaiopolite-nome",
+      "type": "place",
+      "name": "Aphrodite (Aphrodito)",
+      "ancient_variants": [
+        "Aphrodite",
+        "Aphrodito",
+        "Kom Ishqaw"
+      ],
+      "modern_location": "Kom Ishqaw, Sohag Governorate, Egypt",
+      "region": "Upper Egypt, Antaiopolite nome",
+      "period": "Ptolemaic through Islamic",
+      "bio": "Village in Upper Egypt with an exceptionally rich papyrological archive. The 615 CE house sale by Eudoxia provides a comparandum for the family's property transactions.\n",
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "antinoopolis-middle-egypt": {
+      "id": "antinoopolis-middle-egypt",
+      "type": "place",
+      "name": "Antinoopolis",
+      "ancient_variants": [
+        "Antinoe",
+        "Antinoopolis",
+        "Sheikh Ibada"
+      ],
+      "modern_location": "near Sheikh Ibada, Minya Governorate, Egypt",
+      "region": "Middle Egypt",
+      "period": "Roman (founded 130 CE) through Islamic",
+      "bio": "City founded by Hadrian in 130 CE. Source of comparable documents including house sales, inheritance divisions, and artisan contracts.\n",
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "vineyard-of-lynochois-upper-egypt-thinite-nome": {
+      "id": "vineyard-of-lynochois-upper-egypt-thinite-nome",
+      "type": "place",
+      "name": "Vineyard of Lynochois",
+      "ancient_variants": [
+        "Lynochois"
+      ],
+      "modern_location": "unknown, near This",
+      "region": "Upper Egypt, Thinite nome",
+      "period": "7th century CE",
+      "bio": "Vineyard near the village of This where Kallinikos was to deliver wine to Pachymios in repayment of his 606 CE loan.\n",
+      "stories": [
+        "the-purple-sellers-house"
+      ]
     }
   },
   "offices": {
@@ -1046,13 +4862,15 @@
       "type": "office",
       "title": "Praefect of Egypt",
       "greek_term": "hegemon",
-      "description": "The highest-ranking Roman official in Egypt, appointed by the emperor as his personal representative. An equestrian post (senators were barred from Egypt).",
+      "description": "The highest-ranking Roman official in Egypt, an equestrian appointed by the emperor to govern the province. The praefect held supreme judicial and administrative authority, heard appeals from lower officials, issued proclamations affecting the entire province, and made periodic judicial circuits (conventus) through the nomes. Techosis referred to him as \"the superior official\" (ho meizon) and announced her intention to bring her case before him.\n",
       "duties": "Supreme judicial and administrative authority in the province. Held annual courts (conventus), heard appeals, issued edicts, and supervised nome governors.",
       "cost_burden": "Imperial appointment; no personal financial burden.",
       "status_level": "Highest provincial authority below the emperor.",
       "bio": "Multiple praefects appear in Dionysia's story: Titus Flavius Titianus (c. 126--133 CE), Valerius Eudaemon (137/8 CE), Longaeus Rufus (c. 185 CE), and Pomponius Faustianus (c. 185--186 CE). Their rulings and precedents formed the legal framework within which Dionysia's battles were fought.",
       "stories": [
-        "mistress-of-her-own-person"
+        "mistress-of-her-own-person",
+        "no-small-danger",
+        "under-zeus-earth-and-sun"
       ]
     },
     "epistrategus": {
@@ -1088,13 +4906,16 @@
       "type": "office",
       "title": "Strategus",
       "greek_term": "strategos",
-      "description": "Governor of an individual nome (administrative district), the basic unit of Egyptian local government.",
+      "description": "General; nome governor. Chief civil and military official of the nome, based at the nome capital. Received petitions on local matters and could refer cases to higher courts. Known holders include Tiberius Claudius Pasion (ca. 50 CE) and Alexandrus (29-37 CE).",
       "duties": "Civil and judicial administration of the nome. Investigated cases, enforced orders, supervised local officials including village magistrates.",
       "cost_burden": "Appointed office; increasingly burdensome in the 2nd century CE.",
       "status_level": "Nome-level authority.",
       "bio": "The strategus Isidorus investigated Chaeremon's property claims and ordered the keepers of the archives to produce their reports confirming Dionysia's rights.",
       "stories": [
-        "mistress-of-her-own-person"
+        "mistress-of-her-own-person",
+        "no-small-danger",
+        "she-conducted-herself-blamelessly",
+        "under-zeus-earth-and-sun"
       ]
     },
     "royal-scribe": {
@@ -1158,13 +4979,351 @@
       "type": "office",
       "title": "Agoranomos",
       "greek_term": "agoranomeus",
-      "description": "Public notary who executed and registered official contracts in the state archives.",
+      "description": "Market overseer and public notary. Notarized contracts and legal documents, maintained public records. The synchoresis (cession) Syra mentions was likely registered through this office. Handled debt repayments and property transfers.",
       "duties": "Witnessing, recording, and archiving contracts of sale, leases, and other legal instruments. The demosios chrematismos (official sale contract) that Dionysia received for her vineyard was produced through this office.",
       "cost_burden": "Liturgical office requiring personal wealth.",
       "status_level": "Civic magistrate.",
       "bio": "The agoranomos's office produced the official sale contract that proved Dionysia's ownership of the vineyard against Sarapion's challenge.",
       "stories": [
-        "mistress-of-her-own-person"
+        "mistress-of-her-own-person",
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "archidikastes": {
+      "id": "archidikastes",
+      "type": "office",
+      "title": "Archidikastes",
+      "greek_term": "archidikastes",
+      "description": "Chief justice of Egypt. Full title: Priest, chief justice, superintendent of the chrematistae and the other courts. Based in Alexandria with jurisdiction over all of Egypt. Supervised the chrematistae courts and other tribunals, oversaw the public records office (katalogeion), handled registration of contracts including marriages, and combined priestly and judicial functions. Could compel appearance and order arrest. Known holders include Heraclides (20-50 CE), Theon (after 57 CE), Pallas (81 CE), and Aurelius Gaius/Harpocration (267 CE).",
+      "duties": "Supervised the chrematistae courts and other tribunals; oversaw the public records office; handled registration of contracts including marriages.",
+      "cost_burden": "Imperial appointment.",
+      "status_level": "Highest judicial official in Egypt below the praefect.",
+      "bio": "",
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "chrematistae": {
+      "id": "chrematistae",
+      "type": "office",
+      "title": "Chrematistae",
+      "greek_term": "chrematistai",
+      "description": "Business-handlers; royal judges. Created by Ptolemy II Philadelphus. Originally one of three court systems (with dikasteria and laokritai); eventually absorbed the other two. Originally itinerant circuit judges; became stationary. Had blanket jurisdiction over public and private matters.",
+      "duties": "Hearing and deciding civil and criminal cases across Egypt.",
+      "cost_burden": "Royal appointment.",
+      "status_level": "Senior judicial officials.",
+      "bio": "",
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "topogrammateus-komogrammateus": {
+      "id": "topogrammateus-komogrammateus",
+      "type": "office",
+      "title": "Topogrammateus / Komogrammateus",
+      "greek_term": "topogrammateus / komogrammateus",
+      "description": "District scribe / village scribe. Maintained local registrations and received reports of missing persons for tax rolls. Thamounion reported her grandson missing to these officials.",
+      "duties": "Maintaining local registrations and receiving reports for tax rolls.",
+      "cost_burden": "Appointed office.",
+      "status_level": "Local administrative official.",
+      "bio": "",
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "kyrios": {
+      "id": "kyrios",
+      "type": "office",
+      "title": "Kyrios",
+      "greek_term": "kyrios",
+      "description": "Male guardian required for women in most legal transactions. Could be father, husband, brother, son, or appointed official. Syra notably appears to act without one. Women with ius liberorum were exempt from the requirement.",
+      "duties": "Authorizing and co-signing women's legal transactions.",
+      "cost_burden": "Personal obligation.",
+      "status_level": "Legal role, not a civic office.",
+      "bio": "",
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "phrontistes": {
+      "id": "phrontistes",
+      "type": "office",
+      "title": "Phrontistes",
+      "greek_term": "phrontistes (phrontistes)",
+      "description": "Village-level estate manager responsible for all agricultural production, labor management, financial accounting, and transport logistics.\n",
+      "duties": "Managed vineyards and grain fields, supervised permanent and seasonal workers, rendered monthly financial and wheat accounts, coordinated wine and grain transport, hosted inspection visits, maintained irrigation infrastructure, tested wine quality by smell.\n",
+      "cost_burden": "Salaried at 40 drachmas/month plus 1 artaba wheat",
+      "status_level": "Mid-level manager, drawn from locally prominent rural families",
+      "bio": "The phrontistes was the working edge of the Appianus estate's management hierarchy. From phrontis -- thought, care, anxiety -- the man who worried.\n",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "exegetes": {
+      "id": "exegetes",
+      "type": "office",
+      "title": "Exegetes",
+      "greek_term": "exegetes (exegetes)",
+      "description": "Municipal officer responsible for guardianship cases, religious functions, and other legal-administrative duties. The Oxyrhynchite exegetes also had jurisdiction over the Small Oasis.\n",
+      "duties": "Judicial and interpretive functions in Alexandrian civic government",
+      "cost_burden": "Substantial personal expense required",
+      "status_level": "Top tier of Alexandrian elite",
+      "bio": "Appianus held the title 'former exegetes' (apo exegetou), indicating he had served in this office and retained the status as an honorific.\n",
+      "stories": [
+        "no-small-danger",
+        "the-managers-accounts"
+      ]
+    },
+    "bouleutes": {
+      "id": "bouleutes",
+      "type": "office",
+      "title": "Bouleutes",
+      "greek_term": "bouleutes (bouleutes)",
+      "description": "Councillor of the city of Alexandria",
+      "duties": "Member of the city council (boule) with administrative and fiscal responsibilities",
+      "cost_burden": "Required substantial personal wealth",
+      "status_level": "Elite civic status",
+      "bio": "Appianus held the title bouleutes of Alexandria.",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "diastoleus": {
+      "id": "diastoleus",
+      "type": "office",
+      "title": "Diastoleus",
+      "greek_term": "diastoleus (diastoleus)",
+      "description": "Agent responsible for distributing or allocating goods, particularly wine, between estate divisions and the city.\n",
+      "duties": "Managed wine shipments, acknowledged receipt of goods, coordinated transport",
+      "cost_burden": "Salaried position",
+      "status_level": "Mid-level agent",
+      "bio": "Maximos, son of Heroneinos, served as diastoleus, handling the flow of wine from the Fayum to Alexandria.\n",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "dekaprotos": {
+      "id": "dekaprotos",
+      "type": "office",
+      "title": "Dekaprotos",
+      "greek_term": "dekaprotoi (dekaprotoi)",
+      "description": "Local tax collectors personally liable for the tax quota of their district",
+      "duties": "Collected grain and cash taxes, measured out payments, reported arrears",
+      "cost_burden": "Personally liable for any shortfall in tax collection",
+      "status_level": "Locally prominent, compulsory liturgical office",
+      "bio": "The dekaprotoi at Theadelphia collected tax payments from Heroneinos on behalf of the Appianus estate.\n",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "oikonomos": {
+      "id": "oikonomos",
+      "type": "office",
+      "title": "Oikonomos",
+      "greek_term": "oikonomos (oikonomos)",
+      "description": "Steward, household manager",
+      "duties": "Mid-level estate management and supply coordination",
+      "cost_burden": "",
+      "status_level": "Mid-level estate official",
+      "bio": "Herakleides the oikonomos is mentioned in connection with reed supplies and grape harvest arrangements.\n",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "euschemon": {
+      "id": "euschemon",
+      "type": "office",
+      "title": "Euschemon",
+      "greek_term": "euschemon (euschemon)",
+      "description": "The honorable one -- circumlocution for the landowner",
+      "duties": "",
+      "cost_burden": "",
+      "status_level": "",
+      "bio": "Used by subordinates to refer to Appianus without naming him directly. A conventional mark of deference in estate correspondence.\n",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "beneficiarius-praefecti-aegypti": {
+      "id": "beneficiarius-praefecti-aegypti",
+      "type": "office",
+      "title": "Beneficiarius praefecti Aegypti",
+      "greek_term": "βενεφικιάριος ἐπάρχου Αἰγύπτου",
+      "description": "Soldier of special rank attached to the praefect of Egypt, stationed at a fixed post (statio) in a provincial city. The beneficiarius performed police, judicial, and administrative functions: receiving civilian complaints about crimes, compelling individuals to appear before authorities, issuing orders to village officials (comarchs), and forwarding serious cases to the praefect's office. In late third-century Egypt, beneficiarii were a primary point of contact between ordinary people and the imperial legal system, particularly for petitions involving violence and property crimes.\n",
+      "duties": "",
+      "cost_burden": "",
+      "status_level": "",
+      "bio": "",
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "epistrategos-of-the-heptanomia-and-the-small-oasis": {
+      "id": "epistrategos-of-the-heptanomia-and-the-small-oasis",
+      "type": "office",
+      "title": "Epistrategos of the Heptanomia and the Small Oasis",
+      "greek_term": "ἐπιστράτηγος τῆς Ἑπτανομίας καὶ τῆς Μικρᾶς Ὀάσεως",
+      "description": "Regional governor overseeing the seven nomes of Middle Egypt and the Small Oasis. Intermediate authority between the nome-level strategi and the praefect of Egypt.\n",
+      "duties": "",
+      "cost_burden": "",
+      "status_level": "",
+      "bio": "",
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "prytanis": {
+      "id": "prytanis",
+      "type": "office",
+      "title": "Prytanis",
+      "greek_term": "πρύτανις",
+      "description": "Presiding officer of the city senate in Roman Egyptian metropoleis. In Oxyrhynchus, the prytanis oversaw council meetings, managed civic expenditures, and served as the senate's chief executive officer.\n",
+      "duties": "",
+      "cost_burden": "",
+      "status_level": "",
+      "bio": "",
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "logistes-curator-civitatis": {
+      "id": "logistes-curator-civitatis",
+      "type": "office",
+      "title": "Logistes (Curator Civitatis)",
+      "greek_term": "λογιστής",
+      "description": "Financial overseer introduced under Diocletian's administrative reforms to supervise civic finances in Egyptian cities.\n",
+      "duties": "",
+      "cost_burden": "",
+      "status_level": "",
+      "bio": "",
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "comarch": {
+      "id": "comarch",
+      "type": "office",
+      "title": "Comarch",
+      "greek_term": "κωμάρχης",
+      "description": "Village headman responsible for local administration, tax collection, and policing. Comarchs received and executed orders from beneficiarii and higher officials.\n",
+      "duties": "",
+      "cost_burden": "",
+      "status_level": "",
+      "bio": "",
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "agoranomus": {
+      "id": "agoranomus",
+      "type": "office",
+      "title": "Agoranomus",
+      "greek_term": "ἀγορανόμος",
+      "description": "Notary public / market magistrate in Roman Egypt. Registered legal documents including sales, mortgages, loans, and manumissions. Multiple agoranomi served simultaneously in larger cities like Oxyrhynchus. The unnamed agoranomus of Oxyrhynchus processed Euphrosyne's manumission on Phaophi 19, Year 6 of Domitian (16 October 86 CE), endorsing it with \"Chaeremon, register it\" on the same day.\n",
+      "duties": "",
+      "cost_burden": "",
+      "status_level": "",
+      "bio": "",
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "kyrios-guardian": {
+      "id": "kyrios-guardian",
+      "type": "office",
+      "title": "Kyrios (Guardian)",
+      "greek_term": "κύριος",
+      "description": "Male legal guardian required for women conducting legal transactions in Roman Egypt. Aloine's guardian was her nephew Komon son of Dioscorus, who assumed the role after her brother's death. The kyrios signed documents and lent legal standing, though the woman remained the principal party in the transaction.\n",
+      "duties": "",
+      "cost_burden": "",
+      "status_level": "",
+      "bio": "",
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "archidicastes": {
+      "id": "archidicastes",
+      "type": "office",
+      "title": "Archidicastes",
+      "greek_term": "ἀρχιδικαστής",
+      "description": "Chief judge in Alexandria, overseeing the chrematistae and other courts. The freedman Serenus petitioned the archidicastes Antoninus (also called Pudens) to enforce a defaulted loan in 178 CE, demonstrating that freedpersons had access to the highest levels of the judicial system.\n",
+      "duties": "",
+      "cost_burden": "",
+      "status_level": "",
+      "bio": "",
+      "stories": [
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "porphyropoles-purple-seller": {
+      "id": "porphyropoles-purple-seller",
+      "type": "office",
+      "title": "Porphyropoles (Purple-seller)",
+      "greek_term": "porphyropoles",
+      "description": "Dealer in purple-dyed textiles and dyes. In late antique Egypt, the trade encompassed both dyeing and selling of finished purple goods. Workers could be independent sellers or hired employees (misthioi).\n",
+      "duties": "Dyeing textiles using plant-based or Murex-based purple dyes; selling finished goods; managing workshops with hired workers; supplying garments, veils, and fabrics to local and regional consumers.\n",
+      "cost_burden": "Required investment in raw materials (alkanet, lichen, mordants), workshop space, dye vats, fuel. Workshop owners paid workers' wages in grain.\n",
+      "status_level": "Artisan-merchant class. Modest but respectable. The family estate was described as small (elachiste hypostasis).\n",
+      "bio": "",
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "deacon-diakonos": {
+      "id": "deacon-diakonos",
+      "type": "office",
+      "title": "Deacon (Diakonos)",
+      "greek_term": "diakonos",
+      "description": "Lower-ranking member of the Christian clergy. In late antique Egyptian villages, deacons served as scribes and witnesses for legal transactions alongside their religious duties.\n",
+      "duties": "Religious duties; serving as scribes for illiterate parties; witnessing property sales, contracts, and settlements.\n",
+      "cost_burden": "",
+      "status_level": "Literate class in a largely illiterate village society.\n",
+      "bio": "",
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "priest-presbyteros": {
+      "id": "priest-presbyteros",
+      "type": "office",
+      "title": "Priest (Presbyteros)",
+      "greek_term": "presbyteros",
+      "description": "Senior member of the Christian clergy in village churches. Priests witnessed legal transactions and provided moral authority.\n",
+      "duties": "Religious leadership; witnessing property sales, loans, and settlements.\n",
+      "cost_burden": "",
+      "status_level": "Higher clerical rank than deacon.\n",
+      "bio": "",
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "symboilaiographos-notary": {
+      "id": "symboilaiographos-notary",
+      "type": "office",
+      "title": "Symboilaiographos (Notary)",
+      "greek_term": "symboilaiographos",
+      "description": "Professional notary responsible for drafting formal legal documents. In This, a succession served: Ioulios (592 CE), Dioskoros (600 CE), and Paulos (605-616 CE).\n",
+      "duties": "Drafting sale deeds, inheritance divisions, loan documents, and employment contracts in proper legal form.\n",
+      "cost_burden": "",
+      "status_level": "Professional literate class with specialised legal knowledge.\n",
+      "bio": "",
+      "stories": [
+        "the-purple-sellers-house"
+      ]
+    },
+    "oikodomos-buildermason": {
+      "id": "oikodomos-buildermason",
+      "type": "office",
+      "title": "Oikodomos (Builder/Mason)",
+      "greek_term": "oikodomos",
+      "description": "Builder or mason who constructed and assessed buildings. Senouthes the oikodomos served as expert property appraiser in the 592 CE sale.\n",
+      "duties": "Construction and repair of houses; assessment of property values for sale transactions.\n",
+      "cost_burden": "",
+      "status_level": "Skilled artisan with expert knowledge of property values.\n",
+      "bio": "",
+      "stories": [
+        "the-purple-sellers-house"
       ]
     }
   }

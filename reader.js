@@ -195,6 +195,77 @@
     }
   });
 
+  // --- Layer 0.75: Glossary term hover tooltips ---
+  var termTooltipEl = null;
+  var termTooltipTimeout = null;
+
+  function createTermTooltip() {
+    if (termTooltipEl) return termTooltipEl;
+    termTooltipEl = document.createElement("div");
+    termTooltipEl.className = "term-tooltip";
+    termTooltipEl.hidden = true;
+    document.body.appendChild(termTooltipEl);
+
+    termTooltipEl.addEventListener("mouseenter", function () {
+      clearTimeout(termTooltipTimeout);
+    });
+    termTooltipEl.addEventListener("mouseleave", function () {
+      termTooltipTimeout = setTimeout(hideTermTooltip, 150);
+    });
+
+    return termTooltipEl;
+  }
+
+  function showTermTooltip(termSpan) {
+    var definition = termSpan.dataset.definition;
+    if (!definition) return;
+
+    var tip = createTermTooltip();
+    tip.textContent = definition;
+
+    var rect = termSpan.getBoundingClientRect();
+    tip.hidden = false;
+    var tipRect = tip.getBoundingClientRect();
+    var top = rect.top - tipRect.height - 8 + window.scrollY;
+    var left = rect.left + (rect.width - tipRect.width) / 2 + window.scrollX;
+
+    left = Math.max(8, Math.min(left, window.innerWidth - tipRect.width - 8));
+    if (top < window.scrollY + 8) {
+      top = rect.bottom + 8 + window.scrollY;
+    }
+
+    tip.style.top = top + "px";
+    tip.style.left = left + "px";
+  }
+
+  function hideTermTooltip() {
+    if (termTooltipEl) termTooltipEl.hidden = true;
+  }
+
+  document.addEventListener(
+    "mouseenter",
+    function (e) {
+      var termSpan = e.target.closest(".term");
+      if (!termSpan) return;
+      clearTimeout(termTooltipTimeout);
+      termTooltipTimeout = setTimeout(function () {
+        showTermTooltip(termSpan);
+      }, 200);
+    },
+    true
+  );
+
+  document.addEventListener(
+    "mouseleave",
+    function (e) {
+      var termSpan = e.target.closest(".term");
+      if (!termSpan) return;
+      clearTimeout(termTooltipTimeout);
+      termTooltipTimeout = setTimeout(hideTermTooltip, 150);
+    },
+    true
+  );
+
   // --- Layer 1.5: Entity hover tooltips ---
   var tooltipEl = null;
   var tooltipTimeout = null;

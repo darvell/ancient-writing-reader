@@ -1,78 +1,94 @@
 {
   "title": "The Manager's Accounts",
-  "subtitle": "Heroneinos, Phrontistes of Theadelphia — c. 248-268 CE",
+  "subtitle": "Heroneinos, Phrontistes of Theadelphia, the Fayum, 249-268 CE",
+  "tags": [
+    "Roman",
+    "Theadelphia",
+    "Property & Land",
+    "Children"
+  ],
   "sections": [
     {
       "id": "opening",
       "title": "",
-      "body_html": "<p>Three hundred monochra of wine, sold at nine drachmas and five obols each. Total: two thousand nine hundred and fourteen drachmas, two obols. From the bank: sixteen drachmas. Thirteen artabas of wheat at twelve drachmas per artaba: one hundred and fifty-six drachmas. Grand total of receipts for the month of Phamenoth: three thousand and eighty-six drachmas, two obols.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup></p>\n<p>Against which, wages. Heroneinos the manager: forty drachmas. Hatres the cowherd: forty-eight. Deios, another cowherd: seven. Pouaris the donkey-driver: eight. Akies the donkey-driver: eight. Kastor, a third donkey-driver: seventeen drachmas, one obol. Dorion the ox-driver: forty-eight. Patas, another ox-driver: thirty-four drachmas, two obols. Kiot, headman of Chaio: eight. Kamis, for works: forty-eight. Asis, headman of K-something — the papyrus is damaged — sixty-eight drachmas, one obol. Dionysios the builder: four. Demeas: four. Timokrates: four. Papias: four. Sarmates: eight. Sarapammon: four. Asesis, for contract embankments: twenty. Total wages: four hundred and seventy-two drachmas.<sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup></p>\n<p>Then the hay-workers. Two men at two drachmas, two obols per day, for thirty days: one hundred and thirty-seven drachmas, one obol. A younger worker at one drachma, five obols per day: fifty-one drachmas, four obols.<sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup></p>\n<p>This is a monthly financial statement, and it is not the only one. There are dozens like it in the Heroneinos archive — approximately one thousand papyri discovered at the end of the nineteenth century at Kasr el-Harit, ancient <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span>, in the Fayum basin of Egypt.<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup> The document above, P.Flor. 3.321, is simply the most complete. It records one month in the life of one agricultural operation on one estate, managed by one man, in the middle decades of the third century CE — precisely the period historians call the Crisis of the Third Century, when the Roman Empire lurched from plague to civil war to hyperinflation, when emperors lasted months instead of decades, when the silver content of the coinage fell below five percent.<sup><a href=\"#note-5\" class=\"note-ref\" data-note=\"5\">5</a></sup></p>\n<p>And in the middle of all that, someone was counting wine jars.</p>"
+      "body_html": "<p>Three hundred monochra of wine, sold at nine <span class=\"term\" data-definition=\"The standard silver coin unit. In Roman Egypt, 1 drachma bought roughly a day's basic food. A skilled worker earned 1–4 drachmas per day.\">drachmas</span> and five <span class=\"term\" data-definition=\"Small coins worth 1/6 of a drachma each — used for everyday purchases like bread, beer, and vegetables.\">obols</span> each. Total: two thousand nine hundred and fourteen drachmas, two obols. From the bank: sixteen drachmas. Thirteen <span class=\"term\" data-definition=\"A dry measure for grain. One artaba is roughly 38–40 liters (about a bushel). A family of four needed perhaps 15–20 artabas of wheat per year.\">artabas</span> of wheat at twelve drachmas per <span class=\"term\" data-definition=\"A dry measure for grain, roughly 38–40 liters (about a bushel). A family of four needed perhaps 15–20 artabas of wheat per year.\">artaba</span>: one hundred and fifty-six drachmas. Grand total of receipts for the month of Phamenoth: three thousand and eighty-six drachmas, two obols.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup></p>\n<p>Against which, wages. Heroneinos the manager: forty drachmas. <span class=\"entity\" data-entity-id=\"hatres-theadelphia-fl-254-260-ce\" data-type=\"person\">Hatres</span> the cowherd: forty-eight. <span class=\"entity\" data-entity-id=\"deios-theadelphia-fl-252-260-ce\" data-type=\"person\">Deios</span>, another cowherd: seven. <span class=\"entity\" data-entity-id=\"pouaris-theadelphia-fl-252-260-ce\" data-type=\"person\">Pouaris</span> the donkey-driver: eight. <span class=\"entity\" data-entity-id=\"aseis-theadelphia-fl-252-ce\" data-type=\"person\">Akies</span> the donkey-driver: eight. <span class=\"entity\" data-entity-id=\"kastor-theadelphia-fl-252-260-ce\" data-type=\"person\">Kastor</span>, a third donkey-driver: seventeen drachmas, one <span class=\"term\" data-definition=\"A small coin worth 1/6 of a drachma — used for everyday purchases like bread, beer, and vegetables.\">obol</span>. <span class=\"entity\" data-entity-id=\"dorion-theadelphia-fl-252-260-ce\" data-type=\"person\">Dorion</span> the ox-driver: forty-eight. <span class=\"entity\" data-entity-id=\"patas-theadelphia-fl-254-260-ce\" data-type=\"person\">Patas</span>, another ox-driver: thirty-four drachmas, two obols. <span class=\"entity\" data-entity-id=\"kiot-theadelphia-fl-252-260-ce\" data-type=\"person\">Kiot</span>, headman of Chaio: eight. Kamis, for works: forty-eight. Asis, headman of K-something &ndash; the <span class=\"term\" data-definition=\"Writing material made from the papyrus reed, which grew abundantly in the Nile marshes. Egypt's dry climate preserved tens of thousands of documents.\">papyrus</span> is damaged &ndash; sixty-eight drachmas, one obol. Dionysios the builder: four. Demeas: four. Timokrates: four. Papias: four. Sarmates: eight. Sarapammon: four. Asesis, for contract embankments: twenty. Total wages: four hundred and seventy-two drachmas.<sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup></p>\n<p>Then the hay-workers. Two men at two drachmas, two obols per day, for thirty days: one hundred and thirty-seven drachmas, one obol. A younger worker at one <span class=\"term\" data-definition=\"The standard silver coin unit. In Roman Egypt, 1 drachma bought roughly a day's basic food. A skilled worker earned 1–4 drachmas per day.\">drachma</span>, five obols per day: fifty-one drachmas, four obols.<sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup></p>\n<p>This is a monthly financial statement, and it is not the only one. There are dozens like it in the Heroneinos archive &ndash; approximately one thousand papyri discovered at the end of the nineteenth century at <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Kasr el-Harit</span>, ancient <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span>, in the <span class=\"term\" data-definition=\"A fertile depression west of the Nile, about 80 km southwest of Cairo. Heavily settled in Ptolemaic and Roman times, producing many of the surviving papyri.\">Fayum</span> basin of Egypt.<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup> The document above, P.Flor. 3.321, is simply the most complete. It records one month in the life of one agricultural operation on one estate, managed by one man, in the middle decades of the third century CE &ndash; precisely the period historians call the Crisis of the Third Century, when the Roman Empire lurched from plague to civil war to hyperinflation, when emperors lasted months instead of decades, when the silver content of the coinage fell below five percent.<sup><a href=\"#note-5\" class=\"note-ref\" data-note=\"5\">5</a></sup></p>\n<p>And in the middle of all that, someone was counting wine jars.</p>"
     },
     {
       "id": "the-account",
       "title": "I. The Account",
-      "body_html": "<p>The document opens with a formula that tells us nearly everything about the social structure it serves:</p>\n<p>&ldquo;To Aurelius Apianos, former exegetes, councillor of the most illustrious city of the Alexandrians, and however he is styled, from Aurelius Heroneinos, phrontistes of <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span>.&rdquo;<sup><a href=\"#note-6\" class=\"note-ref\" data-note=\"6\">6</a></sup></p>\n<p>Two men, both named Aurelius — the universal nomen that every free person in the empire had carried since Caracalla&rsquo;s edict of 212 CE.<sup><a href=\"#note-7\" class=\"note-ref\" data-note=\"7\">7</a></sup> But the similarity ends there. Apianos is a former exegetes, one of the senior magistrates of <span class=\"entity\" data-entity-id=\"alexandria\" data-type=\"place\">Alexandria</span>, a member of the city council — the <em>boule</em> — of the greatest city in the eastern Mediterranean. He is a man of enormous wealth, a landowner whose holdings stretched across multiple villages, a figure of civic consequence. The phrase &ldquo;and however he is styled&rdquo; — <em>kai hos chrematizei</em> — is a bureaucratic courtesy acknowledging that his titles are too numerous to list in full.</p>\n<p>Heroneinos is his <em>phrontistes</em>. The word means something like &ldquo;the one who thinks about things&rdquo; — from <em>phrontis</em>, thought, care, anxiety. In practice it meant estate manager, steward, the man on the ground. He lived in <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span>. He supervised the workers. He kept the books. He sent the accounts up to his master in <span class=\"entity\" data-entity-id=\"alexandria\" data-type=\"place\">Alexandria</span>. He did this for at least nineteen years, from roughly 249 to 268 CE, across the reigns of Decius, Trebonianus Gallus, Aemilian, Valerian, and Gallienus.<sup><a href=\"#note-8\" class=\"note-ref\" data-note=\"8\">8</a></sup></p>\n<p>Nineteen years of monthly accounts. Nineteen years of receipts and expenditures, wine tallies and wheat distributions, donkey-loads and canal repairs. Nineteen years of letters from an imperious master who complained about jujubes and rotten figs. The archive that survives from those years is one of the most detailed records of economic life to come down to us from the ancient world.</p>\n<p>What makes P.Flor. 3.321 remarkable is not any single entry but the system it reveals. The format is standardized. Receipts are listed by category — wine, bank transfers, wheat — with quantities, unit prices, and totals. Expenditures follow the same logic: each worker named, his role specified, his monthly wage recorded to the obol. The whole thing balances. This is not a hastily scrawled memorandum. It is a formal report, submitted monthly to an absentee landlord who expected precision.<sup><a href=\"#note-9\" class=\"note-ref\" data-note=\"9\">9</a></sup></p>\n<hr></hr>"
+      "body_html": "<p>The document opens with a formula that tells us nearly everything about the social structure it serves:</p>\n<p>&ldquo;To Aurelius <span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span>, former <span class=\"term\" data-definition=\"A senior municipal magistrate, often the highest civic official in a metropolis. Responsibilities included judicial duties and city administration.\">exegetes</span>, councillor of the most illustrious city of the Alexandrians, and however he is styled, from <span class=\"entity\" data-entity-id=\"aurelius-heroneinos-theadelphia-arsinoite-nome-fl-249-268-ce\" data-type=\"person\">Aurelius Heroneinos</span>, <span class=\"term\" data-definition=\"An estate manager or steward — literally 'the one who thinks about things.' Managed agricultural production, labor, and accounts for absent landowners.\">phrontistes</span> of <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span>.&rdquo;<sup><a href=\"#note-6\" class=\"note-ref\" data-note=\"6\">6</a></sup></p>\n<p>Two men, both named Aurelius &ndash; the universal nomen that every free person in the empire had carried since Caracalla&rsquo;s edict of 212 CE.<sup><a href=\"#note-7\" class=\"note-ref\" data-note=\"7\">7</a></sup> But the similarity ends there. <span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span> is a former exegetes, one of the senior magistrates of <span class=\"entity\" data-entity-id=\"alexandria-coastal-egypt\" data-type=\"place\">Alexandria</span>, a member of the city council &ndash; the <em><span class=\"term\" data-definition=\"A city council — established in Egyptian metropoleis by Septimius Severus in 200/202 CE. Members (bouleutai) were wealthy property owners.\">boule</span></em> &ndash; of the greatest city in the eastern Mediterranean. He is a man of enormous wealth, a landowner whose holdings stretched across multiple villages, a figure of civic consequence. The phrase &ldquo;and however he is styled&rdquo; &ndash; <em>kai hos chrematizei</em> &ndash; is a bureaucratic courtesy acknowledging that his titles are too numerous to list in full.</p>\n<p>Heroneinos is his <em>phrontistes</em>. The word means something like &ldquo;the one who thinks about things&rdquo; &ndash; from <em>phrontis</em>, thought, care, anxiety. In practice it meant estate manager, steward, the man on the ground. He lived in <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span>. He supervised the workers. He kept the books. He sent the accounts up to his master in <span class=\"entity\" data-entity-id=\"alexandria-coastal-egypt\" data-type=\"place\">Alexandria</span>. He did this for at least nineteen years, from roughly 249 to 268 CE, across the reigns of Decius, Trebonianus Gallus, Aemilian, Valerian, and Gallienus.<sup><a href=\"#note-8\" class=\"note-ref\" data-note=\"8\">8</a></sup></p>\n<p>Nineteen years of monthly accounts. Nineteen years of receipts and expenditures, wine tallies and wheat distributions, donkey-loads and canal repairs. Nineteen years of letters from an imperious master who complained about jujubes and rotten figs. The archive that survives from those years is one of the most detailed records of economic life to come down to us from the ancient world.</p>\n<p>What makes P.Flor. 3.321 remarkable is not any single entry but the system it reveals. The format is standardized. Receipts are listed by category &ndash; wine, bank transfers, wheat &ndash; with quantities, unit prices, and totals. Expenditures follow the same logic: each worker named, his role specified, his monthly wage recorded to the <span class=\"term\" data-definition=\"A small coin worth 1/6 of a drachma — used for everyday purchases like bread, beer, and vegetables.\">obol</span>. The whole thing balances. This is not a hastily scrawled memorandum. It is a formal report, submitted monthly to an absentee landlord who expected precision.<sup><a href=\"#note-9\" class=\"note-ref\" data-note=\"9\">9</a></sup></p>\n<hr></hr>"
     },
     {
       "id": "the-estate",
       "title": "II. The Estate",
-      "body_html": "<p>The Appianus estate was not a single farm. It was an enterprise spread across the Arsinoite nome — the Fayum — with holdings in at least half a dozen villages: <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span>, <span class=\"entity\" data-entity-id=\"euhemeria\" data-type=\"place\">Euhemeria</span>, <span class=\"entity\" data-entity-id=\"philoteris\" data-type=\"place\">Philoteris</span>, <span class=\"entity\" data-entity-id=\"dionysias\" data-type=\"place\">Dionysias</span>, <span class=\"entity\" data-entity-id=\"sathro\" data-type=\"place\">Sathro</span>, Sentrepaei, and smaller parcels at Boubastos, <span class=\"entity\" data-entity-id=\"ptolemais-hormou\" data-type=\"place\">Ptolemais Hormou</span>, <span class=\"entity\" data-entity-id=\"ibion-argaiou\" data-type=\"place\">Ibion Argaiou</span>, and elsewhere.<sup><a href=\"#note-10\" class=\"note-ref\" data-note=\"10\">10</a></sup> Each village had its own <em>phrontistes</em>. Heroneinos managed <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span>. Eirenaios managed <span class=\"entity\" data-entity-id=\"euhemeria\" data-type=\"place\">Euhemeria</span>. Palas managed <span class=\"entity\" data-entity-id=\"philoteris\" data-type=\"place\">Philoteris</span>. Horion managed <span class=\"entity\" data-entity-id=\"dionysias\" data-type=\"place\">Dionysias</span> and perhaps Sentrepaei. Above them all sat Alypios, the chief administrator, based not in any village but at the nome capital of <span class=\"entity\" data-entity-id=\"arsinoe\" data-type=\"place\">Arsinoe</span> — modern Medinet el-Fayum — the hub from which orders radiated outward and accounts flowed back.<sup><a href=\"#note-11\" class=\"note-ref\" data-note=\"11\">11</a></sup></p>\n<p>The <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span> division alone comprised roughly 250 arourai of arable land, mostly wheat, and approximately 100 arourai of vineyards.<sup><a href=\"#note-12\" class=\"note-ref\" data-note=\"12\">12</a></sup> An aroura was about two-thirds of an acre. So we are talking about something like 165 acres of grain land and 65 acres of vines — a substantial operation but not a latifundium on the scale of the great Roman senatorial estates in North Africa or southern Italy. What distinguished the Appianus estate was not its size but its organization.</p>\n<p>Dominic Rathbone, whose 1991 study <em>Economic Rationalism and Rural Society in Third-Century AD Egypt</em> remains the definitive analysis of the archive, demonstrated that the estate operated with what he called a &ldquo;sophisticated, standardized system of accounting&rdquo; that coordinated activities across all its village divisions.<sup><a href=\"#note-13\" class=\"note-ref\" data-note=\"13\">13</a></sup> Every transfer of goods between villages required a written receipt. Every monthly account followed the same format. Cash accounts were kept separate from commodity accounts — wheat had its own ledger, wine its own. The system was not double-entry bookkeeping in the Venetian sense, but it approached that level of methodical tracking. Rathbone argued that it challenged the common assumption of economic primitivism in the ancient world.</p>\n<p>Apianos himself never appears in <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span>. He ruled from <span class=\"entity\" data-entity-id=\"alexandria\" data-type=\"place\">Alexandria</span>, communicating by letter, receiving monthly reports, issuing instructions that ranged from strategic decisions about wage rates to petulant demands for fruit. He was, in every respect that matters, an absentee landlord.</p>\n<p>The distance was not trivial. <span class=\"entity\" data-entity-id=\"alexandria\" data-type=\"place\">Alexandria</span> sat at the northern edge of the Nile Delta. The Fayum was a depression in the desert southwest of Memphis, connected to the Nile valley by a single canal. Letters and goods moved by donkey, camel, ox-cart, and boat. A letter might take days. A shipment of wine, longer. And yet the system functioned — month after month, year after year, through plague and inflation and the capture of an emperor by the Persians.<sup><a href=\"#note-14\" class=\"note-ref\" data-note=\"14\">14</a></sup></p>\n<hr></hr>"
+      "body_html": "<p>The Appianus estate was not a single farm. It was an enterprise spread across the <span class=\"term\" data-definition=\"The administrative district surrounding the Fayum. One of the most densely documented regions of the ancient world thanks to papyrus preservation.\">Arsinoite nome</span> &ndash; the <span class=\"term\" data-definition=\"A fertile depression west of the Nile, about 80 km southwest of Cairo. Heavily settled in Ptolemaic and Roman times, producing many of the surviving papyri.\">Fayum</span> &ndash; with holdings in at least half a dozen villages: <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span>, <span class=\"entity\" data-entity-id=\"euhemeria-arsinoite-nome-themistos-division\" data-type=\"place\">Euhemeria</span>, <span class=\"entity\" data-entity-id=\"philoteris-arsinoite-nome-themistos-division\" data-type=\"place\">Philoteris</span>, <span class=\"entity\" data-entity-id=\"dionysias-arsinoite-nome-themistos-division\" data-type=\"place\">Dionysias</span>, <span class=\"entity\" data-entity-id=\"sathro-arsinoite-nome\" data-type=\"place\">Sathro</span>, <span class=\"entity\" data-entity-id=\"sentrepaei-arsinoite-nome\" data-type=\"place\">Sentrepaei</span>, and smaller parcels at Boubastos, <span class=\"entity\" data-entity-id=\"ptolemais-hormou-arsinoite-nome\" data-type=\"place\">Ptolemais Hormou</span>, <span class=\"entity\" data-entity-id=\"ibion-argaiou-arsinoite-nome\" data-type=\"place\">Ibion Argaiou</span>, and elsewhere.<sup><a href=\"#note-10\" class=\"note-ref\" data-note=\"10\">10</a></sup> Each village had its own <em><span class=\"term\" data-definition=\"An estate manager or steward — literally 'the one who thinks about things.' Managed agricultural production, labor, and accounts for absent landowners.\">phrontistes</span></em>. Heroneinos managed <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span>. <span class=\"entity\" data-entity-id=\"eirenaios-euhemeria-fl-249-268-ce\" data-type=\"person\">Eirenaios</span> managed <span class=\"entity\" data-entity-id=\"euhemeria-arsinoite-nome-themistos-division\" data-type=\"place\">Euhemeria</span>. <span class=\"entity\" data-entity-id=\"palas-philoteris-fl-265-ce\" data-type=\"person\">Palas</span> managed <span class=\"entity\" data-entity-id=\"philoteris-arsinoite-nome-themistos-division\" data-type=\"place\">Philoteris</span>. <span class=\"entity\" data-entity-id=\"horion-dionysias-fl-249-268-ce\" data-type=\"person\">Horion</span> managed <span class=\"entity\" data-entity-id=\"dionysias-arsinoite-nome-themistos-division\" data-type=\"place\">Dionysias</span> and perhaps <span class=\"entity\" data-entity-id=\"sentrepaei-arsinoite-nome\" data-type=\"place\">Sentrepaei</span>. Above them all sat <span class=\"entity\" data-entity-id=\"alypios-arsinoe-nome-capital-fl-257-267-ce\" data-type=\"person\">Alypios</span>, the chief administrator, based not in any village but at the <span class=\"term\" data-definition=\"An administrative district in Egypt, inherited from pharaonic times. Roman Egypt had about 30 nomes, each governed by a strategos.\">nome</span> capital of <span class=\"entity\" data-entity-id=\"arsinoe-arsinoite-nome\" data-type=\"place\">Arsinoe</span> &ndash; modern <span class=\"entity\" data-entity-id=\"arsinoe-arsinoite-nome\" data-type=\"place\">Medinet el-Fayum</span> &ndash; the hub from which orders radiated outward and accounts flowed back.<sup><a href=\"#note-11\" class=\"note-ref\" data-note=\"11\">11</a></sup></p>\n<p>The <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span> division alone comprised roughly 250 arourai of arable land, mostly wheat, and approximately 100 arourai of vineyards.<sup><a href=\"#note-12\" class=\"note-ref\" data-note=\"12\">12</a></sup> An <span class=\"term\" data-definition=\"A unit of land area (about 2/3 of an acre or 0.27 hectares). A small farmer might work 5–10 arouras; a wealthy landlord could own hundreds.\">aroura</span> was about two-thirds of an acre. So we are talking about something like 165 acres of grain land and 65 acres of vines &ndash; a substantial operation but not a latifundium on the scale of the great Roman senatorial estates in North Africa or southern Italy. What distinguished the Appianus estate was not its size but its organization.</p>\n<p>Dominic Rathbone, whose 1991 study <em>Economic Rationalism and Rural Society in Third-Century AD Egypt</em> remains the definitive analysis of the archive, demonstrated that the estate operated with what he called a &ldquo;sophisticated, standardized system of accounting&rdquo; that coordinated activities across all its village divisions.<sup><a href=\"#note-13\" class=\"note-ref\" data-note=\"13\">13</a></sup> Every transfer of goods between villages required a written receipt. Every monthly account followed the same format. Cash accounts were kept separate from commodity accounts &ndash; wheat had its own ledger, wine its own. The system was not double-entry bookkeeping in the Venetian sense, but it approached that level of methodical tracking. Rathbone argued that it challenged the common assumption of economic primitivism in the ancient world.</p>\n<p><span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span> himself never appears in <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span>. He ruled from <span class=\"entity\" data-entity-id=\"alexandria-coastal-egypt\" data-type=\"place\">Alexandria</span>, communicating by letter, receiving monthly reports, issuing instructions that ranged from strategic decisions about wage rates to petulant demands for fruit. He was, in every respect that matters, an absentee landlord.</p>\n<p>The distance was not trivial. <span class=\"entity\" data-entity-id=\"alexandria-coastal-egypt\" data-type=\"place\">Alexandria</span> sat at the northern edge of the Nile Delta. The Fayum was a depression in the desert southwest of Memphis, connected to the Nile valley by a single canal. Letters and goods moved by donkey, camel, ox-cart, and boat. A letter might take days. A shipment of wine, longer. And yet the system functioned &ndash; month after month, year after year, through plague and inflation and the capture of an emperor by the Persians.<sup><a href=\"#note-14\" class=\"note-ref\" data-note=\"14\">14</a></sup></p>\n<hr></hr>"
     },
     {
       "id": "the-wine",
       "title": "III. The Wine",
-      "body_html": "<p>Wine was the centerpiece of the <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span> economy, and the archive allows us to track its production with a specificity that borders on the obsessive.</p>\n<p>On the thirtieth of November in the year 264 CE, Heroneinos&rsquo;s son Maximos — who served as <em>diastoleus</em>, an agent or distributor, for the estate — signed a receipt. He had received, he wrote, from the produce of the estates of &ldquo;the <em>euschemon</em>&rdquo; — the honorable one, a common euphemism for the landowner — &ldquo;produce of year 12, wine: one thousand nine hundred monochra.&rdquo;<sup><a href=\"#note-15\" class=\"note-ref\" data-note=\"15\">15</a></sup></p>\n<p>One thousand nine hundred single-capacity jars. From a single harvest season. And that was not the end of it. Subsequent entries in the same document record additional shipments: 266 monochra on the twenty-ninth of Hathyr, 242 on the first of Choiak, 244 on the fourth — a running total that exceeded 2,600 jars from one harvest.<sup><a href=\"#note-16\" class=\"note-ref\" data-note=\"16\">16</a></sup></p>\n<p>A second document, from the following year, records daily wine shipments over the course of a single month — October 265 CE. The entries are relentless: the fourteenth of Phaophi, 102 Oxyrhynchite jars plus 3 more plus 40 double-jars. The sixteenth: 114 jars plus 6 double-jars. The eighteenth: 73 jars plus 26 double-jars. The twenty-first, the twenty-third, the twenty-ninth, the twenty-eighth — the clerk recording entries slightly out of order, perhaps catching up at the end of a long day. Grand total for the month: over 1,500 single-jar equivalents, plus additional shipments rolling into early November.<sup><a href=\"#note-17\" class=\"note-ref\" data-note=\"17\">17</a></sup></p>\n<p>The vocabulary alone tells a story. <em>Monochra</em>: single-capacity jars, the standard unit. <em>Dichora</em>: double-capacity jars, worth two monochra each. <em>Oxyrhynchite jars</em>: a regional type, named for the city of Oxyrhynchus. <em>Knidion</em>: Knidian jars, an imported form that carried prestige. <em>Spathion</em>: another jar shape. <em>Deuterochytoi</em>: second-pressings, the inferior wine wrung from already-exhausted grapes. This was a world that knew its containers the way a modern winery knows its barrel sizes.<sup><a href=\"#note-18\" class=\"note-ref\" data-note=\"18\">18</a></sup></p>\n<p>The harvest was a military operation. In August of 260, Alypios wrote to Heroneinos that he was sending a steward named Herakleides &ldquo;so that he may make the arrangement for the grape-harvest.&rdquo; But Heroneinos was to wait two or three days &ldquo;so that the light tasks may also come together for you, and also so that the wine may become properly good, for you know that the season is now later than usual.&rdquo; Then the warning: &ldquo;do not trust the vintagers — carry out the harvest and write to me about it.&rdquo;<sup><a href=\"#note-19\" class=\"note-ref\" data-note=\"19\">19</a></sup></p>\n<p>Do not trust the vintagers. The <em>karponai</em>, the hired grape-harvesters, were seasonal workers with their own interests. Perhaps they skimmed. Perhaps they rushed, picking grapes too early or pressing them carelessly. The instruction suggests that quality control was Heroneinos&rsquo;s personal responsibility, and that lapses had occurred.</p>\n<p>Quality was tested by the most direct method available. In March of 258, an administrator wrote to Heroneinos: &ldquo;From testing by smell, you yourself select them, knowing that if poor quality wine is found among them — or anything else of poor quality — it is sent back to you.&rdquo;<sup><a href=\"#note-20\" class=\"note-ref\" data-note=\"20\">20</a></sup> <em>Osmetheis</em> — having been smelled. The manager was expected to nose every batch. If vinegar slipped through, it came back.</p>\n<p>And vinegar did slip through. In another letter, a recipient named Monimos acknowledged a shipment — twelve dichora and twenty-four monochra, making fifty-six single-jar equivalents in total, delivered by donkey-drivers Herakleon and others on seven female donkeys — and added, bluntly: &ldquo;But do not wish to send me vinegar; for I have received instructions through the letter from the <em>euschemon</em>.&rdquo;<sup><a href=\"#note-21\" class=\"note-ref\" data-note=\"21\">21</a></sup> The landowner himself had apparently complained about the wine quality. The rebuke was passed down the chain.</p>\n<p>Where did all this wine go? To <span class=\"entity\" data-entity-id=\"alexandria\" data-type=\"place\">Alexandria</span>, primarily, via the nome capital. To other estate divisions — <span class=\"entity\" data-entity-id=\"euhemeria\" data-type=\"place\">Euhemeria</span>, <span class=\"entity\" data-entity-id=\"philoteris\" data-type=\"place\">Philoteris</span>, <span class=\"entity\" data-entity-id=\"dionysias\" data-type=\"place\">Dionysias</span> — as internal transfers. To wine-sellers, the <em>oinopoloi</em>, stationed at Narmouthis and other market towns. To workers as part of their wages — the estate&rsquo;s lowest-quality wine was used for this purpose.<sup><a href=\"#note-22\" class=\"note-ref\" data-note=\"22\">22</a></sup> To VIP guests. To officials on inspection visits. And, at least once, to an old woman who had earned the landowner&rsquo;s gratitude: &ldquo;Release to Herais, the former wet-nurse, two two-chous jars of wine, without asking anything from her.&rdquo;<sup><a href=\"#note-23\" class=\"note-ref\" data-note=\"23\">23</a></sup></p>\n<p>Two jars for a wet-nurse. A small kindness in a vast commercial operation. Perhaps she had nursed Apianos himself, or one of his children. The document does not say. It says only: give her the wine, and do not charge her.</p>\n<hr></hr>"
+      "body_html": "<p>Wine was the centerpiece of the <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span> economy, and the archive allows us to track its production with a specificity that borders on the obsessive.</p>\n<p>On the thirtieth of November in the year 264 CE, Heroneinos&rsquo;s son Maximos &ndash; who served as <em>diastoleus</em>, an agent or distributor, for the estate &ndash; signed a receipt. He had received, he wrote, from the produce of the estates of &ldquo;the <em>euschemon</em>&rdquo; &ndash; the honorable one, a common euphemism for the landowner &ndash; &ldquo;produce of year 12, wine: one thousand nine hundred monochra.&rdquo;<sup><a href=\"#note-15\" class=\"note-ref\" data-note=\"15\">15</a></sup></p>\n<p>One thousand nine hundred single-capacity jars. From a single harvest season. And that was not the end of it. Subsequent entries in the same document record additional shipments: 266 monochra on the twenty-ninth of Hathyr, 242 on the first of Choiak, 244 on the fourth &ndash; a running total that exceeded 2,600 jars from one harvest.<sup><a href=\"#note-16\" class=\"note-ref\" data-note=\"16\">16</a></sup></p>\n<p>A second document, from the following year, records daily wine shipments over the course of a single month &ndash; October 265 CE. The entries are relentless: the fourteenth of Phaophi, 102 Oxyrhynchite jars plus 3 more plus 40 double-jars. The sixteenth: 114 jars plus 6 double-jars. The eighteenth: 73 jars plus 26 double-jars. The twenty-first, the twenty-third, the twenty-ninth, the twenty-eighth &ndash; the clerk recording entries slightly out of order, perhaps catching up at the end of a long day. Grand total for the month: over 1,500 single-jar equivalents, plus additional shipments rolling into early November.<sup><a href=\"#note-17\" class=\"note-ref\" data-note=\"17\">17</a></sup></p>\n<p>The vocabulary alone tells a story. <em>Monochra</em>: single-capacity jars, the standard unit. <em>Dichora</em>: double-capacity jars, worth two monochra each. <em>Oxyrhynchite jars</em>: a regional type, named for the city of <span class=\"term\" data-definition=\"A major city in Upper Egypt (modern el-Bahnasa) — one of the richest archaeological sites for papyri. Over 5,000 documents have been published from its rubbish heaps.\">Oxyrhynchus</span>. <em>Knidion</em>: Knidian jars, an imported form that carried prestige. <em>Spathion</em>: another jar shape. <em>Deuterochytoi</em>: second-pressings, the inferior wine wrung from already-exhausted grapes. This was a world that knew its containers the way a modern winery knows its barrel sizes.<sup><a href=\"#note-18\" class=\"note-ref\" data-note=\"18\">18</a></sup></p>\n<p>The harvest was a military operation. In August of 260, <span class=\"entity\" data-entity-id=\"alypios-arsinoe-nome-capital-fl-257-267-ce\" data-type=\"person\">Alypios</span> wrote to Heroneinos that he was sending a steward named Herakleides &ldquo;so that he may make the arrangement for the grape-harvest.&rdquo; But Heroneinos was to wait two or three days &ldquo;so that the light tasks may also come together for you, and also so that the wine may become properly good, for you know that the season is now later than usual.&rdquo; Then the warning: &ldquo;do not trust the vintagers &ndash; carry out the harvest and write to me about it.&rdquo;<sup><a href=\"#note-19\" class=\"note-ref\" data-note=\"19\">19</a></sup></p>\n<p>Do not trust the vintagers. The <em>karponai</em>, the hired grape-harvesters, were seasonal workers with their own interests. Perhaps they skimmed. Perhaps they rushed, picking grapes too early or pressing them carelessly. The instruction suggests that quality control was Heroneinos&rsquo;s personal responsibility, and that lapses had occurred.</p>\n<p>Quality was tested by the most direct method available. In March of 258, an administrator wrote to Heroneinos: &ldquo;From testing by smell, you yourself select them, knowing that if poor quality wine is found among them &ndash; or anything else of poor quality &ndash; it is sent back to you.&rdquo;<sup><a href=\"#note-20\" class=\"note-ref\" data-note=\"20\">20</a></sup> <em>Ek tes osmes dokimazon</em> &ndash; having been tested by smell. The manager was expected to nose every batch. If vinegar slipped through, it came back.</p>\n<p>And vinegar did slip through. In December of 257, a recipient named <span class=\"entity\" data-entity-id=\"monimos-fl-257-ce\" data-type=\"person\">Monimos</span> acknowledged a shipment &ndash; twelve dichora and twenty-four monochra, making fifty-six single-jar equivalents in total, delivered by donkey-drivers on seven female donkeys &ndash; and added, bluntly: &ldquo;But do not wish to send me vinegar; for I have received instructions through the letter from the <em>euschemon</em>.&rdquo;<sup><a href=\"#note-21\" class=\"note-ref\" data-note=\"21\">21</a></sup> The landowner himself had apparently complained about the wine quality. The rebuke was passed down the chain.</p>\n<p>Where did all this wine go? To <span class=\"entity\" data-entity-id=\"alexandria-coastal-egypt\" data-type=\"place\">Alexandria</span>, primarily, via the <span class=\"term\" data-definition=\"An administrative district in Egypt, inherited from pharaonic times. Roman Egypt had about 30 nomes, each governed by a strategos.\">nome</span> capital. To other estate divisions as internal transfers. To wine-sellers &ndash; the <em>oinopoloi</em> &ndash; stationed at market towns, at a rate of fourteen <span class=\"term\" data-definition=\"The standard silver coin unit. In Roman Egypt, 1 drachma bought roughly a day's basic food. A skilled worker earned 1–4 drachmas per day.\">drachmas</span> per single-chous jar.<sup><a href=\"#note-22\" class=\"note-ref\" data-note=\"22\">22</a></sup> To workers as part of their wages &ndash; the estate&rsquo;s lowest-quality wine was used for this purpose.<sup><a href=\"#note-23\" class=\"note-ref\" data-note=\"23\">23</a></sup> To VIP guests. To officials on inspection visits. And, at least once, to an old woman who had earned the landowner&rsquo;s gratitude: &ldquo;Release to <span class=\"entity\" data-entity-id=\"herais-theadelphia-or-alexandria-fl-258-ce\" data-type=\"person\">Herais</span>, the former wet-nurse, two two-chous jars of wine, without asking anything from her.&rdquo;<sup><a href=\"#note-24\" class=\"note-ref\" data-note=\"24\">24</a></sup></p>\n<p>Two jars for a wet-nurse. A small kindness. Perhaps she had nursed <span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span> himself. The document does not say. It says only: give her the wine, and do not charge her.</p>\n<hr></hr>"
     },
     {
       "id": "letters-from-the-master",
       "title": "IV. Letters from the Master",
-      "body_html": "<p>Apianos&rsquo;s letters to Heroneinos survive in enough quantity to reconstruct a personality — and it is not a pleasant one.</p>\n<p>On the second of August, 252 CE, Apianos wrote about jujubes:</p>\n<p>&ldquo;On other occasions it was written to you to send up the jujubes, and up to now you have not sent them. So at least now, send them, lest we treat you accordingly. If you are neglecting such trifling matters, how much more so the more important ones!&rdquo;<sup><a href=\"#note-24\" class=\"note-ref\" data-note=\"24\">24</a></sup></p>\n<p>The Greek word is <em>zypha</em> — the fruit of the <em>ziziphus</em> tree, a small, sweet, date-like berry that grew in the Fayum. It is not a strategic commodity. It is a snack. And yet Apianos&rsquo;s tone is that of a man issuing a military command. The threat — &ldquo;lest we treat you accordingly&rdquo; — is left deliberately vague. The logic is the logic of micromanagement everywhere: if you cannot be trusted with the small things, what about the big ones?</p>\n<p>Less than a year later, in July of 253, the figs:</p>\n<p>&ldquo;Even if someone sends up the smallest thing, he ought to send it with a letter and indicate what was sent and through whom. But what you sent up was not so much as to keep a man and a donkey idle for four small bundles of rotten figs. From the poor quality and dryness and thirstiness of the figs, the neglect of the estate was apparent.&rdquo;<sup><a href=\"#note-25\" class=\"note-ref\" data-note=\"25\">25</a></sup></p>\n<p>The reasoning is devastatingly specific. The cost of transport — a man and a donkey, both occupied for the journey from the Fayum to <span class=\"entity\" data-entity-id=\"alexandria\" data-type=\"place\">Alexandria</span> — exceeded the value of the goods transported. This was not merely disappointing fruit. It was bad logistics. And from the bad logistics, Apianos extrapolated the condition of the entire estate. Dry figs meant a dry manager. Rotten fruit meant rotten management.</p>\n<p>In November of 257, bread and hares:</p>\n<p>&ldquo;Some days ago I wrote that good small loaves should be made and sent up to us, and you did not do it&hellip; There is also need for hares&hellip; The physicians need it both for eye-salves and for other medical uses.&rdquo;<sup><a href=\"#note-26\" class=\"note-ref\" data-note=\"26\">26</a></sup></p>\n<p>The small loaves — <em>artidia</em> — were a recurring demand. Apianos wanted them, and wanted them good. The hares are stranger. Ancient physicians used hare meat, fur, and other parts in the preparation of <em>kollyria</em> — eye-salves — and other compounds. The connection between the Fayum&rsquo;s hare population and the Alexandrian physicians&rsquo; medicine cabinets ran through Heroneinos&rsquo;s office.<sup><a href=\"#note-27\" class=\"note-ref\" data-note=\"27\">27</a></sup></p>\n<p>When a VIP visited the estate, the demands escalated:</p>\n<p>&ldquo;Let my lord, his son Primus, the most worthy, have every provision and suitable wines and a piglet and small loaves and everything else, so that he may speak well of me to his father.&rdquo;<sup><a href=\"#note-28\" class=\"note-ref\" data-note=\"28\">28</a></sup></p>\n<p>The parenthetical — &ldquo;so that he may speak well of me&rdquo; — strips the hospitality of any pretense. This was not generosity. It was reputation management. Primus was the son of someone whose opinion mattered to Apianos. Heroneinos was to produce the piglet, the wine, the loaves — and through them, the good word.</p>\n<p>Even practical emergencies were conveyed in the tone of command:</p>\n<p>&ldquo;By all means find us another suitable axle of ten cubits or even more, for the estate of <span class=\"entity\" data-entity-id=\"ptolemais-hormou\" data-type=\"place\">Ptolemais Hormou</span>, since the one there suddenly broke&hellip; I have also sent Perigenes the carpenter and the ox-cart so that it may be transported immediately.&rdquo;<sup><a href=\"#note-29\" class=\"note-ref\" data-note=\"29\">29</a></sup></p>\n<p>Ten cubits is roughly fifteen feet. An axle of that length served a major piece of equipment — perhaps a water-wheel or a wine-press. The break was sudden. The replacement was urgent. Heroneinos was expected to locate a piece of timber fifteen feet long, in a region not known for its forests, and have it ready when the carpenter arrived with the ox-cart.</p>\n<p>Through all of this, Heroneinos&rsquo;s own voice is almost entirely absent. We have the master&rsquo;s letters. We have the accounts the manager submitted. But Heroneinos&rsquo;s replies — the letters that must have accompanied each shipment of jujubes, each load of figs, each explanation for why the bread was not good enough — have not survived. The archive is one-sided. We hear the demands. We do not hear the excuses.</p>\n<hr></hr>"
+      "body_html": "<p><span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span>&rsquo;s letters to Heroneinos survive in enough quantity to reconstruct a personality &ndash; and it is not a pleasant one.</p>\n<p>On the second of August, 252 CE, <span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span> wrote about jujubes:</p>\n<blockquote>\n<p>On other occasions it was written to you to send up the jujubes, and up to now you have not sent them. So at least now, send them, lest we treat you accordingly. If you are neglecting such trifling matters, how much more so the more important ones!<sup><a href=\"#note-25\" class=\"note-ref\" data-note=\"25\">25</a></sup></p>\n</blockquote>\n<p>The Greek word is <em>zypha</em> &ndash; the fruit of the <em>ziziphus</em> tree, a small, sweet, date-like berry that grew in the <span class=\"term\" data-definition=\"A fertile depression west of the Nile, about 80 km southwest of Cairo. Heavily settled in Ptolemaic and Roman times, producing many of the surviving papyri.\">Fayum</span>. It is not a strategic commodity. It is a snack. And yet <span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span>&rsquo;s tone is that of a man issuing a military command. The threat &ndash; &ldquo;lest we treat you accordingly&rdquo; &ndash; is left deliberately vague. The logic is the logic of micromanagement everywhere: if you cannot be trusted with the small things, what about the big ones?</p>\n<p>Less than a year later, in July of 253, the figs:</p>\n<blockquote>\n<p>Even if someone sends up the smallest thing, he ought to send it with a letter and indicate what was sent and through whom. But what you sent up was not so much as to keep a man and a donkey idle for four small bundles of rotten figs. From the poor quality and dryness and thirstiness of the figs, the neglect of the estate was apparent.<sup><a href=\"#note-26\" class=\"note-ref\" data-note=\"26\">26</a></sup></p>\n</blockquote>\n<p>The reasoning is devastatingly specific. The cost of transport &ndash; a man and a donkey, both occupied for the journey from the Fayum to <span class=\"entity\" data-entity-id=\"alexandria-coastal-egypt\" data-type=\"place\">Alexandria</span> &ndash; exceeded the value of the goods transported. This was not merely disappointing fruit. It was bad logistics. And from the bad logistics, <span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span> extrapolated the condition of the entire estate. Dry figs meant a dry manager. Rotten fruit meant rotten management.</p>\n<p>In November of 257, bread and hares:</p>\n<blockquote>\n<p>Some days ago I wrote that good small loaves should be made and sent up to us, and you did not do it&hellip; There is also need for hares&hellip; The physicians need it both for eye-salves and for other medical uses.<sup><a href=\"#note-27\" class=\"note-ref\" data-note=\"27\">27</a></sup></p>\n</blockquote>\n<p>The small loaves &ndash; <em>artidia</em> &ndash; were a recurring demand. The hares are stranger. Ancient physicians used hare meat and fur in the preparation of <em>kollyria</em> &ndash; eye-salves &ndash; and other compounds.<sup><a href=\"#note-28\" class=\"note-ref\" data-note=\"28\">28</a></sup> The connection between the Fayum&rsquo;s hare population and the Alexandrian physicians&rsquo; medicine cabinets ran through Heroneinos&rsquo;s office.</p>\n<p>When a VIP visited the estate, the demands escalated:</p>\n<blockquote>\n<p>Let my lord, his son Primus, the most worthy, have every provision and suitable wines and a piglet and small loaves and everything else, so that he may speak well of me to his father.<sup><a href=\"#note-29\" class=\"note-ref\" data-note=\"29\">29</a></sup></p>\n</blockquote>\n<p>&ldquo;So that he may speak well of me.&rdquo; The hospitality was reputation management. Primus was the son of someone whose opinion mattered to <span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span>. Heroneinos was to produce the piglet, the wine, the loaves &ndash; and through them, the good word.</p>\n<p>But the master was not only imperious. On the 28th of February, 258, the order to release wine to the former wet-nurse <span class=\"entity\" data-entity-id=\"herais-theadelphia-or-alexandria-fl-258-ce\" data-type=\"person\">Herais</span>, &ldquo;without asking anything from her,&rdquo; suggests a capacity for kindness &ndash; or at least for sentimental loyalty to the household&rsquo;s past.<sup><a href=\"#note-30\" class=\"note-ref\" data-note=\"30\">30</a></sup> And when the question of settler wages arose, <span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span> responded with money, not reprimand: &ldquo;Another one hundred <span class=\"term\" data-definition=\"The standard silver coin unit. In Roman Egypt, 1 drachma bought roughly a day's basic food. A skilled worker earned 1–4 drachmas per day.\">drachmas</span> have now been sent to you for the pulling of the hay. You wrote asking to be informed of the wage that the settlers are accustomed to receive.&rdquo;<sup><a href=\"#note-31\" class=\"note-ref\" data-note=\"31\">31</a></sup> The relationship was not only tyranny. It was also, at times, functional.</p>\n<hr></hr>"
     },
     {
-      "id": "alypios-the-administrator",
-      "title": "V. Alypios the Administrator",
-      "body_html": "<p>If Apianos was the distant thundercloud, Alypios was the weather on the ground.</p>\n<p>As chief administrator of the estate, based at the nome capital, Alypios occupied the critical middle position — above the village managers, below the landowner, responsible for coordinating everything. His letters to Heroneinos are frequent, detailed, and relentlessly practical. Where Apianos threatened and scolded, Alypios organized and instructed. Where Apianos complained about fruit, Alypios worried about logistics.</p>\n<p>The most vivid of his surviving letters dates to January 17, 266 CE — the inspection visit:</p>\n<p>&ldquo;God willing, expect us on the 23rd, arriving at your place. The moment you receive my letter, have the bath-house heated by all means, and have beams brought into it; also collect chaff from everywhere, so that we may bathe in warm water, since it is winter.&rdquo;<sup><a href=\"#note-30\" class=\"note-ref\" data-note=\"30\">30</a></sup></p>\n<p>The bath-house at <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span> required special preparation. It was winter — January in the Fayum, when temperatures drop to the forties and fifties at night and the wind off the desert can be bitter. Beams were needed, perhaps as fuel or as structural supports. Chaff — the husks left over from threshing — served as fuel for the furnace that heated the water. The administrator wanted a hot bath after his journey.</p>\n<p>Then the food:</p>\n<p>&ldquo;And take care to have ready all the other provisions as well; but above all, a fine piglet for those who are with us — and let it be a good one this time, not like last time, thin and useless!&rdquo;<sup><a href=\"#note-31\" class=\"note-ref\" data-note=\"31\">31</a></sup></p>\n<p><em>Not like last time.</em> The piglet that Heroneinos had provided on the previous inspection visit had been thin and useless — <em>leptou kai achrestou</em> — and Alypios had not forgotten. The parenthetical is the kind of detail that makes the archive come alive. Somewhere in the recent past, an administrator had arrived at an estate with his retinue, expecting to be fed well, and had been served a scrawny pig. Someone had been embarrassed. The embarrassment was now being preemptively corrected.</p>\n<p>Also: &ldquo;Send to the fishermen so that they may bring us fish.&rdquo;<sup><a href=\"#note-32\" class=\"note-ref\" data-note=\"32\">32</a></sup></p>\n<p>The estate maintained its own fishermen. Their names survive in another document — Alleion, Polion, Pellas, Melas, Peras — registered in a list submitted to the administration.<sup><a href=\"#note-33\" class=\"note-ref\" data-note=\"33\">33</a></sup> They fished the canals and perhaps the lake, and when the administrator came to town, their catch was requisitioned for the table.</p>\n<p>The reason for the visit was business: &ldquo;We have decided to stay with you, since we intend to inspect the remaining small estates.&rdquo;<sup><a href=\"#note-34\" class=\"note-ref\" data-note=\"34\">34</a></sup> But the business required comfort. An administrator traveling with a retinue — &ldquo;those who are with us&rdquo; suggests at least a small party — needed to be housed, bathed, and fed. The burden fell on the village manager.</p>\n<p>Alypios&rsquo;s other letters reveal the scope of his coordinating role. In June of 257, he sent Heroneinos a release-order for a hundred single-chous jars of wine from <span class=\"entity\" data-entity-id=\"ibion-argaiou\" data-type=\"place\">Ibion Argaiou</span>, &ldquo;knowing that your management needs expenditures, and especially on account of the festival of the Amesysia and the provision of hay.&rdquo;<sup><a href=\"#note-35\" class=\"note-ref\" data-note=\"35\">35</a></sup> The Amesysia was a local festival — perhaps connected to a deity whose name the fragmentary texts do not preserve clearly — and it required money. Wine could be sold to generate cash. The system moved fluid between its parts like a body circulating blood.</p>\n<p>In October of 264, a larger release: &ldquo;Release the tenth wine-vat to Maximos, the agent, for the expenses in the city&hellip; It holds: 100 two-chous jars, 349 single-chous jars.&rdquo;<sup><a href=\"#note-36\" class=\"note-ref\" data-note=\"36\">36</a></sup> An entire vat — nearly 550 jar-equivalents of wine — dispatched in one order. The &ldquo;expenses in the city&rdquo; were unspecified but presumably related to the estate&rsquo;s operations in <span class=\"entity\" data-entity-id=\"alexandria\" data-type=\"place\">Alexandria</span>: taxes, bribes, purchases, the maintenance of the landowner&rsquo;s household.</p>\n<p>And then the emergencies. In July of 266: &ldquo;All the cattle you have, apart from those working the water-wheels, whether heifers or larger ones, hand over to Kopres, the servant, so that they may go to <span class=\"entity\" data-entity-id=\"taureinos\" data-type=\"place\">Taureinos</span> for a few days to trample the harvested grain on the shore that is being eaten by mice, since we are suffering no small loss from this.&rdquo;<sup><a href=\"#note-37\" class=\"note-ref\" data-note=\"37\">37</a></sup></p>\n<p>Mice. Eating the grain. On the shore at <span class=\"entity\" data-entity-id=\"taureinos\" data-type=\"place\">Taureinos</span>, where the harvest had been spread to dry, rodents were destroying the crop. The solution was ancient and brutal: drive cattle over the grain, trampling it to separate the kernels while crushing or scattering the mice. But the cattle that worked the water-wheels — the <em>saqiya</em> machines that lifted Nile water into the irrigation canals — could not be spared. Agricultural machinery took priority over pest control. Every decision had a trade-off.</p>\n<p>Alypios&rsquo;s letters frequently end with the same imperative formula: &ldquo;See that you do not neglect this!&rdquo;<sup><a href=\"#note-38\" class=\"note-ref\" data-note=\"38\">38</a></sup> It was the middle manager&rsquo;s eternal refrain — the upward-looking anxiety of a man who would be blamed if his subordinate&rsquo;s failures became his own.</p>\n<hr></hr>"
+      "id": "alypios-and-the-thin-piglet",
+      "title": "V. Alypios and the Thin Piglet",
+      "body_html": "<p>If <span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span> was the voice of the master, <span class=\"entity\" data-entity-id=\"alypios-arsinoe-nome-capital-fl-257-267-ce\" data-type=\"person\">Alypios</span> was the voice of the machine.</p>\n<p>The chief administrator&rsquo;s letters are models of bureaucratic efficiency. Each one specifies a task, a deadline, and a consequence. But one letter, from the 17th of January, 266 CE, rises above the functional:</p>\n<blockquote>\n<p>God willing, expect us on the 23rd, arriving at your place. The moment you receive my letter, have the bath-house heated by all means, and have beams brought into it; also collect chaff from everywhere, so that we may bathe in warm water, since it is winter. For we have decided to stay with you, since we intend to inspect the remaining small estates.<sup><a href=\"#note-32\" class=\"note-ref\" data-note=\"32\">32</a></sup></p>\n</blockquote>\n<p>Chaff for fuel. Beams for the bath-house structure. An inspection tour in winter, requiring hot water, provisioning, and accommodations. And then the sentence that has survived eighteen centuries because it is, in its way, perfect:</p>\n<blockquote>\n<p>And take care to have ready all the other provisions as well; but above all, a fine piglet for those who are with us &ndash; and let it be a good one this time, not like last time, thin and useless!<sup><a href=\"#note-33\" class=\"note-ref\" data-note=\"33\">33</a></sup></p>\n</blockquote>\n<p><em>Me hosper tote ischnon kai achreion.</em> Not like last time, thin and useless. Somewhere in the recent past, the inspection party had arrived at <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span>, sat down to dinner, and been served a pig that was not up to standard. <span class=\"entity\" data-entity-id=\"alypios-arsinoe-nome-capital-fl-257-267-ce\" data-type=\"person\">Alypios</span> remembered. He would not allow it again.</p>\n<p>The same letter orders fish: &ldquo;send to the fishermen so that they may bring us fish.&rdquo;<sup><a href=\"#note-34\" class=\"note-ref\" data-note=\"34\">34</a></sup> The estate maintained its own fishermen on the irrigation canals and lake margins of the <span class=\"term\" data-definition=\"A fertile depression west of the Nile, about 80 km southwest of Cairo. Heavily settled in Ptolemaic and Roman times, producing many of the surviving papyri.\">Fayum</span>. Their names survive in a separate document &ndash; Alleion, <span class=\"entity\" data-entity-id=\"polion-theadelphia-fl-252-ce\" data-type=\"person\">Polion</span>, Pellas, Melas, Peras &ndash; registered under Heroneinos&rsquo;s supervision.<sup><a href=\"#note-35\" class=\"note-ref\" data-note=\"35\">35</a></sup> The fishing grounds were contested. A fragment records a dispute: &ldquo;he said to him that it was not permitted for another to set foot in <span class=\"entity\" data-entity-id=\"sathro-arsinoite-nome\" data-type=\"place\">Sathro</span>, it was appropriate for him to fish in other places; for the shore there extends six schoinoi&rdquo; &ndash; roughly thirty-six kilometers of coastline, fought over.<sup><a href=\"#note-36\" class=\"note-ref\" data-note=\"36\">36</a></sup></p>\n<p><span class=\"entity\" data-entity-id=\"alypios-arsinoe-nome-capital-fl-257-267-ce\" data-type=\"person\">Alypios</span> also handled the festival. On the 6th of June, 257: &ldquo;Knowing that your management needs expenditures, and especially on account of the festival of the Amesysia and the provision of hay, I have sent you a release-order for one hundred single-chous jars of wine from <span class=\"entity\" data-entity-id=\"ibion-argaiou-arsinoite-nome\" data-type=\"place\">Ibion Argaiou</span>.&rdquo;<sup><a href=\"#note-37\" class=\"note-ref\" data-note=\"37\">37</a></sup> One hundred jars for a local festival whose deity is now forgotten. The wine came from another estate division &ndash; an inter-village transfer, recorded on both ends, the accounting system grinding through even the rituals of communal celebration.</p>\n<hr></hr>"
     },
     {
-      "id": "the-workers",
-      "title": "VI. The Workers",
-      "body_html": "<p>The monthly accounts name them. The wage records count them. But the workers of the <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span> estate remain, for the most part, silhouettes against the ledger columns.</p>\n<p>From P.Flor. 3.321 and P.Prag.Varcl. NS.4, we can reconstruct the permanent staff. Heroneinos himself drew forty drachmas per month. His colleague Pontikos — who appears in the earlier accounts from 251-252 but vanishes from the later ones — received twenty.<sup><a href=\"#note-39\" class=\"note-ref\" data-note=\"39\">39</a></sup> The cowherds were the best-paid workers after the manager: Hatres and Aseis each earned forty-eight drachmas; Polion, seventeen drachmas and one obol. The ox-drivers — Dorion at forty-eight, Patas at thirty-four drachmas and two obols — were comparable. The donkey-drivers — Pouaris, Abies, Akies — earned eight drachmas each. Kastor, apparently the lead donkey-driver, earned seventeen drachmas and one obol. At the bottom: Hermes, described as a household slave, received four drachmas a month. Demeas, Timokrates, Papias — four drachmas each.<sup><a href=\"#note-40\" class=\"note-ref\" data-note=\"40\">40</a></sup></p>\n<p>The wage differentials are stark. The head cowherd earned twelve times what the household slave received. But cash wages were only part of the compensation. A separate wheat account, P.Prag.Varcl. NS.14, shows that most workers received one artaba of wheat per month — about twenty-nine kilograms — on top of their cash.<sup><a href=\"#note-41\" class=\"note-ref\" data-note=\"41\">41</a></sup> Wine was also distributed, and oil. The estate&rsquo;s lowest-quality vintages went to the workers. The total compensation package — cash, wheat, wine, oil — made the job more substantial than the drachma figures alone suggest.</p>\n<p>Still, by any measure, this was not generous pay. In November of 262, an order arrived to convert some cash wages to wheat rations: &ldquo;Give to Sarmates and Neilos, in exchange for what they receive monthly as rations, each one whole artaba of wheat, from the present month of Hathyr one and a half artabai, while they continue to receive what they previously received in money and oil.&rdquo;<sup><a href=\"#note-42\" class=\"note-ref\" data-note=\"42\">42</a></sup> The shift from cash to wheat was not neutral. As inflation eroded the value of the drachma, wheat held its real value — it was food, not a number. Workers who received their wages in grain were insulated from the monetary chaos. Workers who received cash were not.</p>\n<p>Seasonal labor was hired as needed. Hay-pullers — <em>chortokoptoi</em> — earned two drachmas and two obols per day as adults, one drachma and five obols as youths.<sup><a href=\"#note-43\" class=\"note-ref\" data-note=\"43\">43</a></sup> Vintagers were brought in for the grape harvest. Embankment contractors — men hired to repair and maintain the canal dykes — worked on fixed contracts. Fishermen operated under some form of arrangement that gave them designated fishing grounds but also made them available for requisition when the administrator came to town.</p>\n<p>And then there were the children of Pontikos. Pontikos — the same man who appears as Heroneinos&rsquo;s twenty-drachma-per-month colleague in the early accounts — had died or departed by 255 CE. His children remained at <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span>, apparently in Heroneinos&rsquo;s care. In October of that year, Syros, a mid-level administrator, wrote: &ldquo;Many times I have instructed you concerning the children of Pontikos, who is in your keeping; for they are not strangers to the household, as you yourself know.&rdquo;<sup><a href=\"#note-44\" class=\"note-ref\" data-note=\"44\">44</a></sup></p>\n<p><em>Not strangers to the household.</em> The phrase suggests that Heroneinos had been treating them as strangers — perhaps neglecting their needs, perhaps assigning them to menial work, perhaps simply not paying them what they were owed. Syros was intervening on their behalf, sending a man named Dioskoros with a letter, instructing Heroneinos to cooperate. The intervention implies that the children of a former colleague had no automatic protection. Without an advocate at a higher administrative level, they were vulnerable.</p>\n<hr></hr>"
+      "id": "the-sacrifice",
+      "title": "VI. The Sacrifice",
+      "body_html": "<p>On the 14th of July, 250 CE, a slave named <span class=\"entity\" data-entity-id=\"aurelius-euprodokios-theadelphia-fl-250-ce\" data-type=\"person\">Aurelius Euprodokios</span> stood before the officials appointed to superintend sacrifices in <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span> and performed a ritual that the emperor Decius had ordered of every person in the empire:</p>\n<blockquote>\n<p>I have always continued to sacrifice to the gods, and now in your presence, in accordance with the orders, I have sacrificed and made libation and tasted of the offerings, and I request you to certify this.<sup><a href=\"#note-38\" class=\"note-ref\" data-note=\"38\">38</a></sup></p>\n</blockquote>\n<p>Euprodokios was a slave &ndash; <em>doulos</em> &ndash; of Aurelius <span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span>. The certificate he submitted was a <em>libellus</em>, a bureaucratic proof of compliance. A second certificate from the same period belongs to Aurelius Sarapammon, identified as a servant &ndash; <em>hyperetes</em> &ndash; of Appianus: &ldquo;Always sacrificing to the gods, now too, in your presence, in accordance with the orders, I sacrificed and poured the libations and tasted the offerings.&rdquo;<sup><a href=\"#note-39\" class=\"note-ref\" data-note=\"39\">39</a></sup></p>\n<p>The Decian edict targeted Christians, but it required compliance from everyone &ndash; free, slave, servant, citizen, alien. That even slaves on a private estate in a <span class=\"term\" data-definition=\"A fertile depression west of the Nile, about 80 km southwest of Cairo. Heavily settled in Ptolemaic and Roman times, producing many of the surviving papyri.\">Fayum</span> village were required to file certificates tells us how far the machinery of imperial religious policy reached. Whether Heroneinos himself filed a certificate we do not know. None survives in his name. But these documents were generated in his village, concerning his employer&rsquo;s people, in the same filing system that held his monthly accounts.</p>\n<hr></hr>"
     },
     {
-      "id": "the-shepherdess-sodike",
-      "title": "VII. The Shepherdess Sodike",
-      "body_html": "<p>Among the dozens of grain transport ostraca — small pottery fragments used as receipts — five record a name that stands out: Sodike, shepherdess.</p>\n<p>&ldquo;<span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span>, produce of year 1, by private beast. Sodike, shepherdess: 1 donkey-load.&rdquo;<sup><a href=\"#note-45\" class=\"note-ref\" data-note=\"45\">45</a></sup></p>\n<p>The date is October 254 CE. Sodike is transporting grain from the <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span> granary using her own donkey — a &ldquo;private beast,&rdquo; not an estate animal. She is identified by her occupation: <em>poimenissa</em>, shepherdess, the feminine form of <em>poimen</em>, shepherd. She appears again and again in the ostraca. In 258: &ldquo;Year 5, Tybi 23, Teis. Sodike, shepherdess: donkeys 4.&rdquo;<sup><a href=\"#note-46\" class=\"note-ref\" data-note=\"46\">46</a></sup> Four donkeys now — either she had acquired more animals, or she was managing a team. The records span at least four years.</p>\n<p>What do we make of Sodike? She was a woman working in a role that the papyri overwhelmingly assign to men. She owned or controlled her own transport animals. She was integrated into the estate&rsquo;s grain distribution system — her name appears on the same ostraca as male donkey-drivers and male managers, in the same format, receiving the same kind of receipt. She was not invisible. She was not marginal. She was a functional participant in the agricultural economy of mid-third-century Egypt.</p>\n<p>And yet we know almost nothing about her beyond what the ostraca record. Was she married? Widowed? Did she inherit the donkeys from a husband? Was she attached to the Appianus estate directly, or was she an independent operator contracted for transport? The documents do not say. They record her name, her occupation, her animals, and the quantities she carried. She exists in the archive as an economic fact.</p>\n<p>We may imagine her on the roads of the Fayum — the canal paths, the dyke-top tracks — driving her donkeys loaded with sacks of grain, moving from granary to distribution point. The landscape would have been flat, irrigated, crosshatched with canals. Date palms along the waterways. Wheat stubble in the harvested fields. The smell of donkeys. The weight of grain sacks. The heat, even in October, when the Nile flood was receding and the land was wet.</p>\n<p>She left five receipts. They are all we have.</p>\n<hr></hr>"
+      "id": "the-workforce",
+      "title": "VII. The Workforce",
+      "body_html": "<p>The monthly accounts allow us to reconstruct the permanent staff at <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span> with unusual precision. A separate wheat account from 251-252 CE confirms what the cash accounts show: each worker received one <span class=\"term\" data-definition=\"A dry measure for grain, roughly 38–40 liters (about a bushel). A family of four needed perhaps 15–20 artabas of wheat per year.\">artaba</span> of wheat per month in addition to cash wages &ndash; a subsistence floor beneath the hierarchy of pay:</p>\n<blockquote>\n<p>Heroneinos: 1 artaba; <span class=\"entity\" data-entity-id=\"pontikos-theadelphia-fl-251-255-ce\" data-type=\"person\">Pontikos</span>: 1 artaba; <span class=\"entity\" data-entity-id=\"pouaris-theadelphia-fl-252-260-ce\" data-type=\"person\">Pouaris</span> donkey-driver: 1 artaba; <span class=\"entity\" data-entity-id=\"aseis-theadelphia-fl-252-ce\" data-type=\"person\">Abies</span> donkey-driver: 1 artaba; <span class=\"entity\" data-entity-id=\"kastor-theadelphia-fl-252-260-ce\" data-type=\"person\">Kastor</span> donkey-driver: 1 artaba; <span class=\"entity\" data-entity-id=\"polion-theadelphia-fl-252-ce\" data-type=\"person\">Polion</span> cowherd: 1 artaba; <span class=\"entity\" data-entity-id=\"deios-theadelphia-fl-252-260-ce\" data-type=\"person\">Deios</span> donkey-guard: 1 artaba; <span class=\"entity\" data-entity-id=\"kiot-theadelphia-fl-252-260-ce\" data-type=\"person\">Kiot</span> foreman: 1 artaba.<sup><a href=\"#note-40\" class=\"note-ref\" data-note=\"40\">40</a></sup></p>\n</blockquote>\n<p>The wheat ration was egalitarian. The cash was not. Cowherds like <span class=\"entity\" data-entity-id=\"hatres-theadelphia-fl-254-260-ce\" data-type=\"person\">Hatres</span> and <span class=\"entity\" data-entity-id=\"aseis-theadelphia-fl-252-ce\" data-type=\"person\">Aseis</span> earned forty-eight <span class=\"term\" data-definition=\"The standard silver coin unit. In Roman Egypt, 1 drachma bought roughly a day's basic food. A skilled worker earned 1–4 drachmas per day.\">drachmas</span> per month &ndash; more than the assistant manager <span class=\"entity\" data-entity-id=\"pontikos-theadelphia-fl-251-255-ce\" data-type=\"person\">Pontikos</span> at twenty, and only eight less than Heroneinos himself.<sup><a href=\"#note-41\" class=\"note-ref\" data-note=\"41\">41</a></sup> Ox-drivers earned comparably: <span class=\"entity\" data-entity-id=\"dorion-theadelphia-fl-252-260-ce\" data-type=\"person\">Dorion</span> at forty-eight, <span class=\"entity\" data-entity-id=\"patas-theadelphia-fl-254-260-ce\" data-type=\"person\">Patas</span> at thirty-four drachmas and two <span class=\"term\" data-definition=\"Small coins worth 1/6 of a drachma each — used for everyday purchases like bread, beer, and vegetables.\">obols</span>.<sup><a href=\"#note-42\" class=\"note-ref\" data-note=\"42\">42</a></sup> Donkey-drivers fell between eight and seventeen drachmas.<sup><a href=\"#note-43\" class=\"note-ref\" data-note=\"43\">43</a></sup> At the bottom, the household slave <span class=\"entity\" data-entity-id=\"hermes-theadelphia-fl-252-255-ce\" data-type=\"person\">Hermes</span> received four drachmas &ndash; a pittance, likely supplemented by food and lodging.<sup><a href=\"#note-44\" class=\"note-ref\" data-note=\"44\">44</a></sup></p>\n<p>The structure tells a story. Cowherds and ox-drivers were specialists. They managed the animals on which everything depended &ndash; the oxen for ploughing and water-wheels, the cattle for trampling grain. Their skills commanded premiums. Donkey-drivers, by contrast, were transport workers, numerous and replaceable. The builder Dionysios, at four drachmas, was perhaps intermittent.</p>\n<p>Workers also received low-quality wine and oil as part of their compensation.<sup><a href=\"#note-45\" class=\"note-ref\" data-note=\"45\">45</a></sup> The estate fed its people from its own production, reserving the best wine for sale and distributing the rest internally. When inflation accelerated in the early 260s, the system adapted. In November 262: &ldquo;Give to Sarmates and Neilos, in exchange for what they receive monthly as rations, each one whole artaba of wheat, from the present month of Hathyr one and a half artabai, while they continue to receive what they previously received in money and oil.&rdquo;<sup><a href=\"#note-46\" class=\"note-ref\" data-note=\"46\">46</a></sup> The shift from cash to wheat was protective. Grain held its value. The coinage did not.</p>\n<hr></hr>"
     },
     {
-      "id": "the-donkey-caravans",
-      "title": "VIII. The Donkey Caravans",
-      "body_html": "<p>The physical movement of goods across the Fayum was the circulatory system of the estate, and it ran on donkeys.</p>\n<p>The ostraca are the evidence — small pottery shards, cheaper than papyrus, on which scribes scratched brief receipts when donkey-loads of grain departed the village granary. They follow a formula: the granary, the year, the owner&rsquo;s name, the destination, and the number of donkeys.</p>\n<p>&ldquo;Of the granary of the village of <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span>, from the produce of the 7th year. Apianos, former exegetes: to Koba, 5 donkeys.&rdquo;<sup><a href=\"#note-47\" class=\"note-ref\" data-note=\"47\">47</a></sup></p>\n<p>&ldquo;Of the granary of <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span>, produce of the 1st year, by beasts of Mouchis. Appianos, former exegetes: to <span class=\"entity\" data-entity-id=\"alexandria\" data-type=\"place\">Alexandria</span>, 11 sacks.&rdquo;<sup><a href=\"#note-48\" class=\"note-ref\" data-note=\"48\">48</a></sup></p>\n<p>&ldquo;Granary of the village of <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span>. Heroninos, manager, on behalf of <span class=\"entity\" data-entity-id=\"dionysias\" data-type=\"place\">Dionysias</span>, private beasts: donkeys 20.&rdquo;<sup><a href=\"#note-49\" class=\"note-ref\" data-note=\"49\">49</a></sup></p>\n<p>Twenty donkeys in a single shipment. A caravan of that size, strung out along a canal path, would have stretched a considerable distance. Each animal carried roughly three artabas of grain — about eighty-seven kilograms — in sacks slung over wooden pack-saddles. The drivers walked alongside, prodding, steering, calling out. The dust. The braying. The slow, steady pace of a loaded donkey, roughly three miles per hour.</p>\n<p>Donkeys were organized into <em>tetraoniai</em> — teams of four. Wine was transported the same way: &ldquo;I have sent to you today through Karbon, donkey-driver, with four pack-animals, and Aionios, donkey-driver, with five pack-animals — altogether 9, with 16 two-chous jars, individually: 32 single-chous jars.&rdquo;<sup><a href=\"#note-50\" class=\"note-ref\" data-note=\"50\">50</a></sup> Nine donkeys carrying thirty-two jars of wine. The arithmetic is precise. The accountability is total. Every jar assigned to a named driver, every driver attached to a counted team.</p>\n<p>Camels appeared for longer distances. An order survives: &ldquo;Load the camels that have come down with dates and send them up to the city, reporting the quantity&hellip; If you do not have the full load ready, let them be loaded with firewood.&rdquo;<sup><a href=\"#note-51\" class=\"note-ref\" data-note=\"51\">51</a></sup> Camels that had carried dates down from somewhere — perhaps from the oasis routes — were to be reloaded and sent to <span class=\"entity\" data-entity-id=\"alexandria\" data-type=\"place\">Alexandria</span>. And if there were not enough dates to fill them, firewood would do. No animal traveled empty. Every leg of every journey was monetized.</p>\n<p>Ox-carts — <em>karna</em> — handled the heaviest loads. Apianos once sent a carpenter and an ox-cart together to retrieve a fifteen-foot replacement axle.<sup><a href=\"#note-52\" class=\"note-ref\" data-note=\"52\">52</a></sup> Timber was heavy and unwieldy. A man named Apollonios, the landowner&rsquo;s brother, had cut wood in the field, and it needed to be dragged to the village &ldquo;before the flood waters&rdquo; by the bull-teams at Heroneinos&rsquo;s disposal.<sup><a href=\"#note-53\" class=\"note-ref\" data-note=\"53\">53</a></sup> The annual Nile flood, which began in July and peaked in September, turned the low-lying fields into temporary lakes. Anything left on the ground would be submerged. The urgency was seasonal and absolute.</p>\n<hr></hr>"
+      "id": "sodike",
+      "title": "VIII. Sodike",
+      "body_html": "<p>Among the ostraca &ndash; the pottery fragments used as receipts for grain transport &ndash; a name appears.</p>\n<blockquote>\n<p><span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span>, produce of year 1, by private beast. <span class=\"entity\" data-entity-id=\"sodike-theadelphia-fl-254-258-ce\" data-type=\"person\">Sodike</span>, shepherdess: 1 donkey-load.<sup><a href=\"#note-47\" class=\"note-ref\" data-note=\"47\">47</a></sup></p>\n</blockquote>\n<p>A woman. A <em>poimenissa</em> &ndash; the feminine of <em>poimen</em>, shepherd. She appears on at least five ostraca between 254 and 258 CE, carrying grain from <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span>&rsquo;s granary by donkey. Sometimes one animal. Sometimes four: &ldquo;Year 5, Tybi 23, Teis. <span class=\"entity\" data-entity-id=\"sodike-theadelphia-fl-254-258-ce\" data-type=\"person\">Sodike</span>, shepherdess: donkeys 4.&rdquo;<sup><a href=\"#note-48\" class=\"note-ref\" data-note=\"48\">48</a></sup></p>\n<p>Four donkeys is not a token contribution. It is real transport work, the same job the men did. Women are nearly invisible in the operational records of the Appianus estate &ndash; absent from the wage lists, absent from the management correspondence. <span class=\"entity\" data-entity-id=\"sodike-theadelphia-fl-254-258-ce\" data-type=\"person\">Sodike</span> appears not as wife or mother or dependent but as a worker with her own animals, receiving receipts under her own name.</p>\n<p>We know nothing else about her. The ostraca are receipts, not biographies.</p>\n<hr></hr>"
     },
     {
-      "id": "the-price-of-wine-and-the-crisis-of-empire",
-      "title": "IX. The Price of Wine and the Crisis of Empire",
-      "body_html": "<p>If you want to track the collapse of a monetary system in real time, follow the price of wine through the Heroneinos archive.</p>\n<p>In August of 250, Heroneinos was instructed to sell fifty single-capacity jars of wine &ldquo;at the price of ten drachmas and six obols per jar.&rdquo;<sup><a href=\"#note-54\" class=\"note-ref\" data-note=\"54\">54</a></sup> By April of 252, the price in the monthly account had risen to twelve drachmas.<sup><a href=\"#note-55\" class=\"note-ref\" data-note=\"55\">55</a></sup> In a distribution order datable to about 256, the rate was fourteen drachmas per single-chous jar.<sup><a href=\"#note-56\" class=\"note-ref\" data-note=\"56\">56</a></sup> By 261, the price appears to have reached sixteen drachmas.<sup><a href=\"#note-57\" class=\"note-ref\" data-note=\"57\">57</a></sup></p>\n<p>Then the cliff. In 262, prices cited in the archive jump to forty-two to forty-four drachmas per jar.<sup><a href=\"#note-58\" class=\"note-ref\" data-note=\"58\">58</a></sup></p>\n<p>That quadrupling — from roughly twelve drachmas in the early 250s to over forty by 262 — tracks a phenomenon visible across the empire but nowhere more precisely than in these account books. Under Gallienus, who ruled alone after his father Valerian was captured by the Sasanian king Shapur I in 260 CE, the silver content of Roman coins fell below five percent.<sup><a href=\"#note-59\" class=\"note-ref\" data-note=\"59\">59</a></sup> The antoninianus — the standard silver coin — became, in effect, a bronze coin with a thin silver wash. The Alexandrian tetradrachm, the coinage used in Egypt, underwent the same degradation. Prices in nominal terms spiraled. The drachma bought less and less.</p>\n<p>The Plague of Cyprian — named for the Christian bishop who described it, not for the island — swept through the empire from roughly 250 to 270 CE, killing soldiers, farmers, and laborers, disrupting trade routes and depopulating whole regions.<sup><a href=\"#note-60\" class=\"note-ref\" data-note=\"60\">60</a></sup> At the same time, successive military crises on every frontier drained the treasury. Emperors paid their troops in debased coin, and the troops accepted it because they had no choice, and then they spent it in markets where sellers raised prices to compensate for its diminished metal content, and the cycle accelerated.</p>\n<p>Yet the Heroneinos archive reveals something that complicates the standard narrative of collapse. The estate kept functioning. Heroneinos kept submitting monthly accounts. Wine kept being produced, transported, and sold. Workers kept receiving wages — adjusted, over time, from cash to wheat, but paid nonetheless. The infrastructure was maintained. The canals were dredged. The water-wheels turned. The harvest came in.</p>\n<p>Rathbone argued that Egypt, at least during this period, experienced inflation rather than economic collapse — a critical distinction. Prices rose, but goods continued to be produced and exchanged. The agricultural base remained productive. The estate adapted, shifting compensation from devaluing cash to stable-value commodities like wheat. The crisis was real, but it was a crisis of the monetary system, not necessarily of the real economy beneath it.<sup><a href=\"#note-61\" class=\"note-ref\" data-note=\"61\">61</a></sup></p>\n<p>The silence of the archive after approximately 268 CE — the year Gallienus was murdered and succeeded by Claudius II — may tell a different story. But silence is not evidence. The archive may have ended because Heroneinos died, or retired, or because the papyri from later years simply did not survive the accidents of preservation.</p>\n<hr></hr>"
+      "id": "the-children-of-pontikos",
+      "title": "IX. The Children of Pontikos",
+      "body_html": "<p>On the 29th of October, 255 CE, a letter arrived from <span class=\"entity\" data-entity-id=\"syros-arsinoe-or-sathro-fl-255-257-ce\" data-type=\"person\">Syros</span>, one of the mid-level administrators:</p>\n<blockquote>\n<p>Many times I have instructed you concerning the children of <span class=\"entity\" data-entity-id=\"pontikos-theadelphia-fl-251-255-ce\" data-type=\"person\">Pontikos</span>, who is in your keeping; for they are not strangers to the household, as you yourself know. Dioskoros has therefore requested that a letter be delivered to you, so that in whatever he may need from you, you may offer yourself.<sup><a href=\"#note-49\" class=\"note-ref\" data-note=\"49\">49</a></sup></p>\n</blockquote>\n<p>&ldquo;Many times I have instructed you.&rdquo; <span class=\"entity\" data-entity-id=\"syros-arsinoe-or-sathro-fl-255-257-ce\" data-type=\"person\">Syros</span> had written before. Heroneinos had not acted &ndash; or had not acted enough.</p>\n<p><span class=\"entity\" data-entity-id=\"pontikos-theadelphia-fl-251-255-ce\" data-type=\"person\">Pontikos</span> appears in the wage accounts of April 252 at twenty <span class=\"term\" data-definition=\"The standard silver coin unit. In Roman Egypt, 1 drachma bought roughly a day's basic food. A skilled worker earned 1–4 drachmas per day.\">drachmas</span> per month, but by the time of the complete account from the mid-to-late 250s, he is gone.<sup><a href=\"#note-50\" class=\"note-ref\" data-note=\"50\">50</a></sup> Dead, perhaps. Incapacitated. The letter does not say. It says only that his children needed help, that they were &ldquo;not strangers to the household&rdquo; &ndash; <em>ou gar allotrioi eisin tou oikou</em> &ndash; and that Heroneinos had been neglecting them.</p>\n<p>We should not judge too quickly. Heroneinos had workers to pay, vines to prune, grain to ship, donkeys to manage, wine to test by smell, and an employer who threatened him over jujubes. The children of a former assistant may have been one obligation too many. But the letter survives, and its tone &ndash; patient, firm, slightly exasperated &ndash; suggests a man who needed to be reminded of his debts to the dead.</p>\n<hr></hr>"
     },
     {
-      "id": "the-sacrifice-certificates",
-      "title": "X. The Sacrifice Certificates",
-      "body_html": "<p>On the fourteenth of July, 250 CE, a man named Aurelius Euprodokios — a slave of Aurelius Apianos — appeared before the local commission established to verify compliance with the emperor Decius&rsquo;s order that all inhabitants of the empire sacrifice to the Roman gods. He filed a document:</p>\n<p>&ldquo;To those chosen to superintend the sacrifices, from Aurelius Euprodokios, slave of Aurelius Apianos, former exegetes of the most illustrious city of the Alexandrians, and however he is styled, residing in <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span>. I have always continued to sacrifice to the gods, and now in your presence, in accordance with the orders, I have sacrificed and made libation and tasted of the offerings, and I request you to certify this.&rdquo;<sup><a href=\"#note-62\" class=\"note-ref\" data-note=\"62\">62</a></sup></p>\n<p>A slave. Filing a sacrifice certificate. In the name of his absent master.</p>\n<p>The Decian persecution of 250-251 CE was the first systematic, empire-wide attempt to enforce religious conformity. Every person — man, woman, child, slave, free — was required to appear before a local commission, sacrifice, and receive a certificate, a <em>libellus</em>, proving compliance. Several dozen of these certificates survive from Egypt, and they are among the most remarkable documents of the Roman imperial period. They were aimed at Christians, who could not in conscience sacrifice to pagan gods, but they swept up everyone.<sup><a href=\"#note-63\" class=\"note-ref\" data-note=\"63\">63</a></sup></p>\n<p>A second certificate from the estate survives, filed by a servant named Aurelius Sarapammon:</p>\n<p>&ldquo;From Aurelius Sarapammon, servant of Appianus, former exegetes of the most-illustrious city of the Alexandrians, and however he is styled, residing in the village of <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span>. Always sacrificing to the gods, now too, in your presence, in accordance with the orders, I sacrificed and poured the libations and tasted the offerings.&rdquo;<sup><a href=\"#note-64\" class=\"note-ref\" data-note=\"64\">64</a></sup></p>\n<p>The formula is nearly identical. The key phrase — &ldquo;I have always continued to sacrifice to the gods&rdquo; — was the standard assurance. It meant: I am not a Christian. I have always been loyal. This is not a conversion under duress; this is continuity.</p>\n<p>Were there Christians on the Appianus estate? The certificates, by their nature, document only compliance. Those who refused — who chose martyrdom or flight over apostasy — left no <em>libelli</em>. The silence in the archive is, on this question, total. We know that a slave and a servant of the estate appeared before the commission and performed the required rituals. We do not know who did not appear. We do not know what Heroneinos himself did — no certificate in his name survives, though one may have existed and been lost. We do not know what Apianos, in <span class=\"entity\" data-entity-id=\"alexandria\" data-type=\"place\">Alexandria</span>, thought about the whole business.</p>\n<p>What we know is that the imperial machinery reached down to the level of a slave on a private estate in a Fayum village, and that the slave knew the formula.</p>\n<hr></hr>"
+      "id": "the-infrastructure",
+      "title": "X. The Infrastructure",
+      "body_html": "<p>Irrigation was the foundation. The <span class=\"term\" data-definition=\"A fertile depression west of the Nile, about 80 km southwest of Cairo. Heavily settled in Ptolemaic and Roman times, producing many of the surviving papyri.\">Fayum</span>&rsquo;s agriculture depended entirely on a canal system that channeled water from the Nile via the Bahr Yussef. Every canal required maintenance; every sluice gate required tending; every season required coordination.</p>\n<p>A letter from August 257:</p>\n<blockquote>\n<p>I have learned from <span class=\"entity\" data-entity-id=\"syros-arsinoe-or-sathro-fl-255-257-ce\" data-type=\"person\">Syros</span> that there is some work remaining in the canal near the sluice-gates, and the work urgently needs to be done&hellip; I have sent a soldier to you, so that from all those who benefit, the workforce may be deployed and the work completed quickly before the irrigation season presses, in order that all of us may easily have water supply.<sup><a href=\"#note-51\" class=\"note-ref\" data-note=\"51\">51</a></sup></p>\n</blockquote>\n<p>A soldier &ndash; dispatched for canal maintenance. The military was involved in civilian infrastructure, the army filling gaps as the civil administration weakened. And the ploughs needed building: &ldquo;I have sent Maximos, the steward of Pakis, to you, so that a plough may be made for him&hellip; I have also sent four nails for its assembly.&rdquo;<sup><a href=\"#note-52\" class=\"note-ref\" data-note=\"52\">52</a></sup> Four nails. The record is that specific. And when an axle broke at <span class=\"entity\" data-entity-id=\"ptolemais-hormou-arsinoite-nome\" data-type=\"place\">Ptolemais Hormou</span> in July 253, <span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span> wrote directly: &ldquo;By all means find us another suitable axle of ten cubits or even more&hellip; since the one there suddenly broke.&rdquo;<sup><a href=\"#note-53\" class=\"note-ref\" data-note=\"53\">53</a></sup> Ten cubits &ndash; about fifteen feet. The carpenter Perigenes and an ox-cart were dispatched to handle the transport.</p>\n<p>Forty thousand reeds were ordered for the estate in a single transaction &ndash; &ldquo;Herakleides the oikonomos reminded me that 40,000 reeds should be released to you from the Ktesis&rdquo; &ndash; for trellising, fencing, or construction.<sup><a href=\"#note-54\" class=\"note-ref\" data-note=\"54\">54</a></sup> An irrigation machine at Moithymis needed completion: &ldquo;make every effort to have it completed, since there is need of it.&rdquo;<sup><a href=\"#note-55\" class=\"note-ref\" data-note=\"55\">55</a></sup> The estate was infrastructure. Without the canals, the machines, the ploughs, the axles, and the nails, the wine and grain were nothing.</p>\n<hr></hr>"
     },
     {
-      "id": "infrastructure",
-      "title": "XI. Infrastructure",
-      "body_html": "<p>An estate of this size was not just fields and workers. It was canals, irrigation machines, ploughs, bath-houses, granaries, wine-presses, and fountains — all of which required constant maintenance.</p>\n<p>The earliest datable document in the archive is a construction order from November 12, 249 CE: &ldquo;Provide the customary food for the yokes of oxen that came down for soft-bricks going to the construction of a fountain.&rdquo;<sup><a href=\"#note-65\" class=\"note-ref\" data-note=\"65\">65</a></sup> A fountain. Soft bricks — mud-bricks, unfired, the basic building material of Egyptian construction for three thousand years. Oxen to haul them. Workers to feed the oxen. Even a fountain required a logistics chain.</p>\n<p>In August of 257, a letter arrived about the canal near the sluice-gates:</p>\n<p>&ldquo;I have learned from Syros that there is some work remaining in the canal near the sluice-gates, and the work urgently needs to be done&hellip; I have sent a soldier to you, so that from all those who benefit, the workforce may be deployed and the work completed quickly before the irrigation season presses, in order that all of us may easily have water supply.&rdquo;<sup><a href=\"#note-66\" class=\"note-ref\" data-note=\"66\">66</a></sup></p>\n<p>A soldier. Sent to enforce labor mobilization for canal maintenance. The irrigation system of the Fayum depended on canals fed ultimately by the Bahr Yusuf, the branch of the Nile that entered the depression from the southeast. If the sluice-gates failed, if the canals silted up, the water would not reach the fields. The &ldquo;irrigation season&rdquo; was the annual flood — the rising of the Nile that began in July and peaked in September, when the canals had to be open and functioning to carry the floodwater to the fields. A blocked canal before the flood meant a failed harvest.</p>\n<p>The soldier&rsquo;s presence is telling. By the mid-third century, the boundary between military and civilian administration in Egypt had blurred. Soldiers were used for tax enforcement — Alypios once held back from sending a soldier against tax delinquents, but the threat was real.<sup><a href=\"#note-67\" class=\"note-ref\" data-note=\"67\">67</a></sup> Soldiers escorted shipments. Soldiers enforced labor corvees. The militarization of civil functions was one of the hallmarks of the crisis period, and the Heroneinos archive captures it in passing, without commentary.</p>\n<p>Irrigation machinery — perhaps the water-wheel or <em>saqiya</em> — required dedicated attention. In October of 254: &ldquo;As for the irrigation machine of Moithymis, make every effort to have it completed, since there is need of it.&rdquo;<sup><a href=\"#note-68\" class=\"note-ref\" data-note=\"68\">68</a></sup> The name Moithymis — whether a place or a person — is otherwise unattested. The machine was unfinished. The need was urgent. The same word, <em>chreia</em> — need, necessity — that Alypios used when he wanted his bath heated and his piglet fattened.</p>\n<p>Ploughs were built on-site. In May of 260: &ldquo;I have sent Maximos, the steward of Pakis, to you, so that a plough may be made for him&hellip; I have also sent four nails for its assembly.&rdquo;<sup><a href=\"#note-69\" class=\"note-ref\" data-note=\"69\">69</a></sup> Four nails. The plough was apparently a wooden device — as almost all Egyptian ploughs were — held together with a handful of iron nails. Iron was expensive. Four nails were worth specifying in a letter.</p>\n<p>An order for reeds is perhaps the most startling in scale: &ldquo;Herakleides the <em>oikonomos</em> reminded me that 40,000 reeds should be released to you from the Ktesis.&rdquo;<sup><a href=\"#note-70\" class=\"note-ref\" data-note=\"70\">70</a></sup> Forty thousand reeds. For what purpose the letter does not say — perhaps fencing, perhaps construction scaffolding, perhaps fuel, perhaps the frames for vine trellises. The number is staggering. The reed beds of the Fayum — thick along the lake shore and the canal banks — were an industrial resource, harvested in bulk and distributed across the estate.</p>\n<hr></hr>"
+      "id": "the-transport",
+      "title": "XI. The Transport",
+      "body_html": "<p>Donkeys were the workhorses. Organized into four-animal teams, they hauled wine, grain, building materials, and provisions along the tracks between villages. A letter from September 252: &ldquo;I have sent to you today through Karbon, donkey-driver, with four pack-animals, and Aionios, donkey-driver, with five pack-animals &ndash; altogether 9, with 16 two-chous jars, individually: 32 single-chous jars.&rdquo;<sup><a href=\"#note-56\" class=\"note-ref\" data-note=\"56\">56</a></sup> Nine donkeys, thirty-two jars. One day&rsquo;s shipment on one route.</p>\n<p>Camels handled the long-distance work: &ldquo;Load the camels that have come down with dates and send them up to the city, reporting the quantity&hellip; If you do not have the full load ready, let them be loaded with firewood.&rdquo;<sup><a href=\"#note-57\" class=\"note-ref\" data-note=\"57\">57</a></sup> Never send a camel back empty. Dead freight is wasted freight.</p>\n<p>The ostraca from the <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span> granary record the daily rhythm: &ldquo;Of the granary of the village of <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span>, from the produce of the 7th year. <span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span>, former <span class=\"term\" data-definition=\"A senior municipal magistrate, often the highest civic official in a metropolis. Responsibilities included judicial duties and city administration.\">exegetes</span>: to Koba, 5 donkeys.&rdquo;<sup><a href=\"#note-58\" class=\"note-ref\" data-note=\"58\">58</a></sup> &ldquo;Of the granary of <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span>, produce of the 1st year, by beasts of Mouchis. <span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Appianos</span>, former exegetes: to <span class=\"entity\" data-entity-id=\"alexandria-coastal-egypt\" data-type=\"place\">Alexandria</span>, 11 sacks.&rdquo;<sup><a href=\"#note-59\" class=\"note-ref\" data-note=\"59\">59</a></sup> &ldquo;<span class=\"entity\" data-entity-id=\"aurelius-heroneinos-theadelphia-arsinoite-nome-fl-249-268-ce\" data-type=\"person\">Heroninos</span>, manager, on behalf of <span class=\"entity\" data-entity-id=\"dionysias-arsinoite-nome-themistos-division\" data-type=\"place\">Dionysias</span>, private beasts: donkeys 20.&rdquo;<sup><a href=\"#note-60\" class=\"note-ref\" data-note=\"60\">60</a></sup></p>\n<p>Twenty donkeys in a single convoy. Eleven sacks to <span class=\"entity\" data-entity-id=\"alexandria-coastal-egypt\" data-type=\"place\">Alexandria</span>. Five donkeys to Koba. The numbers accumulate, receipt after receipt, into a picture of constant motion.</p>\n<p>And then the emergencies. In August 255: &ldquo;My brother <span class=\"entity\" data-entity-id=\"apollonios-fl-255-ce\" data-type=\"person\">Apollonios</span> has cut wood in the field. Therefore have it dragged to the village before the flood waters by the bull-teams at your disposal.&rdquo;<sup><a href=\"#note-61\" class=\"note-ref\" data-note=\"61\">61</a></sup> The Nile flood was coming. Timber cut and left in the low-lying fields would be swept away. The bull-teams had to drag it to higher ground before the water arrived. A race against the river, and Heroneinos was expected to win it.</p>\n<hr></hr>"
     },
     {
-      "id": "what-the-record-does-not-say",
-      "title": "XII. What the Record Does Not Say",
-      "body_html": "<p>The archive breaks off around 268 CE. The last firmly datable documents belong to the fifteenth year of Gallienus — 267/268 CE. After that, nothing. Heroneinos disappears from the record.</p>\n<p>What happened? The possibilities fan out into darkness. Heroneinos may have died. He had been managing the estate for at least nineteen years — if he was thirty when he began, he was approaching fifty, a respectable age in a world where the Plague of Cyprian was still killing. He may have retired. He may have been replaced. The estate itself may have ceased to function, broken by the combined pressures of inflation, plague, and political instability.</p>\n<p>Gallienus was assassinated in September 268 CE. His successor, Claudius II, reigned for two years before dying of plague. Then Aurelian, who reunified the empire but also withdrew Roman forces from Dacia and built the walls around Rome itself — the walls of a city that had not needed walls in five centuries. The crisis was deepening, not resolving.</p>\n<p><span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span> itself survived, at least as a place name. Documents from the village appear in later centuries. But whether the Appianus estate survived the crisis — whether the vineyards continued to produce, whether the donkey caravans continued to move, whether someone continued to submit monthly accounts to an absentee landlord in <span class=\"entity\" data-entity-id=\"alexandria\" data-type=\"place\">Alexandria</span> — we do not know.</p>\n<p>There is also the question of what the archive, even at its most complete, leaves unsaid. The workers are named but not described. We know Pouaris the donkey-driver earned eight drachmas a month and one artaba of wheat. We do not know if Pouaris was married, how many children he had, whether he was healthy or sick, whether he resented his wage or considered himself fortunate. The account books record the economics of labor. They do not record the experience of it.</p>\n<p>Heroneinos himself — nineteen years of monthly accounts, hundreds of letters received, thousands of decisions made about wine shipments and donkey-loads and canal repairs and hay-pulling wages — remains, in the end, an administrative presence rather than a person. We know what he did. We do not know what he thought. We know he was scolded for sending rotten figs and praised for nothing that survives in the record. We know his son Maximos worked alongside him, addressing him as &ldquo;father&rdquo; in at least one letter.<sup><a href=\"#note-71\" class=\"note-ref\" data-note=\"71\">71</a></sup> We know that the children of his colleague Pontikos were placed in his keeping and that he may not have treated them well.<sup><a href=\"#note-72\" class=\"note-ref\" data-note=\"72\">72</a></sup></p>\n<p>Perhaps he was competent and weary. Perhaps he was meticulous and resentful. Perhaps he took pride in his precision — the monthly accounts balanced, the wine jars counted, the donkey-loads recorded — or perhaps the precision was compelled by the knowledge that Alypios would check and Apianos would complain. We may imagine him in the evenings, in a house in <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span> — a mud-brick house, two stories perhaps, with a courtyard and a storeroom — reviewing the day&rsquo;s receipts by lamplight, dictating a letter to be sent with the morning donkey train.</p>\n<p>But we are imagining. The archive gives us the machine. It does not give us the man.</p>\n<p>What it gives us instead is something rarer in ancient history: the texture of ordinary economic life, recorded not by a historian or a moralist but by the people who were living it, in documents they never intended anyone to read seventeen centuries later. The monthly accounts of the <em>phrontistes</em> of <span class=\"entity\" data-entity-id=\"theadelphia-themistos-division-arsinoite-nome-fayum\" data-type=\"place\">Theadelphia</span> were working papers, administrative instruments, tools of coordination and control. They were not composed for posterity. They were composed so that a landowner in <span class=\"entity\" data-entity-id=\"alexandria\" data-type=\"place\">Alexandria</span> could verify that his wine was being sold at the right price and his donkey-drivers were being paid the correct wage. They survived because the desert is dry and papyrus is durable and because Grenfell and Hunt, at the end of the nineteenth century, knew what they were looking at when they found them in the ruins of Kasr el-Harit.</p>\n<p>Three thousand and eighty-six drachmas, two obols. That is what one month of one estate&rsquo;s agricultural operation yielded in receipts, sometime in the middle of the third century, while the empire was fraying at every edge. Someone counted it. Someone wrote it down. Someone sent it to <span class=\"entity\" data-entity-id=\"alexandria\" data-type=\"place\">Alexandria</span>.</p>\n<p>The accounts balanced.</p>\n<hr></hr>"
+      "id": "the-prices",
+      "title": "XII. The Prices",
+      "body_html": "<p>The archive is, among other things, a record of inflation.</p>\n<p>In August 250: wine sold at ten <span class=\"term\" data-definition=\"The standard silver coin unit. In Roman Egypt, 1 drachma bought roughly a day's basic food. A skilled worker earned 1–4 drachmas per day.\">drachmas</span> and six <span class=\"term\" data-definition=\"Small coins worth 1/6 of a drachma each — used for everyday purchases like bread, beer, and vegetables.\">obols</span> per jar.<sup><a href=\"#note-62\" class=\"note-ref\" data-note=\"62\">62</a></sup> By April 252: twelve drachmas.<sup><a href=\"#note-63\" class=\"note-ref\" data-note=\"63\">63</a></sup> By roughly 256: fourteen.<sup><a href=\"#note-64\" class=\"note-ref\" data-note=\"64\">64</a></sup> By 261: sixteen.<sup><a href=\"#note-65\" class=\"note-ref\" data-note=\"65\">65</a></sup> And then, in 262, the currency collapsed: forty-two to forty-four drachmas per jar.<sup><a href=\"#note-66\" class=\"note-ref\" data-note=\"66\">66</a></sup></p>\n<p>The quadrupling between 261 and 262 reflects the severe debasement of the antoninianus under Gallienus, when the silver content of Roman coins fell below five percent.<sup><a href=\"#note-67\" class=\"note-ref\" data-note=\"67\">67</a></sup> The Alexandrian tetradrachm suffered proportionally. Prices had been rising steadily for a decade; now they lurched. The Plague of Cyprian &ndash; perhaps smallpox, perhaps a hemorrhagic fever, spreading along military and trade routes since roughly 250 &ndash; compounded the monetary crisis with a demographic one.<sup><a href=\"#note-68\" class=\"note-ref\" data-note=\"68\">68</a></sup></p>\n<p>And yet the estate continued to function. The monthly accounts still balanced. The workers were still paid. The wine was still shipped. When the coinage could no longer hold value, wages shifted to wheat. The system adapted. It did not collapse.</p>\n<p>This is Rathbone&rsquo;s central insight. The archive does not document an economy in free fall. It documents an economy under stress, managed by people who understood what was happening and adjusted.<sup><a href=\"#note-69\" class=\"note-ref\" data-note=\"69\">69</a></sup> Heroneinos did not write treatises about monetary policy. He switched his workers&rsquo; pay from cash to grain. That was his treatise.</p>\n<hr></hr>"
+    },
+    {
+      "id": "the-taxes",
+      "title": "XIII. The Taxes",
+      "body_html": "<p>The estate existed within a fiscal system that was, by the 260s, backed by force.</p>\n<p>A letter from <span class=\"entity\" data-entity-id=\"alypios-arsinoe-nome-capital-fl-257-267-ce\" data-type=\"person\">Alypios</span>, December 267: &ldquo;Let me know how many <span class=\"term\" data-definition=\"A dry measure for grain. One artaba is roughly 38–40 liters (about a bushel). A family of four needed perhaps 15–20 artabas of wheat per year.\">artabas</span> you have measured out to the <span class=\"term\" data-definition=\"Ten wealthy citizens appointed to guarantee tax collection in a district. Personally liable for any shortfall — a dreaded liturgy.\">dekaprotoi</span> for the tax-payments, and how many you still owe as arrears&hellip; And if there is any remainder, do not measure it out without a letter from me.&rdquo;<sup><a href=\"#note-70\" class=\"note-ref\" data-note=\"70\">70</a></sup> The <em>dekaprotoi</em> &ndash; literally &ldquo;the ten first men&rdquo; &ndash; were local tax collectors personally liable for the taxes of their district. The instruction to hold any surplus reveals the tension: <span class=\"entity\" data-entity-id=\"alypios-arsinoe-nome-capital-fl-257-267-ce\" data-type=\"person\">Alypios</span> wanted to control the timing, to manage the flow.</p>\n<p>A year earlier, in December 266, the threat became explicit: &ldquo;Make those who are at your place from the estate of Sabeina pay our men the equal-rent, since they are being troubled about the arrears of the per-capita tax. A soldier was about to be sent against them, but I held back.&rdquo;<sup><a href=\"#note-71\" class=\"note-ref\" data-note=\"71\">71</a></sup></p>\n<p>A soldier. For tax collection. <span class=\"entity\" data-entity-id=\"alypios-arsinoe-nome-capital-fl-257-267-ce\" data-type=\"person\">Alypios</span> had restrained himself &ndash; &ldquo;I held back&rdquo; &ndash; but the weapon was visible. Tax enforcement backed by military force was becoming the norm, not the exception. The soldier dispatched for canal maintenance, the soldier threatened for tax arrears &ndash; these were the symptoms of an empire whose civilian institutions were thinning out.</p>\n<hr></hr>"
+    },
+    {
+      "id": "what-we-cannot-know",
+      "title": "XIV. What We Cannot Know",
+      "body_html": "<p>We do not know Heroneinos&rsquo;s face. We do not know his voice. The physical descriptions that appear in other papyri &ndash; &ldquo;about 45 years old, of middle height, with a scar on the left cheek&rdquo; &ndash; are absent from administrative correspondence. The bureaucracy did not need to identify him. It needed him to work.</p>\n<p>We do not know what he thought of <span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span>. The archive preserves <span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span>&rsquo;s letters to Heroneinos but not Heroneinos&rsquo;s replies. He surely wrote back &ndash; answered questions, reported harvests, perhaps defended himself against the charges of negligence that <span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span> distributed so freely. But his letters, sent to <span class=\"entity\" data-entity-id=\"alexandria-coastal-egypt\" data-type=\"place\">Alexandria</span>, were not preserved in the dry sand of <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span>. They went into whatever filing system <span class=\"entity\" data-entity-id=\"aurelius-appianus-alexandria-fl-249-268-ce\" data-type=\"person\">Apianos</span> maintained in the city. They are gone.</p>\n<p>We are left with a man seen entirely from outside. The accounts show what he managed. The letters show what was demanded of him. The ostraca show what moved through his granary. But the interior life &ndash; the pride, the frustration, the satisfaction of a good vintage or the dread of a bad one &ndash; is invisible.</p>\n<p>An earlier document, P.Freib. 4.70, dated 206 CE, records a different Heroneinos at <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome-themistos-division\" data-type=\"place\">Theadelphia</span>, delivering chaff for the <span class=\"term\" data-definition=\"Not just a sports facility — in Greco-Roman Egypt, the gymnasium was the center of Greek civic life, offering athletics, education, and marking Greek citizen status.\">gymnasium</span> baths.<sup><a href=\"#note-72\" class=\"note-ref\" data-note=\"72\">72</a></sup> Probably a grandfather. The family had deep roots here. The name persisted. We may imagine a household that knew the village the way a tree knows its soil &ndash; but imagination is all we have.</p>\n<p>The archive trails off in the late 260s. The latest datable document falls around 267 or 268 CE.<sup><a href=\"#note-73\" class=\"note-ref\" data-note=\"73\">73</a></sup> Gallienus was assassinated in September 268. His successors would begin the slow work of imperial recovery. Whether Heroneinos lived to see it, we do not know.</p>\n<p>What remains is the accounting. Not literature, not philosophy, not the great events of empire. Just a man&rsquo;s working life, measured in <span class=\"term\" data-definition=\"The standard silver coin unit. In Roman Egypt, 1 drachma bought roughly a day's basic food. A skilled worker earned 1–4 drachmas per day.\">drachmas</span> and <span class=\"term\" data-definition=\"A dry measure for grain. One artaba is roughly 38–40 liters (about a bushel). A family of four needed perhaps 15–20 artabas of wheat per year.\">artabas</span> and jars of wine, preserved because the climate was dry and the filing was thorough and the bureaucracy was relentless.</p>\n<p>Forty drachmas a month. One <span class=\"term\" data-definition=\"A dry measure for grain, roughly 38–40 liters (about a bushel). A family of four needed perhaps 15–20 artabas of wheat per year.\">artaba</span> of wheat. And the whole machine turning around him.</p>\n<hr></hr>"
     }
   ],
   "notes": [
     {
       "id": 1,
       "section": "opening",
-      "text": "P.Flor. 3.321 (corpus ID 50308), c. 254-260 CE. The most complete surviving monthly account from the Heroneinos archive. Published in *Papiri greco-egizii*, vol. 3. Wine receipts: 300 monochra at 9 dr. 5 ob. each = 2,914 dr. 2 ob.; bank: 16 dr.; wheat: 13 artabas at 12 dr./artaba = 156 dr. Total receipts: 3,086 dr. 2 ob.",
+      "text": "P.Flor. 3.321 (corpus ID 50308), the most complete surviving monthly account. Dated c. 254-260 CE by Rathbone based on internal chronological markers. Receipts section. The unit *monochron* (pl. *monochra*) was a single-capacity wine jar holding approximately one *chous* (c. 3.24 liters).",
       "corpus_ids": [
         50308
       ]
@@ -80,7 +96,7 @@
     {
       "id": 2,
       "section": "opening",
-      "text": "P.Flor. 3.321 (corpus ID 50308). The wage list names eighteen workers. Some names are partially damaged; \"K[...]\" after Asis is an incomplete reading. The total of 472 drachmas is explicitly stated in the papyrus.",
+      "text": "P.Flor. 3.321 (corpus ID 50308), expenditures section. The full wage schedule is preserved on the recto. Rathbone, *Economic Rationalism*, pp. 92-101, discusses the workforce structure.",
       "corpus_ids": [
         50308
       ]
@@ -88,7 +104,7 @@
     {
       "id": 3,
       "section": "opening",
-      "text": "P.Flor. 3.321 (corpus ID 50308). Hay workers (*chortokoptoi*): adult rate 2 dr. 2 ob./day, youth rate 1 dr. 5 ob./day. These are day-laborers, not permanent staff.",
+      "text": "P.Flor. 3.321 (corpus ID 50308). Hay-pulling (*chorokopia*) was seasonal work paid at daily rates. The lower rate for the younger worker suggests an apprentice or adolescent.",
       "corpus_ids": [
         50308
       ]
@@ -96,19 +112,19 @@
     {
       "id": 4,
       "section": "opening",
-      "text": "The archive was discovered by Bernard Pyne Grenfell and Arthur Surridge Hunt at Kasr el-Harit (ancient Theadelphia) in the Fayum. Approximately 1,000 papyri in total, of which 247 in the corpus mention Heroneinos directly. See Rathbone, *Economic Rationalism and Rural Society in Third-Century AD Egypt* (Cambridge, 1991), introduction; Trismegistos Archive 103 (https://www.trismegistos.org/arch/detail.php?arch_id=103).",
+      "text": "The Heroneinos archive was excavated at Kasr el-Harit (ancient Theadelphia) by Bernard Pyne Grenfell and Arthur Surridge Hunt at the end of the 19th century. Approximately 1,000 papyri were recovered; our corpus indexes 247 documents mentioning Heroneinos and 59 mentioning Appianus. See the Trismegistos archive record (TM Arch ID 103).",
       "corpus_ids": []
     },
     {
       "id": 5,
       "section": "opening",
-      "text": "On the Crisis of the Third Century: under Gallienus (sole rule 260-268), the silver content of the antoninianus fell below 5%. See K. Butcher, *Debasement and the Decline of Rome* (Oxford, forthcoming); and the general account in P. Southern, *The Roman Empire from Severus to Constantine* (London, 2001). For the impact on Egyptian prices, see Rathbone, *Economic Rationalism*, ch. 10.",
+      "text": "On the Crisis of the Third Century: between 235 and 284 CE, the Roman Empire suffered at least fifty claimants to the purple, severe currency debasement, the Plague of Cyprian, and the fracturing of the empire into three competing states (260-274 CE). See Potter, *The Roman Empire at Bay* (2004).",
       "corpus_ids": []
     },
     {
       "id": 6,
       "section": "the-account",
-      "text": "P.Flor. 3.321 (corpus ID 50308). The formula *Aurelioi Apianoi apo exegetou bouleutei tes lamprotates poleōs tōn Alexandreōn kai hōs chrēmatizei* recurs with slight variations across the archive.",
+      "text": "P.Flor. 3.321 (corpus ID 50308). The address formula -- *Aurelioi Apianoi apo exegetou bouleutei tes lampotates poleos ton Alexandreon kai hos chrematizei* -- is standard across the archive.",
       "corpus_ids": [
         50308
       ]
@@ -116,13 +132,13 @@
     {
       "id": 7,
       "section": "the-account",
-      "text": "The Constitutio Antoniniana of 212 CE, promulgated by Caracalla (M. Aurelius Antoninus), extended Roman citizenship to virtually all free inhabitants of the empire. See P.Giss. 1.40 for the edict text. After 212, the nomen *Aurelius* became nearly universal in Egyptian documents.",
+      "text": "The Constitutio Antoniniana of 212 CE, issued by Caracalla, extended Roman citizenship to virtually all free inhabitants of the empire. The nomen *Aurelius* was adopted universally and ceased to carry information about family origin.",
       "corpus_ids": []
     },
     {
       "id": 8,
       "section": "the-account",
-      "text": "Rathbone, *Economic Rationalism*, pp. 9-15, on the chronological span of Heroneinos's service. The earliest datable document is P.Flor. 2.200 (corpus ID 50234), November 12, 249 CE; the latest firmly datable documents belong to the fifteenth year of Gallienus (267/268 CE), such as P.Flor. 2.154v (corpus ID 50194), December 12, 267 CE.",
+      "text": "P.Flor. 2.200 (corpus ID 50234), dated November 12, 249 CE, is the earliest securely dated document. P.Flor. 2.154v (corpus ID 50194), dated December 12, 267 CE, is among the latest. See Rathbone, *Economic Rationalism*, pp. 87-91, on the phrontistes's tenure.",
       "corpus_ids": [
         50234,
         50194
@@ -131,45 +147,51 @@
     {
       "id": 9,
       "section": "the-account",
-      "text": "On the standardized accounting format across the Appianus estate, see Rathbone, *Economic Rationalism*, chs. 4-6. The same monthly account structure was used by all phrontistai, enabling central comparison and control.",
+      "text": "On the standardized accounting format: Rathbone, *Economic Rationalism*, ch. 3. The system tracked cash and commodities separately, required written receipts for every transfer, and used the same format across all estate divisions.",
       "corpus_ids": []
     },
     {
       "id": 10,
       "section": "the-estate",
-      "text": "The estate's geographic extent is reconstructed from the full archive. Village assignments for managers: Rathbone, *Economic Rationalism*, pp. 45-60. Additional holdings at Boubastos, Ptolemais Hormou, Ibion Argaiou, and Eikosipentarouron are attested in various letters and transport documents.",
+      "text": "The geographic spread of the estate is reconstructed from transport ostraca, letters, and accounts. See Rathbone, *Economic Rationalism*, pp. 47-64.",
       "corpus_ids": []
     },
     {
       "id": 11,
       "section": "the-estate",
-      "text": "For Alypios at Arsinoe and the administrative hierarchy, see Rathbone, *Economic Rationalism*, pp. 35-45. Alypios's assistant Ischyrion also wrote frequently to Heroneinos; see P.Lips. 1.107 (corpus ID 50353), September 26, 249 CE, where Ischyrion summons Heroneinos.",
+      "text": "Alypios appears as sender in P.Flor. 2.127 (corpus ID 50169), P.Fay. 133 (corpus ID 50116), P.Flor. 2.131 (corpus ID 50172), P.Flor. 2.139 (corpus ID 50180), P.Flor. 2.150 (corpus ID 50190), P.Flor. 2.151 (corpus ID 50191), P.Flor. 2.154v (corpus ID 50194), and numerous other letters.",
       "corpus_ids": [
-        50353
+        50169,
+        50116,
+        50172,
+        50180,
+        50190,
+        50191,
+        50194
       ]
     },
     {
       "id": 12,
       "section": "the-estate",
-      "text": "Rathbone, *Economic Rationalism*, pp. 86-98. The 250 arourai of arable land and c. 100 arourai of vineyards at Theadelphia are estimated from the production figures in the archive. One aroura = approximately 0.68 acres.",
+      "text": "Rathbone, *Economic Rationalism*, p. 54, estimates the Theadelphia division's size based on grain yields and vineyard production figures.",
       "corpus_ids": []
     },
     {
       "id": 13,
       "section": "the-estate",
-      "text": "Rathbone, *Economic Rationalism and Rural Society in Third-Century AD Egypt: The Heroninos Archive and the Appianus Estate* (Cambridge University Press, 1991). The phrase \"sophisticated, standardized system of accounting\" is Rathbone's characterization; see esp. ch. 5 on the accounting practices.",
+      "text": "Rathbone, *Economic Rationalism and Rural Society in Third-Century AD Egypt: The Heroninos Archive and the Appianus Estate* (Cambridge, 1991). The book's central argument challenged the \"primitivist\" interpretation of the ancient economy associated with Moses Finley's *The Ancient Economy* (1973).",
       "corpus_ids": []
     },
     {
       "id": 14,
       "section": "the-estate",
-      "text": "Emperor Valerian was captured by the Sasanian king Shapur I at the Battle of Edessa in 260 CE, an event unprecedented in Roman history. He died in captivity. See D. S. Potter, *The Roman Empire at Bay, AD 180-395* (London, 2004), pp. 254-256.",
+      "text": "Emperor Valerian was captured by the Sasanian king Shapur I in 260 CE and died in captivity -- the first Roman emperor taken prisoner by a foreign enemy.",
       "corpus_ids": []
     },
     {
       "id": 15,
       "section": "the-wine",
-      "text": "P.Lond. 3.1210 (corpus ID 50356), November 30, 264 CE. Maximos uses the title *diastoleus* (distributor/agent). The term *euschemon* (honorable, respectable) is a common circumlocution for the estate owner. The receipt records 1,900 monochra of wine from the harvest of year 12 of Gallienus.",
+      "text": "P.Lond. 3.1210 (corpus ID 50356), November 30, 264 CE. Maximos identifies himself as \"diastoleus of Antonius Philoxenos.\" The *euschemon* (\"honorable one\") is a circumlocution for Appianus.",
       "corpus_ids": [
         50356
       ]
@@ -177,7 +199,7 @@
     {
       "id": 16,
       "section": "the-wine",
-      "text": "P.Lond. 3.1210 (corpus ID 50356), subsequent entries. Total shipments from the year-12 vintage exceeded 2,600 monochra.",
+      "text": "P.Lond. 3.1210 (corpus ID 50356). Subsequent entries on the same papyrus: 266 jars (Hathyr 29), 242 (Choiak 1), 244 (Choiak 4).",
       "corpus_ids": [
         50356
       ]
@@ -185,7 +207,7 @@
     {
       "id": 17,
       "section": "the-wine",
-      "text": "P.Prag.Varcl. 2.14 (corpus ID 50442), October 29, 265 CE. A wine shipment register with daily entries from Phaophi 14 to Hathyr 2. Grand total: over 1,500 single-jar equivalents. The out-of-sequence date (the 28th recorded after the 29th) suggests the clerk was catching up from notes.",
+      "text": "P.Prag.Varcl. 2.14 (corpus ID 50442), October 29, 265 CE. The daily shipping manifest records Oxyrhynchite jars and double-jars separately, converting to single-jar equivalents for the grand total.",
       "corpus_ids": [
         50442
       ]
@@ -193,15 +215,13 @@
     {
       "id": 18,
       "section": "the-wine",
-      "text": "On wine jar terminology in the archive: *monochoron* (single-chous capacity, c. 3.3 liters), *dichoron* (double, c. 6.6 liters), *Oxyrhynchite* jars (regional type), *knidion* (Knidian form). See Rathbone, *Economic Rationalism*, appendix on wine measures. *Deuterochytoi* (second-pressings) are mentioned in P.Flor. 2.178 (corpus ID 50212), June 12, 258 CE.",
-      "corpus_ids": [
-        50212
-      ]
+      "text": "On wine jar types: *monochra* (single-capacity), *dichora* (double-capacity = 2 monochra), *Oxyrhynchite* (regional type), *knidion* (Knidian), *spathion* (another form), *deuterochytoi* (second-pressings). See Rathbone, *Economic Rationalism*, pp. 220-240.",
+      "corpus_ids": []
     },
     {
       "id": 19,
       "section": "the-wine",
-      "text": "P.Fay. 133 (corpus ID 50116), August 11, 260 CE. Alypios to Heroneinos on grape harvest management. The warning about vintagers (*karponai*) suggests prior quality failures.",
+      "text": "P.Fay. 133 (corpus ID 50116), August 11, 260 CE. Alypios to Heroneinos on the grape harvest. The *karponai* (vintagers) were hired seasonal workers.",
       "corpus_ids": [
         50116
       ]
@@ -209,7 +229,7 @@
     {
       "id": 20,
       "section": "the-wine",
-      "text": "P.Horak 24 (corpus ID 50330), March 5, 258 CE. *Osmetheis* — \"having been tested by smell.\" The instruction makes the manager personally liable for quality.",
+      "text": "P.Horak 24 (corpus ID 50330), March 5, 258 CE. Organoleptic quality control: *ek tes osmes dokimazon*.",
       "corpus_ids": [
         50330
       ]
@@ -217,7 +237,7 @@
     {
       "id": 21,
       "section": "the-wine",
-      "text": "P.Flor. 2.210 (corpus ID 50242), December 15, 257 CE. Monimos to Heroneinos. The phrase \"do not wish to send me vinegar\" (*oxos*) implies that previous shipments had included wine that had turned.",
+      "text": "P.Flor. 2.210 (corpus ID 50242), December 15, 257 CE. Monimos to Heroneinos. The rebuke about vinegar (*oxos*) suggests repeated quality issues.",
       "corpus_ids": [
         50242
       ]
@@ -225,391 +245,408 @@
     {
       "id": 22,
       "section": "the-wine",
-      "text": "P.Laur. 1.17 (corpus ID 50337), mid-III century CE. Wine distribution to staff members. On the general pattern of wine distribution, see Rathbone, *Economic Rationalism*, ch. 7.",
+      "text": "P.Flor. 2.196 (corpus ID 50230), c. 249-260 CE. Wine distributed to Horion at 14 drachmas per jar, \"the price of which is to go toward the payment of the village of Dionysias.\"",
       "corpus_ids": [
-        50337
+        50230
       ]
     },
     {
       "id": 23,
       "section": "the-wine",
-      "text": "P.Flor. 2.179 (corpus ID 50213), February 28, 258 CE. Apianos orders Heroneinos to release wine to Herais, \"the former wet-nurse\" (*tēn proteron titthēn*), without charge.",
+      "text": "P.Laur. 1.17 (corpus ID 50337), a mid-third-century account of wine distribution to estate staff. Workers received lower-grade wine and second-pressings as part of their compensation.",
+      "corpus_ids": [
+        50337
+      ]
+    },
+    {
+      "id": 24,
+      "section": "the-wine",
+      "text": "P.Flor. 2.179 (corpus ID 50213), February 28, 258 CE. \"Herais, the former wet-nurse\" (*Herais he proin tithenos*) -- the word *proin* (formerly) suggests she was retired or elderly.",
       "corpus_ids": [
         50213
       ]
     },
     {
-      "id": 24,
+      "id": 25,
       "section": "letters-from-the-master",
-      "text": "P.Flor. 2.170 (corpus ID 50205), August 2, 252 CE. *Zypha* = jujubes, fruit of the *Ziziphus* tree. The threat: *hina mē hōs kataxiōs soi chrēsōmetha* — \"lest we treat you as you deserve.\"",
+      "text": "P.Flor. 2.170 (corpus ID 50205), August 2, 252 CE. The jujube (*zyphon*) is the fruit of *Ziziphus jujuba*, widely cultivated in the Fayum.",
       "corpus_ids": [
         50205
       ]
     },
     {
-      "id": 25,
+      "id": 26,
       "section": "letters-from-the-master",
-      "text": "P.Flor. 2.176 (corpus ID 50210), July 18, 253 CE. The phrase \"from the poor quality and dryness and thirstiness of the figs\" (*ek tēs kak[otētos] kai xērotētos kai dipsous tōn sykōn*) is a characteristic Apianos complaint — moving from specific grievance to general indictment.",
+      "text": "P.Flor. 2.176 (corpus ID 50210), July 18, 253 CE. Apianos's inference from the condition of the figs to the condition of the estate is a striking example of management by synecdoche.",
       "corpus_ids": [
         50210
       ]
     },
     {
-      "id": 26,
+      "id": 27,
       "section": "letters-from-the-master",
-      "text": "P.Flor. 2.177 (corpus ID 50211), November 12, 257 CE. The demand for hares (*lagōous*) for medical use. *Kollyria* (eye-salves) were a standard pharmaceutical form; recipes including hare ingredients appear in Galen and other medical writers.",
+      "text": "P.Flor. 2.177 (corpus ID 50211), November 12, 257 CE.",
       "corpus_ids": [
         50211
       ]
     },
     {
-      "id": 27,
+      "id": 28,
       "section": "letters-from-the-master",
-      "text": "On *kollyria* and animal-derived pharmaceuticals, see V. Nutton, *Ancient Medicine* (London, 2004), pp. 260-265. Hare parts — including brain, liver, and rennet — appear in Pliny the Elder, *Natural History* 28.79-80.",
+      "text": "On hare in ancient medicine: Galen, *De simplicium medicamentorum temperamentis et facultatibus*, book 10, lists hare's blood and fur among ingredients for *kollyria* (eye-salves).",
       "corpus_ids": []
     },
     {
-      "id": 28,
+      "id": 29,
       "section": "letters-from-the-master",
-      "text": "P.Flor. 2.173 (corpus ID 50208), January 12, 253 CE. The phrase *hina kalōs periemou lalēsēi* — \"so that he may speak well of me\" — makes the instrumental motive explicit.",
+      "text": "P.Flor. 2.173 (corpus ID 50208), January 12, 253 CE. The unnamed \"lord\" is Apianos's patron or social superior.",
       "corpus_ids": [
         50208
       ]
     },
     {
-      "id": 29,
-      "section": "letters-from-the-master",
-      "text": "P.Flor. 2.175 (corpus ID 50209), July 6, 253 CE. A cubit (*pēchus*) was approximately 45 cm; ten cubits = c. 4.5 meters or roughly 15 feet. The axle was for the estate at Ptolemais Hormou. Perigenes the carpenter (*tektōn*) was dispatched with the ox-cart (*karnon*).",
-      "corpus_ids": [
-        50209
-      ]
-    },
-    {
       "id": 30,
-      "section": "alypios-the-administrator",
-      "text": "P.Flor. 2.127 (corpus ID 50169), January 17, 266 CE. The bath-house at Theadelphia needed fuel (chaff and beams) to heat water for the winter visit. The phrase *theon thelontōn* (\"God willing\") opens the letter, a standard pious formula.",
+      "section": "letters-from-the-master",
+      "text": "P.Flor. 2.179 (corpus ID 50213).",
       "corpus_ids": [
-        50169
+        50213
       ]
     },
     {
       "id": 31,
-      "section": "alypios-the-administrator",
-      "text": "P.Flor. 2.127 (corpus ID 50169). The piglet complaint: *kai mē hoion to proteron leptou kai achrestou* — \"and not like the previous one, thin and useless.\" The adjective *achrestos* (useless) is strong; this was a remembered insult to the administrator's table.",
+      "section": "letters-from-the-master",
+      "text": "P.Flor. 2.180 (corpus ID 50214), dated broadly 249-259 CE.",
       "corpus_ids": [
-        50169
+        50214
       ]
     },
     {
       "id": 32,
-      "section": "alypios-the-administrator",
-      "text": "P.Flor. 2.127 (corpus ID 50169). The order to summon fishermen for the administrator's visit.",
+      "section": "alypios-and-the-thin-piglet",
+      "text": "P.Flor. 2.127 (corpus ID 50169), January 17, 266 CE. The bath-house at Theadelphia is attested only in this letter. Chaff (*achuron*) was used as fuel for heating.",
       "corpus_ids": [
         50169
       ]
     },
     {
       "id": 33,
-      "section": "alypios-the-administrator",
-      "text": "SB 6.9467v (corpus ID 50761), May 26, 250 CE. The list of fishermen: Alleion, Polion, Pellas, Melas, Peras. The fishermen had \"submitted a list about which they have doubts,\" suggesting some dispute about who was responsible for providing fish to the estate.",
+      "section": "alypios-and-the-thin-piglet",
+      "text": "P.Flor. 2.127 (corpus ID 50169). Greek: *malista de choiridion kalon tois syn hemin -- kai ginetai kalon, me hosper tote ischnon kai achreion*.",
       "corpus_ids": [
-        50761
+        50169
       ]
     },
     {
       "id": 34,
-      "section": "alypios-the-administrator",
-      "text": "P.Flor. 2.127 (corpus ID 50169). Alypios's stated reason for the visit: inspection of \"the remaining small estates\" (*ta loipa ktēmatia*).",
+      "section": "alypios-and-the-thin-piglet",
+      "text": "P.Flor. 2.127 (corpus ID 50169).",
       "corpus_ids": [
         50169
       ]
     },
     {
       "id": 35,
-      "section": "alypios-the-administrator",
-      "text": "P.Flor. 2.131 (corpus ID 50172), June 6, 257 CE. The Amesysia festival required special funding. One hundred single-chous jars of wine were released from Ibion Argaiou for this purpose. The festival name *Amesysia* is attested only in the Heroneinos archive.",
+      "section": "alypios-and-the-thin-piglet",
+      "text": "SB 6.9467v (corpus ID 50761), May 26, 250 CE. \"The names of those who are in your charge are: Alleion, Polion, Pellas, Melas, Peras.\"",
+      "corpus_ids": [
+        50761
+      ]
+    },
+    {
+      "id": 36,
+      "section": "alypios-and-the-thin-piglet",
+      "text": "P.Flor. 2.275 (corpus ID 50304), dated broadly 249-268 CE. Six *schoinoi* = approximately 36 km.",
+      "corpus_ids": [
+        50304
+      ]
+    },
+    {
+      "id": 37,
+      "section": "alypios-and-the-thin-piglet",
+      "text": "P.Flor. 2.131 (corpus ID 50172), June 6, 257 CE. The Amesysia festival is otherwise unattested; the name may derive from a local deity or cult practice specific to the Themistos division.",
       "corpus_ids": [
         50172
       ]
     },
     {
-      "id": 36,
-      "section": "alypios-the-administrator",
-      "text": "P.Flor. 2.139 (corpus ID 50180), October 11, 264 CE. The tenth wine-vat: 100 dichora + 349 monochra = 549 single-jar equivalents. Maximos, the agent (*diastoleus*), received the wine for \"the expenses in the city\" (*ta analōmata ta en tēi polei*).",
-      "corpus_ids": [
-        50180
-      ]
-    },
-    {
-      "id": 37,
-      "section": "alypios-the-administrator",
-      "text": "P.Flor. 2.150 (corpus ID 50190), July 11, 266 CE. Mice (*myes*) eating the harvested grain at Taureinos. The cattle were to trample the grain to separate it while scattering the mice. Water-wheel cattle (*ta eis ta organgia*) were explicitly exempted.",
-      "corpus_ids": [
-        50190
-      ]
-    },
-    {
       "id": 38,
-      "section": "alypios-the-administrator",
-      "text": "The formula *kai hopōs mē amelēsēis* (\"and see that you do not neglect this\") or similar imperatives appear in multiple letters from Alypios and other administrators.",
-      "corpus_ids": []
+      "section": "the-sacrifice",
+      "text": "SB 1.4450 (corpus ID 50646), July 14, 250 CE. *Libellus* of Aurelius Euprodokios, slave (*doulos*) of Apianos. Approximately 46 *libelli* from the Decian persecution survive, almost all from Egypt. See Knipfing, \"The Libelli of the Decian Persecution,\" *HTR* 16 (1923), pp. 345-390.",
+      "corpus_ids": [
+        50646
+      ]
     },
     {
       "id": 39,
-      "section": "the-workers",
-      "text": "P.Prag.Varcl. NS.4 (corpus ID 50481), April 252 CE. Pontikos appears as assistant manager at 20 dr./month. He does not appear in the later account P.Flor. 3.321 (corpus ID 50308, c. 254-260 CE), suggesting he departed or died in the interim.",
+      "section": "the-sacrifice",
+      "text": "Tyche 30.16 (corpus ID 148385), June-July 250 CE. Aurelius Sarapammon, \"servant\" (*hyperetes*) of Appianus. The distinction between *doulos* (slave) and *hyperetes* (servant) may reflect a difference in legal status.",
       "corpus_ids": [
-        50481,
-        50308
+        148385
       ]
     },
     {
       "id": 40,
-      "section": "the-workers",
-      "text": "Wages compiled from P.Flor. 3.321 (corpus ID 50308) and P.Prag.Varcl. NS.4 (corpus ID 50481). The identification of Hermes as a household slave (*oiketēs*) appears in the earlier account.",
+      "section": "the-workforce",
+      "text": "P.Prag.Varcl. NS.14 (corpus ID 50457), dated 251-252 CE. The wheat distribution list demonstrates that the grain ration was uniform at 1 artaba per worker regardless of cash wage.",
+      "corpus_ids": [
+        50457
+      ]
+    },
+    {
+      "id": 41,
+      "section": "the-workforce",
+      "text": "P.Flor. 3.321 (corpus ID 50308): Hatres at 48 drachmas. P.Prag.Varcl. NS.4 (corpus ID 50481): Aseis at 48 drachmas. Cowherd wages exceeded the assistant manager Pontikos at 20 drachmas.",
       "corpus_ids": [
         50308,
         50481
       ]
     },
     {
-      "id": 41,
-      "section": "the-workers",
-      "text": "P.Prag.Varcl. NS.14 (corpus ID 50457), 251-252 CE. Wheat distribution: each named worker receives 1 artaba per month. One artaba = c. 38-40 liters (c. 29 kg) of wheat.",
-      "corpus_ids": [
-        50457
-      ]
-    },
-    {
       "id": 42,
-      "section": "the-workers",
-      "text": "PSI 9.1050 (corpus ID 50606), November 2, 262 CE. The conversion from cash to wheat rations: Sarmates and Neilos each receive 1 artaba of wheat monthly, increased to 1.5 artabai from Hathyr onward, while retaining cash and oil rations. The shift reflects the declining value of cash wages during the inflation.",
-      "corpus_ids": [
-        50606
-      ]
-    },
-    {
-      "id": 43,
-      "section": "the-workers",
-      "text": "P.Flor. 3.321 (corpus ID 50308). Hay-worker day rates. The younger worker (*neōteros*) received roughly 82% of the adult rate, suggesting either age-based or skill-based differential.",
+      "section": "the-workforce",
+      "text": "P.Flor. 3.321 (corpus ID 50308): Dorion at 48 drachmas, Patas at 34 drachmas 2 obols.",
       "corpus_ids": [
         50308
       ]
     },
     {
+      "id": 43,
+      "section": "the-workforce",
+      "text": "Donkey-driver wages ranged from 8 drachmas (Pouaris, Akies/Abies) to 17 drachmas 1 obol (Kastor). See P.Flor. 3.321 (corpus ID 50308) and P.Prag.Varcl. NS.4 (corpus ID 50481).",
+      "corpus_ids": [
+        50308,
+        50481
+      ]
+    },
+    {
       "id": 44,
-      "section": "the-workers",
-      "text": "SB 6.9466 (corpus ID 50760), October 29, 255 CE. Syros to Heroneinos regarding the children of Pontikos: *ou gar allotrioi eisin tēs oikias hōs kai autos ginōskeis* — \"for they are not strangers to the household, as you yourself know.\" The implication that Heroneinos needed reminding suggests he was not treating them generously.",
-      "corpus_ids": [
-        50760
-      ]
-    },
-    {
-      "id": 45,
-      "section": "the-shepherdess-sodike",
-      "text": "O.Fay. 25 (corpus ID 50034), October 18, 254 CE. *Sodikē poimenissa*: Sodike, shepherdess. Transport of 1 donkey-load of grain by private beast.",
-      "corpus_ids": [
-        50034
-      ]
-    },
-    {
-      "id": 46,
-      "section": "the-shepherdess-sodike",
-      "text": "O.Fay. 27 (corpus ID 50036), 258 CE. Sodike with 4 donkeys. The five ostraca recording Sodike are O.Fay. 25-29 (corpus IDs 50034-50038), spanning 254-258 CE.",
-      "corpus_ids": [
-        50036
-      ]
-    },
-    {
-      "id": 47,
-      "section": "the-donkey-caravans",
-      "text": "SB 1.1501 (corpus ID within 50609-50631 series), c. 257-261 CE. Grain transport from Theadelphia granary to Koba by 5 donkeys.",
-      "corpus_ids": []
-    },
-    {
-      "id": 48,
-      "section": "the-donkey-caravans",
-      "text": "SB 1.1506 (corpus ID within 50609-50631 series). Transport to Alexandria using beasts from Mouchis: 11 sacks of grain.",
-      "corpus_ids": []
-    },
-    {
-      "id": 49,
-      "section": "the-donkey-caravans",
-      "text": "O.Oslo 17 (corpus ID 50048), May 15, 261 CE. Twenty donkeys carrying grain from Theadelphia on behalf of Dionysias.",
-      "corpus_ids": [
-        50048
-      ]
-    },
-    {
-      "id": 50,
-      "section": "the-donkey-caravans",
-      "text": "P.Flor. 2.190 (corpus ID 50224), September 8, 252 CE. Nine donkeys (4 + 5) carrying 16 dichora = 32 monochra equivalents. Drivers named: Karbon and Aionios.",
-      "corpus_ids": [
-        50224
-      ]
-    },
-    {
-      "id": 51,
-      "section": "the-donkey-caravans",
-      "text": "P.Prag.Varcl. 2.23 (corpus ID 50451). Camel transport of dates to the city. The instruction to fill remaining capacity with firewood demonstrates the principle that no transport animal traveled empty.",
-      "corpus_ids": [
-        50451
-      ]
-    },
-    {
-      "id": 52,
-      "section": "the-donkey-caravans",
-      "text": "P.Flor. 2.175 (corpus ID 50209), July 6, 253 CE. See note 29 above.",
-      "corpus_ids": [
-        50209
-      ]
-    },
-    {
-      "id": 53,
-      "section": "the-donkey-caravans",
-      "text": "SB 6.9361 (corpus ID 50757), August 10, 255 CE. Apianos's brother Apollonios had cut timber; Heroneinos was to drag it to the village before the annual flood using the bull-teams at his disposal.",
-      "corpus_ids": [
-        50757
-      ]
-    },
-    {
-      "id": 54,
-      "section": "the-price-of-wine-and-the-crisis-of-empire",
-      "text": "P.Prag. 1.104 (corpus ID 50405), August 28, 250 CE. Wine released from Sathro at 10 dr. 6 ob. per monochron.",
-      "corpus_ids": [
-        50405
-      ]
-    },
-    {
-      "id": 55,
-      "section": "the-price-of-wine-and-the-crisis-of-empire",
-      "text": "P.Prag.Varcl. NS.4 (corpus ID 50481), April 252 CE. Wine sold at 12 dr. per monochron.",
+      "section": "the-workforce",
+      "text": "P.Prag.Varcl. NS.4 (corpus ID 50481): \"Hermes household slave (*oikogenes*)\" at 4 drachmas per month.",
       "corpus_ids": [
         50481
       ]
     },
     {
-      "id": 56,
-      "section": "the-price-of-wine-and-the-crisis-of-empire",
-      "text": "P.Flor. 2.196 (corpus ID 50230), c. 249-260 CE. Wine distributed at 14 dr. per single-chous jar. The date \"256 CE\" is approximate, based on Rathbone's reconstruction of the archive's internal chronology.",
+      "id": 45,
+      "section": "the-workforce",
+      "text": "P.Laur. 1.17 (corpus ID 50337).",
       "corpus_ids": [
-        50230
+        50337
       ]
     },
     {
-      "id": 57,
-      "section": "the-price-of-wine-and-the-crisis-of-empire",
-      "text": "P.Flor. 2.123/124, c. 261 CE. Wine at 16 dr. per jar. See Rathbone, *Economic Rationalism*, table 10.1, for the full wine price series.",
-      "corpus_ids": []
-    },
-    {
-      "id": 58,
-      "section": "the-price-of-wine-and-the-crisis-of-empire",
-      "text": "P.Flor. 2.135, c. 262 CE. Wine at 42-44 dr. per jar. The quadrupling reflects the severe debasement of the coinage under Gallienus. See Rathbone, *Economic Rationalism*, pp. 336-345.",
-      "corpus_ids": []
-    },
-    {
-      "id": 59,
-      "section": "the-price-of-wine-and-the-crisis-of-empire",
-      "text": "On coinage debasement: the antoninianus under Gallienus (260-268 CE) dropped to c. 2-3% silver content. The Alexandrian tetradrachm experienced proportional degradation. See R. Bland, \"The Coinage of Gallienus and the Development of Monetary Policy,\" in *The Oxford Handbook of Greek and Roman Coinage* (2012).",
-      "corpus_ids": []
-    },
-    {
-      "id": 60,
-      "section": "the-price-of-wine-and-the-crisis-of-empire",
-      "text": "On the Plague of Cyprian (c. 250-270 CE): named for Cyprian, bishop of Carthage, who described symptoms including diarrhea, vomiting, gangrenous extremities, and blindness. Estimated mortality is debated but may have rivaled the Antonine Plague. See K. Harper, *The Fate of Rome: Climate, Disease, and the End of an Empire* (Princeton, 2017), pp. 136-159.",
-      "corpus_ids": []
-    },
-    {
-      "id": 61,
-      "section": "the-price-of-wine-and-the-crisis-of-empire",
-      "text": "Rathbone, *Economic Rationalism*, ch. 10: \"The Third-Century Crisis and the Economy of Egypt.\" Rathbone distinguishes between monetary inflation (sharp) and real economic decline (limited, at least through the mid-260s). The estate's shift from cash to commodity wages is evidence of adaptation rather than collapse.",
-      "corpus_ids": []
-    },
-    {
-      "id": 62,
-      "section": "the-sacrifice-certificates",
-      "text": "SB 1.4450 (corpus ID 50646), July 14, 250 CE. *Libellus* of Aurelius Euprodokios, slave (*doulos*) of Aurelius Apianos. The sacrifice certificate follows the standard formula attested in dozens of Egyptian *libelli* from the Decian persecution. See J. R. Knipfing, \"The Libelli of the Decian Persecution,\" *Harvard Theological Review* 16 (1923), pp. 345-390.",
+      "id": 46,
+      "section": "the-workforce",
+      "text": "PSI 9.1050 (corpus ID 50606), November 2, 262 CE. The shift from cash rations to wheat during a period of severe currency debasement is consistent with the inflationary crisis.",
       "corpus_ids": [
-        50646
+        50606
       ]
     },
     {
-      "id": 63,
-      "section": "the-sacrifice-certificates",
-      "text": "On the Decian persecution and the *libelli*: Emperor Decius (249-251 CE) issued an edict in late 249 or early 250 requiring all inhabitants of the empire to sacrifice to the traditional gods and obtain a certificate. Approximately 46 *libelli* survive, almost all from Egypt. See Rives, \"The Decree of Decius and the Religion of Empire,\" *Journal of Roman Studies* 89 (1999), pp. 135-154.",
-      "corpus_ids": []
-    },
-    {
-      "id": 64,
-      "section": "the-sacrifice-certificates",
-      "text": "Tyche 30.16 (corpus ID 148385), June-July 250 CE. Aurelius Sarapammon, \"servant\" (*hyperetēs*) of Appianus. The term *hyperetēs* is distinct from *doulos* (slave) but the precise legal distinction in this context is unclear; Sarapammon may have been a freedman or a dependent of lower status than a free employee.",
+      "id": 47,
+      "section": "sodike",
+      "text": "O.Fay. 25 (corpus ID 50034), October 18, 254 CE. Greek: *Sodike poimenissa*. The feminine form is notable.",
       "corpus_ids": [
-        148385
+        50034
       ]
     },
     {
-      "id": 65,
-      "section": "infrastructure",
-      "text": "P.Flor. 2.200 (corpus ID 50234), November 12, 249 CE. The earliest datable document in the archive. Soft-bricks (*plinthoi ōmai*) — unfired mud-bricks — were the standard construction material. The fountain (*krēnē*) may have been an ornamental or functional water feature associated with the estate.",
+      "id": 48,
+      "section": "sodike",
+      "text": "O.Fay. 27 (corpus ID 50036), year 5 (257/258 CE). See also O.Fay. 25-29 (corpus IDs 50034-50038), spanning 254-258 CE.",
       "corpus_ids": [
-        50234
+        50036
       ]
     },
     {
-      "id": 66,
-      "section": "infrastructure",
-      "text": "P.Rein. 2.115 (corpus ID 50510), August 31, 257 CE. Canal maintenance near the sluice-gates. The letter specifies that a soldier was sent to mobilize the labor force from \"all those who benefit\" from the irrigation system — suggesting that canal maintenance was a shared obligation among users.",
+      "id": 49,
+      "section": "the-children-of-pontikos",
+      "text": "SB 6.9466 (corpus ID 50760), October 29, 255 CE. \"Not strangers to the household\" -- *ou gar allotrioi eisin tou oikou* -- implies a claim on the estate's resources.",
+      "corpus_ids": [
+        50760
+      ]
+    },
+    {
+      "id": 50,
+      "section": "the-children-of-pontikos",
+      "text": "Pontikos appears in P.Prag.Varcl. NS.4 (corpus ID 50481, April 252 CE) at 20 drachmas/month but is absent from P.Flor. 3.321 (corpus ID 50308, c. 254-260 CE).",
+      "corpus_ids": [
+        50481,
+        50308
+      ]
+    },
+    {
+      "id": 51,
+      "section": "the-infrastructure",
+      "text": "P.Rein. 2.115 (corpus ID 50510), August 31, 257 CE. The deployment of a soldier for canal maintenance illustrates the increasing militarization of civilian infrastructure.",
       "corpus_ids": [
         50510
       ]
     },
     {
-      "id": 67,
-      "section": "infrastructure",
-      "text": "P.Flor. 2.151 (corpus ID 50191), December 5, 266 CE. Alypios on tax enforcement: tenants from the estate of Sabeina owed arrears on the per-capita tax (*laographia*). \"A soldier was about to be sent against them, but I held back\" — the threat was available and used routinely.",
-      "corpus_ids": [
-        50191
-      ]
-    },
-    {
-      "id": 68,
-      "section": "infrastructure",
-      "text": "P.Prag.Varcl. 1.2 (corpus ID 50435), October 2, 254 CE. The irrigation machine (*organon*) of Moithymis. The *saqiya* (water-wheel driven by animal power) was the standard irrigation technology of Roman Egypt.",
-      "corpus_ids": [
-        50435
-      ]
-    },
-    {
-      "id": 69,
-      "section": "infrastructure",
-      "text": "P.Stras. 1.32 (corpus ID 50552), May 12, 260 CE. Plough construction. Four nails (*hēloi*) were sent for assembly. Egyptian ploughs were predominantly wooden, with iron only at the share and fastening points. See Rathbone, *Economic Rationalism*, pp. 190-195.",
+      "id": 52,
+      "section": "the-infrastructure",
+      "text": "P.Stras. 1.32 (corpus ID 50552), May 12, 260 CE. Egyptian ploughs were predominantly wooden; iron appeared only at the share and fastening points. See Rathbone, *Economic Rationalism*, pp. 190-195.",
       "corpus_ids": [
         50552
       ]
     },
     {
-      "id": 70,
-      "section": "infrastructure",
-      "text": "P.Prag. 1.103 (corpus ID 50404), c. 249-259 CE. Forty thousand reeds from the Ktesis. Reeds (*kalamoi*) were used for multiple purposes: vine supports, roofing, fencing, and fuel.",
+      "id": 53,
+      "section": "the-infrastructure",
+      "text": "P.Flor. 2.175 (corpus ID 50209), July 6, 253 CE. Ten cubits = approximately 4.6 meters. An axle of this length served heavy equipment, probably a water-wheel.",
+      "corpus_ids": [
+        50209
+      ]
+    },
+    {
+      "id": 54,
+      "section": "the-infrastructure",
+      "text": "P.Prag. 1.103 (corpus ID 50404), c. 249-259 CE. Reeds (*kalamoi*) served multiple purposes: vine supports, roofing, fencing, fuel.",
       "corpus_ids": [
         50404
       ]
     },
     {
-      "id": 71,
-      "section": "what-the-record-does-not-say",
-      "text": "P.Flor. 2.271a (corpus ID 50300), November 1, 264 CE. Maximos addresses Heroneinos as \"father\" (*patri*). On Maximos's role as *diastoleus*, see note 15 above.",
+      "id": 55,
+      "section": "the-infrastructure",
+      "text": "P.Prag.Varcl. 1.2 (corpus ID 50435), October 2, 254 CE. The *mechane* of Moithymis was probably a *saqiya* (animal-powered water-wheel).",
       "corpus_ids": [
-        50300
+        50435
+      ]
+    },
+    {
+      "id": 56,
+      "section": "the-transport",
+      "text": "P.Flor. 2.190 (corpus ID 50224), September 8, 252 CE. Donkey-drivers Karbon and Aionios are otherwise unknown.",
+      "corpus_ids": [
+        50224
+      ]
+    },
+    {
+      "id": 57,
+      "section": "the-transport",
+      "text": "P.Prag.Varcl. 2.23 (corpus ID 50451), dated broadly 249-268 CE.",
+      "corpus_ids": [
+        50451
+      ]
+    },
+    {
+      "id": 58,
+      "section": "the-transport",
+      "text": "SB 1.1501 (corpus ID 50613), year 7 (259/260 CE).",
+      "corpus_ids": [
+        50613
+      ]
+    },
+    {
+      "id": 59,
+      "section": "the-transport",
+      "text": "SB 1.1506 (corpus ID 50618), year 1 (253/254 CE). \"By beasts of Mouchis\" -- the donkeys belonged to the village of Mouchis, not to the estate.",
+      "corpus_ids": [
+        50618
+      ]
+    },
+    {
+      "id": 60,
+      "section": "the-transport",
+      "text": "O.Oslo 17 (corpus ID 50048), May 15, 261 CE. Twenty donkeys in a single convoy for grain transport.",
+      "corpus_ids": [
+        50048
+      ]
+    },
+    {
+      "id": 61,
+      "section": "the-transport",
+      "text": "SB 6.9361 (corpus ID 50757), August 10, 255 CE. Apollonios was Apianos's brother.",
+      "corpus_ids": [
+        50757
+      ]
+    },
+    {
+      "id": 62,
+      "section": "the-prices",
+      "text": "P.Prag. 1.104 (corpus ID 50405), August 28, 250 CE: \"at the price of ten drachmas and six obols per jar.\"",
+      "corpus_ids": [
+        50405
+      ]
+    },
+    {
+      "id": 63,
+      "section": "the-prices",
+      "text": "P.Prag.Varcl. NS.4 (corpus ID 50481), April 252 CE: 128 jars at 12 drachmas each.",
+      "corpus_ids": [
+        50481
+      ]
+    },
+    {
+      "id": 64,
+      "section": "the-prices",
+      "text": "P.Flor. 2.196 (corpus ID 50230), c. 249-260 CE. Wine at 14 drachmas per jar. The date \"256 CE\" is approximate, based on Rathbone's internal chronology.",
+      "corpus_ids": [
+        50230
+      ]
+    },
+    {
+      "id": 65,
+      "section": "the-prices",
+      "text": "P.Flor. 2.123/124, c. 261 CE. Wine at 16 drachmas per jar. See Rathbone, *Economic Rationalism*, table 10.1.",
+      "corpus_ids": []
+    },
+    {
+      "id": 66,
+      "section": "the-prices",
+      "text": "P.Flor. 2.135, c. 262 CE. Wine at 42-44 drachmas per jar. The quadrupling reflects the severe debasement under Gallienus.",
+      "corpus_ids": []
+    },
+    {
+      "id": 67,
+      "section": "the-prices",
+      "text": "On coinage debasement: the antoninianus under Gallienus (260-268 CE) fell to c. 2-3% silver content. See R. Bland, \"The Coinage of Gallienus,\" in *The Oxford Handbook of Greek and Roman Coinage* (2012).",
+      "corpus_ids": []
+    },
+    {
+      "id": 68,
+      "section": "the-prices",
+      "text": "On the Plague of Cyprian (c. 250-270 CE): described by Cyprian of Carthage (*De mortalitate*) with symptoms including diarrhea, vomiting, and gangrenous extremities. See K. Harper, *The Fate of Rome* (2017), pp. 136-159.",
+      "corpus_ids": []
+    },
+    {
+      "id": 69,
+      "section": "the-prices",
+      "text": "Rathbone, *Economic Rationalism*, ch. 10. Rathbone distinguishes between monetary inflation (sharp) and real economic decline (limited, at least through the mid-260s). The estate's shift from cash to commodity wages is evidence of adaptation rather than collapse.",
+      "corpus_ids": []
+    },
+    {
+      "id": 70,
+      "section": "the-taxes",
+      "text": "P.Flor. 2.154v (corpus ID 50194), December 12, 267 CE. The *dekaprotoi* were personally liable for any shortfall in tax collection.",
+      "corpus_ids": [
+        50194
+      ]
+    },
+    {
+      "id": 71,
+      "section": "the-taxes",
+      "text": "P.Flor. 2.151 (corpus ID 50191), December 5, 266 CE. \"A soldier was about to be sent against them, but I held back.\"",
+      "corpus_ids": [
+        50191
       ]
     },
     {
       "id": 72,
-      "section": "what-the-record-does-not-say",
-      "text": "SB 6.9466 (corpus ID 50760). See note 44 above.",
+      "section": "what-we-cannot-know",
+      "text": "P.Freib. 4.70 (corpus ID 50311), dated 206 CE. An earlier Heroneinos at Theadelphia delivering chaff for the gymnasium baths. The shared name and location suggest a family connection.",
       "corpus_ids": [
-        50760
+        50311
+      ]
+    },
+    {
+      "id": 73,
+      "section": "what-we-cannot-know",
+      "text": "P.Flor. 2.154v (corpus ID 50194) and related documents. The archive's terminal date is difficult to fix precisely because many documents are undated or damaged.",
+      "corpus_ids": [
+        50194
       ]
     }
   ],
@@ -903,6 +940,30 @@
       "translation": "From Alypios. I have sent Maximos, the steward of Pakis, to you, so that a plough may be made for him as I also wrote to Hermas. I have also sent four nails for its assembly. Be diligent, then: if ox-power is needed for hauling, provide it, and set someone to oversee, so that it can be done quickly and the ox-team is not kept idle. I have also sent money so that Hermas may receive the cost of the plough; and let him give an account of what is owed to him and where he has provided it, so that it may be credited to him accordingly. Be diligent also in providing service to the steward together with the small beast he brings with him; and bringing along a yoke, provide him the most suitable one from your stores, making one equal for yourself for the work at your place -- but do not be negligent, since the ox-team here is being kept idle and needs this service. Provide him two beasts, so that he may bring him up to the city. I pray for your health. I have signed. To Heroneinos, steward. Year 7, Pachon 17. From Alypios to Heroneinos, steward of Thraso."
     },
     {
+      "corpus_id": 50230,
+      "reference": "P.Flor. 2.196",
+      "date": "249-260 CE",
+      "description": "Order | Wine distribution at 14 dr./jar",
+      "greek": "π αρὰ Ἰσχυρίωνος. παράδος Ὡρίωνι φροντιστῇ παράδος Ὡρίωνι φροντιστῇ διʼ Ἐπαγάθου οἰνοπώλου ο διʼ Ἐπαγάθου οἰνοπώλου ο ἴ νου μονόχω ρα ἑκατὸν καὶ Α . α .. ὁμοίως οἰνοπώλῃ ἄλλα οἴνου ὁμοίως οἰνοπώλῃ ἄλλα οἴνου μονόχω ρα ἑκατὸν ἀπὸ κτημά των Λ Λ ε υκοῦ καὶ Κολοκύνθων γίν εται ο ἴνου ἀριθ μῷ μονόχ ωρα διακόσ ια τῆς τιμῆς αὐτῶν χωρούσ τῆς τιμῆς αὐτῶν χωρούσ ης εἰ ς τιναγμὸν κώμης Διον υσιάδ ος ὡς τοῦ μονοχώρου ὡς τοῦ μονοχώρου δραχμῶν δεκα τεσσά ρων . σεσημ είωμαι οἴνου μονόχ ωρα δ ιακό σια ὡς ὡς πρόκ ειται . Ἡρωνεί Ἡρωνεί ν ῳ φρ οντιστῇ Θεαδελφ είας . α ἔτους Τῦβι α PFlor 2,196,r reprinted in PLaur 1,14",
+      "translation": "From Ischyrion. Hand over to Horion, manager (phrontistes), through Epagathos, wine-seller (oinopoles): one hundred single-chous jars (monochra) of wine. And to A[...]a[...], likewise wine-seller, another one hundred single-chous jars of wine, from the estates of Leukos and Kolokunthon (Gourds). Total in number: two hundred single-chous jars of wine, the price of which is to go toward the payment of the village of Dionysias, at the rate of fourteen drachmas per single-chous jar. I have signed. 200 single-chous jars of wine, as stated above.\n\n(Address) To Heroneinos, manager (phrontistes) of Theadelphia. Year 1, Tybi 1.\n\n[Note: P.Flor. 2.196r reprinted in P.Laur. 1.14]"
+    },
+    {
+      "corpus_id": 50034,
+      "reference": "O.Fay. 25",
+      "date": "18 Oct 254 CE",
+      "description": "Ostracon | Sodike the shepherdess, 1 donkey",
+      "greek": "Θεαδελφίας Θεαδελφίας γενη μάτων α ἔτους δι ὰ ἰδίο υ κτήν ους Σωδίκης Σωδίκης ποιμὴν ποιμὴν ὄν ος α . ἔτους β , Φαῶφι Φαῶφι κα .",
+      "translation": "Theadelphia, produce of year 1, by private beast. Sodike, shepherdess: 1 donkey(-load). Year 2, Phaophi 21."
+    },
+    {
+      "corpus_id": 50036,
+      "reference": "O.Fay. 27",
+      "date": "257/258 CE",
+      "description": "Ostracon | Sodike, 4 donkeys",
+      "greek": "ε ἔτους , Τῦβι κγ , Τήεως Σωδίκης ποι Σωδίκης ποι μὴν ὄνοι μὴν ὄνοι δ .",
+      "translation": "Year 5, Tybi 23, Teis. Sodike, shepherdess: donkeys 4."
+    },
+    {
       "corpus_id": 50047,
       "reference": "O.Mich. 1.68",
       "date": "24 Mar 261 CE",
@@ -917,6 +978,22 @@
       "description": "Ostracon | 20 donkeys grain transport",
       "greek": "θησαυροῦ θησαυροῦ κώ μης Θεαδελφείας Ἡρωνῖνος Ἡρωνῖνος φρ οντιστὴς ὑπ ὲρ Διονυσιάδος ἰδίω ν κτην ῶν ὄν οι κ . Ἔτους α Παχὼ ν κ .",
       "translation": "Granary of the village of Theadelphia. Heroninos, manager, on behalf of Dionysias, private beasts: donkeys 20. Year 1, Pachon 20."
+    },
+    {
+      "corpus_id": 50613,
+      "reference": "SB 1.1501",
+      "date": "259/260 CE",
+      "description": "Ostracon | Granary shipment to Koba",
+      "greek": "δεκ απρώτων Φιλοξ ένου καὶ Κυρίλλου γενη μάτων ζ ἔτους διὰ κτη νῶν Κερκεσήφεως Θεαδελφ είας Ἡρωνῖνος φρ οντιστὴς Ἀπιανοῦ Ἀπιπιανοῦ ὄνοι ε . ἔτους ἔτους α , Φαμενὼθ κη .",
+      "translation": "Of the dekaprotoi Philoxenos and Kyrillos, produce of the 7th year, by beasts of Kerkesephos: at Theadelphia, Heroneinos, steward of Apianos, 5 donkeys. Year 1, Phamenoth 28."
+    },
+    {
+      "corpus_id": 50618,
+      "reference": "SB 1.1506",
+      "date": "253/254 CE",
+      "description": "Ostracon | Grain to Alexandria, 11 sacks",
+      "greek": "θησαυροῦ θησαυροῦ κώ μης Θεαδελφείας γενη μάτων ζ ἔτους Ἀπιανὸς ἐξηγ ητεύσας Σερήφεως Σερήφεως ὄν οι ϛ . ἔτους α ἔτους , Φαμ ενὼθ κθ .",
+      "translation": "Of the granary of the village of Theadelphia, produce of the 7th year. Apianos, former exegetes: to Serephos, 6 donkeys. Year 1, Phamenoth 29."
     },
     {
       "corpus_id": 50761,
@@ -935,30 +1012,6 @@
       "translation": "To my lord Alypios, Heroneinos, phrontistes of Sathro. [...] in Sathro, and the fishermen came to him complaining about all the fishing grounds on the shore, as you also previously wrote to us concerning them. He sent me then [...] to the shore with the tax-collector of Sentrepaei, and we sought out another fisherman on the shore, and he said to him that it was not permitted for another to set foot in Sa[thro...], it was appropriate for him to fish in other places; for the shore there extends six schoinoi. I write to you then, so that whatever seems good to you may be done."
     },
     {
-      "corpus_id": 50436,
-      "reference": "P.Prag.Varcl. 1.4",
-      "date": "14 Sep 255 CE",
-      "description": "Letter | Palm-tree guarding",
-      "greek": "Ἡρωνείνῳ φ Ἡρωνείνῳ φ ροντιστῇ ... Σύρος Ἡρωνείνῳ Σύρος Ἡρωνείνῳ τῷ τῷ φιλ τάτῳ χαίρειν. ἔπεμψά σοι Ἑρμῆν ἔπεμψά σοι Ἑρμῆν καὶ Ἀλῆν τὸν παῖδα καὶ Ἀλῆν τὸν παῖδα εἰς συν τήρησιν τῶν φοινίκων, ᾧ καὶ φοινίκων, ᾧ καὶ παράσχες τὴν παράσχες τὴν συνήθη δαπάνην. συνήθη δαπάνην. ἐρρῶσθαί σε ἐρρῶσθαί σε εὔχομαι, εὔχομαι, φίλ τατε . γ ἔτους Θῶθ ιϛ .",
-      "translation": "To Heroneinos, phrontistes [...]. Syros to Heroneinos, his dearest, greetings. I have sent you Hermes and Ales the boy for the guarding of the palm trees; provide him also the customary allowance. I pray for your health, dearest. Year 3, Thoth 16."
-    },
-    {
-      "corpus_id": 50353,
-      "reference": "P.Lips. 1.107",
-      "date": "26 Sep 249 CE",
-      "description": "Letter | Ischyrion summons Heroneinos",
-      "greek": "π αρ ʼ Ἰσχυρίωνος. ἐθαύμασα πῶς μέχρι σή ἐθαύμασα πῶς μέχρι σή μερον οὐκ μερον οὐκ ἀνῆλθες ανηλθας ἀλλά ξας τὸν λόγον. ταξάμενος ξας τὸν λόγον. ταξάμενος γὰρ ἐντὸς ἡμερῶν τριῶν γὰρ ἐντὸς ἡμερῶν τριῶν τοῦτο ποιῆσαι οὐκ ἐποίησας. τοῦτο ποιῆσαι οὐκ ἐποίησας. πάντα οὖν ὑπερθέμενος πάντα οὖν ὑπερθέμενος ἄνελθε ἵνα καὶ τὰ πρὸς σὲ ζητη ἵνα καὶ τὰ πρὸς σὲ ζητη θέντα λημματίσῃς. θέντα λημματίσῃς. ἐρρῶ σθαί σε εὔχομαι. σθαί σε εὔχομαι. Ἡρωνείνωι φρο ντιστῇ Θεαδελ φείας α ἔτους Θὼθ κθ .",
-      "translation": "From Ischyrion. I am amazed how you have not come up until today, having changed your word. For having agreed to do this within three days, you did not do it. So putting everything aside, come up so that you may also record the items demanded of you. I pray for your health. To Heroneinos, phrontistes of Theadelphia. Year 1, Thoth 29."
-    },
-    {
-      "corpus_id": 50230,
-      "reference": "P.Flor. 2.196",
-      "date": "249-260 CE",
-      "description": "Order | Wine distribution at 14 dr./jar",
-      "greek": "π αρὰ Ἰσχυρίωνος. παράδος Ὡρίωνι φροντιστῇ παράδος Ὡρίωνι φροντιστῇ διʼ Ἐπαγάθου οἰνοπώλου ο διʼ Ἐπαγάθου οἰνοπώλου ο ἴ νου μονόχω ρα ἑκατὸν καὶ Α . α .. ὁμοίως οἰνοπώλῃ ἄλλα οἴνου ὁμοίως οἰνοπώλῃ ἄλλα οἴνου μονόχω ρα ἑκατὸν ἀπὸ κτημά των Λ Λ ε υκοῦ καὶ Κολοκύνθων γίν εται ο ἴνου ἀριθ μῷ μονόχ ωρα διακόσ ια τῆς τιμῆς αὐτῶν χωρούσ τῆς τιμῆς αὐτῶν χωρούσ ης εἰ ς τιναγμὸν κώμης Διον υσιάδ ος ὡς τοῦ μονοχώρου ὡς τοῦ μονοχώρου δραχμῶν δεκα τεσσά ρων . σεσημ είωμαι οἴνου μονόχ ωρα δ ιακό σια ὡς ὡς πρόκ ειται . Ἡρωνεί Ἡρωνεί ν ῳ φρ οντιστῇ Θεαδελφ είας . α ἔτους Τῦβι α PFlor 2,196,r reprinted in PLaur 1,14",
-      "translation": "From Ischyrion. Hand over to Horion, manager (phrontistes), through Epagathos, wine-seller (oinopoles): one hundred single-chous jars (monochra) of wine. And to A[...]a[...], likewise wine-seller, another one hundred single-chous jars of wine, from the estates of Leukos and Kolokunthon (Gourds). Total in number: two hundred single-chous jars of wine, the price of which is to go toward the payment of the village of Dionysias, at the rate of fourteen drachmas per single-chous jar. I have signed. 200 single-chous jars of wine, as stated above.\n\n(Address) To Heroneinos, manager (phrontistes) of Theadelphia. Year 1, Tybi 1.\n\n[Note: P.Flor. 2.196r reprinted in P.Laur. 1.14]"
-    },
-    {
       "corpus_id": 50337,
       "reference": "P.Laur. 1.17",
       "date": "Mid-III CE",
@@ -975,28 +1028,36 @@
       "translation": "Heroneinos, on account, up to M[...]. Through Apianos the younger, for the [...] of the fine [wine], through Sokras, price of oil, 2 jars. Hathyr 13 [...] likewise [...] likewise. To Isidoros, likewise. Cheeses [sent] to the city. Pharmouthi, travel expenses for [...] drachmas. Up to Thoth, all accounts being balanced, I owe 32 drachmas."
     },
     {
-      "corpus_id": 50212,
-      "reference": "p.flor.2.178",
-      "date": "12. Juni 258",
-      "description": "Referenced in note 18",
-      "greek": "π αρὰ Ἀπιανοῦ. δευτεροχύτων ὅσον δευτεροχύτων ὅσον δυνατόν σοί ἐστιν προνό δυνατόν σοί ἐστιν προνό ησον καὶ ἀπὸ τῆς ησον καὶ ἀπὸ τῆς Θεαδελφίας καὶ ἀπὸ Θεαδελφίας καὶ ἀπὸ Φιλαγ Φιλαγ ρ ίδος καὶ ἀπὸ τῶν ἐγγὺς κωμῶν τῶν ἐγγὺς κωμῶν καὶ ἀπὸ Εὐημερίας. καὶ ἀπὸ Εὐημερίας. ἔτους ε Παῦνι ιη . Ἡρωνείνῳ Ἡρωνείνῳ φρ οντιστῇ Ἡρωνίνωι Ἡρωνίνωι φρ οντιστῇ Θρασώ",
-      "translation": "From Apianos. Provide as much as you can of second-pressings (deuterochytoi) from both Theadelphia and Philagris and from the nearby villages and from Euhemeria.\n\nYear 5, Pauni 18 (= June 12, 258 CE).\n\n(Address) To Heroneinos, manager (phrontistes).\nTo Heroneinos, manager. (From) Thraso."
+      "corpus_id": 50353,
+      "reference": "P.Lips. 1.107",
+      "date": "26 Sep 249 CE",
+      "description": "Letter | Ischyrion summons Heroneinos",
+      "greek": "π αρ ʼ Ἰσχυρίωνος. ἐθαύμασα πῶς μέχρι σή ἐθαύμασα πῶς μέχρι σή μερον οὐκ μερον οὐκ ἀνῆλθες ανηλθας ἀλλά ξας τὸν λόγον. ταξάμενος ξας τὸν λόγον. ταξάμενος γὰρ ἐντὸς ἡμερῶν τριῶν γὰρ ἐντὸς ἡμερῶν τριῶν τοῦτο ποιῆσαι οὐκ ἐποίησας. τοῦτο ποιῆσαι οὐκ ἐποίησας. πάντα οὖν ὑπερθέμενος πάντα οὖν ὑπερθέμενος ἄνελθε ἵνα καὶ τὰ πρὸς σὲ ζητη ἵνα καὶ τὰ πρὸς σὲ ζητη θέντα λημματίσῃς. θέντα λημματίσῃς. ἐρρῶ σθαί σε εὔχομαι. σθαί σε εὔχομαι. Ἡρωνείνωι φρο ντιστῇ Θεαδελ φείας α ἔτους Θὼθ κθ .",
+      "translation": "From Ischyrion. I am amazed how you have not come up until today, having changed your word. For having agreed to do this within three days, you did not do it. So putting everything aside, come up so that you may also record the items demanded of you. I pray for your health. To Heroneinos, phrontistes of Theadelphia. Year 1, Thoth 29."
     },
     {
-      "corpus_id": 50034,
-      "reference": "o.fay.25",
-      "date": "18. Okt. 254",
-      "description": "Referenced in note 45",
-      "greek": "Θεαδελφίας Θεαδελφίας γενη μάτων α ἔτους δι ὰ ἰδίο υ κτήν ους Σωδίκης Σωδίκης ποιμὴν ποιμὴν ὄν ος α . ἔτους β , Φαῶφι Φαῶφι κα .",
-      "translation": "Theadelphia, produce of year 1, by private beast. Sodike, shepherdess: 1 donkey(-load). Year 2, Phaophi 21."
+      "corpus_id": 50311,
+      "reference": "P.Freib. 4.70",
+      "date": "206 CE",
+      "description": "Receipt | Earlier Heroneinos delivers chaff",
+      "greek": "Πτολ ε μαῖο ς ὁ καὶ Ἀριστίδης ἔναρ χ ος γυ μνασίαρχος πρεσβυτέροις προσβυτέροις κώ μης Θεαδε λφίας χαίρειν. ἀπέ σχο ν παρʼ ὑ μ ῶν τὰ ἄχυρα τὰ ἐπ ι βάλλο ντα ὑμῖν πρ ὸ ς τὸν γε νόμε νον ἐπιμερισμὸν ὑ πὲρ το ῦ Ἐπὶφ μηνὸς χωροῦντα εἰς ὑπό καυσιν βαλανείων βαλανίων τοῦ μεγάλ ου γυ μνασίου διὰ Ἡρωνείνου ..... υ. ἔτους ιδ Λουκίου Σεπτι μίου Σ εου ή ρο υ Εὐσεβ οῦς Περτίνακος καὶ Μάρκ ου Αὐρηλίου Ἀντωνίνο υ Εὐσεβ οῦς Σεβαστῶν καὶ Πουβ λίου Σεπτιμίου Γέτα Καίσα ρ ος Σεβαστοῦ Ἐπὶφ λ .",
+      "translation": "Ptolemaios also called Aristides, gymnasiarch in office, to the elders of the village of Theadelphia, greetings. I have received from you the chaff apportioned to you for the month of Epeiph, going toward the fuel for the baths of the great gymnasium, through Heroneinos [...]. Year 14 of Lucius Septimius Severus Pius Pertinax and Marcus Aurelius Antoninus Pius, Augusti, and Publius Septimius Geta, Caesar Augustus, Epeiph 30."
     },
     {
-      "corpus_id": 50036,
-      "reference": "o.fay.27",
-      "date": "18. Jan. 258",
-      "description": "Referenced in note 46",
-      "greek": "ε ἔτους , Τῦβι κγ , Τήεως Σωδίκης ποι Σωδίκης ποι μὴν ὄνοι μὴν ὄνοι δ .",
-      "translation": "Year 5, Tybi 23, Teis. Sodike, shepherdess: donkeys 4."
+      "corpus_id": 50273,
+      "reference": "P.Flor. 2.240",
+      "date": "6 Sep 252 CE",
+      "description": "Letter | 120 jars wine from vintage at Talei",
+      "greek": "Σουχάμμων Ἡρωνίνῳ Σουχάμμων Ἡρωνίνῳ τῷ φιλτάτῳ χαίρειν. τῷ φιλτάτῳ χαίρειν. ὡς ἠθέλησεν ὁ ἀξιολογώτα ὡς ἠθέλησεν ὁ ἀξιολογώτα τος εὐσχήμων ἐν Ταλει ὧν τος εὐσχήμων ἐν Ταλει ὧν τῇ τρυγῇ μετεπέμψατό με τῇ τρυγῇ μετεπέμψατό με καὶ ἐντολὰς ἔσχον καὶ ἐντολὰς ἔσχον πέμψαι πέμψε σοι οἴνου οἴνου μο νόχωρα ρκ ἀφʼ ὧ ν ἔπ εμψά σοι ἐπὶ λόγου διὰ μὲν κυρια σοι ἐπὶ λόγου διὰ μὲν κυρια κῶν κτηνῶν τεσσάρων κτηνῶν τεσσάρων μο νόχωρα τριά κοντα δύο κοντα δύο , διὰ δὲ ναυλωσίμων ὄνων ὀκτὼ ὄνων ὀκτὼ ἄλλα οἴνου μο νόχωρα ἑξή κοντα τέσσερα κοντα τέσσερα γείνεται μο νόχωρα ϙϛ . πέμψον μοι οὖν γράμματα τῆς παραλήμψεως ὡς ἠ τῆς παραλήμψεως ὡς ἠ θέλησεν ὁ ἀξιολογώτατος εὐσχή θέλησεν ὁ ἀξιολογώτατος εὐσχή μων μων δώσ ε ις δώσις δὲ τῶν ναυλωσίμων ὄνων ὄνων η τὰ ναῦλα. γείνομαι δὲ σήμερον εἰς Ταλει πρὸς τὸν δὲ σήμερον εἰς Ταλει πρὸς τὸν εὐσχήμονα. ἐρρῶσθαί σε εὐσχήμονα. ἐρρῶσθαί σε εὔχο μαι φίλτατε. ἔτους γ Θὼθ θ",
+      "translation": "Souchammon to Heroneinos, dearest, greetings. As the most worthy euschemon wished, during the vintage at Talei he summoned me and I received instructions to send you wine: monochra 120, of which I have sent to you on account: by four estate pack-animals, monochra thirty-two; by eight hired donkeys, further wine monochra sixty-four, total monochra 96. Send me then written confirmation of the receipt; as the most worthy euschemon wished, you will also pay the eight hired donkeys their transport fees. I am going today to Talei to the euschemon. I pray for your health, dearest. Year 3, Thoth 9."
+    },
+    {
+      "corpus_id": 50235,
+      "reference": "P.Flor. 2.201",
+      "date": "28 Feb 260 CE",
+      "description": "Letter | Fish for dioiketes visit",
+      "greek": "π αρὰ Ἰσχυρίωνος. ἐπεὶ ἔγραψεν ὁ κύριός ἐπεὶ ἔγραψεν ὁ κύριός μου Ἀλύπις ὡς αὔριον μου Ἀλύπις ὡς αὔριον μετὰ τοῦ διοικητοῦ μετὰ τοῦ διοικητοῦ ἐ ἐ ν θά δε ἐρχόμενος φροντίς σοι φροντίς σοι γενέσθω γενάσθω ἀπὸ νυκτ ἀπὸ νυκτ ὸ ς τοὺς παρά σοι ἁλιέας ἀποστεῖ σοι ἁλιέας ἀποστεῖ λαι ἔχοντας λαι ἔχοντας ἰ χθὺν πλεῖστον καὶ κάλλιστον. ἀλλʼ ἕωθε ἀλλʼ ἕωθε ν ἀνερχέ σ θωσαν ἀνερχέ θωσαν θωσαν . ἐρρῶσθαί σε εὔ ἐρρῶσθαί σε εὔ χομαι. χομαι. Ἡρωνείνῳ Ἡρωνείνῳ φρο ντιστῇ Θρασώ. ἔτους ζ Φαμενὼθ γ",
+      "translation": "From Ischyrion. Since my lord Alypios has written that tomorrow he is coming here with the dioiketes (finance administrator), let it be your concern to send your fishermen (halieis) from nightfall, having with them the most and finest fish. But let them come up at dawn. I pray for your health.\n\n(Address) To Heroneinos, manager (phrontistes). (From) Thraso. Year 7, Phamenoth 3 (= February 28, 260 CE)."
     }
   ],
   "further_reading": [
@@ -1004,10 +1065,11 @@
     "Harper, K. *The Fate of Rome: Climate, Disease, and the End of an Empire*. Princeton University Press, 2017.",
     "Southern, P. *The Roman Empire from Severus to Constantine*. Routledge, 2001.",
     "Potter, D. S. *The Roman Empire at Bay, AD 180-395*. Routledge, 2004.",
-    "Nutton, V. *Ancient Medicine*. 2nd ed. Routledge, 2004.",
+    "Finley, M. I. *The Ancient Economy*. University of California Press, 1973.",
+    "Lewis, N. *The Compulsory Public Services of Roman Egypt*. 2nd ed. Papyrologica Florentina 28, 1997.",
+    "Bagnall, R. S. *Egypt in Late Antiquity*. Princeton University Press, 1993.",
     "Knipfing, J. R. \"The Libelli of the Decian Persecution.\" *Harvard Theological Review* 16 (1923): 345-390.",
     "Rives, J. \"The Decree of Decius and the Religion of Empire.\" *Journal of Roman Studies* 89 (1999): 135-154.",
-    "Bland, R. \"The Coinage of Gallienus and the Development of Monetary Policy.\" In *The Oxford Handbook of Greek and Roman Coinage*, ed. W. Metcalf. Oxford, 2012.",
-    "---"
+    "Bland, R. \"The Coinage of Gallienus and the Development of Monetary Policy.\" In *The Oxford Handbook of Greek and Roman Coinage*, ed. W. Metcalf. Oxford, 2012."
   ]
 }

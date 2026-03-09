@@ -183,6 +183,70 @@ body {
   font-weight: 600;
 }
 
+/* ---------- Tags ---------- */
+
+.story-tags,
+.card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  justify-content: center;
+  margin: 0.6rem 0;
+}
+
+.tag {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 0.15rem 0.5rem;
+  white-space: nowrap;
+}
+
+.card-tags {
+  justify-content: flex-start;
+}
+
+.card-tags .tag {
+  font-size: 0.65rem;
+  padding: 0.1rem 0.4rem;
+}
+
+/* ---------- Glossary Terms ---------- */
+
+.term {
+  border-bottom: 1px dashed var(--fg-faint);
+  cursor: help;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.term:hover {
+  border-bottom-color: var(--accent);
+  color: var(--accent);
+}
+
+/* ---------- Glossary Term Tooltip ---------- */
+
+.term-tooltip {
+  position: absolute;
+  z-index: 300;
+  max-width: 360px;
+  background: var(--panel-bg);
+  border: 1px solid var(--panel-border);
+  border-radius: 6px;
+  padding: 0.65rem 0.9rem;
+  font-size: 0.83rem;
+  line-height: 1.55;
+  color: var(--fg-muted);
+  box-shadow: 0 4px 16px var(--shadow-strong);
+  pointer-events: auto;
+  animation: tooltip-fade 0.15s ease-out;
+}
+
 /* ---------- Footnote References (superscripts in text) ---------- */
 
 .note-ref {
