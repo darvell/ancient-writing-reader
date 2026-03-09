@@ -8806,6 +8806,191 @@
       "stories": [
         "how-to-smell-expensive"
       ]
+    },
+    "hermione-oxyrhynchus-131-ce": {
+      "id": "hermione-oxyrhynchus-131-ce",
+      "type": "person",
+      "canonical_name": "Hermione",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "131 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "woman accused of poisoning",
+          "date": "131 CE",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        141055,
+        69364
+      ],
+      "bio": "Woman at the center of the poisoning accusation and mother of Dionysia.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-poisoning-rumor"
+      ]
+    },
+    "dionysia-oxyrhynchus-and-alexandria-after-10-october-131-ce": {
+      "id": "dionysia-oxyrhynchus-and-alexandria-after-10-october-131-ce",
+      "type": "person",
+      "canonical_name": "Dionysia",
+      "name_variants": [
+        "Dionysia daughter of Chaeremon"
+      ],
+      "patronymic": "daughter of Chaeremon",
+      "dates": "after 10 October 131 CE",
+      "location": "Oxyrhynchus and Alexandria",
+      "roles": [
+        {
+          "title": "petitioner defending family property",
+          "date": "131 CE",
+          "location": "Alexandria"
+        }
+      ],
+      "corpus_ids": [
+        69364,
+        141383
+      ],
+      "bio": "Daughter of Hermione who petitioned against Sarapion and defended her purchase of vineyard and grain land.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-poisoning-rumor"
+      ]
+    },
+    "sarapion-oxyrhynchus-131-ce": {
+      "id": "sarapion-oxyrhynchus-131-ce",
+      "type": "person",
+      "canonical_name": "Sarapion",
+      "name_variants": [
+        "Sarapion son of Mnesitheus"
+      ],
+      "patronymic": "son of Mnesitheus",
+      "dates": "131 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "accuser and property litigant",
+          "date": "131 CE",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        141055,
+        69364
+      ],
+      "bio": "Man who said he had been poisoned after visiting Hermione and later disputed property with Dionysia.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-poisoning-rumor"
+      ]
+    },
+    "chaeremon-oxyrhynchus-2nd-century-ce": {
+      "id": "chaeremon-oxyrhynchus-2nd-century-ce",
+      "type": "person",
+      "canonical_name": "Chaeremon",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "2nd century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "father of Dionysia",
+          "date": "2nd century CE",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        69364,
+        141383
+      ],
+      "bio": "Father of Dionysia and plausible participant in the larger family-property dossier.\n",
+      "disambiguation": "Treated cautiously as the same Chaeremon across the linked dossier because the damaged text leaves room for uncertainty.\n",
+      "physical_ids": [],
+      "stories": [
+        "the-poisoning-rumor"
+      ]
+    },
+    "horion-oxyrhynchus-2nd-century-ce": {
+      "id": "horion-oxyrhynchus-2nd-century-ce",
+      "type": "person",
+      "canonical_name": "Horion",
+      "name_variants": [
+        "Horion son of Apion"
+      ],
+      "patronymic": "son of Apion",
+      "dates": "2nd century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "husband of Dionysia",
+          "date": "2nd century CE",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        141383
+      ],
+      "bio": "Dionysia's husband in the larger family dossier.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-poisoning-rumor"
+      ]
+    },
+    "mnesitheus-oxyrhynchus-2nd-century-ce": {
+      "id": "mnesitheus-oxyrhynchus-2nd-century-ce",
+      "type": "person",
+      "canonical_name": "Mnesitheus",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "2nd century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "father of Sarapion and earlier seller",
+          "date": "2nd century CE",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        69364
+      ],
+      "bio": "Father of Sarapion and earlier seller of the disputed property.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-poisoning-rumor"
+      ]
+    },
+    "smaragdus-oxyrhynchus-131-ce": {
+      "id": "smaragdus-oxyrhynchus-131-ce",
+      "type": "person",
+      "canonical_name": "Smaragdus",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "131 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "missing slave",
+          "date": "131 CE",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        141055
+      ],
+      "bio": "Missing slave mentioned in the argument surrounding the accusation.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-poisoning-rumor"
+      ]
     }
   },
   "places": {
@@ -8828,7 +9013,8 @@
       "type": "place",
       "name": "Alexandria",
       "ancient_variants": [
-        "Alexandreia"
+        "Alexandreia",
+        "Alexandria"
       ],
       "modern_location": "",
       "region": "Lower Egypt",
@@ -8838,6 +9024,7 @@
         "mistress-of-her-own-person",
         "no-small-danger",
         "she-conducted-herself-blamelessly",
+        "the-poisoning-rumor",
         "weeping-by-night"
       ]
     },
@@ -10281,6 +10468,76 @@
       "stories": [
         "how-to-smell-expensive"
       ]
+    },
+    "oxyrhynchos": {
+      "id": "oxyrhynchos",
+      "type": "place",
+      "name": "Oxyrhynchos",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-poisoning-rumor"
+      ]
+    },
+    "alexandria": {
+      "id": "alexandria",
+      "type": "place",
+      "name": "Alexandria",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-poisoning-rumor"
+      ]
+    },
+    "oxyrhynchite-nome": {
+      "id": "oxyrhynchite-nome",
+      "type": "place",
+      "name": "Oxyrhynchite nome",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-poisoning-rumor"
+      ]
+    },
+    "oxyrhynchos-middle-egypt": {
+      "id": "oxyrhynchos-middle-egypt",
+      "type": "place",
+      "name": "Oxyrhynchos",
+      "ancient_variants": [
+        "Oxyrhynchus",
+        "Oxyrhynchos"
+      ],
+      "modern_location": "el-Bahnasa, Egypt",
+      "region": "Middle Egypt",
+      "period": "Roman imperial",
+      "bio": "City where the accusation, family conflict, and property records were rooted.\n",
+      "stories": [
+        "the-poisoning-rumor"
+      ]
+    },
+    "oxyrhynchite-nome-middle-egypt": {
+      "id": "oxyrhynchite-nome-middle-egypt",
+      "type": "place",
+      "name": "Oxyrhynchite nome",
+      "ancient_variants": [
+        "Oxyrhynchite nome"
+      ],
+      "modern_location": "Middle Egypt",
+      "region": "Middle Egypt",
+      "period": "Roman imperial",
+      "bio": "Administrative district framing the archive, officials, and land disputes.\n",
+      "stories": [
+        "the-poisoning-rumor"
+      ]
     }
   },
   "offices": {
@@ -10295,7 +10552,8 @@
       "status_level": "",
       "bio": "",
       "stories": [
-        "she-conducted-herself-blamelessly"
+        "she-conducted-herself-blamelessly",
+        "the-poisoning-rumor"
       ]
     },
     "strategus": {
@@ -10314,6 +10572,7 @@
         "no-small-danger",
         "she-conducted-herself-blamelessly",
         "the-doctors-report",
+        "the-poisoning-rumor",
         "under-zeus-earth-and-sun"
       ]
     },
@@ -10401,7 +10660,8 @@
       "status_level": "Regional authority, below the praefect.",
       "bio": "The epistrategoi Claudius Quintianus and Julius Varianus were involved in Dionysia's vineyard case (131 CE). Paconius Felix ruled on the apospasis question in 133/4 CE.",
       "stories": [
-        "mistress-of-her-own-person"
+        "mistress-of-her-own-person",
+        "the-poisoning-rumor"
       ]
     },
     "iuridicus": {
@@ -10472,7 +10732,8 @@
       "status_level": "Administrative official.",
       "bio": "The bibliophylakes of Oxyrhynchus repeatedly investigated Chaeremon's property claims and confirmed Dionysia's rights. Their records were the documentary foundation of her legal victories.",
       "stories": [
-        "mistress-of-her-own-person"
+        "mistress-of-her-own-person",
+        "the-poisoning-rumor"
       ]
     },
     "agoranomos": {
@@ -11249,6 +11510,20 @@
       "bio": "",
       "stories": [
         "how-to-smell-expensive"
+      ]
+    },
+    "prefect-of-egypt": {
+      "id": "prefect-of-egypt",
+      "type": "office",
+      "title": "Prefect of Egypt",
+      "greek_term": "eparchos Aigyptou",
+      "description": "Highest provincial official to whom the dispute was escalated.\n",
+      "duties": "Governed Roman Egypt and issued decisions or decrees affecting provincial legal practice.\n",
+      "cost_burden": "",
+      "status_level": "Highest provincial office.\n",
+      "bio": "",
+      "stories": [
+        "the-poisoning-rumor"
       ]
     }
   }
