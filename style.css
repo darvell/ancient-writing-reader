@@ -857,6 +857,13 @@ greek {
   margin: 0;
 }
 
+.index-subdesc {
+  margin: 0.9rem 0 0;
+  max-width: 64ch;
+  color: var(--fg-muted);
+  line-height: 1.75;
+}
+
 .index-stats {
   border-radius: 18px;
   padding: 1.25rem;
@@ -959,6 +966,12 @@ greek {
   line-height: 1.25;
 }
 
+.category-jump-desc {
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: var(--fg-muted);
+}
+
 .category-jump-count {
   margin-top: auto;
   font-size: 0.78rem;
@@ -1014,6 +1027,13 @@ greek {
   font-style: italic;
 }
 
+.section-description {
+  margin: 0.55rem 0 0;
+  max-width: 62ch;
+  color: var(--fg-muted);
+  line-height: 1.65;
+}
+
 .section-heading-row {
   display: flex;
   justify-content: space-between;
@@ -1067,6 +1087,12 @@ greek {
   color: var(--fg);
 }
 
+.category-link-desc {
+  margin: 0.45rem 0 0;
+  color: var(--fg-muted);
+  line-height: 1.55;
+}
+
 .card-subtitle {
   font-size: 0.9rem;
   color: var(--fg-muted);
@@ -1103,6 +1129,11 @@ greek {
   margin: 2rem 0 0;
   color: var(--fg-muted);
   text-align: center;
+}
+
+.category-empty {
+  margin: 1rem 0 0;
+  color: var(--fg-muted);
 }
 
 .story-category {

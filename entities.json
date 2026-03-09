@@ -8823,8 +8823,8 @@
         }
       ],
       "corpus_ids": [
-        141055,
-        69364
+        69364,
+        141055
       ],
       "bio": "Woman at the center of the poisoning accusation and mother of Dionysia.\n",
       "disambiguation": "",
@@ -8879,8 +8879,8 @@
         }
       ],
       "corpus_ids": [
-        141055,
-        69364
+        69364,
+        141055
       ],
       "bio": "Man who said he had been poisoned after visiting Hermione and later disputed property with Dionysia.\n",
       "disambiguation": "",
@@ -10513,8 +10513,8 @@
       "type": "place",
       "name": "Oxyrhynchos",
       "ancient_variants": [
-        "Oxyrhynchus",
-        "Oxyrhynchos"
+        "Oxyrhynchos",
+        "Oxyrhynchus"
       ],
       "modern_location": "el-Bahnasa, Egypt",
       "region": "Middle Egypt",
