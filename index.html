@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="light">
+<html lang="en" data-theme="dark">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,10 +10,6 @@
   <nav class="site-nav">
     <div class="site-nav-inner">
       <span class="nav-title">Ancient Writing</span>
-      <button class="theme-toggle" aria-label="Toggle dark mode">
-        <span class="theme-icon-light">&#9790;</span>
-        <span class="theme-icon-dark">&#9788;</span>
-      </button>
     </div>
   </nav>
 
@@ -22,8 +18,7 @@
       <div class="index-hero-copy">
         <p class="eyebrow">Ancient Writing</p>
         <h1>Real life in the Greek ancient world</h1>
-        <p class="index-desc">Stories built directly from ancient papyri.</p>
-        <p class="index-subdesc">Love affairs, temple budgets, labor disputes, gossip, illness, lawsuits, beauty routines, and family fights reconstructed from the documents ordinary people left behind.</p>
+        <p class="index-desc">Stories built from papyri: lawsuits, affairs, budgets, gossip, illness, trade, worship, and household life.</p>
         <div class="hero-stats" aria-label="Archive totals">
           <span class="hero-stat"><strong>27</strong> stories</span>
           <span class="hero-stat"><strong>873</strong> documents</span>
@@ -33,17 +28,11 @@
     </header>
 
     <section class="browse-panel">
-      <div class="browse-panel-head">
-        <div>
-          <p class="section-kicker">Browse</p>
-          <h2>Find a story fast</h2>
-        </div>
-        <label class="search-label" for="story-search">Search by title, person, place, tag, or theme</label>
-      </div>
+      <label class="search-label" for="story-search">Search by title, person, place, tag, or theme</label>
       <input id="story-search" class="story-search" type="search" placeholder="Search stories">
 
       <div class="filter-group">
-        <span class="filter-label">Browse by category</span>
+        <span class="filter-label">Categories</span>
         <div class="filter-pills">
           <button class="filter-pill is-active" type="button" data-category="all">All</button>
           
@@ -69,15 +58,13 @@
           
         </div>
       </div>
-
-      
     </section>
 
     
     <section class="index-section">
       <div class="section-heading">
-        <p class="section-kicker">Featured</p>
-        <h2>Good places to begin</h2>
+        <p class="section-kicker">Start Here</p>
+        <h2>Stories up front</h2>
       </div>
 
       <div class="spotlight-grid">
@@ -620,16 +607,8 @@
   </main>
 
   <script>
-    const toggle = document.querySelector('.theme-toggle');
     const html = document.documentElement;
-    const saved = localStorage.getItem('theme');
-    if (saved) html.setAttribute('data-theme', saved);
-
-    toggle?.addEventListener('click', () => {
-      const next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
-      html.setAttribute('data-theme', next);
-      localStorage.setItem('theme', next);
-    });
+    html.setAttribute('data-theme', 'dark');
 
     const cards = [...document.querySelectorAll('[data-story-card]')];
     const sections = [...document.querySelectorAll('[data-category-section]')];
