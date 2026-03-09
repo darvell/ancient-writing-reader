@@ -28,10 +28,10 @@
         }
       ],
       "corpus_ids": [
-        69364,
-        141383,
         43143,
-        43480
+        43480,
+        69364,
+        141383
       ],
       "bio": "One of the most fully documented women from Roman Egypt. Across at least sixty years (126--186 CE), she purchased and managed agricultural and urban property, survived a catastrophic Nile flood, and fought two major legal battles -- first against a man who challenged her vineyard purchase, then against her own father who tried to reclaim her property and invoke an ancient Egyptian law to remove her from her husband's house. Her petition P.Oxy. 2.237 is one of the longest and most legally sophisticated papyri ever discovered.",
       "disambiguation": "Not to be confused with Dionysia daughter of Theon (P.Oxy. 3.494, corpus ID 141058, 165 CE) or Aurelia Dionysias alias Chaeremonis (P.Oxy. 10.1278, corpus ID 43204, 214 CE).",
@@ -50,8 +50,8 @@
       "type": "person",
       "canonical_name": "Chaeremon",
       "name_variants": [
-        "Chaeremon son of Phanias",
-        "Chaeremon ex-gymnasiarch"
+        "Chaeremon ex-gymnasiarch",
+        "Chaeremon son of Phanias"
       ],
       "patronymic": "son of Phanias",
       "dates": "fl. c. 160--186 CE",
@@ -537,9 +537,9 @@
         }
       ],
       "corpus_ids": [
-        141383,
         43378,
-        46946
+        46946,
+        141383
       ],
       "bio": "Praefect of Egypt who issued the proclamation establishing the bibliotheke enkteseon (property registration system) in 89/90 CE. His decree required all property owners to register their holdings and wives to insert marriage contracts in husbands' property statements. This system was the foundation of Dionysia's legal victories.",
       "disambiguation": "",

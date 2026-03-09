@@ -199,6 +199,30 @@ body {
   color: var(--accent-hover);
 }
 
+/* ---------- Footnote Tooltip (Layer 0.5) ---------- */
+
+.note-tooltip {
+  position: absolute;
+  z-index: 300;
+  max-width: 380px;
+  background: var(--panel-bg);
+  border: 1px solid var(--panel-border);
+  border-radius: 6px;
+  padding: 0.65rem 0.9rem;
+  font-size: 0.83rem;
+  line-height: 1.55;
+  color: var(--fg-muted);
+  box-shadow: 0 4px 16px var(--shadow-strong);
+  pointer-events: auto;
+  animation: tooltip-fade 0.15s ease-out;
+}
+
+.note-tooltip-number {
+  font-weight: 700;
+  color: var(--accent);
+  margin-right: 0.2rem;
+}
+
 /* ---------- Inline Note Expansion (Layer 1) ---------- */
 
 .note-inline {

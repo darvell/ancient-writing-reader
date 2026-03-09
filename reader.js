@@ -105,6 +105,96 @@
     para.after(noteEl);
   });
 
+  // --- Layer 0.5: Footnote hover tooltips ---
+  var noteTooltipEl = null;
+  var noteTooltipTimeout = null;
+
+  function createNoteTooltip() {
+    if (noteTooltipEl) return noteTooltipEl;
+    noteTooltipEl = document.createElement("div");
+    noteTooltipEl.className = "note-tooltip";
+    noteTooltipEl.hidden = true;
+    document.body.appendChild(noteTooltipEl);
+
+    noteTooltipEl.addEventListener("mouseenter", function () {
+      clearTimeout(noteTooltipTimeout);
+    });
+    noteTooltipEl.addEventListener("mouseleave", function () {
+      noteTooltipTimeout = setTimeout(hideNoteTooltip, 150);
+    });
+
+    return noteTooltipEl;
+  }
+
+  function showNoteTooltip(noteRef) {
+    var noteId = noteRef.dataset.note;
+    if (!noteId) return;
+
+    var noteLi = document.querySelector("#note-" + noteId);
+    if (!noteLi) return;
+
+    var tip = createNoteTooltip();
+    var noteText = noteLi.querySelector(".note-text");
+    if (!noteText) return;
+
+    var text = noteText.textContent;
+    if (text.length > 300) text = text.slice(0, 297) + "\u2026";
+
+    tip.innerHTML =
+      '<span class="note-tooltip-number">' + noteId + ".</span> " + text;
+
+    // Position above the footnote ref
+    var rect = noteRef.getBoundingClientRect();
+    tip.hidden = false;
+    var tipRect = tip.getBoundingClientRect();
+    var top = rect.top - tipRect.height - 8 + window.scrollY;
+    var left = rect.left + (rect.width - tipRect.width) / 2 + window.scrollX;
+
+    // Keep within viewport
+    left = Math.max(8, Math.min(left, window.innerWidth - tipRect.width - 8));
+    if (top < window.scrollY + 8) {
+      top = rect.bottom + 8 + window.scrollY;
+    }
+
+    tip.style.top = top + "px";
+    tip.style.left = left + "px";
+  }
+
+  function hideNoteTooltip() {
+    if (noteTooltipEl) noteTooltipEl.hidden = true;
+  }
+
+  document.addEventListener(
+    "mouseenter",
+    function (e) {
+      var noteRef = e.target.closest(".note-ref");
+      if (!noteRef) return;
+      clearTimeout(noteTooltipTimeout);
+      noteTooltipTimeout = setTimeout(function () {
+        showNoteTooltip(noteRef);
+      }, 200);
+    },
+    true
+  );
+
+  document.addEventListener(
+    "mouseleave",
+    function (e) {
+      var noteRef = e.target.closest(".note-ref");
+      if (!noteRef) return;
+      clearTimeout(noteTooltipTimeout);
+      noteTooltipTimeout = setTimeout(hideNoteTooltip, 150);
+    },
+    true
+  );
+
+  // Hide note tooltip on click (since click expands inline)
+  document.addEventListener("click", function (e) {
+    if (e.target.closest(".note-ref")) {
+      hideNoteTooltip();
+    }
+  });
+
   // --- Layer 1.5: Entity hover tooltips ---
   var tooltipEl = null;
   var tooltipTimeout = null;
