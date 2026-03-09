@@ -1,0 +1,1064 @@
+{
+  "title": "The Commander's Desk",
+  "subtitle": "Flavius Abinnaeus, Praefectus Alae, Dionysias, 340--351 CE",
+  "sections": [
+    {
+      "id": "opening",
+      "title": "",
+      "body_html": "<p><em>Based on the 82 documents of the Abinnaeus Archive (P.Abinn.) and related papyri from the ancient-writing corpus. In the tradition of Carlo Ginzburg&rsquo;s The Cheese and the Worms: reconstructing one life from the paper trail it left behind.</em></p>\n<p>Sometime in the summer of 346, a woman walked into the fortress at Dionysias and dictated a complaint about sheep.</p>\n<p>Her name was Aurelia Maria. She was the daughter-in-law of a soldier named Akiar, who was stationed at Memphis under a different commander. She owned land in the village of Theoxenis. And on the second of Epeiph &ndash; early July, when the Egyptian summer pressed the breath out of the Fayum &ndash; criminals had come to her sheepfold by night, shorn nine of her animals, and carried off three more alive.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup></p>\n<p>She had not come to the police. The village police &ndash; the field-guards, the <em>agronomoi</em> &ndash; had already done their work. They had tracked the stolen fleeces to the field of Narmouthis and identified two men: Ioannes and Eleias.<sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup> What Aurelia Maria needed now was someone with the power to arrest them.</p>\n<p>That someone was Flavius Abinnaeus, <em>praefectus alae</em> of the cavalry unit stationed at the camp of Dionysias, a mudbrick fortress at the western edge of the Fayum where the irrigated land ended and the desert began. He was a cavalry commander. He was also, for all practical purposes, the sheriff.</p>\n<p><em>Axiō kai deomai sou tēs eunomias</em> &ndash; &ldquo;I ask and beseech your benevolence.&rdquo;<sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup> The formula was standard. Dozens of petitioners would use exactly these words. What varied was the crime: stolen sheep, stolen pigs, broken bones, tunneled walls, inheritance seized, children beaten with clubs. What never varied was the destination. Everything landed on the commander&rsquo;s desk.</p>"
+    },
+    {
+      "id": "the-road-to-the-fortress",
+      "title": "I. The Road to the Fortress",
+      "body_html": "<p>Flavius Abinnaeus arrived at Dionysias with thirty-three years of military service behind him and a letter from the emperor in his hand.</p>\n<p>He had enlisted around 303 CE as a <em>ducenarius</em> &ndash; a junior cavalry officer &ndash; in the <em>vexillatio Parthosagittariorum</em>, a unit of Parthian-style mounted archers stationed at Diospolis, the ancient city of Thebes, deep in Upper Egypt.<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup> He was probably Syrian by birth. The name Abinnaeus is Semitic, and the Parthian archer units drew heavily from the eastern provinces. He was likely a Christian from the start &ndash; his later correspondence is saturated with the language of the church &ndash; though in 303, when Diocletian&rsquo;s Great Persecution was reaching its height, that would have been a dangerous thing to be.<sup><a href=\"#note-5\" class=\"note-ref\" data-note=\"5\">5</a></sup></p>\n<p>For three decades he served in the south. We know almost nothing about those years. A soldier&rsquo;s life in the Egyptian garrisons was not the Roman legionary experience of popular imagination &ndash; no Hadrian&rsquo;s Wall, no Rhine frontier charges, no barbarian sieges. It was garrison duty in a landscape of temples and canals, punctuated by the occasional threat from the Blemmyes, a Nubian people who raided Egypt&rsquo;s southern border with enough regularity to keep the army busy but not enough to make anyone famous.<sup><a href=\"#note-6\" class=\"note-ref\" data-note=\"6\">6</a></sup></p>\n<p>Then, around 336, something changed. The <em>comes</em> Senecio &ndash; a high military official in the Egyptian command &ndash; selected Abinnaeus to escort a delegation of Blemmye ambassadors to Constantinople.<sup><a href=\"#note-7\" class=\"note-ref\" data-note=\"7\">7</a></sup> This was not a small assignment. The Blemmyes had been raiding the Thebaid for generations, and their ambassadors were traveling to the capital of the empire to negotiate with the emperor himself. Abinnaeus was the man trusted to get them there.</p>\n<p>He arrived in Constantinople in July 336, in time for Constantine&rsquo;s <em>tricennalia</em> &ndash; the thirtieth anniversary of the emperor&rsquo;s accession, a spectacular celebration of imperial power.<sup><a href=\"#note-8\" class=\"note-ref\" data-note=\"8\">8</a></sup> There, at the court, he was promoted to the rank of <em>protector</em> &ndash; a title that placed him in the emperor&rsquo;s personal military household, a stepping stone to higher command. The old cavalryman from Thebes had entered the inner circle.</p>\n<p>What followed was a period of service that the archive sketches in fragments. He escorted the Blemmye ambassadors home. He spent three years in the Eastern Desert &ndash; the harsh, mineral-rich wasteland between the Nile and the Red Sea, where quarries and caravan routes required military protection.<sup><a href=\"#note-9\" class=\"note-ref\" data-note=\"9\">9</a></sup> Then he was assigned to bring recruits from the Thebaid to the court of Constantius II at Hierapolis, probably for the planned campaign against Persia. And there, at Hierapolis, the emperor gave him his appointment: <em>praefectus</em> of the <em>Ala Quinta Praelectorum</em>, the Fifth Cavalry Wing of the Select, stationed at the fortress of Dionysias in the Arsinoite nome.<sup><a href=\"#note-10\" class=\"note-ref\" data-note=\"10\">10</a></sup></p>\n<p>An imperial letter of appointment. A cavalry command. A mudbrick fortress at the edge of the desert.</p>\n<p>He could not have known what he was walking into.</p>\n<hr />"
+    },
+    {
+      "id": "the-fortress",
+      "title": "II. The Fortress",
+      "body_html": "<p>Dionysias &ndash; modern Qasr Qarun &ndash; stood at the western tip of the Fayum, where the cultivated land gave way to sand and the caravan route to the Bahariya Oasis began. The fortress itself was Diocletianic: built in the late third century, a rectangle of roughly 90 by 80 meters, with square towers at the corners and semicircular towers along the walls.<sup><a href=\"#note-11\" class=\"note-ref\" data-note=\"11\">11</a></sup> It was mudbrick, like everything in the Fayum. The desert preserved it well enough that its outline can still be traced.</p>\n<p>The unit Abinnaeus commanded, the <em>Ala Quinta Praelectorum</em>, was a cavalry wing &ndash; in theory, five hundred horsemen, though late Roman units rarely maintained their paper strength.<sup><a href=\"#note-12\" class=\"note-ref\" data-note=\"12\">12</a></sup> The <em>Notitia Dignitatum</em>, the imperial register of offices and units compiled a generation later, lists the unit at Dionysias under the command of the <em>dux Aegypti</em>, the military duke of Egypt.<sup><a href=\"#note-13\" class=\"note-ref\" data-note=\"13\">13</a></sup> Abinnaeus reported to the <em>dux</em>. The <em>dux</em> reported to the emperor. Between the emperor and the shepherds of Theoxenis, the chain of command was shorter than you might think.</p>\n<p>The fortress sat at a crossroads. To the east lay the canal-laced farmland of the Fayum, the villages of Hermopolis and Philadelphia and Philagris and Narmouthis, each with its own rhythms of grain and tax and complaint. To the west lay the desert and the oasis route. To the south, Lake Qarun &ndash; what remained of the ancient Lake Moeris &ndash; spread its shrinking waters across the basin floor. Dionysias controlled the passage between the settled world and the empty one.</p>\n<p>But Abinnaeus&rsquo;s duties had almost nothing to do with the desert.</p>\n<hr />"
+    },
+    {
+      "id": "the-duties-of-a-praefectus",
+      "title": "III. The Duties of a Praefectus",
+      "body_html": "<p>The Roman military manual prescribed the commander&rsquo;s routine: keep the troops in camp, maintain discipline, bring the soldiers out for training, keep the keys of the gates, go round the guards, attend the soldiers&rsquo; mealtimes and sample the food, inspect the sick quarters, punish offences, hear complaints.<sup><a href=\"#note-14\" class=\"note-ref\" data-note=\"14\">14</a></sup> This was the official version. The archive tells a different story.</p>\n<p>Day after day, year after year, what came across Abinnaeus&rsquo;s desk was not military intelligence or tactical planning. It was petitions. Complaints from villagers about theft. Reports from subordinates about missing soldiers. Letters from friends asking favors. Demands from superiors asking for tax enforcement. Requests from monks asking to borrow hunting nets.</p>\n<p>The petitions alone would have consumed a man. They followed a rigid formula, as standardized as a modern police report, and they arrived in a steady stream.<sup><a href=\"#note-15\" class=\"note-ref\" data-note=\"15\">15</a></sup> The address was always the same: <em>Phlaouiō Abinnaiō eparchō eilēs stratiōtōn kastrōn Dionysiadis</em> &ndash; &ldquo;To Flavius Abinnaeus, prefect of the cavalry of the soldiers of the camp of Dionysias.&rdquo;<sup><a href=\"#note-16\" class=\"note-ref\" data-note=\"16\">16</a></sup> The petitioner identified himself: name, father&rsquo;s name, village, and &ndash; crucially &ndash; status. Veteran. Soldier&rsquo;s wife. Soldier&rsquo;s daughter-in-law. Deacon. Landowner. The narrative followed: what happened, when, who did it, how the petitioner found out. Then the request: arrest the suspects, compel them to confess, and forward the case to the <em>dux</em>. Always the <em>dux</em>. Because Abinnaeus could arrest, but he could not judge. He was the first link in a chain that led upward to a man in Alexandria or wherever the duke happened to be.</p>\n<p>The formula never varied. But the crimes did.</p>\n<hr />"
+    },
+    {
+      "id": "the-sheep-shearing-summer",
+      "title": "IV. The Sheep-Shearing Summer",
+      "body_html": "<p>The summer of 346 was bad for sheep.</p>\n<p>On the fifth of Epeiph &ndash; June 29 &ndash; Aurelius Aboul, son of Dionysius, from the village of Hermopolis, filed the first petition. His eleven sheep had been shorn in the night. Not stolen. Shorn. The criminals had crept into his fold, cut the wool from eleven animals in the dark, and vanished.<sup><a href=\"#note-17\" class=\"note-ref\" data-note=\"17\">17</a></sup></p>\n<p>Aboul had investigated on his own and learned the identity of the ringleader: Paul. A soldier. One of Abinnaeus&rsquo;s own men.<sup><a href=\"#note-18\" class=\"note-ref\" data-note=\"18\">18</a></sup></p>\n<p>The accomplices were worse. Peter, son of Sarapion, and his brother Melas &ndash; also a soldier &ndash; and Apion, son of Horion. Apion was the village <em>irenarch</em>, the peace officer, the man whose job it was to prevent exactly this kind of crime.<sup><a href=\"#note-19\" class=\"note-ref\" data-note=\"19\">19</a></sup> The cop was in the gang.</p>\n<p>Aboul added a postscript: &ldquo;On another occasion the same persons drove off pigs of mine to the number of six.&rdquo;<sup><a href=\"#note-20\" class=\"note-ref\" data-note=\"20\">20</a></sup> The same gang. The same pattern. Not a one-time crime but a pattern of organized theft, involving soldiers and the village police, operating with apparent impunity in the territory Abinnaeus was supposed to control.</p>\n<p>Six days later, on the eleventh of Epeiph, Aurelia Maria arrived with her petition about the nine shorn sheep and three carried off alive from Theoxenis.<sup><a href=\"#note-21\" class=\"note-ref\" data-note=\"21\">21</a></sup> Different village. Different criminals &ndash; Ioannes and Eleias, identified by the field-guards. But the same crime, the same season, the same appeal to the same commander.</p>\n<p>Later that year, sometime around the turn of December and January, another petitioner &ndash; his name is damaged, the son of Heron, from the village of Hermopolis &ndash; reported that ten pigs had been driven off &ldquo;a considerable time ago.&rdquo;<sup><a href=\"#note-22\" class=\"note-ref\" data-note=\"22\">22</a></sup> He had tracked down one of the suspects himself, a man named Zoilos son of Diogenes, by searching village to village until he found him.<sup><a href=\"#note-23\" class=\"note-ref\" data-note=\"23\">23</a></sup></p>\n<p>And at some point around the same period, Aurelius Ouranios &ndash; himself a <em>praepositus</em>, a military officer, a man who outranked most of the soldiers in the camp &ndash; reported that while he was walking around his field in Theoxenis, three brothers led by Petros son of Agaon had driven off his sheep, seized his fodder, and when he confronted them, beaten him nearly to death with clubs.<sup><a href=\"#note-24\" class=\"note-ref\" data-note=\"24\">24</a></sup></p>\n<p>A military officer. Beaten with clubs. On his own land.</p>\n<p>The archive does not record Abinnaeus&rsquo;s response to any of these petitions. We do not know whether he sent soldiers, whether arrests were made, whether the cases reached the <em>dux</em>. What we know is that the petitions survived in his files. He kept them. Perhaps that is all he could do.</p>\n<hr />"
+    },
+    {
+      "id": "the-night-brigands",
+      "title": "V. The Night Brigands",
+      "body_html": "<p>The phrase appears again and again: <em>lēstrikō tropō</em> &ndash; &ldquo;in the manner of brigands.&rdquo;<sup><a href=\"#note-25\" class=\"note-ref\" data-note=\"25\">25</a></sup> It was a legal term, a formula that elevated a theft or assault from a civil dispute to a criminal matter worthy of the <em>dux</em>&rsquo;s attention. But it also described a reality. The crimes in Abinnaeus&rsquo;s archive happened at night. They happened by stealth. They happened to people in their homes.</p>\n<p>On the twenty-fifth of Pauni, 343, Flavius Priscus &ndash; an honorably discharged veteran &ndash; and Alia, wife of the soldier Heron, were robbed. Priscus was away from home. Criminals came at night, tunneled into his house, and took everything that belonged to him and to Alia.<sup><a href=\"#note-26\" class=\"note-ref\" data-note=\"26\">26</a></sup> The Greek is precise: they <em>dioruxantes</em> &ndash; dug through &ndash; the wall. Mudbrick houses could be breached with a shovel and an hour&rsquo;s work. Priscus asked Abinnaeus to arrest the village <em>dēmosioi</em> &ndash; the public servants, the local officials responsible for security &ndash; and compel them to hand over the perpetrators.<sup><a href=\"#note-27\" class=\"note-ref\" data-note=\"27\">27</a></sup> When the police cannot protect you, you arrest the police.</p>\n<p>On the first of May 346, Flavius Aunes &ndash; another honorably discharged veteran, another landowner in Hermopolis &ndash; reported the same crime: house broken into at night, <em>lēstrikō tropō</em>, everything stolen.<sup><a href=\"#note-28\" class=\"note-ref\" data-note=\"28\">28</a></sup> The same solution: arrest the <em>irenarch</em> and the village police, compel them to identify the criminals.</p>\n<p>On the twenty-sixth of August 346, Aurelia Ataris &ndash; daughter of the veteran Melas, a landowner in Hermopolis &ndash; told a worse story. She had gone to collect a debt. Poleion, together with Apion the son of the <em>irenarch</em> Horion and Poleion&rsquo;s sister Kyriake, had locked her in a house and beaten her so severely that she &ldquo;threw herself down from above&rdquo; to escape.<sup><a href=\"#note-29\" class=\"note-ref\" data-note=\"29\">29</a></sup> She now &ldquo;lies near death&rdquo; &ndash; <em>parameneō klinērei</em>.<sup><a href=\"#note-30\" class=\"note-ref\" data-note=\"30\">30</a></sup> The son of the peace officer, again. The same family, perhaps, as the Apion son of Horion who had helped shear Aurelius Aboul&rsquo;s sheep.</p>\n<p>And on the thirtieth of July 346, Aurelius Anteus from Narmouthis addressed a more general complaint to Abinnaeus. He wrote about <em>tas epi tōn topōn ginomenas harpagas kai pleonexias hypo tōn dynatōterōn anthrōpōn</em> &ndash; &ldquo;the seizures and greedy acts happening in our area by the more powerful men.&rdquo;<sup><a href=\"#note-31\" class=\"note-ref\" data-note=\"31\">31</a></sup> Not a specific crime. A condition. The strong preying on the weak, and the commander of the local garrison as the only authority anyone could turn to.</p>\n<hr />"
+    },
+    {
+      "id": "the-commander-under-pressure",
+      "title": "VI. The Commander Under Pressure",
+      "body_html": "<p>Abinnaeus was not invulnerable. The archive contains a letter that makes this clear.</p>\n<p>Chairemon &ndash; perhaps a member of the city council of Arsinoe, perhaps a local notable &ndash; wrote to Abinnaeus in language that would have made any modern official reach for a lawyer: &ldquo;You are not doing well acting in this way, but you risk being arrested as a criminal.&rdquo;<sup><a href=\"#note-32\" class=\"note-ref\" data-note=\"32\">32</a></sup></p>\n<p>The charge was specific. Abinnaeus had withdrawn soldiers from the village of Theoxenis. In their absence, a house had been robbed and animals driven off. Chairemon warned him: if you do not send the soldiers back, the city council will report you to the <em>dux</em>.<sup><a href=\"#note-33\" class=\"note-ref\" data-note=\"33\">33</a></sup></p>\n<p>A cavalry commander, threatened with arrest. Not by the barbarians, not by the enemy, but by the civilian authorities whose villages he was supposed to protect. The letter reveals the tension at the heart of Abinnaeus&rsquo;s position. He commanded soldiers, but he served civilians. He had military authority, but he was answerable to a civilian chain that ran from the village councils through the <em>dux</em> to the emperor. When he pulled his men out of a village &ndash; for training, for another assignment, for any reason &ndash; the village was exposed, and the villagers knew exactly whom to blame.</p>\n<p>We do not know why Abinnaeus had withdrawn the soldiers. Perhaps he was short-staffed. The archive suggests he was. One report describes a subordinate spending three days in the village of Karanis trying to extract a single recruit, only to have the entire village refuse to let anyone leave. They detained the <em>irenarch</em>. They offered two <em>nomismata</em> &ndash; gold coins &ndash; and fifty talents of silver as a bribe or a bargain, anything to keep their men.<sup><a href=\"#note-34\" class=\"note-ref\" data-note=\"34\">34</a></sup> Recruiting was a war of attrition fought village by village, and the villages were winning.</p>\n<p>Another report catalogs the problem of absenteeism. Didymus could not come because he was in financial difficulty, having borrowed three gold coins from soldiers. Gerontios was found at the village of his wife. Theodoros was found detained somewhere.<sup><a href=\"#note-35\" class=\"note-ref\" data-note=\"35\">35</a></sup> The soldiers of the <em>Ala Quinta Praelectorum</em> were not, it seems, spending their time in the fortress. They were scattered across the Fayum, entangled in debts and marriages and local disputes, as rooted in village life as the civilians they were supposed to control.</p>\n<hr />"
+    },
+    {
+      "id": "the-christians-and-the-commander",
+      "title": "VII. The Christians and the Commander",
+      "body_html": "<p>Abinnaeus moved in a world where Christianity was no longer persecuted but not yet settled. Constantine had legalized the faith in 313. His son Constantius II, who reigned during Abinnaeus&rsquo;s command at Dionysias, was an Arian &ndash; a follower of the theological position that Christ was subordinate to God the Father, not co-equal with him. The bishops of Egypt, led by Athanasius of Alexandria, were overwhelmingly Nicene &ndash; believers in the full divinity of Christ. The conflict between these positions was not abstract. It determined who held church offices, who controlled church property, and who was exiled or restored by imperial order.<sup><a href=\"#note-36\" class=\"note-ref\" data-note=\"36\">36</a></sup></p>\n<p>Abinnaeus was almost certainly a Nicene Christian. His correspondents addressed him in the language of the church. The monk Apa Mios called him &ldquo;beloved brother&rdquo; and wrote &ldquo;in the Lord God&rdquo; with prayers for divine protection.<sup><a href=\"#note-37\" class=\"note-ref\" data-note=\"37\">37</a></sup> A priest named Kaor, the &ldquo;papas&rdquo; of Hermopolis, addressed him as &ldquo;my lord brother Abinnaeus&rdquo; and sent greetings to the children.<sup><a href=\"#note-38\" class=\"note-ref\" data-note=\"38\">38</a></sup> An anonymous correspondent quoted scripture &ndash; &ldquo;whoever gives a cup of water to one of these little ones shall not lose his reward&rdquo; &ndash; and asked Abinnaeus to protect a widow&rsquo;s son who had been enlisted for military service.<sup><a href=\"#note-39\" class=\"note-ref\" data-note=\"39\">39</a></sup></p>\n<p>In 344, the <em>comes</em> Valacius dismissed Abinnaeus from his command.<sup><a href=\"#note-40\" class=\"note-ref\" data-note=\"40\">40</a></sup> The archive does not give the reason explicitly. But Valacius was known as a supporter of the Arian party and a persecutor of Athanasius&rsquo;s followers. The timing is suggestive. Perhaps Abinnaeus was dismissed for his religious loyalties. Perhaps it was a matter of administrative convenience. We do not know. What we know is that he appealed.</p>\n<p>He traveled to the imperial court. On the way, the prytanis of Arsinoe &ndash; Aurelius Eulogius son of Andrew, the president of the city senate &ndash; gave him a power of attorney, commissioning Abinnaeus to obtain an official appointment as <em>exactor</em> (tax collector) while he was at court.<sup><a href=\"#note-41\" class=\"note-ref\" data-note=\"41\">41</a></sup> The document is dated to the first of February, 345. Even in disgrace, even dismissed from his command, Abinnaeus was the kind of man the city elite trusted with their business at court. A man with connections. A man who knew how to navigate the imperial bureaucracy.</p>\n<p>By the first of May 346, he was back.<sup><a href=\"#note-42\" class=\"note-ref\" data-note=\"42\">42</a></sup> The petitions resumed. The sheep were shorn. The pigs were stolen. The commander was at his desk.</p>\n<hr />"
+    },
+    {
+      "id": "the-letters",
+      "title": "VIII. The Letters",
+      "body_html": "<p>Not everything on the desk was a complaint. Some of it was the texture of ordinary life &ndash; the favors and requests and greetings that connected a garrison commander to the world beyond his walls.</p>\n<p>Apa Mios, the monk, wrote at least three letters to Abinnaeus. In one, he asked to borrow hunting nets &ndash; <em>signa lina</em> &ndash; because gazelles were destroying his crops, and he sent a pig skin as a gift.<sup><a href=\"#note-43\" class=\"note-ref\" data-note=\"43\">43</a></sup> In another, he wrote about sending wine jars carried by two or three camels. He asked Abinnaeus to pay the camel-drivers immediately because it was a feast day and they needed to return quickly. He also mentioned sending dough for bread.<sup><a href=\"#note-44\" class=\"note-ref\" data-note=\"44\">44</a></sup> The monk was not a hermit in a cave. He was a farmer and trader, connected to military patronage, exchanging goods across the Fayum by camel caravan.</p>\n<p>Aetis &ndash; possibly Abinnaeus&rsquo;s property manager &ndash; wrote about accounts that no one had paid, about hay that could not be found (Peeieou and Eulogeios said they had none but could substitute wheat), about a vineyard that had been planted on land the villagers claimed was communal, and about sacks needed for loading grain.<sup><a href=\"#note-45\" class=\"note-ref\" data-note=\"45\">45</a></sup> The letter is a snapshot of the small, grinding logistics of a landowner&rsquo;s life in the Fayum: collect the debts, find the hay, resolve the boundary dispute, load the grain.</p>\n<p>Klematios wrote asking Abinnaeus to grant a soldier named Ision leave to attend to Klematios&rsquo;s business affairs. The justification was a chain of family connections: Ision was the father-in-law of Timothy the veteran, who was the brother of Paul the <em>cornicularius</em> &ndash; the staff officer &ndash; of the camp.<sup><a href=\"#note-46\" class=\"note-ref\" data-note=\"46\">46</a></sup> Everyone was connected to everyone. Every favor request came with a genealogy.</p>\n<p>And then there was the letter from the mother of Moses.</p>\n<p>She did not give her own name. She was &ldquo;the mother of Moses,&rdquo; and she addressed Abinnaeus as &ldquo;my master and patron, <em>praepositus</em> of the camp of Dionysias.&rdquo;<sup><a href=\"#note-47\" class=\"note-ref\" data-note=\"47\">47</a></sup> She reported that Heron had been sent away with the &ldquo;barbarians&rdquo; &ndash; frontier service, perhaps, or escort duty with foreign troops. She asked for a few days&rsquo; leave for her servant Athioein. And then this sentence, which has survived seventeen centuries in the sand:</p>\n<p><em>Hai gar pente hēmerai holos eniautous eisin</em> &ndash; &ldquo;For the five days are a whole year.&rdquo;<sup><a href=\"#note-48\" class=\"note-ref\" data-note=\"48\">48</a></sup></p>\n<p>Five days felt like a year. A small, precise measure of loneliness, dictated by a woman whose name we do not know, addressed to a military commander who may or may not have granted the request. The papyrus does not tell us. It tells us only that she asked, and that she ended with the formula that recurs through the archive like a prayer: &ldquo;After God, we have no helper but you.&rdquo;<sup><a href=\"#note-49\" class=\"note-ref\" data-note=\"49\">49</a></sup></p>\n<hr />"
+    },
+    {
+      "id": "the-foster-child-and-the-deacon",
+      "title": "IX. The Foster-Child and the Deacon",
+      "body_html": "<p>Two letters from the margins of Abinnaeus&rsquo;s household illuminate the patron-client relationships that structured late Roman society as thoroughly as any law.</p>\n<p>Palas addressed Abinnaeus as &ldquo;master of my soul and my ruler, my <em>praepositus</em>.&rdquo;<sup><a href=\"#note-50\" class=\"note-ref\" data-note=\"50\">50</a></sup> He was Abinnaeus&rsquo;s <em>threptos</em> &ndash; his foster-child, a dependent raised in the commander&rsquo;s household, bound by ties of obligation and affection that were not quite family and not quite servitude. Palas asked for a few sheep for his wife, &ldquo;so she too may have a little income.&rdquo; He closed with a pledge: &ldquo;I am your slave and will not leave you.&rdquo;<sup><a href=\"#note-51\" class=\"note-ref\" data-note=\"51\">51</a></sup> The word &ldquo;slave&rdquo; &ndash; <em>doulos</em> &ndash; was not literal. It was the language of dependence, the vocabulary of a man who owed everything to his patron and knew it.</p>\n<p>At the other end of the social spectrum, the last dated document in the entire archive &ndash; the eleventh of February, 351 &ndash; comes from Aurelius Heron, a deacon of the catholic church in the village of Berenikis.<sup><a href=\"#note-52\" class=\"note-ref\" data-note=\"52\">52</a></sup> A man named Euporos, son of Hermias, from Philagris, had broken into his house <em>lēstrikō tropō</em> and seized all his clothing.<sup><a href=\"#note-53\" class=\"note-ref\" data-note=\"53\">53</a></sup> The deacon could produce evidence. He wanted Abinnaeus to arrest the thief and send the case to the <em>dux</em>.</p>\n<p>The formula is identical to every other petition in the archive. The crime is identical. The language is identical. But the petitioner identified himself as <em>diakonos tēs katholikēs ekklēsias</em> &ndash; &ldquo;deacon of the catholic church.&rdquo;<sup><a href=\"#note-54\" class=\"note-ref\" data-note=\"54\">54</a></sup> In the year 351, in a village in the Fayum, a Christian clergyman was robbed of his clothes and turned to a cavalry commander for justice, using exactly the same procedure that any shepherd or veteran would use. The church had not replaced the state. It had simply added another category of petitioner to the queue.</p>\n<hr />"
+    },
+    {
+      "id": "the-economy-of-the-desk",
+      "title": "X. The Economy of the Desk",
+      "body_html": "<p>Buried among the petitions and letters are the administrative lists &ndash; the grain accounts, the tax assessments, the military rosters &ndash; that reveal the economic infrastructure of Abinnaeus&rsquo;s command.</p>\n<p>A grain account from the village of Andromachis lists names and amounts in artabas: Euporos, Kyrillos, Helles, Agathos, Sarmates, Melas, and dozens of others, each owing a specific quantity of wheat or barley.<sup><a href=\"#note-55\" class=\"note-ref\" data-note=\"55\">55</a></sup> A barley collection account records the <em>eispraksis krithēs</em> &ndash; &ldquo;collection of barley&rdquo; &ndash; assessed on villagers by name and amount in talents.<sup><a href=\"#note-56\" class=\"note-ref\" data-note=\"56\">56</a></sup> A boat-tax assessment lists the <em>naubia</em> &ndash; levies for river transport &ndash; by individual and amount.<sup><a href=\"#note-57\" class=\"note-ref\" data-note=\"57\">57</a></sup></p>\n<p>A wine account is more revealing. It lists distributions of <em>spathia</em> and <em>keramia</em> &ndash; wine measures and jars &ndash; to soldiers, veterans, and officials. It names Kampol, Kannas, Hatres, Polion the decurion, and &ldquo;the praepositus himself&rdquo; &ndash; Abinnaeus.<sup><a href=\"#note-58\" class=\"note-ref\" data-note=\"58\">58</a></sup> The commander received his allocation alongside his men. The account also records a pig and fleeces, mentions Libyans, a recruit named Melas, and a veteran named Paul son of Kapiton. Wine, wool, and pork: the currency of garrison life.</p>\n<p>A military roster lists soldiers by name and rank: the decurions Moses and Paesis, and rank-and-file men with Egyptian, Greek, and Roman names &ndash; Petronios, Neilammon, Hatres &ndash; alongside their grain allocations.<sup><a href=\"#note-59\" class=\"note-ref\" data-note=\"59\">59</a></sup> The roster is thin. The <em>ala</em> was supposed to be five hundred strong. The lists suggest something considerably smaller.</p>\n<p>And there is one commercial transaction that survives: Flavius Elias, a soldier of the camp of Dionysias, sold cattle to Flavius Abinnaeus.<sup><a href=\"#note-60\" class=\"note-ref\" data-note=\"60\">60</a></sup> The commander was buying livestock from his own soldiers. The line between military authority and private commerce was, at best, blurry.</p>\n<hr />"
+    },
+    {
+      "id": "the-dismissal-the-appeal-the-return",
+      "title": "XI. The Dismissal, the Appeal, the Return",
+      "body_html": "<p>The interruption of Abinnaeus&rsquo;s command in 344 is the most dramatic episode in the archive, but the archive itself treats it obliquely. We have no document recording the dismissal. We have no copy of the appeal. What we have are the documents from the edges: the power of attorney from the prytanis, dated to the period of exile, which tells us Abinnaeus was traveling to the imperial court; and the resumption of petitions in 346, which tells us he came back.<sup><a href=\"#note-61\" class=\"note-ref\" data-note=\"61\">61</a></sup></p>\n<p>The comes Valacius, who dismissed him, was a figure of some notoriety in the ecclesiastical sources. Athanasius of Alexandria, in his polemical writings, names Valacius as a persecutor of Christians &ndash; specifically, of those who supported the Nicene creed against the Arian position favored by Constantius II.<sup><a href=\"#note-62\" class=\"note-ref\" data-note=\"62\">62</a></sup> If Abinnaeus was a Nicene sympathizer &ndash; and his correspondence with monks and priests suggests he was &ndash; then his dismissal fits a pattern of religious purges in the Egyptian military command during the 340s.</p>\n<p>But we should be careful. The archive does not say this. The archive preserves facts and silences, and the silences are not evidence. Perhaps Abinnaeus was dismissed for incompetence. Perhaps for corruption. Perhaps for a personal grievance we cannot recover. The religious explanation is plausible. It is not proven.</p>\n<p>What is clear is that Abinnaeus had the resources and the connections to appeal directly to the emperor, and that the appeal succeeded. By 346 he was back at his desk, receiving petitions, and he would remain there until at least February 351 &ndash; the date of Aurelius Heron&rsquo;s petition, the last document in the archive that can be securely dated.<sup><a href=\"#note-63\" class=\"note-ref\" data-note=\"63\">63</a></sup></p>\n<p>After that, silence. He retired, probably to Philadelphia, the town where the archive was eventually found.<sup><a href=\"#note-64\" class=\"note-ref\" data-note=\"64\">64</a></sup> Whether he died there, and when, and whether anyone petitioned on his behalf in his old age, we do not know.</p>\n<hr />"
+    },
+    {
+      "id": "what-survived",
+      "title": "XII. What Survived",
+      "body_html": "<p>The Abinnaeus archive was purchased in 1893 &ndash; split between the British Museum and the University of Geneva &ndash; and published in 1962 by H.I. Bell, V. Martin, E.G. Turner, and D. van Berchem as <em>The Abinnaeus Archive: Papers of a Roman Officer in the Reign of Constantius II</em>.<sup><a href=\"#note-65\" class=\"note-ref\" data-note=\"65\">65</a></sup> Eighty-two documents. A decade of one man&rsquo;s professional and personal life, preserved because the Fayum is dry and papyrus does not rot in sand.</p>\n<p>What does the archive tell us? Not what we might expect from a military commander&rsquo;s papers. There are no battle reports. No tactical assessments. No dispatches about barbarian movements. There is one reference to the Blemmyes &ndash; in the career summary at the beginning of Abinnaeus&rsquo;s service, decades before Dionysias.<sup><a href=\"#note-66\" class=\"note-ref\" data-note=\"66\">66</a></sup> The frontier fortress at the edge of the desert produced no frontier warfare. What it produced was paperwork about stolen pigs.</p>\n<p>This is not a failure of the archive. It is the archive&rsquo;s revelation. The Roman army in fourth-century Egypt was not primarily a fighting force. It was a police force, a tax-collection agency, a dispute-resolution mechanism, and a patronage network. The commander&rsquo;s desk was piled not with intelligence reports but with petitions from women whose sheep had been shorn, from veterans whose houses had been tunneled into, from deacons whose clothes had been stolen, from monks who needed hunting nets, from foster-children who wanted sheep for their wives.</p>\n<p>The Abinnaeus archive captures what empires actually look like from the inside: not glory, not conquest, not strategy, but the daily, grinding, unglamorous work of keeping order in a landscape where everyone knows everyone, where the irenarch is in the gang, where the soldiers are absent from camp, where the villages resist the recruiters, where the church and the state and the family and the market are all tangled together in a web of obligation and complaint.</p>\n<p><em>Meta ton theon, allon ouk echomen boēthon ei mē se.</em> After God, we have no helper but you.<sup><a href=\"#note-67\" class=\"note-ref\" data-note=\"67\">67</a></sup></p>\n<p>That was the sentence the mother of Moses wrote to the commander of a mudbrick fortress at the end of the irrigated world. It was, perhaps, the truest description of his job that anyone ever composed.</p>\n<hr />"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "section": "opening",
+      "text": "P.Abinn. 49 (corpus ID 25037), dated 5 July 346 (Epeiph 11). Aurelia Maria, daughter-in-law of Akiar, a soldier stationed in Memphis under the command of Kollouthos, praepositus, petitions Abinnaeus about sheep theft at Theoxenis. Full Greek text and translation in Bell, Martin, Turner, and van Berchem, *The Abinnaeus Archive* (Oxford, 1962), no. 49.",
+      "corpus_ids": [
+        25037
+      ]
+    },
+    {
+      "id": 2,
+      "section": "opening",
+      "text": "P.Abinn. 49 (corpus ID 25037): \"the field-guards of the village of Theoxenis, investigating the shearing and driving-off of the sheep, found in the field of Narmouthis Ioannes and Eleias, as those who had committed the shearing and driving-off.\"",
+      "corpus_ids": [
+        25037
+      ]
+    },
+    {
+      "id": 3,
+      "section": "opening",
+      "text": "P.Abinn. 49 (corpus ID 25037). The formula *axiō kai deomai sou tēs eunomias/philanthropias* recurs throughout the petitions; see also P.Abinn. 48 (corpus ID 18372), P.Abinn. 53 (corpus ID 137220), P.Abinn. 57 (corpus ID 25038).",
+      "corpus_ids": [
+        25037,
+        18372,
+        137220,
+        25038
+      ]
+    },
+    {
+      "id": 4,
+      "section": "the-road-to-the-fortress",
+      "text": "The career details are preserved in P.Abinn. 1, the imperial letter of appointment, and summarized by van Berchem in *The Abinnaeus Archive*, introduction, pp. 1--15. On the *vexillatio Parthosagittariorum*, see also the discussion in the Louisville thesis on the Roman army in fourth-century Egypt (ir.library.louisville.edu).",
+      "corpus_ids": []
+    },
+    {
+      "id": 5,
+      "section": "the-road-to-the-fortress",
+      "text": "Abinnaeus's probable Christian faith is inferred from his correspondents' language and from the circumstantial evidence of his dismissal by Valacius: see Bell et al., *The Abinnaeus Archive*, pp. 6--8. The Great Persecution under Diocletian, beginning February 303, was particularly severe in Egypt.",
+      "corpus_ids": []
+    },
+    {
+      "id": 6,
+      "section": "the-road-to-the-fortress",
+      "text": "On the Blemmyes and their raids on the Thebaid, see R. Bagnall, *Egypt in Late Antiquity* (Princeton, 1993), pp. 339--342. The *vexillatio Parthosagittariorum* at Diospolis is attested in the *Notitia Dignitatum*, Or. XXXI.",
+      "corpus_ids": []
+    },
+    {
+      "id": 7,
+      "section": "the-road-to-the-fortress",
+      "text": "P.Abinn. 1, lines 2--4. The *comes* Senecio is otherwise unattested; his role and title suggest a high military command in Upper Egypt. See van Berchem, *The Abinnaeus Archive*, p. 3.",
+      "corpus_ids": []
+    },
+    {
+      "id": 8,
+      "section": "the-road-to-the-fortress",
+      "text": "P.Abinn. 1. The *tricennalia* of Constantine was celebrated in July 336 at Constantinople. On the event and its significance, see T.D. Barnes, *Constantine and Eusebius* (Cambridge, MA, 1981), pp. 252--255.",
+      "corpus_ids": []
+    },
+    {
+      "id": 9,
+      "section": "the-road-to-the-fortress",
+      "text": "P.Abinn. 1, lines 5--7. The three years in the Eastern Desert are mentioned in the career narrative. On the military presence in the Eastern Desert, see S.E. Sidebotham, *Berenike and the Ancient Maritime Spice Route* (Berkeley, 2011).",
+      "corpus_ids": []
+    },
+    {
+      "id": 10,
+      "section": "the-road-to-the-fortress",
+      "text": "P.Abinn. 1. The appointment letter is addressed by Constantius II from Hierapolis. The *Ala Quinta Praelectorum* is listed in the *Notitia Dignitatum*, Or. XXVIII, under the *dux Aegypti*.",
+      "corpus_ids": []
+    },
+    {
+      "id": 11,
+      "section": "the-fortress",
+      "text": "On the fortress at Dionysias (Qasr Qarun), see the Trismegistos Fayum Project (https://www.trismegistos.org/fayum/fayum2/565.php) and the 3D reconstruction study by M. Stoyanova, \"Imaging of the Late Roman Castrum: 3D Reconstruction of the Late Roman Fortress at Dionysias in Egypt\" (Academia.edu).",
+      "corpus_ids": []
+    },
+    {
+      "id": 12,
+      "section": "the-fortress",
+      "text": "Late Roman cavalry *alae* were typically reduced to 300--400 effective troops; see A.H.M. Jones, *The Later Roman Empire* (Oxford, 1964), vol. 2, pp. 680--683. The paper strength of a *quingenaria* was 500.",
+      "corpus_ids": []
+    },
+    {
+      "id": 13,
+      "section": "the-fortress",
+      "text": "*Notitia Dignitatum*, Or. XXVIII.19, listing the *praefectus alae quintae praelectorum* at Dionysias. On the date and compilation of the *Notitia*, see R. Ireland, *De Rebus Bellicis / Notitia Dignitatum* (BAR International Series, 1984).",
+      "corpus_ids": []
+    },
+    {
+      "id": 14,
+      "section": "the-duties-of-a-praefectus",
+      "text": "Vegetius, *Epitoma Rei Militaris* II.7--9, on the duties of the *praefectus*. While Vegetius describes earlier practices, Bell et al. note the continuity of these duties into the fourth century: *The Abinnaeus Archive*, pp. 11--12.",
+      "corpus_ids": []
+    },
+    {
+      "id": 15,
+      "section": "the-duties-of-a-praefectus",
+      "text": "On the formulaic structure of petitions in late Roman Egypt, see A. Bryen, \"Visibility and Violence in Petitions from Roman Egypt,\" *Greek, Roman, and Byzantine Studies* 48 (2008), pp. 181--200 (grbs.library.duke.edu).",
+      "corpus_ids": []
+    },
+    {
+      "id": 16,
+      "section": "the-duties-of-a-praefectus",
+      "text": "P.Abinn. 49 (corpus ID 25037), opening address. The same formula, with minor variants (*eparchō* / *praipositō*), appears in P.Abinn. 45 (corpus ID 23879), 46 (corpus ID 23831), 47 (corpus ID 18371), 48 (corpus ID 18372), 50 (corpus ID 21130), 51 (corpus ID 18373), 53 (corpus ID 137220), 55 (corpus ID 16522), 56 (corpus ID 18376), and 57 (corpus ID 25038).",
+      "corpus_ids": [
+        25037,
+        23879,
+        23831,
+        18371,
+        18372,
+        21130,
+        18373,
+        137220,
+        16522,
+        18376,
+        25038
+      ]
+    },
+    {
+      "id": 17,
+      "section": "the-sheep-shearing-summer",
+      "text": "P.Abinn. 48 (corpus ID 18372), dated 29 June 346 (Epeiph 5). Aurelius Aboul son of Dionysius, from Hermopolis. \"My sheep were shorn in the night, eleven in number, by certain criminals.\"",
+      "corpus_ids": [
+        18372
+      ]
+    },
+    {
+      "id": 18,
+      "section": "the-sheep-shearing-summer",
+      "text": "P.Abinn. 48 (corpus ID 18372): \"on my investigating the shearing of the sheep I heard (it was) Paul the soldier, one of those under your command.\"",
+      "corpus_ids": [
+        18372
+      ]
+    },
+    {
+      "id": 19,
+      "section": "the-sheep-shearing-summer",
+      "text": "P.Abinn. 48 (corpus ID 18372): \"he named as his fellow evil-doers Peter son of Sarapion and his brother Melas a soldier and Apion son of Horion the irenarch from the same village.\" On the role of the *irenarch* in late Roman Egypt, see also P.Lond. 5.1648dupl (corpus ID 137291), a registration document from 373 CE showing the irenarch's responsibilities for assigning labor.",
+      "corpus_ids": [
+        18372,
+        137291
+      ]
+    },
+    {
+      "id": 20,
+      "section": "the-sheep-shearing-summer",
+      "text": "P.Abinn. 48 (corpus ID 18372), postscript: \"On another occasion the same persons drove off pigs of mine to the number of 6.\"",
+      "corpus_ids": [
+        18372
+      ]
+    },
+    {
+      "id": 21,
+      "section": "the-sheep-shearing-summer",
+      "text": "P.Abinn. 49 (corpus ID 25037). The petition arrived six days after P.Abinn. 48.",
+      "corpus_ids": [
+        25037
+      ]
+    },
+    {
+      "id": 22,
+      "section": "the-sheep-shearing-summer",
+      "text": "P.Abinn. 53 (corpus ID 137220), dated 27--31 December 346 (Tybi). \"A considerable time ago, my lord, ten pigs of mine were driven off by certain criminals.\"",
+      "corpus_ids": [
+        137220
+      ]
+    },
+    {
+      "id": 23,
+      "section": "the-sheep-shearing-summer",
+      "text": "P.Abinn. 53 (corpus ID 137220): \"while I was searching for these stolen animals in a village, being present there I discovered Zoilos son of Diogenes.\"",
+      "corpus_ids": [
+        137220
+      ]
+    },
+    {
+      "id": 24,
+      "section": "the-sheep-shearing-summer",
+      "text": "P.Abinn. 57 (corpus ID 25038), ca. 346. Aurelius Ouranios son of Dalmatios, a *praepositus*, reports the assault near the boundaries of Hermopolis: \"the three of them attacked me near the boundaries of Hermopolis with clubs and with blows nearly killed me.\"",
+      "corpus_ids": [
+        25038
+      ]
+    },
+    {
+      "id": 25,
+      "section": "the-night-brigands",
+      "text": "The phrase *lēstrikō tropō* (\"in the manner of brigands\") appears in P.Abinn. 45 (corpus ID 23879), 47 (corpus ID 18371), 49 (corpus ID 25037), and 55 (corpus ID 16522), among others. On its legal significance, see Bryen, \"Visibility and Violence.\"",
+      "corpus_ids": [
+        23879,
+        18371,
+        25037,
+        16522
+      ]
+    },
+    {
+      "id": 26,
+      "section": "the-night-brigands",
+      "text": "P.Abinn. 45 (corpus ID 23879), dated 23 June 343. Flavius Priscus, *ouetranon tōn entimōs apolelumenōn* -- \"veteran of those honorably discharged\" -- and Alia, wife of the soldier Heron, report the burglary at Philagris.",
+      "corpus_ids": [
+        23879
+      ]
+    },
+    {
+      "id": 27,
+      "section": "the-night-brigands",
+      "text": "P.Abinn. 45 (corpus ID 23879): the petitioners ask Abinnaeus to \"arrest the village *demosioi* and compel them to hand over the perpetrators.\"",
+      "corpus_ids": [
+        23879
+      ]
+    },
+    {
+      "id": 28,
+      "section": "the-night-brigands",
+      "text": "P.Abinn. 47 (corpus ID 18371), dated 1 May 346. Flavius Aunes, *ouetranon tōn entimōs apolelumenōn*, landowner in Hermopolis, reports a night burglary *lēstrikō tropō*.",
+      "corpus_ids": [
+        18371
+      ]
+    },
+    {
+      "id": 29,
+      "section": "the-night-brigands",
+      "text": "P.Abinn. 51 (corpus ID 18373), dated 26 August 346. Aurelia Ataris, daughter of the veteran Melas, from Hermopolis. The connection between Apion son of Horion the *irenarch* (named in P.Abinn. 48) and the \"son of Horion the irenarch\" in this petition is possible but not certain: the name Horion was common.",
+      "corpus_ids": [
+        18373
+      ]
+    },
+    {
+      "id": 30,
+      "section": "the-night-brigands",
+      "text": "P.Abinn. 51 (corpus ID 18373). The opening Greek address preserves the key identification: *Aurelias Ataris thygatros Melanos ouetranon geouchoysēs en kōmē Hermou polei* -- \"Aurelia Ataris daughter of Melas the veteran, landowner in the village of Hermopolis.\"",
+      "corpus_ids": [
+        18373
+      ]
+    },
+    {
+      "id": 31,
+      "section": "the-night-brigands",
+      "text": "P.Abinn. 50 (corpus ID 21130), dated 30 July 346. Aurelius Anteus from Narmouthis. The Greek phrase *tas epi tōn topōn ginomenas harpagas kai pleonexias hypo tōn dynatōterōn anthrōpōn* captures the structural nature of the complaint: not a specific crime, but a condition of exploitation by the powerful.",
+      "corpus_ids": [
+        21130
+      ]
+    },
+    {
+      "id": 32,
+      "section": "the-commander-under-pressure",
+      "text": "P.Abinn. 18 (corpus ID 23911), ca. 346. Chairemon to Abinnaeus: \"You are not doing well acting in this way, but you risk being arrested as a criminal\" (*kindyneueis hōs kakoyrgos synarpagēnai*).",
+      "corpus_ids": [
+        23911
+      ]
+    },
+    {
+      "id": 33,
+      "section": "the-commander-under-pressure",
+      "text": "P.Abinn. 18 (corpus ID 23911): Chairemon accuses Abinnaeus of withdrawing soldiers from Theoxenis despite ongoing crimes and threatens to report him to the *dux*.",
+      "corpus_ids": [
+        23911
+      ]
+    },
+    {
+      "id": 34,
+      "section": "the-commander-under-pressure",
+      "text": "P.Abinn. 35 [recte P.Abinn. 35 = Paesis's letter] (corpus ID 23824). Paesis writes that he spent three days in Karanis trying to extract a single recruit; the village offered 2 *nomismata* and 50 talents of silver. Note: this is the letter referenced in the research as P.Abinn. 35, but the content corresponds to the description of Paesis's report.",
+      "corpus_ids": [
+        23824
+      ]
+    },
+    {
+      "id": 35,
+      "section": "the-commander-under-pressure",
+      "text": "P.Abinn. 37 (corpus ID 23826). A subordinate's report: \"Didymus cannot come because he is in great financial difficulty, having borrowed 3 gold coins from soldiers. Gerontios was found at the village of his wife. Theodoros was found detained.\"",
+      "corpus_ids": [
+        23826
+      ]
+    },
+    {
+      "id": 36,
+      "section": "the-christians-and-the-commander",
+      "text": "On the Arian controversy in Egypt and its impact on the military command, see T.D. Barnes, *Athanasius and Constantius: Theology and Politics in the Constantian Empire* (Cambridge, MA, 1993), esp. ch. 7. On Valacius's role, see Athanasius, *Historia Arianorum* 60.",
+      "corpus_ids": []
+    },
+    {
+      "id": 37,
+      "section": "the-christians-and-the-commander",
+      "text": "P.Abinn. 7 (corpus ID 23836), ca. 346. Apa Mios addresses Abinnaeus as \"beloved brother\" and writes \"in the Lord.\" See also P.Abinn. 6 (corpus ID 23832): \"I thank God for your well-being.\"",
+      "corpus_ids": [
+        23836,
+        23832
+      ]
+    },
+    {
+      "id": 38,
+      "section": "the-christians-and-the-commander",
+      "text": "P.Abinn. 32 (corpus ID 18370), ca. 346. Kaor, the \"papas\" (priest) of Hermopolis, to \"my lord brother Abinnaeus.\" He asks Abinnaeus to forgive the soldier Paul for deserting -- \"just this once.\"",
+      "corpus_ids": [
+        18370
+      ]
+    },
+    {
+      "id": 39,
+      "section": "the-christians-and-the-commander",
+      "text": "P.Abinn. 19 (corpus ID 23812), mid-4th century. The correspondent quotes Matthew 10:42 and asks Abinnaeus to protect \"the brother of my wife Naomi -- a widow's son enlisted for military service.\"",
+      "corpus_ids": [
+        23812
+      ]
+    },
+    {
+      "id": 40,
+      "section": "the-christians-and-the-commander",
+      "text": "Van Berchem, in *The Abinnaeus Archive*, pp. 5--6, discusses the dismissal and its possible connection to the religious politics of the 340s. Abinnaeus was confirmed in office by 29 March 342 and dismissed by Valacius in 344.",
+      "corpus_ids": []
+    },
+    {
+      "id": 41,
+      "section": "the-christians-and-the-commander",
+      "text": "P.Abinn. 58 (corpus ID 23914), dated 1 February 345 (Mecheir 7). Aurelius Eulogius son of Andrew, prytanis, president of the senate of Arsinoe, gives Abinnaeus a power of attorney to \"procure in my name from the sanctity of our masters the eternal Augusti a certificate of appointment as exactor.\"",
+      "corpus_ids": [
+        23914
+      ]
+    },
+    {
+      "id": 42,
+      "section": "the-christians-and-the-commander",
+      "text": "The resumption of Abinnaeus's command is inferred from the dating of petitions. P.Abinn. 48 (corpus ID 18372) is dated 29 June 346; P.Abinn. 49 (corpus ID 25037) is dated 5 July 346. Bell et al. suggest restoration by 1 May 346: *The Abinnaeus Archive*, p. 6.",
+      "corpus_ids": [
+        18372,
+        25037
+      ]
+    },
+    {
+      "id": 43,
+      "section": "the-letters",
+      "text": "P.Abinn. 7 (corpus ID 23836): Apa Mios asks to borrow hunting nets (*signa lina*) because gazelles (*dorkadia*) are destroying his crops. He sends a pig skin as a gift.",
+      "corpus_ids": [
+        23836
+      ]
+    },
+    {
+      "id": 44,
+      "section": "the-letters",
+      "text": "P.Abinn. 8 (corpus ID 23845), ca. 346. Apa Mios writes about wine jars (*spathia*) carried by camels. \"Pay the camel-drivers immediately because it is a feast day and they must return quickly.\"",
+      "corpus_ids": [
+        23845
+      ]
+    },
+    {
+      "id": 45,
+      "section": "the-letters",
+      "text": "P.Abinn. 5 (corpus ID 18401), ca. 346. Aetis reports on the accounts Abinnaeus gave him: \"nobody has paid anything.\" Peeieou and Eulogeios have no hay but offer wheat. A vineyard has been planted on disputed communal land.",
+      "corpus_ids": [
+        18401
+      ]
+    },
+    {
+      "id": 46,
+      "section": "the-letters",
+      "text": "P.Abinn. 33 (corpus ID 23822), ca. 346. Klematios asks for leave for Ision, a *promotus*: \"Ision is the father-in-law of Timothy the veteran, who is the brother of Paul the *cornicularius* of the camp.\"",
+      "corpus_ids": [
+        23822
+      ]
+    },
+    {
+      "id": 47,
+      "section": "the-letters",
+      "text": "P.Abinn. 34 (corpus ID 23823), ca. 346. \"The mother of Moses\" to \"my master and patron, praepositus of the camp of Dionysias.\"",
+      "corpus_ids": [
+        23823
+      ]
+    },
+    {
+      "id": 48,
+      "section": "the-letters",
+      "text": "P.Abinn. 34 (corpus ID 23823): *hai gar pente hēmerai holos eniautous eisin* -- \"for the five days are a whole year.\"",
+      "corpus_ids": [
+        23823
+      ]
+    },
+    {
+      "id": 49,
+      "section": "the-letters",
+      "text": "P.Abinn. 34 (corpus ID 23823): *meta ton theon, allon ouk echomen boēthon ei mē se* -- \"After God, we have no helper but you.\"",
+      "corpus_ids": [
+        23823
+      ]
+    },
+    {
+      "id": 50,
+      "section": "the-foster-child-and-the-deacon",
+      "text": "P.Abinn. 36 (corpus ID 23825), mid-4th century. Palas addresses Abinnaeus as \"master of my soul and my ruler, my praepositus.\" On the *threptos* (foster-child/dependent) in the late Roman household, see Bell et al., *The Abinnaeus Archive*, pp. 97--98.",
+      "corpus_ids": [
+        23825
+      ]
+    },
+    {
+      "id": 51,
+      "section": "the-foster-child-and-the-deacon",
+      "text": "P.Abinn. 36 (corpus ID 23825): \"I am your slave and will not leave you.\" He asks for sheep for his wife \"so she too may have a little income.\"",
+      "corpus_ids": [
+        23825
+      ]
+    },
+    {
+      "id": 52,
+      "section": "the-foster-child-and-the-deacon",
+      "text": "P.Abinn. 55 (corpus ID 16522), dated 11 February 351. The latest securely dated document in the archive.",
+      "corpus_ids": [
+        16522
+      ]
+    },
+    {
+      "id": 53,
+      "section": "the-foster-child-and-the-deacon",
+      "text": "P.Abinn. 55 (corpus ID 16522): Euporos son of Hermias from Philagris broke into Heron's house *lēstrikō tropō* and \"seized all his clothing.\"",
+      "corpus_ids": [
+        16522
+      ]
+    },
+    {
+      "id": 54,
+      "section": "the-foster-child-and-the-deacon",
+      "text": "P.Abinn. 55 (corpus ID 16522): the opening identifies Aurelius Heron as *diakonos apo kōmēs Berenikidos* -- \"deacon from the village of Berenikis.\" The phrase *tēs katholikēs ekklēsias* (\"of the catholic church\") marks him as aligned with the Nicene communion.",
+      "corpus_ids": [
+        16522
+      ]
+    },
+    {
+      "id": 55,
+      "section": "the-economy-of-the-desk",
+      "text": "P.Abinn. 66 (corpus ID 14955), mid-4th century. Grain account from Andromachis listing wheat and barley owed by individuals, with amounts in artabas.",
+      "corpus_ids": [
+        14955
+      ]
+    },
+    {
+      "id": 56,
+      "section": "the-economy-of-the-desk",
+      "text": "P.Abinn. 73 (corpus ID 23839), mid-4th century. Barley collection account: *eispraksis krithēs*.",
+      "corpus_ids": [
+        23839
+      ]
+    },
+    {
+      "id": 57,
+      "section": "the-economy-of-the-desk",
+      "text": "P.Abinn. 74 (corpus ID 14957), mid-4th century. Assessment of *naubia* (boat-tax) by name and amount in talents and drachmas.",
+      "corpus_ids": [
+        14957
+      ]
+    },
+    {
+      "id": 58,
+      "section": "the-economy-of-the-desk",
+      "text": "P.Abinn. 75 (corpus ID 23840), ca. 340--348. Wine distribution account listing *spathia* and *keramia* distributed to soldiers, veterans, and officials, including \"the praepositus himself.\"",
+      "corpus_ids": [
+        23840
+      ]
+    },
+    {
+      "id": 59,
+      "section": "the-economy-of-the-desk",
+      "text": "P.Abinn. 77 (corpus ID 23842), mid-4th century. Military roster listing decurions (Moses, Paesis) and soldiers with grain allocations.",
+      "corpus_ids": [
+        23842
+      ]
+    },
+    {
+      "id": 60,
+      "section": "the-economy-of-the-desk",
+      "text": "P.Abinn. 60 (corpus ID 16636), dated 28 July 346. Flavius Elias, soldier, sells cattle (*boas*) to Flavius Abinnaeus.",
+      "corpus_ids": [
+        16636
+      ]
+    },
+    {
+      "id": 61,
+      "section": "the-dismissal-the-appeal-the-return",
+      "text": "P.Abinn. 58 (corpus ID 23914), the power of attorney from the prytanis, is dated during the dismissal period. The resumption of petitions from May--June 346 marks Abinnaeus's return to command.",
+      "corpus_ids": [
+        23914
+      ]
+    },
+    {
+      "id": 62,
+      "section": "the-dismissal-the-appeal-the-return",
+      "text": "Athanasius, *Historia Arianorum* 60, names Valacius as a persecutor. See Barnes, *Athanasius and Constantius*, pp. 91--93.",
+      "corpus_ids": []
+    },
+    {
+      "id": 63,
+      "section": "the-dismissal-the-appeal-the-return",
+      "text": "P.Abinn. 55 (corpus ID 16522), 11 February 351.",
+      "corpus_ids": [
+        16522
+      ]
+    },
+    {
+      "id": 64,
+      "section": "the-dismissal-the-appeal-the-return",
+      "text": "Bell et al., *The Abinnaeus Archive*, pp. 1--2. The archive was found at Philadelphia (modern Darb Gerza), though some scholars have argued for Dionysias itself. Abinnaeus's retirement to Philadelphia is inferred from the findspot and from P.Abinn. 62 (corpus ID 23833), a property division at Philadelphia dated 5 February 350.",
+      "corpus_ids": [
+        23833
+      ]
+    },
+    {
+      "id": 65,
+      "section": "what-survived",
+      "text": "H.I. Bell, V. Martin, E.G. Turner, and D. van Berchem, *The Abinnaeus Archive: Papers of a Roman Officer in the Reign of Constantius II* (Oxford: Clarendon Press, 1962).",
+      "corpus_ids": []
+    },
+    {
+      "id": 66,
+      "section": "what-survived",
+      "text": "P.Abinn. 1, career narrative. The Blemmyes appear only in the context of the embassy of 336.",
+      "corpus_ids": []
+    },
+    {
+      "id": 67,
+      "section": "what-survived",
+      "text": "P.Abinn. 34 (corpus ID 23823).",
+      "corpus_ids": [
+        23823
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "corpus_id": 23820,
+      "reference": "P.Abinn. 3",
+      "date": "345--350",
+      "description": "Official letter | Flavius Makarios, procurator of imperial estates, demands military assistance for tax collection",
+      "greek": "Φλ αούιος Μακάριος διασημό τατος ἐπίτρ οπος δεσποτικ ῶν κτήσεων Φλ αουίῳ Ἀμιννέῳ πρ αι φ έκτῳ κάστρων Διονυσιάδος χαίρειν. χαίρειν. ἡ ἐξουσία τοῦ κυρίου μου ἡ ἐξουσία τοῦ κυρίου μου Φλ αουίου Φηλικισσίμου τοῦ διασημο τάτου κόμιτός τε καὶ δουκὸς προνοίαν ποι ουμένη τοῦ δεσποτικοῦ οἴκου προσέταξεν ουμένη τοῦ δεσποτικοῦ οἴκου προσέταξεν τῇ ἐμῇ τῇ ἐμῇ ἐπιμελείᾳ ἐ πι μελίᾳ βοήθειαν βοήθιαν στρατιωτικὴν μοι παρασχεθῆναι εἰς τὴν ἀπαίτησιν τῶν δεσ παρασχεθῆναι εἰς τὴν ἀπαίτησιν τῶν δεσ ποτικῶν κανόνων ἐκ τῶν ποτικῶν κανόνων ἐκ τῶν ὑ πὸ τὴν σὴν φρον τίδα στρατιωτῶν. σπούδασον οὖν κατὰ τίδα στρατιωτῶν. σπούδασον οὖν κατὰ τὰ γραφέντα σοι ὑπὸ τοῦ αὐτοῦ κυρίου μου τὰ γραφέντα σοι ὑπὸ τοῦ αὐτοῦ κυρίου μου τοῦ τοῦ διασημο τάτου δουκὸς στρατιώτας ἀποστεῖλαι ἀποστῖλαι εἰς τὴν αὐτὴν ἀπαίτησιν διὰ τοῦ ἀπο εἰς τὴν αὐτὴν ἀπαίτησιν διὰ τοῦ ἀπο σταλέντος σταλέντος ὀφ φικιαλίου ὑ πό τε τοῦ αὐτοῦ κυρίου μου τοῦ τοῦ διασημο τάτου δουκὸς οὐ μὴν ἀλλὰ καὶ τοῦ κυρίου μου τοῦ μου τοῦ διασημο τάτου καθολικοῦ, γιγνώσκων γειγνώσκων ὡς εἰ μὴ ὡς εἰ μὴ βουληθείης βουληθίης τούτους ἀποστεῖλαι ἀποστῖλαι ἀνε νεχθήσεται εἰς γνῶσιν τοῦ αὐτοῦ κυρίου μου νεχθήσεται εἰς γνῶσιν τοῦ αὐτοῦ κυρίου μου δουκὸς ὡς σου τὴν ἀπαίτησιν τοῦ δεσπο δουκὸς ὡς σου τὴν ἀπαίτησιν τοῦ δεσπο τικοῦ οἴκου ἐνεδρεύσαντος. τικοῦ οἴκου ἐνεδρεύσαντος. ἐρρῶσθαί σε, κύριε ἄδελ φε φε ἄδελ φαι φαι , πολλοῖς χρόνοις εὔχομαι. εὔχομαι. Φλ αούιος Μακάριος Φλ αουίῳ Ἀμιννέῳ π ραι π οσίτῳ",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23828,
+      "reference": "P.Abinn. 4",
+      "date": "ca. 346",
+      "description": "Letter | Aetios sends wheat, oil, goatskins, sacks, and belts via Libyans",
+      "greek": "κυρίῳ μου ἀδελφῷ Ἀέτιος κυρίῳ μου ἀδελφῷ Ἀέτιος ἐν κυρίῳ θεῷ πλεῖστα χαίρειν. ἐν κυρίῳ θεῷ πλεῖστα χαίρειν. ἀπέστειλα ἀπέστιλα πρός σε διὰ τῶν Λιβυ κῶν κῶν Λυβι κῶν κῶν σίτου ἀρτάβας δεκάεξ , ἀρτάβας ιϛ , καὶ ἐλαίου σπάθιον ἓν καὶ ἐλαίου σπάθιον ἓν ἐσφρα γισμένον καὶ δέρματα αἴγινα γισμένον καὶ δέρματα αἴγινα ὀκτὼ ὀκτὼ καὶ σάκκους ὀκτώ . δέξαι παρʼ αὐτῶν καὶ ζωκτῆρας παρʼ αὐτῶν καὶ ζωκτῆρας τρεῖς τρῖς . καὶ ἔπεμψα διὰ Ἀγάθου στρατιώτου ἀπὸ Ἑρμοῦ πόλεως στρατιώτου ἀπὸ Ἑρμοῦ πόλεως ἐλαίου σπάθια δύο ἐλαίου σπάθια δύο καὶ τὴν σαργά νην. καὶ σπούδασον νην. καὶ σπούδασον μετενέγκαι μετανιγκαι τὸν σῖτον καὶ τὴν κριθὴν ἀπὸ τῆς τὸν σῖτον καὶ τὴν κριθὴν ἀπὸ τῆς Θεοξενίδος, Θεοξενίδος, ἐπειδὴ ἐπιδὴ ἐ μ φανίζεται ἐφανίζεται . καὶ ἐπλήρωσα τοὺς καὶ ἐπλήρωσα τοὺς Λιβυκοὺς Λυβικοὺς τὰς δε κατέσσαρας κατέσσαρας δε κα κα τ έσσαρες ἡμίσου ἀρτάβας τῆς κριθῆς. καὶ ἦλθάν τινες στρατιῶται πρὸς καὶ ἦλθάν τινες στρατιῶται πρὸς ἡμᾶς ὑμᾶς μετὰ ὀστράκων· ἐὰν κελεύσῃς μετὰ ὀστράκων· ἐὰν κελεύσῃς αὐτοὺς λαβεῖν ἀφʼ αὐτοὺς λαβεῖν ἀφʼ ἡμῶν υμων ἀντίγραψόν μοι. ἐρρῶσθαί μοι. ἐρρῶσθαί σε σαι εὔχομαι πολλοῖς χρό πολλοῖς χρό νοι ς, κύριε πάτρων. κύριε πάτρων. κυρίῳ μου ἀδελφῷ Ἀέτιος. κυρίῳ μου ἀδελφῷ Ἀέτιος.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 18401,
+      "reference": "P.Abinn. 5",
+      "date": "ca. 346",
+      "description": "Letter | Aetis on unpaid accounts, missing hay, disputed vineyard",
+      "greek": "τῷ κυρίῳ μου τῷ κυρίῳ μου ἀδελφῷ Ἀβινναίῳ ἀδελφῷ Ἀβινναίῳ Ἀέτις ἐν Θεῷ Ἀέτις ἐν Θεῷ χαίρειν. χαίρειν. πρὸ μὲν πάντων εὔχο πρὸ μὲν πάντων εὔχο μαί σε μαί σε ὁλοκληρεῖν ὁλοκληρῖν παρὰ τῷ κυρίῳ ἡμῶν Θεῷ. τῷ κυρίῳ ἡμῶν Θεῷ. γινώσκειν γεινώσκιν σε θέλω περὶ τοῦ βρεουίου τοῦ βρεουίου ὅ τ ο μοι δέ δωκας δωκας δέ δωκες δωκες οὐδείς οὐδίς μοι οὐδὲν τέθηκε τιτι κ ε . περὶ τοῦ χόρτου Πεειήου καὶ Εὐλογείου Πεειήου καὶ Εὐλογείου εἶπαν ὅτι οὐκ εἶπαν ὅτι οὐκ ἔχομεν ἔχωμεν χόρτον. ἐὰν οὖν θέλῃ χόρτον. ἐὰν οὖν θέλῃ σῖτον ἀντὶ τοῦ χόρ σῖτον ἀντὶ τοῦ χόρ του του δίδομεν δίδουμεν . καὶ περ ὶ τῆς ἀρούρης τοῦ Μα ὶ τῆς ἀρούρης τοῦ Μα λίτου λίτου ἔ πηξαν μὲν ἕλικʼ εἵλιχʼ ἀλλʼ ἀγρίαν ἀγριν καὶ ο ὐκ ἀ φ ῆ κ αν οἱ κωμῆται λέ γοντες γοντες λέ γωντες γωντες ὅτι κωμητι κόν ἐστιν. καὶ κόν ἐστιν. καὶ ἀπόστει λόν λόν ἀποστι λ λ ε μοι τοὺς σάκκους ἵνα εἵνα γομώσω γομόσω τὸν σῖ τ τ ο ν ἐπειδὴ ἐπιδὴ ἐμφανίσθη ἐφανίσθη . ἐὰν θελήσῃς δοῦναι ἐπὶ ἐὰν θελήσῃς δοῦναι ἐπὶ θερείαν θερηαν θεραν ὀλίγα κριθά ρια ρια κριθα ρ ρ αι τοῖς ἡμῶν ἀνθρ ώποις γράψον μοι ώποις γράψον μοι ἐν ἐν τάχει τάχι . ἀσπάζ ο μαι πάντας τοὺς ἐν τῇ οἰ πάντας τοὺς ἐν τῇ οἰ κίᾳ. ἐρρῶσθαί κίᾳ. ἐρρῶσθαί σε σαι εὔχομαι. εὔχομαι. καὶ τὰ .... α ἀπόστειλον ἀπόστιλον . τῷ κυρίῳ τῷ κυρίῳ μ ου ἀδελφῷ Ἀ βι νν α ίῳ Ἀ έ τις.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23832,
+      "reference": "P.Abinn. 6",
+      "date": "ca. 346",
+      "description": "Letter | Apa Mios to Abinnaeus, Christian greetings, pig skin, fishing nets",
+      "greek": "τῷ τῷ ἀγ απ ητῷ ἀδ ελ φῷ Ἀμε ν νέῳ ἄ ἄ π α Μ ειός ἐν κ υρί ῳ χαίρ ει ν. εὐχαριστῶ ε ὐ χ αρ εισ τ ῶ τῷ θεῷ περὶ τῆ ς ὑ μ ῶ ν ὁλ ὁλ ο κλ ηρίας ἵ να ῥύσει σε σαι ἀπὸ λ . σα σα ι .. α ρ ι ου. οἴδαμεν τὸ σπουδαῖ ον ον σπουδε͂ όν όν σ ου κ αὶ τὴν ἀγάπην σου εἰς ἡμᾶς· διὰ τὸν διὰ τὸν θεὸν ταῦτα ποιεῖς, καὶ ἐγὼ εὔχ εὔχ ο μαι αὐτῷ ἵ να ἀνταποδώσει σ σ ο ι τὴν ἀγ άπην ἣν τὴν ποιεῖς· διʼ αὐ τοῦ γὰρ ποιεῖς. τοῦ γὰρ ποιεῖς. ἔπειτα ἔπιτα γράψω σοι, ἄδελφε· ἤκουσα γὰρ ὅτι σοι, ἄδελφε· ἤκουσα γὰρ ὅτι κεῖται κῖται εἰς εἰς τὰ σίγνα λίνα λείνα · εἰ δύνατόν ἐσ ἐσ τ ιν ἀπόστειλόν ἀ πόστιλόν μοι αὐτὰ ὀλ ὀλ ί γας ἡμέπας, ἐπειδὴ ἐπιδὴ τὰ δορκά δι δι α ἀφανίζουσιν ἀφανίζουσειν τὰ τὸ σπόριμα. εἰ δ εἰ δ ὲ οὐκ ἔχεις εἰς τὰ σίγνα τά τά χα εὑρίσκεις εὑρείσκεις εἰς ἀλλα χοῦ χοῦ ἀλλ ο χοῦ · ἁπαξαπλῶς πέμψον μοι ὀλίγα, καὶ ἐν μοι ὀλίγα, καὶ ἐν τάχει τίχι πέμ πω σοι αὐτά, οἶδα γὰρ ὅτι ποιεῖς πω σοι αὐτά, οἶδα γὰρ ὅτι ποιεῖς πλέον πλέον ὧν τὰ εἴρηκά σοι. ἔπεμ ψά σοι δέρμα ψά σοι δέρμα ὑένα ς ὑ ενα διὰ ζιὰ Σαί ρεως· ἀσπάζομαι ρεως· ἀσπάζομαι πάντας πάντες τοὺς τὰ ἐ ν τῇ οἰκίᾳ κατʼ ὄνομα. ὁ κύρ ῑ ος ὁ θεὸς διαφυλά ξῃ ξῃ διαφυλά ξ ι σε σαι . ἄπα Μιῶς. ἐρρῶσθαί σε σαι ἐν κ υρί ῳ.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23836,
+      "reference": "P.Abinn. 7",
+      "date": "ca. 346",
+      "description": "Letter | Apa Mios asks to borrow hunting nets; gazelles destroying crops",
+      "greek": "τῷ ἀγαπητῶ καὶ ἀληθῶς ἀλ η θο͂ς ἀδ ε λ φ ῷ Ἀβιννέῳ Ἀβιννεας ἄ πα Μῖ ς ἐ ν κ υρί ῳ χαίρειν. εὐ χαρ ι στο ῦμε ν τ ῷ Θεῷ περὶ τ ῆς ὁλοκληρ ί ας ὁλοκληρας καὶ καὶ τ ῆς τ η σπουδῆς σπου δην σου ἵνα π ερ ι σ σεύῃ τὸ φόβος το το ῦ θεοῦ ἐ ν σοί, διὰ τὸ φόβος γὰρ πάντα γίνεται γίνετε . καλ καλ ινενξ αρι οὖν γραφόμεθά γραφώμεθ ά σ οι διὰ τὴν καλή ν καλη σου σου π ρ ᾶξιν π ρ ε͂ ξι ν , ἵ να περισσεύῃ περεισσεύη ἡ ἀγάπη σου καὶ το το σοιλο .. τοχοι ἀληθῶς ἀληθο͂ς , Ἀβιννέας, κατὰ πάν τ α τρόπον τροπο . γραφόμεθά γραφωμεθα γραφωαγά σοι, ἀ γα ποῦμεν τὸ θέλη μα μα τῆ ς ψυχῆς σου· ἐθέλω ἠθέλω γὰρ ἀπαντῆσαί ἀπαντηση σοι σαι , ἐπει δὴ δὴ ἐπι δὴ δὴ ἀνάγκη πρὸς μὲ ἦλθε καὶ ἐσπούδασα ἐ σ πούδησα , ἦλθα εὔξω. εὔξω. ἐξήτασα ἐξήτησα οὖν περὶ σοῦ καὶ ἤκουσα ὅτι εἰς τὰ μέρη τοῦ μέρη τοῦ Ἀνδρομάχιδος Ἀνδρομαχιδα , καὶ πάλιν ἤκουσα ὅτι ἀνῆλθεν απηλθεν εἰς τὰ κατώτερα κατότερα καὶ διὰ τὰς χρείας χριαν τὰς ἔγρα ψά σοι ὅ ψά σοι ὅ τ ι δ ι ὰ τ αῦτα ἄπα Ἰ σίων· μ ὴ ἀμελήσῃς ἀμελήσις ν ῦν. ἔδωκα ἐδωκας ο ὖν Μαξίμῳ Μαξίμου σπάθια σπάτια τέσσαρα τεσσ ε ρες δοθῆναί σ ο ι , κ κ α ὶ δύο τῷ τοῦ Πλᾶς καὶ ἓν τῷ τοῦ Κέρον καὶ οὐχ εὗ ρες ευρις ἐπεὶ ἐπ ὶ Ἑρμᾶς εἰς δι Διονυσιάδα Διονυσιαδος , εἰ μὴ ἐδίδου ἐδιδι σοι ἄλλ ἄλλ α . ἄ ρ τι γὰρ διαβλεπόμεθα πέμψαι π έμ ψε αὐτὰ, κα ὶ εἴ ἤ τινα τι συνη θε ία ν ποιήσει γράψον μοι, καὶ διὰ τὰ μικ μικ κὰ ζ ... ν α π ο ί ησον αὐτὰ γενέσθαι, καὶ πέμ ψον ἐμοὶ ἐμὲ π άν τ α. οἶδα ιιδα γὰρ ὅτι ἐὰ ν δῷς δης αὐτοῖς τὴν ἐ ξ ουσίαν τ ὰ . . θη .. ι να γίνεται. μὴ ἀμελήσῃς ἀμελήσις ποι ε ῖ ν γεν έσ θαι ἃ γρα φ όμεθ ά γρα φ ωμεθ σοι πᾶν ὡ ς καὶ τ ι . . .. . αυ . ἀσπάζομαι τ ὰ παιδία παδία καὶ πάντας πάντες τοὺς σοῦ. Ἀβιννέῳ Ἀβιννεας π αρὰ ἄπα Μιῶς",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23845,
+      "reference": "P.Abinn. 8",
+      "date": "ca. 346",
+      "description": "Letter | Apa Mios on wine jars by camel, feast-day urgency, dough for bread",
+      "greek": "ἄπα Μιὸς τῷ ἀγαπητῷ ἄπα Μιὸς τῷ ἀγαπητῷ ἀδελφῷ Ἀμιννέῳ ἐν ἀδελφῷ Ἀμιννέῳ ἐν κ υρί ῳ χαίρει ν . πρὸ πρὸ τῶν τον πάντων εὔχομαι τῷ θ ε ῷ περὶ τῆς σωτηρίας σου. καθὼς ἔγραψας περὶ σπαθί καθὼς ἔγραψας περὶ σπαθί ων οἴνου, ὡς δύο ων οἴνου, ὡς δύο καμήλω ν ἢ τριῶν ἢ τριῶν εὐκαιρίαν εὐκερίαν εὑρὼν τοὺς περὶ Ἀπολ τοὺς περὶ Ἀπολ λώνιον ἠξίωσα αὐτοὺς καὶ ἠνάγ ἠξίωσα αὐτοὺς καὶ ἠνάγ κασα αὐτοὺς καὶ ἔπεμψά κασα αὐτοὺς καὶ ἔπεμψά σοι· σοι· ἵ να οὖν πληρώσῃς αὐτοὺς τὴς τιμὴν καὶ αὐτοὺς τὴς τιμὴν καὶ αὐτῆς τῆς ὥρας ἀπο αὐτῆς τῆς ὥρας ἀπο λύσῃς αὐτοὺς, διότι οἶδας λύσῃς αὐτοὺς, διότι οἶδας καὶ αὐτὸς ὅ καὶ αὐτὸς ὅ τ ι ἑορτή ἑωρτή ἐστι ν , καὶ καὶ ἐδεήθησάν ἐδεέθησάν με πολ λήν. μὴ κατασχῇς οὖν αὐ λήν. μὴ κατασχῇς οὖν αὐ τοὺς διὰ ἄλλην ἡμέραν. τοὺς διὰ ἄλλην ἡμέραν. οὐχ οὐχ εἶχον ἶχον ἐμαυτῷ ἀποκείμε να να ἀποκίμε να να ὅσον οὖν ἔμαθα ὅτι οὐ κ κ ἔχεις ἔχις πέμψω πέμφω σοι , καὶ ἐὰ ν ἔλθωσι ἔ λ θουσι πρὸς σὲ οἱ ἀδελφοὶ ποιήσῃς αὐτοῖς τὸ ποιήσῃς αὐτοῖς τὸ ζμῆ μα μα ζμ ᾶ μα μα γενέσθαι καὶ π έ μ ψῃς. ἀσπάζομαί ἀσπάζομαί σε καὶ πάντας τ ο ὺς ἐν τῷ οἴκῳ σου, καὶ ἐ ὰ ν εὐσχολῇς εὐσχολῖς ἐλθὲ πρὸς ἡμᾶς ἵνα σε ἵνα σε ἴδωμεν εἴδωμεν , ὁ θ εὸ ς δὲ διαφυλάξῃ σε. διαφυλάξῃ σε. ἄπα Μιῶς. ἀσπάζομαι Σῦρον καὶ πάντας τοὺς ἐν τῷ οἴκῳ αὐτοῦ. τῷ ἀγαπητῷ τῷ ἀγαπητῷ ἀδελφῷ ἀδελφε͂ͅ Ἀμιννέῳ ἄπα Μιός",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23805,
+      "reference": "P.Abinn. 11",
+      "date": "ca. 346",
+      "description": "Letter | Luppikinos relays orders from the dux's officialis",
+      "greek": "κυρίῳ μου ἀδελφῷ Ἀβιννέῳ κυρίῳ μου ἀδελφῷ Ἀβιννέῳ Λουππικῖνος. Λουππικῖνος. προηγουμένως προηγουμένος εὔχομαι εὔχομε τῇ θείᾳ θίᾳ προ νοίᾳ ὅπως εὐθυμοῦντί σοι νοίᾳ ὅπως εὐθυμοῦντί σοι ἀπο δοθῆναί δοθῆναί ἀπο δοθῆνέ δοθῆνέ σοι τὰ παρʼ ἐμοῦ γράμματα. ἀνάγκη μοι γεγένηται ἀνάγκη μοι γεγένηται δηλῶσαι δηλῶσε τῇ σῇ καλοκαγαθίᾳ τὰ γραφέντα τῇ σῇ καλοκαγαθίᾳ τὰ γραφέντα ὑπὸ τοῦ ὑπὸ τοῦ ὀφ φικιαλίου τοῦ κυρίου κυρίω μου δουκὸς Φλαυου Φλαυου ί ου Φιλικισσίμου ὅπως πάραυτα πάραυτα λαβών λαβόν μου τὰ γράμματα ποίησῃς αὐτοὺς ποίησῃς αὐτοὺς ἀπαντῆσαι ἀπαντῆσε ἐν τῷ Λευκοκίου ἐν τῷ Λευκοκίου καθὼς καθὸς τὰ γράμμα τα τα περιέχει περιέχι . καὶ περὶ ὧν βούλῃ κελεύειν κελεύεν μοι ἡδέως εἱδέος ἔχοντα πρὸς κυρίῳ μου ἀδελφῷ κυρίῳ μου ἀδελφῷ Ἀβιννέῳ Λουππικῖνος",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23806,
+      "reference": "P.Abinn. 12",
+      "date": "mid-4th c.",
+      "description": "Letter | Luppikinos on assault: children of Aron Petros attacked soldier's son with clubs and swords",
+      "greek": "κυρίῳ κυρίῳ μο υ ἀδελφῷ Ἀβιννέῳ Ἀβιννέῳ Λουππικῖνος. Λουππικῖνος. Σαραπίωνος τοῦ Σαραπίωνος τοῦ ἡμετέρο υ στρατιώτου ἐντυχόντος στρατιώτου ἐντυχόντος τ ῇ ἡμετέρᾳ φροντίδι κατ ὰ τῶν τέκνων Ἄρωνος Πέτρου ἀπὸ κώμης Φιλαγρίδος Πέτρου ἀπὸ κώμης Φιλαγρίδος οὐ μ οὐ μ ὴ ν ἀλλ ὰ καὶ οἱ παῖδες π ε͂ δεις αὐτο ῦ μετὰ ῥοπάλων ῥωπάλων καὶ ξιφῶν καὶ ξιφῶν τὸν των τούτο υ υἱ υἱ ὸν κα τέκοψαν καὶ ἀνάγ κη μοι γεγένηται γρά κη μοι γεγένηται γρά ψ ψ α ι τῇ εὐ γενεί ᾳ σου ὅ ὅ πω ς τὴ ν κ ρ ίσιν κ ρ ισ εν ἐκ τ ού τω ν π οιή σ ῃς τ τ ο ῦ στρατιώτου· καὶ πε ρὶ ὧ ν βούλει κέ λ ευέ μοι, κύριε κύρειε ἄδελφε, ἡδέως ἔχοντι. ἔχοντι. ἐρρω ἐρρω μέ ν ω ς σε σε ἔχηται ἔχετε ἡ ἡ θεία θία πρό νοι α, κύριε ἄδελφε. κύριε ἄδελφε. κυρίῳ κυρίῳ μ ου ἀδ ελφῷ Λουπ πικ ῖν ος",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23807,
+      "reference": "P.Abinn. 13",
+      "date": "mid-4th c.",
+      "description": "Letter | Ploutammon on horses and coin payments",
+      "greek": "κυρίῳ κυρίῳ μο υ ἀδε λ φῷ Ἀμινναίῳ Πλουτάμμων. Πλουτάμμων. τοὺς τοὺς ἵ π πο υς οὓς ἀπέστειλά ς ἀπέστιλά ς μ οι ἀπὸ Ἰο ἀπὸ Ἰο π ιτο .... α .. λεπ ... το ι ο ν ι ι ου δ ὲ οὐδε ὶς πάλιν ὁλοκ ο τ τίνους μ ο ι ἔ δω κεν ἀλλὰ ἵ ππους. αὐθωρὸν οὖν ... ε .. ἐπὶ τῆ ς πόλ εως ἵ να ἐπὶ πα ρουσίᾳ τῶν .. ι . .. .. ... να .. ωσιν υ π ερ ... α ρ ου .. τω ς ἐκελεύσθη. ἐγὼ γὰρ τῷ θεῷ ἐνεπίστε ἐνεπίστε υσ α ὀμόσ ας ἦ μὴν ὑπὲρ ὑπὲρ ἡμῶν ημεμ περ ισ πᾶσθαι μηδένα κινδυνεύειν, περίστασιν γὰρ κινδυνεύειν, περίστασιν γὰρ ταύτης ταύτης τῆς την προφάσεως προφασιν ἕνεκεν πά πά σ χω καθʼ ἑκάστην ἡμέραν. ἐρρῶσθαί σε πολλοῖς ἐρρῶσθαί σε πολλοῖς χρόνοις εὔχομαι, κύριε χρόνοις εὔχομαι, κύριε ἄδελφε. ἄδελφε. κυρίῳ μου ἀδελφῷ κυρίῳ μου ἀδελφῷ Ἀμινναί ῳ πραιπο σ ίτῳ πρεπο σ ίτῳ Πλουτάμμων ἐξάκτωρ. Πλουτάμμων ἐξάκτωρ.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23808,
+      "reference": "P.Abinn. 14",
+      "date": "mid-4th c.",
+      "description": "Letter | Ploutammon aggrieved that Abinnaeus left the city without consulting him",
+      "greek": "κυρίῳ μου ἀ κυρίῳ μου ἀ δελφ ῷ Ἀβ ιννέῳ Πλουτάμμων. Πλουτάμμων. θαυμάζ θαυμάζ ω ὡς ἀλόγως ἐξ οίκη σας ἀπὸ τῆς πόλεως μὴ συνταξάμε σας ἀπὸ τῆς πόλεως μὴ συνταξάμε νός μοι περὶ τῶν ἀγροίκων ἕ νός μοι περὶ τῶν ἀγροίκων ἕ ν ε κεν τῆς λοιπάδος. πρᾶγμα γὰρ οὔκ κεν τῆς λοιπάδος. πρᾶγμα γὰρ οὔκ ἐσ τι πρὸς αὐτοὺς ἀλλὰ πρὸς τὴν σὴν πρὸς αὐτοὺς ἀλλὰ πρὸς τὴν σὴν . κυρίῳ μου ἀδελφῷ κυρίῳ μου ἀδελφῷ",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23810,
+      "reference": "P.Abinn. 16",
+      "date": "346--351",
+      "description": "Letter | Sabikas the praepositus sends smiths for wood-cutting; requests natron and capers",
+      "greek": "κυρίῳ μου ἀ δελφῷ Ἀβιννέῳ Σαβικᾶς πραι πόσιτος χαίρειν. πρὸ μὲν πάντων εὔχομαι τῷ κυρίῳ περὶ τῆς ὁλο κληρίας σου. γιγνώσ κειν γιγνώσ κιν σε θέλω, ἄδ ελφε, δ ι ὰ τοὺς χαλκεῖς χαλικις χαλι . ἀπέστειλά ἀπέστιλά σο ι δ ὲ τοὺς διαφέροντάς μοι .... . ωναν κ α ὶ Π αε νβοῦν τεχνίτας πρὸς τὴν ἐκκοπὴν τῶν ξύλων τῶν ξύλων ἵνα εἵνα δυνασθῶσιν τὰ ἔργα τῆς τὰ ἔργα τῆς Βιξιλλατίωνος Βιξιλατίωνος ἐκτελέσαι. γράφω σοι δὲ γράφω σοι δὲ βοηθείαν βοηθίαν παρασχεῖν παρασχιναι αὐτοῖς πρὸς τὴν ἐκκοπὴν τ αὐτοῖς πρὸς τὴν ἐκκοπὴν τ ῶ ν ξύλων ξύλον καὶ μή τινα τινας ἐπιτρέψῃς βίαν αὐτοῖς π αὐτοῖς π ο ιεῖν ἀλλὰ μετὰ πάσης τιμῆς καὶ καὶ εὐταξίας ταξιας , μάλιστα δὲ προσχαρι ζόμενος ἐμοὶ τὰ μέγιστα, καὶ ζόμενος ἐμοὶ τὰ μέγιστα, καὶ ἀντίγρα ψον ψον ἀντιγρα ψοι ψοι περὶ ὧν βούλῃ. τ ὸ πιτ τάκιον ὃ ἔδωκας ἔδοκας νίτρου μοδίους δεκαπέντε νίτρου μοδίους δεκαπέντε καὶ καππαρίων καπαρίων ὁσον δήποτε ἐποίησας εἰς πιτ δήποτε ἐποίησας εἰς πιτ τάκιον ἀπόστειλόν ἀπόστιλόν μοι αὐτὰ ἐν αὐτὰ ἐν τάχει τάχι . et te per multos annos be be n e valere.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23811,
+      "reference": "P.Abinn. 17",
+      "date": "ca. 346",
+      "description": "Letter | Sambas announces arrival of imperial notary for recruit collection",
+      "greek": "κυρίῳ μου ἀδελφῷ Ἀμμινέῳ κυρίῳ μου ἀδελφῷ Ἀμμινέῳ Σαμβᾶς. Σαμβᾶς. ἐπειδὴ ἐπιδὴ ὁ κύριός μου ὁ δεσποτικὸς νοτάριος εὐτυχῶς σήμερον νοτάριος εὐτυχῶς σήμερον ἐπιδημεῖν ἐπιδημῖν ἡμῖν μέλλει τῆς τῶν τιρώνων συλλογῆς τῶν τιρώνων συλλογῆς ἕνεκεν καλῶς ἕνεκεν καλῶς ποιήσεις ποιήσης κύρι έ μο υ ἄδελφ ε , ἐκδέξασθαι τὰς",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23911,
+      "reference": "P.Abinn. 18",
+      "date": "ca. 346",
+      "description": "Letter | Chairemon threatens Abinnaeus over withdrawn soldiers from Theoxenis",
+      "greek": "κυρίῳ μου ἀ δελφῷ Ἀβινναίῳ Χαιρήμων. οὐ καλῶς ποιεῖς τοιαῦτα πράττων ἀλλὰ ὑπομένει ς κίνδυνον κακουργῶν συνλημ φθῆναι. ἐ π ὶ τῆς Θεοξε νίδ ο ς ἀπέστειλας ἀπέστιλας τοὺς στρατιώτας τ οὺς ὑπό σε καὶ ἀπέσπασας σας αὐτοὺς τοσούτων ἀ ἀ δικημ άτ ων τοσούτων γεναμένων ἐν τῇ κώμῃ. οἶδας γὰρ ὅτι ἡ οἰκία τοῦ Ἁτρῆ ἐσυλήθη, ἔχοντος αὐτοῦ γὰρ ὅτι ἡ οἰκία τοῦ Ἁτρῆ ἐσυλήθη, ἔχοντος αὐτοῦ καὶ τοσαῦτα ἀλλότρια ἐν καὶ τοσαῦτα ἀλλότρια ἐν παραθέσει παραθέσι · καὶ ἀπελασίαι ἀπελασιας απηλασιας κτηνῶν γεγόνασιν, καὶ οὐκ ἐπέτρεψας ἐξέ κτηνῶν γεγόνασιν, καὶ οὐκ ἐπέτρεψας ἐξέ τασιν αὐτῶν γενέσθαι, ἀλλὰ ἥρπαξας αὐτοὺς τασιν αὐτῶν γενέσθαι, ἀλλὰ ἥρπαξας αὐτοὺς ὡς ἐν ἀνομίᾳ· μὰ τὸν γὰρ θεὸν ἢ τούτο ὡς ἐν ἀνομίᾳ· μὰ τὸν γὰρ θεὸν ἢ τούτο υ ς τουτοις ἀπόστειλον ἀπόστιλον ἵ να γνῶμεν γνοῦμεν τὰ πραχθέντα ὑ πὸ αὐτῶν ἢ πάν τες οἱ ἀπὸ τοῦ βουλευτηρίου ἀνανέγκωμεν ἐπὶ τες οἱ ἀπὸ τοῦ βουλευτηρίου ἀνανέγκωμεν ἐπὶ τὸν δεσπότην μου τὸν δοῦκα περὶ τούτου. τὸν δεσπότην μου τὸν δοῦκα περὶ τούτου. καὶ γὰρ καὶ γὰρ οἱ ἀπὸ ἐποικίου Κτήσεως ἔνγραφα ἐπι δεδώκασιν δεδώκασιν ἐπι δεδωκαν δεδωκαν καί ἐμοὶ καμοὶ καὶ Ἀτάμμωνι τῷ πραιποσίτῳ αὐτῶν κατʼ ἐσοῦ· λοιπὸν ὃ οἶδας σύμφορόν σοι αὐτῶν κατʼ ἐσοῦ· λοιπὸν ὃ οἶδας σύμφορόν σοι εἶναι ποίησον, καὶ εἰ εἶναι ποίησον, καὶ εἰ θέλεις θέλις ἀποστεῖλαι ἀποστῖλαι εἲ οὐ σὺ ἂν ἂν εἰδείηςἰδίης ἢ οὐ, σὺ ἂν εἰδείης εἰδίης . ἐρρῶσ θα ί σ ʼ ε ὔχομαι, κύριε ἄδελφε. ἄδελφε.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23812,
+      "reference": "P.Abinn. 19",
+      "date": "mid-4th c.",
+      "description": "Letter | Anonymous Christian quotes scripture, asks protection for widow's son",
+      "greek": "ἀγ απη τ ῷ χ αίρειν. ν εὔχομαι σ ωτηρίας σου . ς . ρα ν πο τ ή ριον ὑδα δα τος ἑν ὶ τῶ ν μικ ρῶν τ ούτων οὐκ οὐκ ἀπολεῖ ἀπολ λῖ τὸν μ ι σθὸν ἑαυτοῦ. μὴ λυπείσθω λυπίσθω δὲ ἡ ψυ χή σου ὅτι πονεῖς πονῖς , πίστευε δὲ τῷ πίστευε δὲ τῷ Θ ε ῷ καὶ παύῃ. γρά φω σ φω σ ο ι δ ὲ περὶ τοῦ ἀδελφοῦ τῆς γυ ναικό ναικό ς μου σ ου Να ω μ ί . υ ἱός ἐστιν στρα τιώτ τιώτ ου καὶ ἔδω κε ν τὸ τω ὄνομα αὑτο ῦ ἵ να σ τ ρατευθῇ. ἐὰν οὖν δύνῃ πα ραφεῖναι ραφεῖναι πα ραφῖναι ραφῖναι αὐτὸν ὀπίσω ἔργον καλὸ ν ποιεῖ ποιεῖ ς , πρῶτον προ͂τον μὲν διὰ τὸν Θ εὸ ν, δεύ τερον διʼ τερον διʼ ἐμὲ ἐμεν διότι χήρα χρηρα ἐστὶ ν ἡ μή ἡ μή τ ηρ αὐτοῦ καὶ οὐκ ἔχει ἄλ λο ν εἰ μὴ αὐτόν. ἐὰν δὲ πάλιν στρατευ εἰ μὴ αὐτόν. ἐὰν δὲ πάλιν στρατευ θῇ, θῇ, ἵ ν α συντηρῇς αὐτὸν ἵ να μὴ μὴ ἔλ θ ῃ ἔξω μετὰ τῶν ἐκλε γομ γομ έν ων ἐγλε γ γ ωμ έν ων εἰ ς κ ωμιδ ᾶτ ον , καὶ ὁ θ εὸ ς ἀποδιδοῖ ἀποδιδῖ σ ο ι πρὸς τὴν ἐλεη μοσύνην μοσύνην ἐλεη μωσύνην μωσύνην σου καὶ ἀνυψοῖ ἀνυψῦ σε εἰς τὰ τὰ μεί ζ ονα μ ί ζ ωνα · καθὼς ἐξέβην ἀπὸ σοῦ σοῦ ἤ ν εγκα ἔ ν εγκα Σπ . αμιον Σπ . α μιος ἅμα ἐμοί. ἠξίωσεν δὲ ἵνα ἔλθῃ ἐπὶ τὰ ἠξίωσεν δὲ ἵνα ἔλθῃ ἐπὶ τὰ σκε σκε ύη ἑαυτο ῦ. ἐ βράδυνεν μὴ . ἐλθὼν ἕ ἐλθὼν ἕ ως .......... ἂν εἰδῇς αὐτὸν μὴ θέλοντα ἐλθεῖν μετὰ ἐλευθερίας ὡς ὁμ ολο γ ήσαμεν οἱ α ....... α σ οι ὅτι οὐ μόνον αὐτὸν ἀλ λὰ καὶ εἴ ἤ τις ἐὰν ᾖ ἠν μόνον ἀπ ο πληρ ω ........ ... ολ .. ω μα . λ ..... . ν ἐ ξ ουσίαν καὶ ὡς εἶπόν σοι πέμψον τὸν κυνηγόν. ἀσπάζομαί ἀσπάζομέ σε καὶ πάντας τοὺς ἐν τῷ οἴκῳ σου. ὁ τοὺς ἐν τῷ οἴκῳ σου. ὁ θ εὸ ς δὲ διαφυλάξῃ σε. τῷ ἀγαπητῷ ἀδελφῷ Ἀμινναίῳ τῷ ἀγαπητῷ ἀδελφῷ Ἀμινναίῳ .",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23814,
+      "reference": "P.Abinn. 22",
+      "date": "after 351",
+      "description": "Letter | Apollos addresses \"father\" Abinnaeus on financial accounts",
+      "greek": "κυρίῳ μου πατρὶ Ἀβινν κυρίῳ μου πατρὶ Ἀβινν έει Ἀπολλῶς. πρὸ μὲν π Ἀπολλῶς. πρὸ μὲν π άν των εὔχομαι εὔχομε τὸν παντοκράτ ο ρ α θεὸν ὅ π ως ὑγιαίνων ὑγιενοντι συ σαι μετ ὰ τ οῦ οἴ κου κου ὔ κο κο υ ἀπολάβῃς τὰ παρʼ ἐμοῦ γρ άμματα. καθὼς ἔγραψάς καθὼς ἔγραψάς μοι μυ εἰσβ ῆ ναι ἰ σβ ῆ ναι ἐπὶ τῆ τῆ ς Ἀλεξανδρίας καὶ μαθ εῖ ν μαθ ῖ ν τί ὑπε δ δ έξ ατο ὁ ἀείμνηστος Ἰσᾶς Ε ἰσᾶ ς ἀπὸ τῆ ς ὅ ὅ σ πιτος τῆς οἰκίας ὐκίας σου, καὶ εὗρον αὐτὸ ν λαβόντα ἐξ ἐπιστολῆ ς σ ῆς μ υ ριάδας διακοσίας τρ ι άκοντα δύ ο καὶ δέδωκεν αὐτῶν αὐτ ο͂ν χειρία χι ρία τῇ ὅσπιτι. τῇ ὅσπιτι. ἰ δοὺ οὖν ἀπέστειλά ἀ σ πεστιλά σοι συ καὶ τὴν καὶ τὴν χεῖρα χῖρα ἣν τὴν δέδωκεν Ἰ σᾶς τῶν διακοσίων τριάκοντα δύο μυ τῶν διακοσίων τριάκοντα δύο μυ ριάδων ριάδων καὶ ὅλον τὸ λογάριον λογαριν τῆς οἴ κίας κίας ὔ κίας κίας καὶ τῶν ψωμίων ψομίων · ἀπὸ δὲ τοῦ Φαρ μοῦθι μηνὸς Πίστη παρέλαβεν μοῦθι μηνὸς Πίστη παρέλαβεν τὴν τὴν οἰκίαν ὐ κίαν σου καὶ τοὺς ἄρτους μέχρι τοῦ δεῦρ τοῦ δεῦρ ο · προσέεικεν γὰ ρ ὁ Ἰ σᾶς τοῖς τῦς ἐν ἀγροῖς ἀγρῦς κα ὶ παρέδωκεν αὐτὴ ν τῇ Πίστῃ, καὶ ὑπεδέξατο καὶ παρὰ τῇ Πίστῃ, καὶ ὑπεδέξατο καὶ παρὰ .. αλεί ο υ ἐκ σῆς εξῆς ἐπιστολῆς τῆς σῆς πάλ ιν τ ο ῦτο ὁ Ἰσᾶς Ε ἰ σᾶς μ υ ριάδας πεντή κ οντα ‡2‡2 ν κ αὶ οἴνου ὔ νου κεράμια δύο . ἀσπά ἀσπά ζο μαι ὑμᾶς ἡμᾶς πάντ ας κατʼ ὄνο μα. μα. ἐρρῶσθαι ἐρρῶσθε σε σαι εὔχομαι εὔχομαι πολλοῖς πολλῦς χρόνοις χρόνυς ἀπόδ ἀπόδ ο ς Ἀβιννέει Ἀπολλῶς. Ἀπολλῶς.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23815,
+      "reference": "P.Abinn. 23",
+      "date": "mid-4th c.",
+      "description": "Letter | Apollos invites Abinnaeus to a celebration",
+      "greek": "κυρίῳ μου κυρίῳ μου πατρὶ Ἀ βιννεί ῳ Ἀπολλῶς. Ἀπολλῶς. πρ ὸ μὲν πάν των εὔχ των εὔχ ο μα ί σε σα ι ὁλόκλη ρον ἀ ρον ἀ π ο λ αβ εῖν τ ὰ παρʼἐ μοῦ γρά μοῦ γρά μματα . κα λῶς ποιήσεις πυήσει ς κύρ ιέ μου πάτ ερ ἐπ ἐπ ι δ η μῶν . δ ... . ... α τ α ....... . ... απ .... . π π .... .. ...... . κα . ε ἀπ ἀπ α ν τ ή σῃς εἰς τὴν ἀγα θὴν ἡμέραν μετὰ Κοσταν θὴν ἡμέραν μετὰ Κοσταν τίου τοῦ τίου τοῦ υ ἱοῦ σου καὶ Ἀ δ ... τιον καὶ τὴν σύμβι τιον καὶ τὴν σύμβι ον α ὐ το ῦ καὶ τοὺς υ ἱοὺς ἀπα ν τῆσαι καὶ Π τῆσαι καὶ Π ά πον μ ετ ὰ τῆς συμβίου αὐτ τῆς συμβίου αὐτ οῦ . ἐρρῶσθαι ερρωσθει ὑμ ᾶ ς εὔ χομαι, κύριε, πο λλ οῖ ς χρ όνοις . ἀπόδος Ἀβιννέῳ ἀπόδος Ἀβιννέῳ παρὰ Ἀπολλῶ παρὰ Ἀπολλῶ ....",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23821,
+      "reference": "P.Abinn. 31",
+      "date": "ca. 346",
+      "description": "Letter | Thareotes addresses Abinnaeus as \"master and patron\"",
+      "greek": "τῷ δεσπότῃ μου καὶ πάτρωνι πραιποσίτῳ τῷ δεσπότῃ μου καὶ πάτρωνι πραιποσίτῳ κάστ κάστ ρ ων Διονυσιάδος Θαρεώτης ἐν Θαρεώτης ἐν θ ε ῷ χαίρειν. πρῶτον μὲν πρῶτον μὲν εὔχομαί εὔχομέ σε σοι εὐθυμοῦντα ἀπολα βεῖν βεῖν ἀπολα βῖν βῖν τὰ παρʼ ἐμ ο ῦ γράμματα· εὔχομαι εὔχομε γὰρ καὶ παρὰ τῷ κ υρί ῳ τὴν ὁλοκληρίαν Κωσταντίου καὶ Δόμνου. τὴν ὁλοκληρίαν Κωσταντίου καὶ Δόμνου. παρακαλῶ σε δέ, δέσποτά μου, παρακαλῶ σε δέ, δέσποτά μου, παρατιθέμενός παρατιθόμενός σοι τὸν υἱὸν τοῦ ἀδελφοῦ μοῦ σοι τὸν υἱὸν τοῦ ἀδελφοῦ μοῦ Συρίωνα σιριωνα . αἰτεῖ ἠτῖ σε δὲ καὶ καὶ ἀξιοῖ ἀξιοῖ κατακούσειν κατηχεύσεν αὐτῷ ὡς ἐμοί· οὕτως γὰρ ἐγὼ εἶπα ὅτι τινὸς ἐὰν εἶπα ὅτι τινὸς ἐὰν χρείαν χρίαν ἔχῃς ὁ δεσπότης μου παρέχεταί παρέχετέ σοι ἐ κεῖ. ἀπέστειλά ἀπέστιλά σοι δὲ διὰ Ἀμμωνίο υ σκυτέως σκοιτέως χεννίω ν χεννιω βίκους β , γάρου μαυρα μαυρ α , γλυκυδίων γλυκοιδίων ὀμφακηρὰν ὀμφακηρὰ α · ἐπιστολὴν δὲ αὐτῷ οὐκ ἐποίησα, τοὺς δὲ στρουθοὺς ἀρραβῶνα δέδω οὐκ ἐποίησα, τοὺς δὲ στρουθοὺς ἀρραβῶνα δέδω κα. κα. θάρσει θάρσι αὐτοὺς ἔνεισιν ἔνουσιν οἱ στρουθοί στρουθού . ἐπειδὴ ἐπιδὴ οὖν ἔτι μικκοί εἰσιν καὶ μικκοί εἰσιν καὶ λευκοὶ λεεικοὶ λειδω . ... ι ἄφες γένωνται γένοντα μεγ μεγ ά λα , καὶ ἐγὼ κἀγὼ ἔλθω ἔρθω μ ετʼ ἐ σοὶ πρ ὸ ς τὸν Φαμενώθ· ἐν ἐν ἑτοίμῳ ἑτ ύμ ως δὲ ἔχε τὰ τὰς σιππεῖα σιππῖα , φέρω γὰρ τοὺς κυνη γοὺς γοὺς κοινη γοὺς γοὺς ἐρχόμενος, ἵ να τὰ λίνα ποιήσωμεν ποιήσομεν . ἀποστέλλω δὲ πρός σε καὶ τὰ καμήλια τὰ ἀπὸ τῆς μέσης μετὰ γραμμά πρός σε καὶ τὰ καμήλια τὰ ἀπὸ τῆς μέσης μετὰ γραμμά των ἀναδιδάσκοντά σοι ἄν τι των ἀναδιδάσκοντά σοι ἄν τι χρείαν χρίαν ἔχωσιν οἱ τὰ στρου θεῖα θεῖα στρω τῖα τῖα , ἵνα εἵνα αὐτοῖς ἀπαγγέλῃς ἀπογ ά λῃς · πολλοὶ γὰρ αὐτοῖς κακὸ ν κακὸ παρ έ χουσι χουσι ν τὰ δὲ ἀντιλαβεῖν ἀντιλαβε͂ν ἀ κέρ αι α· καὶ ἐγὼ κἀγὼ οὐκ ἀφ ῶ αὐτοὺς ............... αρ . . .... ..... .... .... .... . ν λ λ υσομε . .. . ἐρρῶσθαί σε εὔ χομαι τῷ δεσπότῃ μου πραιποσίτῳ Θαρεώτης τῷ δεσπότῃ μου πραιποσίτῳ Θαρεώτης",
+      "translation": ""
+    },
+    {
+      "corpus_id": 18370,
+      "reference": "P.Abinn. 32",
+      "date": "ca. 346",
+      "description": "Letter | Kaor, priest of Hermopolis, asks forgiveness for deserter Paul",
+      "greek": "τῷ δεσπότῃ μου καὶ ἀγαπητῷ τῷ δεσπότῃ μου καὶ ἀγαπητῷ ἀδελφῷ Ἀβιννέῳ ἀδελφῷ Ἀβιννέῳ πραιπ οσίτῳ Κάορ πάπας Ἑρμοῦ πόλεως Κάορ πάπας Ἑρμοῦ πόλεως χαίρειν . ἀσπάζομαι ἀσπάζωμαι τὰ παιδία πεδία σου πολλά. γινώσκειν γινώσκι ν σε θέλω, κύριε, π π ε ρ ὶ Παύλου Παύλω τοῦ στρατιώτου στρατιότη περὶ τῆς φυγῆς συνχώρησε περὶ τῆς φυγῆς συνχώρησε αὐτῷ αὐτοῦ τοῦτο τουτω τὸ ἅπαξ ἅβαξ ἐπειδὴ ἀσχολῶ ἐπειδὴ ἀσχολῶ ἐλθεῖν ἐλθῖν πρὸς σὲ σὲν αὐταὶ αὐτὲ ἡμέραι ἡμέρε . καὶ πάλιν πάλειν ἄν ἄμ μὴ π αύσεται ἔρχεται εἰς τὰς χεῖράς σου εἰς τὰς χεῖράς σου ἄλλο ἀλλω ἅπαξ ἅβαξ . ἐρρῶσθαί σε εὔχο ἐρρῶσθαί σε εὔχο μαι πολλοῖς χρό μαι πολλοῖς χρό νοις, κύριέ μου νοις, κύριέ μου ἄδελφε. ἄδελφε.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23822,
+      "reference": "P.Abinn. 33",
+      "date": "ca. 346",
+      "description": "Letter | Klematios requests leave for soldier Ision",
+      "greek": "τῷ δεσπότῃ μου Ἀβιννέῳ τῷ δεσπότῃ μου Ἀβιννέῳ Κλημάτιος. Κλημάτιος. πάντας τοὺς φίλους ἀεὶ εὐχόμεθα ἐν πάντας τοὺς φίλους ἀεὶ εὐχόμεθα ἐν μείζοσιν μίζοσιν προκόπτοντας πράττειν, ἵνα καὶ ἡμεῖς ἡμῖς τῆς πράξεως ἐκείνων ἀπολαύειν δοκῶμεν. ἓν οὖν καὶ τοῦτό μοί ἐστιν διὰ γραμμάτων παρακαλέσαι τὴν σὴν χρηστότητα, κύριε, ἀπαράβλητε, καὶ διὰ γραμμάτων παρακαλέσαι τὴν σὴν χρηστότητα, κύριε, ἀπαράβλητε, καὶ ἵ να μὴ νομίσῃς διά τι κέρδος τοῦτ διά τι κέρδος τοῦτ ό με ποιεῖν, γνωρίζω τῇ εὐγενείᾳ εὐγενίᾳ σου τὸ πρᾶγμα. Ἰ σίων τις πρόμωτος ἐκ τῶν ὑπὸ τὴν σὴν φροντίδα ἐκ τῶν ὑπὸ τὴν σὴν φροντίδα διαφέρει διαφέ ρ ι μοι, διαφέρει διαφέρι δὲ καὶ τῷ κυρίῳ μου καὶ ἀδελφῷ Παύλῳ τῷ κορνικουλαρίῳ τῆς παρεμβολῆς. πενθερὸς γὰρ Παύλῳ τῷ κορνικουλαρίῳ τῆς παρεμβολῆς. πενθερὸς γὰρ τυγχάνει τυγχάνι Τιμοθέου οὐετραν οῦ τοῦ ἐν Π τοῦ ἐν Π α ρ .. τ ον τ ι κεκτημένου, ὄντος ὁμογνησίου ἀδελφοῦ τοῦ προειρημένου Παύλου. ἐπεὶ οὖν οὐδεμία διαφορά ἐστιν μεταξὺ ἐμοῦ καὶ Παύλου. ἐπεὶ οὖν οὐδεμία διαφορά ἐστιν μεταξὺ ἐμοῦ καὶ ἐκείνων κακείνων διὰ τοῦτο παρακαλέσαι σε ἔσπευσα ὅπως συνχωρήσῃς τούτῳ τοῖς πράγμασιν ἡμῶν παρακαλέσαι σε ἔσπευσα ὅπως συνχωρήσῃς τούτῳ τοῖς πράγμασιν ἡμῶν προσέχειν, δυναμένου σοῦ ὅπου τις ἀνά προσέχειν, δυναμένου σοῦ ὅπου τις ἀνά γ κη κατεπείγει κατεπίγει τοῦτον μετακαλέσασθαι καὶ πάλιν εὐθέως ποιῆσαι ὡς προεῖπον, τοῖς πράγμασιν ἡμῶν προσέχειν. ἵνα δὲ γνῶμεν ὅτι τῇ εὐθέως ποιῆσαι ὡς προεῖπον, τοῖς πράγμασιν ἡμῶν προσέχειν. ἵνα δὲ γνῶμεν ὅτι τῇ ἀξιώσει ἡμῶν ἐπένευσας καταξίωσον δεξάμενός μου τὰ γράμματα, κύριέ μου, ἀξιώσει ἡμῶν ἐπένευσας καταξίωσον δεξάμενός μου τὰ γράμματα, κύριέ μου, ἀντιγράψαι μοι περὶ τούτου. ἀντιγράψαι μοι περὶ τούτου. ἐρρῶσθαί σε εὔχομαι πολλ εὔχομαι πολλ ο ῖς χρόνοις, κύριε. χρόνοις, κύριε. τῷ δεσπότῃ μο υ Ἀβιννέῳ Κλημάτιος. Κλημάτιος.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23823,
+      "reference": "P.Abinn. 34",
+      "date": "ca. 346",
+      "description": "Letter | Mother of Moses asks for leave for servant Athioein",
+      "greek": "τῷ δεσπότῃ μου τῷ δεσπότῃ μου καὶ πάτρωνι πραιποσίτῳ καὶ πάτρωνι πραιποσίτῳ ἡ μήτηρ τοῦ Μουσῆ. ἡ μήτηρ τοῦ Μουσῆ. ἔπεμψας ἐπὶ Ἥρωνα, ἔπεμψας ἐπὶ Ἥρωνα, κύριε πάτρων. ἀπῆλθεν κύριε πάτρων. ἀπῆλθεν οὖν μετὰ οὖν μετὰ τῶν τον βαρβάρων βαρβάρον . μετὰ τὸν θεὸν μετὰ τὸν θεὸν οὐδένα οὐδιναν ἔχομεν ἔχομεν ἡμεῖς ἡμῆς βοηθὸν ὑ μῶν. ἔπεμψά σοι σου οὖν, κύριέ μου, τὸν Ἀθιόειν· κύριέ μου, τὸν Ἀθιόειν· ἀξιῶ τοὺς πόδας σου, ἀξιῶ τοὺς πόδας σου, κύριε κύριε πάτρων πατρωνι , ἐπειδὴ ἐπιδὴ οἶδας οἶδης καὶ σὺ ὅτι αἱ ἡ πέντε πέντη ἡμέραι ὁ ἐνιαυτὸς ὅλος ἡμέραι ὁ ἐνιαυτὸς ὅλος εἰσί, ἀξιῶ σε καὶ εἰσί, ἀξιῶ σε καὶ παρακαλῶ παρακαλο σε, κύριε, κύριε, ἵ να συνχωρήσῃς αὐτῷ αὐτοῦ τᾶς ὀλίγας ἡμέρας. εἴ ἤ τι κελεύεις, κ ύρ ι ε, εἶπον τῷ το ῦ Ἀθιόει. ἐρρῶσθαί σε εὔχομαι, ἐρρῶσθαί σε εὔχομαι, κύριε κύριε πάτρων πατρωνι .",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23824,
+      "reference": "P.Abinn. 35",
+      "date": "mid-4th c.",
+      "description": "Letter | Paesis on three days in Karanis failing to extract a recruit",
+      "greek": "τῷ δ τῷ δ εσ πότῃ μου καὶ κυρίῳ μου πραιποσίτῳ Παήσιος· πραιποσίτῳ Παήσιος· οἶδας οἶδης τὴν προαίρεσίν προέρεσίν μου ὅτι ὁποίαν προαίρεσιν προέρεσιν ἔχω καὶ οἶδας τὴν γνώ μην μου ὅτι γν μην μου ὅτι γν ώ μη ὅπ ο ιά ἐστιν. μάτυρός ἐστιν ὁ μάτυρός ἐστιν ὁ θ ε ὸς ὅτι οὐ διὰ λῆμμα μάχομαι μέχωμε ἀλλὰ μ ά χομαι μ ά χομε διὰ σέ. ἐπειδὴ πράσσεις πράσ σ ις θέλω θέλο σ ε πάντοτε καλῶς ἔχειν ἀλλὰ θέλομέν σε ἐξ ὀλίγου ἔχειν ἀλλὰ θέλομέν σε ἐξ ὀλίγου λημματισθῆναι, λημματισθῆναι, τοῦτο τουτω γὰρ παρὰ πάντας καλῶς ἐστὶν καὶ παρὰ θεῷ. πάντας καλῶς ἐστὶν καὶ παρὰ θεῷ. ἐξέτασον Ἥρωνα τὸν ἐλθόντα ἐξέτασον Ἥρωνα τὸν ἐλθόντα μετὰ τῶν σ μετὰ τῶν σ ῶ ν γραμμάτων μὴ εὑρεθέντος μ εὑρεθέντος μ ο υ ἐν τῇ ἡμετέρᾳ μου κώμῃ ἀλλὰ ἐν τῇ Καρανίδι· κώμῃ ἀλλὰ ἐν τῇ Καρανίδι· ὁ τον υἱός υἱον μου δὲ μου δὲ ὁ τον στρατευόμενος στρατευομενων ἐν ὀφ φικίῳ ἐπάρχου ἐπάρχω Αἰγύπτου ἦλθεν μεθʼ ἑαυτοῦ πρός με ἐν τῇ πρός με ἐν τῇ Ἀ γραρίου· ἐποιήσα μεν γὰρ μεν γὰρ τρεῖς τρῖς ἡ μ έρας ἐν τῇ Καρανίδι κοινότεροι κοινώτεροι κα ὶ ο ὐκ ἐδυνήθημεν αἰδυνήθημεν ἕνα ἕνα ἄνθρωπον ἄνθροπον ἀ ποσπάσαι ἐκεῖθεν ἐκῖθεν . κατέσχαμεν δὲ κατέσχαμεν δὲ τὸ ν εἰρήναρχον θέλον τες αὐτὸν ἀπο τες αὐτὸν ἀπο σπ άσαι· ε λ . . λ θη συνόλη σινόλη ἡ κώμη ὅτι ἡ κώμη ὅτι οὐ δένα ἐ πε τρέπομεν ἐκβῆναι ἀπὸ τῆς κώμης. ἔδωκαν ἐκβῆναι ἀπὸ τῆς κώμης. ἔδωκαν δὲ ὑμῖν, ἐάν δὲ ὑμῖν, ἐάν σο ι δοκεῖ δοκῖ , νομισμάτια δύο καὶ ἀργυρίου τάλ καὶ ἀργυρίου τάλ αν τα π εντή κοντα . ἀσπάζομαί ἀσπάζομαί σε σαι ἅμα μετὰ τῶν παιδίων σου τοῦ ἀβασκάντου σου οἴκου τοῦ ἀβασκάντου σου οἴκου καὶ ἂν εὐτυχῶς ἐπιδημήσῃς ἐ καὶ ἂν εὐτυχῶς ἐπιδημήσῃς ἐ ξ έτασον περὶ τοῦ πράγματος τούτου ὅτι οὐδεμία διαφορὰ οὔκ ἐστιν. καὶ ἀπελθόντων ἡμῶν καὶ ἀπελθόντων ἡμῶν ἐκεῖσε ἐκῖσαι εὑρήκαμεν τὸν πραιπόσιτον τοῦ πάγου ἐκεῖσε ἐκῖσαι καὶ οὐκ ἠθελήσαμεν τὸ πρᾶγμα κινῆσαι, καὶ ἂν θέλῃ ὁ θεὸς μετʼ ἐσοῦ εἰμί. τὸ πρᾶγμα κινῆσαι, καὶ ἂν θέλῃ ὁ θεὸς μετʼ ἐσοῦ εἰμί. τῷ δεσπότῃ μου καὶ τῷ δεσπότῃ μου καὶ πάτρω νι Ἀμε ν έ ῳ πραι ποσίτῳ Παήσιος.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23825,
+      "reference": "P.Abinn. 36",
+      "date": "mid-4th c.",
+      "description": "Letter | Palas the foster-child asks for sheep for his wife",
+      "greek": "τῷ δε σ πότῃ μου τῆς ψυχῆς καὶ ἐξο καὶ ἐξο υ σιαστῇ τῷ ἐμῷ ἐμοῦ πραιποσί τ ῳ πρεποσεί τ ῳ Ἀμειναιώθει παρὰ Παλᾶτος χαίρειν. χαίρειν. π ροηγουμένως π ροηγουμαίνως εὔχομαι νυκτὸς καὶ ἡμέρας καὶ ἡμέρας περὶ περεὶ τῆς σοῦ ὁλοκλη ρίας ρίας ὁλοκλη ρείας ρείας ὅπως ὑγιαίνοντος ὑγιένοντος σ ου ου καὶ εὐ θ θ υ μοῦντος προσδέξῃ τὰ ἐμὰ γράμ μ ατα γρά μ ατα ατα . ἀσπάζομαι τὰ τέκνα σου. ἀξι ῶ καὶ δέομαι δαίομαι ὅπως, ἐὰν ἠὰν ἀπα ντήσῃς ντήσῃς ἀπα θήσ ῃς , ἐν τῇ ἐμοῦ κοιμῇ κημῇ . πρὸς θεῶν θεο͂ν ποι εῖς ἵνα εἵνα δῷς δης τῇ ἐμοῦ συμβίῳ συνβείῳ ἔνι α πρόβατα ἵνα εἵνα καὶ αὐτῇ καυτῇ εὑρε θῇ κα τὰ χέρα χαίρα αὐτῆς ὀλίγον λεπτάριον λεπτάρειον . οἶδας γὰρ κύριέ κύρειέ μου ὅτ ι ὅτ ει ἐμοῦ οὔκ εἰσιν εἰσειν . ἔγραψάν μοι κ αὶ ὅτι ὅτει ουδι . ... το φω ς καὶ κατηξιώσαν κετ εξ ιώσαν ἵνα εἵνα εἰδῶ διʼ αὐ τ ὰ καὶ πάλιν καὶ πάλιν ἐὰν ἠὰν ἀπο λέ σω ... ο ἐγὼ πάλιν σὸς δοῦλός ἐγὼ πάλιν σὸς δοῦλός εἰμὶ εἰμεὶ καὶ οὐκ ἀποστάνομαί σου ὡς καὶ οὐκ ἀποστάνομαί σου ὡς πρῶτο ν . ἐρρῶσθαι εὔχομαι ἐν ἐρρῶσθαι εὔχομαι ἐν κ υρί ῳ πολλοῖς πολλοισιν χρόνοις, κύριέ κύρειέ μου. ἀπό δος τῷ ἐμοῦ πάτρωνι πάτρωνει καὶ κυρίῳ κυρείῳ πραιποσίτῳ πρεποσίτῳ Ἀμεινεώθει παρὰ Παλᾶτος τοῦ θρεπτοῦ αὐτοῦ. παρὰ Παλᾶτος τοῦ θρεπτοῦ αὐτοῦ.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23826,
+      "reference": "P.Abinn. 37",
+      "date": "mid-4th c.",
+      "description": "Report | Subordinate on absent soldiers: Didymus, Gerontios, Theodoros",
+      "greek": "τῷ δεσπότῃ τῷ δεσπότῃ μο υ καὶ πάτρωνι πάτρωνει πραιποσίτῳ πρεποσίτῳ πο λλὰ χαίρειν χέρειν . προηγουμένως προηγουμένως εὔχομαί εὔχομέ σε σαι τὸν ἀβάσκαντον ἀβάσκατον οἶκον ὖκων . γινώσκειν γινόσκιν σε σε θέλω θέλο , πραιπόσ ι τε πρεπόσ ι τε κύρ ι ε, τ ὴ ν ἐπισ τολὴν τολὴν ἐπισ τονλὴν τονλὴν ἣν δέ δω κα Ποσιδωνίῳ Ποσιδωνίου διὰ διὰ τοὺς στρατιώτας στρατ ιό τας ζ οἳ ὓ προσεποιή σαντο υ αὐτοῦ εὐτοῦ ὅτι ἐγὼ ἐγ ὸ τι ς ἀ π ήγαγα εἰς δ ιν . .... κει ἀπέστει λα λα ἀπέ στ ι λα λα πρὸς σὲ σαὶ καὶ π . εστι νας τῆς τῆς πόλεως πολις μετʼ Ἀπολλω ν ίου. καὶ ἀπῆλθα πρὸς καὶ ἀπῆλθα πρὸς Δίδυμον Δίδυμων καὶ καὶ λέγει λέγι ὅτι οὕτι οὐ ὐ δύναμαι δύναμε ἀπελ θεῖν θεῖν ἀπελ τῖν τῖν ὅτι ἐν μεγάλῃ περιστάσει περιστάσι εἰμί εἰμεί , τρία νομισμάτια ἐ χρη σάμην παρὰ σάμην παρὰ στρατιωτῶν στρατιοτο͂ν καὶ οὐ κ κ ἐπιτρέπουσίν ἐπιτρέποσίν μοι ἐπανελθεῖ ν ν ἐπανελτῖ ν ν ἕως οὗ τοῦ ἀποδῶ τὸ χρέος χρέως . καὶ Γερόντιον ἐ καὶ Γερόντιον ἐ ζ ήτησα εὑρὼ ν αὐτὸν εὐτον ευτος ἐκ ἐγ Πελκεήσιο ς εἰς τὴν κώμην τῆς συμ εἰς τὴν κώμην τῆς συμ βίου βίου α ὐτ οῦ ε ὐτ οῦ καὶ ἔγραψα ἔγγραψα αὐτῷ εὐτοῦ τ ο ῦ ἀπαντῆσαι ἀπαντησο αὐτὸν εὐτὸν εἰς τὰ κάστρα καὶ εἰς τὰ κάστρα καὶ ἀντέ γραψέν γραψέν ἀντι γραψ γραψ ο ν μοι αὐτὸς εὐτὸς ὅτι τὴν πλ ευρὰν πάσχω ευρὰν πάσχω λάκτισμα λακτιμα λαβὼν ὅτε γίνομαι λαβὼν ὅτε γίνομαι ἐμαυ τοῦ τοῦ ἐμαυ το͂ το͂ τῇ αὖρ ι αὐρ ἐπʼ αὐτοῦ τοῦ πραι ποσίτου ποσίτου πρε ποσίτω ποσίτω . καὶ ἐπῆ λθα ἐ π ὶ Θε όδωρον, εὗρον όδωρον, εὗρον αὐτὸν εὐτὸν ἐ ν ... κατε χ ό με νον ορια τον ζωσ ο ν καὶ .. οστυ ο υ ἐξάκτορα μητι .. ροση καὶ ἐπὶ τοῦ το αὐτὸ εὐτὸ ἐκβῆναι ἐγβ ῆ νε . ἐρ ἐρ ρῶσ θαί σε σαι εὔ χο μαι πολλοῖς πολλοῖς χρόνοις .",
+      "translation": ""
+    },
+    {
+      "corpus_id": 15686,
+      "reference": "P.Abinn. 39",
+      "date": "4th c.",
+      "description": "Order | Ammonios and Abrinikos to Zakaon the fuller: supply order",
+      "greek": "Ἀμμώνιος καὶ Ἀ Ἀμμώνιος καὶ Ἀ β ρίνικος Ζακάωνι καθαρουργῷ Ζακάωνι καθαρουργῷ χ αίρειν . παράσχου τῷ πραιποσίτῳ παράσχου τῷ πραιποσίτῳ τῆς Διονυσιάδος τῆς Διονυσιάδος",
+      "translation": ""
+    },
+    {
+      "corpus_id": 25989,
+      "reference": "P.Abinn. 40",
+      "date": "after 322",
+      "description": "Note | \"Please receive him. He is compelled to contribute...\"",
+      "greek": ".. . ρ . κ ...... . θε θε λ ήσῃς ὑπ ο δέξασθαι ὑ πδ έξ ασθαι , ἀναγκάζῃ τοῦτον ἀναγκάζῃ τοῦτον συμ βα λέ σθαι εἰς τ ὸ προσ ο ρ μ οῦν τ οῦ πλοίου. τὸ δὲ ἐπίσταλμα πλοίου. τὸ δὲ ἐπίσταλμα ὑπ έγραψά έγραψά ὑπ έ εγραψά σοι ἕνεκεν τῶν ἀπὸ Ταυρίν ο υ ὑ ποδέξασθαί σε πάλιν πα ρʼ αὐ τῶν κομίσαι. τῶν κομίσαι. ἐρρῶσθ ἐρρῶ ωσ θ αί σε εὔ χ ομ αι",
+      "translation": "[...] please receive him. He is compelled to contribute to the [...]."
+    },
+    {
+      "corpus_id": 23829,
+      "reference": "P.Abinn. 41",
+      "date": "mid-4th c.",
+      "description": "Report | Deserting recruit (*tiron*), mother Tiames, village Tanis",
+      "greek": "ἀνεπέμφθη τίρων ἀνεπέμφθη τίρων στρα τευθεὶς τευθεὶς στρα τευθὶς τευθὶς .... ... ων καὶ φυγῇ χρησά χρησά μενος οὕτως· ... υτι ... ρ ώ σιος μητρὸς Τιαμῆς ἀπ Τιαμῆς ἀπ ὸ κ ώ μης Τάνεως. κ κ αὶ εἰ ἠ βούλει βούλι ἀπόστειλόν ἀπόστιλόν μοι Παῦλον ἵνα ε ἵ να αὐτῷ εἴπω καὶ περὶ τ ῶ ν νεύρων νεύρων ἵνα εἵνα ἐγὼ αὐτῶν προ νοή σωμαι .. .. ἔχετε καὶ εἴ τινος χ καὶ εἴ τινος χ ρεί α ἐσ τὶν εἰς τὰ πρ άγμ ατα τ ῆς οὐσίας .. υο ...",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23879,
+      "reference": "P.Abinn. 45",
+      "date": "23 Jun 343",
+      "description": "Petition | Flavius Priscus and Alia: night burglary at Philagris",
+      "greek": "Φ λ αο υ ίῳ Ἀβινναίῳ ἐπάρχῳ εἴλης σ σ τρατι ωτῶν κάστρων Διονυσιάδος παρὰ Φλα Φλα ο υ ί ου Πρίσκου οὐετρανοῦ τῶν ἐντίμως ἐντίμος ἀ πολελυ μ έν ων καὶ Ἀλίας θυ γυναικὸς Ἥρωνος στ ρα τ ι ώτου ἐν τῷ ἱ ε ρ ῷ κωμιτάτῳ κ ω μ ιτ άτου γεουχοῦν τ ος γεουχοῦν τ ες ἐ ν κ ώμῃ Φιλαγρίδι. κ ατὰ τ ὴν πέμπτην κα ὶ ε ἰκάδα τ οῦ παρ όντ ος μηνὸς Παῦνι, κύριε, ἐ μοῦ μὴ παρ ό ντος ἀλλὰ τῆς γυναικὸς μ όνης μενούσης ἐν τῇ οἰκίᾳ, τινὲς κακοῦρ γοι νυκτὸς λῃστρικῷ τρόπῳ γοι νυκτὸς λῃστρικῷ τρόπῳ ἐπῆλθα ν ἐπηλθα τῇ οἰκίᾳ καὶ τῇ οἰκίᾳ καὶ ὑπόρυγμα ὑπόρυχμα πεποιηκότες καὶ καὶ εἴ ἤ τι καὶ ἐγὼ αὐτὸς καὶ ἡ γυν ὴ ἐβά σ ταξαν ἐβάταξαν . διὰ αὐτὸ τοῦτο ἀξιῶ καὶ διὰ αὐτὸ τοῦτο ἀξιῶ καὶ δέ ομαί σου τῆς φιλανθρωπίας ὅπως τοὺς τῆς κώμης φιλανθρωπίας ὅπως τοὺς τῆς κώμης δ δ η μοσίους συλλαβόμενος συνλαβώμενος καὶ καταναγκά σῃς αὐτοὺς σῃς αὐτοὺς τοὺ ς του τὴν σύλησιν πεποιηκότας σοι σοι παραστῆσαι παραστῆσε , εἶτα τὰ γραφέντα ὑφʼ ἡμῶν εἰς γνῶσιν τοῦ κυρίου ἡμῶν δουκὸς γνῶσιν τοῦ κυρίου ἡμῶν δουκὸς ἀνενέγκῃς ἀνανικῃς · αὐτοῦ γάρ ἐστιν αὐτοῦ γάρ ἐστιν τοὺς τὰ τοια ῦτ α τολμῶντας τολμοῦντες ἐκδι κεῖν κεῖν ἐκδι κῖν κῖν . καὶ τοῦτου τοῦτο τυχόντες τυχων χ χ ά ρ ι τά σοι ὁμολογήσο μεν μεν ὁμολογήσω μεν μεν , κύριε. διευτύχει. Φλαούιος Πρίσκος καὶ Φλαούιος Πρίσκος καὶ Ἀλία Ἀλιας ἐπιδεδώκαμεν. ὑπατείας Φλαουίου Πλακίδου καὶ Φλαουίου ὑπατείας Φλαουίου Πλακίδου καὶ Φλαουίου Ῥομύλου τῶν λαμπροτάτων, Παῦνι Ῥομύλου τῶν λαμπροτάτων, Παῦνι κθ .",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23831,
+      "reference": "P.Abinn. 46",
+      "date": "22 Sep 343",
+      "description": "Petition | Aurelius Theodoros: beaten half-dead",
+      "greek": ".............. .. ...... νκ ... ι .. . . . .. ............. τ ο, καὶ τὰς πληγὰς πληκὰς ἔχω ἐχο νῦν οὐδὲν αὐτοῖς χ ρεωστῶν, ὃ καὶ δ ι ὰ μεσίτου ἐπιδεί κνυμι ἐπιδί κνυμι ...... ι ρηρκαι με μαι ἀπʼ αὐτῶν αυτων ἡμιθανῆ ἡμηθανην , καί ἐστι ... ας τὸ ὄνομα τουνομα . διὰ αὐτὸ τοῦτο ἐπι δίδωμί σοι τ αῦτα τὰ ἔγ γ ραφα ἔγραφα , πραιπόσιτε πρεπόσιδε , .......... ἔκρ ινές με ὡς μηδὲν μητὲν αὐτοῖς χρεωστῶ. διευτύχει. Θὼθ κδ . ὑπατεία ς Φρ ορ ί ο υ Πλακίτου καὶ Φλαβίου Φρομόλλου τῶν λαμ π ρ ο τάτων. Αὐρήλιος Θεώδωρος ἐπιδέδωκα ἐπιδέδοκα . ..... ὑπηρ έτης ἔγραψα ὑπὲρ αὐτοῦ ἀγραμμάτου ὄντος .",
+      "translation": ""
+    },
+    {
+      "corpus_id": 18371,
+      "reference": "P.Abinn. 47",
+      "date": "1 May 346",
+      "description": "Petition | Flavius Aunes: night burglary at Hermopolis",
+      "greek": "Φλαυίῳ Ἀβινναίῳ ἐπάρχῳ εἴλης στρατι Φλαυίῳ Ἀβινναίῳ ἐπάρχῳ εἴλης στρατι ωτῶν κάστρων Διο ωτῶν κάστρων Διο ν υσιάδος παρὰ Φλα ο υίου Αὐνῆ οὐετρανοῦ τῶν Αὐνῆ οὐετρανοῦ τῶν ἐντίμως ἐντιμους ἀπολ ε λυμένων ἀπολλυμένων γεουχοῦντος γεουχοῦντι ἐν κώμῃ Ἑρμοῦ πόλει πόλι . πρὸ δʼ ὀλίγων λιγων ἡμερῶν τούτων οὐκ ἡμερῶν τούτων οὐκ οἶδα ὖδα τίνι λόγῳ λόγου καὶ λῃστρι κῷ τρόπῳ νυκτὸς χρησάμενοί τινες κακοῦ κῷ τρόπῳ νυκτὸς χρησάμενοί τινες κακοῦ ργοι ἐπῆλθαν οἰκίᾳ μου καὶ ργοι ἐπῆλθαν οἰκίᾳ μου καὶ εἴ ἤ τι εἶχον ἐν τῇ αὐτῇ οἰκίᾳ βαστάξαντες καὶ μέχρι τῇ αὐτῇ οἰκίᾳ βαστάξαντες καὶ μέχρι δεῦρο δεῦρου μηδὲν εὑρηκέναι με ἀπὸ τῶν συληθέν μηδὲν εὑρηκέναι με ἀπὸ τῶν συληθέν των. διὰ αὐτὸ τοῦτο ἀξιῶ καὶ δέομαί σου τῆς των. διὰ αὐτὸ τοῦτο ἀξιῶ καὶ δέομαί σου τῆς φιλανθρωπίας φιλανθρωπίας τὸν τω εἰρήναρχον καὶ τοὺς δημοσίους τῆς αὐτῆς κώμης Ἑρμοῦ πόλε δημοσίους τῆς αὐτῆς κώμης Ἑρμοῦ πόλε ως ως συλλαβόμενος καὶ καταναγκάσῃς αὐτοὺς τοὺς κακούρ γους γους κακουρ γοις γοις σοι συ παραστῆσαι, εἶτα τὰ γραφέντα ὑπὸ ὑπὲ ἐμοῦ εἰς γνῶσιν τοῦ κυρίου μου δουκὸς ἐμοῦ εἰς γνῶσιν τοῦ κυρίου μου δουκὸς ἀνενέγκῃς ἀνανικῃς , αὐτοῦ γάρ ἐστιν τοὺς τὰ τοιαῦτα τολ μοῦντας μοῦντας τολ μοῦντες μοῦντες ἐκδικεῖν ἐκδικῖν . καὶ τούτου τούτο τυχὼν χάρι τά σοι ὁμολογήσω, κύριε. διευτύχει. τά σοι ὁμολογήσω, κύριε. διευτύχει. Φλαύ ι ος Αὐνῆς ἐπιδέδωκα ἐπιδέδοκα ὑπ ὑπ ατ ε ίας τῶν δεσποτῶν ἡμῶν Κ ωνστ αντίου Κ ωστ αντίνου τ ὸ δ καὶ Κώνσταντος Κώσταντος τὸ γ Αὐγούσ των Ἀγούσ των Παχὼν Παχὼν ϛ .",
+      "translation": ""
+    },
+    {
+      "corpus_id": 18372,
+      "reference": "P.Abinn. 48",
+      "date": "29 Jun 346",
+      "description": "Petition | Aurelius Aboul: eleven sheep shorn, six pigs driven off; soldier and irenarch among criminals",
+      "greek": "Φλαουίῳ Φλαουίῳ Ἀβιν ν α ίῳ ἐπάρχῳ εἴλης στρατι ωτῶν κά ωτῶν κά στ ρω ν Δ ι ονυσιάδος τοῦ Ἀρσινοίτου νομοῦ παρὰ Α νομοῦ παρὰ Α ὐ ρηλίου Ἀ βοῦλ Διονυσίου ἀπὸ κώ μης Ἑρμοῦ μης Ἑρμοῦ πόλε ως τοῦ αὐτοῦ νομοῦ. ἐκ έ ρ θησάν μου θησάν μου π ρό βα τα νυκτὸς τὸν ἀριθμὸ ν ἕνδεκα ἕνδεκα ὑπό τινων κακούργων, καὶ ἐμοῦ ἀνα ζητοῦντος τὴν τ ζητοῦντος τὴν τ ῶ ν προβάτων κουρὰ ν κουρα ἤκουσα Παῦλον τὸν σταρτιώτην τῶν ὑπὸ τὴν σὴν Παῦλον τὸν σταρτιώτην τῶν ὑπὸ τὴν σὴν φρον τίδα τίδα φρον τίδαν τίδαν , καὶ ὑπέβαλ ε ν τοὺς σὺν αὐτῷ κακοπραγμό νας νας κακωπραγμό νας νας Πέτρον υἱὸν Σ α ραπίωνος καὶ τὸν τούτου ἀδελφὸν Μέλαν στρατιώτην καὶ Ἀπίωνα υἱὸν ἀδελφὸν Μέλαν στρατιώτην καὶ Ἀπίωνα υἱὸν Ὡρίωνος εἰρηνάρχου ἀπὸ τ Ὡρίωνος εἰρηνάρχου ἀπὸ τ ῆς αὐτῆς κώμης. διὰ αὐτὸ τοῦ διὰ αὐτὸ τοῦ τ ο ἀ ξι ῶ καὶ δέομαί σου τῆς φιλανθρω πίας ὅ πίας ὅ π ω ς τούτο υς συλλαβόμε ν ος συνλ α β ώ με ν ος καὶ ἀ ναγκά σῃς σῃς ἀ ν α νκή σῃς σῃς . . βια ........ ὑπ ὸ τῶν κακοπραγμόνων κακωπραγμόνων τούτω τούτω ν , εἶτ α τὰ γραφέ ντα ὑπὸ ὑπὲ ἐμοῦ εἰς γνῶσιν τοῦ κυρίο τοῦ κυρίο υ μου δουκὸ ς ἀνενέγκῃς ἀνανικῃς · αὐτοῦ γ ά ρ ἐστιν τοὺς τὰ τοιαῦτ α τολμῶ ντας τολμοῦ ντ ες εκδικεῖν εκδικῖν . καὶ τούτου τούτο τυχὼν χάρ χάρ ι τά σ οι ὁ μο λογή σω, κύριε. διευτύχει. Αὐρήλιος Αὐρήλιος Ἀβ ο ῦλ ἐπιδέδωκα. ὑπατείας τῶν δεσπ ὑπατείας τῶν δεσπ οτ ῶν ἡμῶν Κωνσταντίου Κωνσταντινου τὸ τὸ δ καὶ Κώνσταντος Κώσταντος τὸ γ Αὐγούστων Ἀγούστων , Ἐπεὶφ Ἐπεὶφ ε . καὶ ἄλλοτε χ καὶ ἄλλοτε χ ο ίρους μου ἀπήλασαν οἱ αὐτοὶ οἱ αὐτοὶ οι . ου ρβ ης τὸν ἀριθμὸν ϛ .",
+      "translation": "[Translation from P. Abinn.] To Flavius Abinnaeus, praefectus alae of the troops in the camp of Dionysias in the Arsinoite nome, from Aurelius Aboul son of Dionysius, of the village of Hermopolis in the same nome. My sheep were shorn in the night, eleven in number, by certain criminals, and on my investigating the shearing of the sheep I heard (it was) Paul the soldier, one of those under your command, and he named as his fellow evil-doers Peter son of Sarapion and his brother Melas a soldier and Apion son of Horion the irenarch from the same village. Wherefore I ask and beseech your humanity to apprehend these men and compel them … by these evildoers, and then to bring my statement to the knowledge of my lord the Duke ; for his function it is to take vengeance on the perpetrators of such outrages. And obtaining this I shall acknowledge my gratitude to you, Sir. Farewell. I Aurelius Aboul have made this statement. Consulship of our masters Constantinus [sic] for the 4th time and Constans for the 3rd time, Augusti, Epeiph 5.  P.S. On another occasion the same persons drove off pigs of mine to the number of 6."
+    },
+    {
+      "corpus_id": 25037,
+      "reference": "P.Abinn. 49",
+      "date": "5 Jul 346",
+      "description": "Petition | Aurelia Maria: nine sheep shorn, three carried off alive at Theoxenis",
+      "greek": "Φλαουίῳ Ἀβινναίῳ ἐπάρχῳ εἴλης Φλαουίῳ Ἀβινναίῳ ἐπάρχῳ εἴλης στρατιωτῶν κάστρων Διονυσιάδος παρὰ Αὐρηλίας στρατιωτῶν κάστρων Διονυσιάδος παρὰ Αὐρηλίας Μαρίας γαμβρᾶς Ἀκιᾶρ στρατιωτῶν τῶν ἐν Μαρίας γαμβρᾶς Ἀκιᾶρ στρατιωτῶν τῶν ἐν Μέμ φει φει Μέμ φι φι διακειμένων διακιμένων ὑπὸ Κολλοῦθον πραιπόσιτον πρεπόσιτον γεουχοῦντος γεουχο ῦν τι ἐν κώμῃ Θεοξενίδι. κατὰ τὴν δευ τέραν τοῦ ὄντος μηνὸ τέραν τοῦ ὄντος μηνὸ ς Ἐπ ε ίφ, κύρι ε, ο ὐκ οἶδα ὖδα τί ν ν ι λό γῳ λό γου κ α ὶ λῃ στρικῷ τρόπῳ νυκτὸ ς χρησάμε νοί τινες νοί τινες κακ οῦργοι ἐπῆλθ αν τῷ ἐμῷ ἀγρῷ τῶν π ροβάτων καὶ κε ί ραντές μου π ρόβ ατ α τὸν ἀριθ μὸν μὸν ἐννέα ἐν ν ήα ἀφηρκέναι ἄλλα τρία πρόβατα ζῶντα. καὶ ζῶντα. καὶ ἀγροφύλακες ἀγροφυλάκων τῆς κώμης Θεοξενί δος τὴν τῶν προβάτων κουρὰν καὶ ἀπελασίαν δος τὴν τῶν προβάτων κουρὰν καὶ ἀπελασίαν ἀναζητοῦντες ἀναζητούντων εὗραν ἐν τῷ ἀγρῷ τῆς Ναρμού θεω θεω ς Ἰω άννην καὶ Ἠλείαν ὡς τούτων τὴν κουρ κουρ ὰ ν κα ὶ ἀπελασίαν πεποι η κότων πεποικέναι . διὰ αὐ τὸ τοῦτο ἀξιῶ καὶ δέομαί σου τῆς φιλανθρωπί τὸ τοῦτο ἀξιῶ καὶ δέομαί σου τῆς φιλανθρωπί ας ὅπως τούτους ας ὅπως τούτους συλλαβόμενος συνλαβώμενος καὶ κατα ναγκάσῃς αὐτοὺς τ ναγκάσῃς αὐτοὺς τ ὴ ν τῶν προβάτων κουρὰν καὶ ἀπελασίαν καὶ ἀπελασίαν ὁμολογῆσαι ὁμολογῆσε , εἶτα τὰ γραφέντα ὑπʼ ὑπε ἐμοῦ εἰς γνῶσιν ἐμοῦ εἰς γνῶσιν τ οῦ κυρίου μου δουκὸς ἀνε νέγκῃς νέγκῃς ἀνα νίκῃς νίκῃς · α ὐτ οῦ γάρ ἐστ ι ν τοὺς τὰ τοι α ῦ τα τολμῶντας τολμοῦντε ς ἐκ δικεῖν ἐ κ δικῖν · καὶ τοῦτου τυχ ὼν χ ά ριτά σοι ὁ μολ ογήσω, κύριε . διευτύχει. Αὐρηλία Μαρία γαμβρὰ Ἀκιᾶρ στρατιώτου Αὐρηλία Μαρία γαμβρὰ Ἀκιᾶρ στρατιώτου ἐπιδέδωκα. ἐπιδέδωκα. ὑπατείας τῶν δεσ ὑπατείας τῶν δεσ π οτῶν ἡμῶν Κωνσταντίου Κωνστ αν τίνου τὸ τὸ δ καὶ Κώνσταντος Κώσταντος τὸ γ Αὐγούστων Ἀγούστων , Ἐπεὶφ Ἐπεὶφ ια .",
+      "translation": "To Flavius Abinnaeus, prefect of the cavalry unit of the soldiers of the fort of Dionysias, from Aurelia Maria, daughter-in-law of Akiar, one of the soldiers stationed in Memphis under the command of Kollouthos, praepositus, who owns land in the village of Theoxenis. On the second of the current month of Epeiph, my lord, I do not know for what reason, and in the manner of brigands, certain criminals came by night to my sheep-fold, and having shorn nine of my sheep, they also carried off three other sheep alive. And the field-guards of the village of Theoxenis, investigating the shearing and driving-off of the sheep, found in the field of Narmouthis Ioannes and Eleias, as those who had committed the shearing and driving-off. Therefore I request and beseech your benevolence that you arrest these men and compel them to confess the shearing and driving-off of the sheep, and then bring what I have written to the knowledge of my lord the dux. For it is his responsibility to punish those who dare such things. And if I obtain this, I shall acknowledge my gratitude to you, my lord. Farewell. I, Aurelia Maria, daughter-in-law of Akiar the soldier, have submitted this petition. In the consulship of our lords Constantius for the fourth time and Constans for the third time, Augusti, Epeiph 11."
+    },
+    {
+      "corpus_id": 21130,
+      "reference": "P.Abinn. 50",
+      "date": "30 Jul 346",
+      "description": "Petition | Aurelius Anteus: seizures by the powerful at Narmouthis",
+      "greek": "Φλαου Φλαου ί ῳ Ἀμειναίᾳ πραιποσίτῳ πραιποσίτου κάστροις Διονυσιάδος παρὰ Αὐρηλίου παρὰ Αὐρηλίου Ἀντέως Ἄντ ευς διευ μ .. μ .. α ἀ πὸ κώμ ης Ναρμούθεως. τὰς ἐπὶ τῶν τόπων γιγνομένας ἁρπαγὰς καὶ πλεονεξίας τὰς ἐπὶ τῶν τόπων γιγνομένας ἁρπαγὰς καὶ πλεονεξίας ὑ πὸ τῶν δυνατωτέρων δυνατοτέρων ἀνθρώπων εἴωθεν εἴοθειν ἀνακό πτειν πτειν ἀνακ ώ πτιν πτιν ἡ σὴ ἀνδρεία ἀνδρία , πραιπόσιτε κύριε. ἐπειδὴ ἐπιδὴ , κύριε, κέκτημαι ἀρούρας ἀρούρας ἀσ πόρους ἓξ κ αὶ μὴ εὐ πο ρ ο ῦ μαι σῖτον εἰς τὰ μετρή ματ α αὐ τῶ ν ἐγεώργησ α ἀ ρ ο ύρ ας ἐν κώμῃ Μαγ αίδι μετʼ Ἀ ιῶν ος Α ἰω ν Ἀβῶτος Ἄβω ς ἀ π ὸ τῆς αὐτῆς κ ώμης ... ... .... . τὰ μ ε τ ρήμα τ α ὑ πὲ ρ ἧς κέ κ τημαι ἀ ρ ούρας κ αθὼ ς προεῖπον δ ικ αι ... ... ὁ αὐτὸς Ἀ ι ῶν μετὰ τὸ λικμῆσαί λεικμῆσ αί με τὰς ἁλωνίας ἀφήρ πα σε ν τὸ ν ἐμὸν σῖτον καὶ εἰς τὸ ἴδιον ἑ αυτοῦ ἀπήγα γεν κ αὶ τ ὸ ἡ μέ τ ερόν μου ἥμισυ μέρος ἀφήρπασεν. οὐ μό νον νον δὲ τοῦ το ἀλ λ ʼ ἐγ εώργησ α ἄλ λ ας ἀ ρούρας ἀπὸ ἑτέρου ὀνόμ ὀνόμ ατ ος ἀπὸ τ ῆ ς αὐτῆς κώμης καὶ ἐλίκμησα ἐλεί κμησα π άλ ιν .... το ... αν α ὐ τη .. .... ὁ θαυμα σ τὸς θαυματὸς Ἀι ῶν ἀφήρ πασεν τ ὸ ν ἐμ ὸ ν σῖ τ ον . η ... κε ι μενον α . τ ω τυραν νικῷ τρόπῳ ......... μ .... Ἀ βῶς .. ἔχων τὸν φοβον θεοῦ . .. .... ... μ ηδέ σου τοῦ ἐμ οῦ κυρίου ἀλλὰ θαρσῶν τοῖς ἐ μοῖ ς πράγμα σι καὶ τῇ κακοτροπίᾳ ἐμαυτοῦ ἐματοῦ , ὅθεν .... .. οι τα σαπ τ ............... παρά σοι . ο . ε .... ... νω την περ αλα ἵ νʼ εἰ δοκ ε ῖ σ οι δ ο . . .. σῃ ς ι σ τ .. .... α χθῆναι ἐπί σε τὸν προει ρημένον Ἀ ι ῶνα καὶ καὶ ἐπα ν α γκάσῃ ς αὐτὸν ἀποδοῦ ναί μοι τὴν μοῖραν μῦραν μου κ κ αὶ .... . .. .... . .. καὶ ἅ μα ἐγ ὼ δυνηθῶ εὐ πο ρ εῖ σθ αι ἀπὸ ἀπὸ ἄ λλη ς ... το .... ... σῖ τ ον ὑπὲρ ἧς κέκτη μ αι ἀρούρα ς. ὑπα ὑπα τ είας τῶ ν δεσποτῶν ἡ μῶ ν Κ ων στ αν τίου τὸ δ καὶ καὶ Κώνσταντος Κόσταν τος τὸ γ Αὐγούστω ν Ἀγ ού σ τ ω ν Μ εσορὴ ϛ . .... . ον . ν κουα π ι .",
+      "translation": ""
+    },
+    {
+      "corpus_id": 18373,
+      "reference": "P.Abinn. 51",
+      "date": "26 Aug 346",
+      "description": "Petition | Aurelia Ataris: locked in house, beaten, jumped to escape",
+      "greek": "Φλαυ Φλαυ ί ῳ Ἀβιννέῳ ἐπάρχῳ εἴλης εἴλεις στρατιωτῶν διακειμένων διακιμένων ἐν κάστροις Διονυσιάδος παρὰ Αὐρηλίας Ἀτᾶρις παρὰ Αὐρηλίας Ἀτᾶρις θυγ ατ ρὸς θυγηρ Μέλανος οὐετρανο ῦ γεουχούσης γεουχουσα ἐν κώμῃ Ἑρμοῦ πόλει. κατὰ τὴν τρίτην τῶν τρίτην τῶν ἐπαγομένων ἐπαγωμένων , οὐκ οἶδα ὖδα τίνι λόγῳ κ αὶ λῃστ ρ ικῷ λιστ ρ ικῷ τρόπῳ τρώπῳ χρησάμενοι, πρὸς ὥραν δε κάτην, ἐμοῦ κάτην, ἐμοῦ ἀπαιτοῦντός ἀ π ετοῦντός μου τὸ τω χρέος χρεως νρεως τῶν χρεωσ τεῖ τεῖ χρεωσ τῖ τῖ μοι, ἀπέκλεισέν ἀπεκλισεν απεκλισεα με ἐν τῇ οἰκίᾳ αὐτοῦ Πολείον ἅ ἅ μ α τῷ τοῦ υἱῷ υἱοῦ Ὡρίωνος τ οῦ εἰρηνάρχου ἠρηνάρχου Ἀπίωνι Ἀπειόν καὶ καὶ τῇ τῆς ἀδελφῇ ἀδελφης τοῦ Πολ είονος Κυριακῇ Κυριακῆς καὶ ἀπέκτεινάν ἀπέκτινάν με με ταῖς τε͂ς πληγαῖς πληγε͂ς · φυγῇ φυγην ἐχρησάμην ἀπὸ τῆς οἰκίας αὐτοῦ καὶ ἀπέβαλα καὶ ἀπέβαλα ἐμαυτὴν ματὴν ἀπάνωθεν ἀπὸ τῆς ὕ βρεως αὐτῶν καὶ τῆς βίας ἣν ἔπαθα ἀπὸ αὐτῶν καὶ τῆς βίας ἣν ἔπαθα ἀπὸ αὐτῶν ἀτῶν καὶ πρὸς πρὸς θάνατον θάνατων ἀνάκειμαι ἀνάκιμαι . διʼ αὐτὸ αὐτω τοῦτο τουτω ἀξιῶ καὶ δέομαί δέωμαί σου τῆς φιλανθρωπίας, κύριε, τούτους συνλα βέσθαι καὶ παραπέμψ βέσθαι καὶ παραπέμψ αι αὐτοὺς τῷ τοῦ κυρίῳ μου δουκί δουκως · αὐτοῦ γάρ ἐστιν τοὺς τὰ τοιαῦτα αὐτοῦ γάρ ἐστιν τοὺς τὰ τοιαῦτα τολμῶντας τωλμοῦντες ἐκδικεῖν ἐκδικῖν · καὶ καὶ τούτου τούτω τυχὼν χάριτά σοι ὁμολογήσομαι ὡμολογήσομε , κύριε. διευτύχει. διευτύχει. Αὐρηλία Ἀτᾶρις ἐπιδέδωκα. Αὐρηλία Ἀτᾶρις ἐπιδέδωκα. ὑπατείας τῶν δεσ ὑπατείας τῶν δεσ π ο τῶν ἡμῶν Κωνσταντίου Κωσταντίου τὸ τὸ δ καὶ Κώνσταντο ς Κώσταντο ς τὸ γ Αὐγούστων Ἀγούστων , ἐπ αγομέ νων γ .",
+      "translation": ""
+    },
+    {
+      "corpus_id": 137220,
+      "reference": "P.Abinn. 53",
+      "date": "Dec 346",
+      "description": "Petition | Son of Heron: ten pigs stolen, suspect Zoilos found",
+      "greek": "Φλαουίῳ Φλαουίῳ Ἀβινναί ῳ Ἀβίνναι ἐπάρχῳ εἴλης στρατιω τῶν κάστρων Διονυσιάδ τῶν κάστρων Διονυσιάδ ος παρὰ Α Α .. στ Ἥ ρωνος ἀπὸ κώ μης Ἑρμοῦ πό λε λε ως . π ρὸ ἱκανοῦ ε ἱκανοῦ χρόν ου, κύριε, ἀπηλάσθησάν ἀπελ άσθ ησσά ν μου χοῖροι τὸν ἀριθμὸν δέκα δέκα ὑπό τινων κακοπ ραγμόνων, καὶ ἐμοῦ ἀναζητοῦντος τ καὶ ἐμοῦ ἀναζητοῦντος τ ὴ ν τούτων ἀπε ἀπε λασίαν ἐν κώμῃ παρὼ ν εὗρον Ζωίλ Ζωίλ ον υἱὸν Διογένους. δ ιὰ αὐτὸ τοῦτο ἀξιῶ κα ἀξιῶ κα ὶ δέομαί σου τῆς φι λανθρωπίας ὅπως τοῦτον ὅπως τοῦτον συλλαβόμε νος συνλαβ ώ μ ε νος καὶ κατανα γκάσῃς α γκάσῃς α ὐ τὸν τὸν σὺν αὐτ ῷ κακοπράγμονα ὁμολογῆσαι ὁμολογῆσε , εἶτα τὰ γραφέντα ὑπʼ ἐμοῦ εἰς γνῶσ ι ν τοῦ κυρίου μου δ ουκὸς ἀνενέγκῃς ἀνανικῃς · αὐτοῦ γάρ ἐστιν τοὺς τ ὰ τοιαῦτα τολ μῶντας μῶντας τολ μ μ ου ντες ἐκδικεῖν ἐ κδικῖν . καὶ τούτ ου τυχὼν χάριτά σοι ὁμολογήσω, κύριε. σοι ὁμολογήσω, κύριε. διευτύχει . Αὐ Αὐ ρ ήλιο ς Α . στ ἐπιδέδ ωκα . ὑ πατείας τῶν δεσποτῶ ν ἡμῶν Κωνσ ταντί ου τὸ δ καὶ Κώνσταντος τὸ τὸ δ Αὐγούστων Ἀγ ούστων , Τῦ βι",
+      "translation": "To Flavius Abinnaeus, prefect of the cavalry unit of the soldiers of the camp of Dionysias, from A[...]st(?) son of Heron, from the village of Hermopolis. A considerable time ago, my lord, ten pigs of mine were driven off by certain criminals, and while I was searching for these stolen animals in a village, being present there I discovered Zoilos son of Diogenes. For this very reason I request and beseech your kindness that you arrest this man and compel him and the criminal with him to confess, and then that you report what has been written by me to the attention of my lord the dux; for it is his duty to punish those who dare such things. And if I obtain this favor, I shall acknowledge my gratitude to you, my lord. Farewell. Aurelius A[...]st(?), I have submitted this petition. In the consulship of our lords Constantius for the 4th time and Constans for the 4th time, the Augusti, Tybi [...]"
+    },
+    {
+      "corpus_id": 16522,
+      "reference": "P.Abinn. 55",
+      "date": "11 Feb 351",
+      "description": "Petition | Aurelius Heron the deacon: robbed of clothing at Berenikis",
+      "greek": "Φλαουίῳ Ἀβιν Φλαουίῳ Ἀβιν ν έῳ ἐ ξ ἀποπροτηκτόρων ἀποπρο τ ηκτώρων ἐπάρ χ ῳ εἴλης κάσ εἴλης κάσ τρω ν Διονυσιάδος. παρὰ Αὐρηλίου Ἥρωνο Ἥρωνο ς διάκω ν ος ἀπὸ κώμης Βερενικίδος Βερνικεί δ ος τοῦ αὐτοῦ νομοῦ χαίρειν. εἰ μὴ ὑπῆρχεν νομοῦ χαίρειν. εἰ μὴ ὑπῆρχεν ἡμῖν ἡμεῖν ἡ τῶν νόμων νόμων ἀ λήθει α πάλαι δʼ ἂν ὑπὸ τῶν κακού ργω ν ἀνῃρούμεθα ἀναιλούμεθα . Εὔπορος τοίνυν υ ἱὸς Ἑρμεία ἀπὸ κώμης ἀπὸ κώμης Φιλαγρείδος Φιλαγρείδος τοῦ αὐτοῦ νομοῦ ἐσύλησέν με ἐσύλησέν με ἔνδον ἔνδων τῆς οἰκίας οἰκείας , ἐπιβὰς λῃστρικῷ λῃστρεικῷ τρόπῳ, καὶ πᾶσαν τὴν ἐσθῆτα ἐσθηταν συνελάβετο καὶ συνελάβετο καὶ ε ἰς τὸ ἴ διον ἀνεστείλατο ἀνεστιλατω μέχρις μέχρεις δ εῦ ρο δ ευ ρ ω , δυναμ έν ου μου καὶ τ ὰ ς ἀποδείξει ς ἀπο δίξει ς ποι εῖν ὡς τούτου τήνδε τὴν ὡς τούτου τήνδε τὴν κ α κουργίαν π ε π οιημένου. διὸ διω ἀξ ι ῶ, πραιπόσιτε πραιπόσιται κ ύ ρι ε, ἀπραγμόνως ἀπρα γμώ νος ἃ ἀφήρπασέν μου ἃ ἀφήρπασέν μου π α ρασ χεθῆναί μ ο ι · διάκων γὰρ τ ετ ύ χηκα τῆ ς κ αθ ολικῆς ἐκ κ λ ησίας ἐκ λ η σίας . καὶ τ ούτ ο υ τυχὼν τυχὼν εἰσαεί εἰσαειν σοι εὐχαριστήσω εὐχαρειστήσω . διευτύχει. μετὰ τὴ ν ὑπατ είαν Φλ αουίων Σ εργίου καὶ Νειγρεινι αν οῦ τῶ ν λαμπροτά των, Μεχεὶρ ιζ .",
+      "translation": ""
+    },
+    {
+      "corpus_id": 18376,
+      "reference": "P.Abinn. 56",
+      "date": "ca. 346",
+      "description": "Petition | Aurelia Maria (of Hermopolis): inheritance seized by brother Onophris",
+      "greek": "Φ λαουίῳ Ἀβινναίῳ ἐπάρχῳ εἴλης στρατ ιωτῶν κάστρων Διονυσιάδος. δέησις. δέησις. παρὰ Αὐρηλίας Μαρίας θυγατρὸς Πεειήου τῶν ἀ πὸ κώμης Ἑρμοῦ πόλεως . οἱ των γονεῖς γωνεων μου τελευτή σαντ ες τελευτη σαντ ων κατέλειψαν κατέλιψαν πάντα τὰ ἀνθρώπι α , ὁ δὲ ἀ δελφός μου Ὠνῶφρις πά ντα κα τέ λαβʼ αὐ τὰ καί τινα τινας ἐπώλησεν. διὰ αὐτὸ τοῦ το ἀξ ιῶ καὶ δέομαί σου τῆς φιλανθρωπί ας ὅ πως καταναγκάσῃς αὐτὸν πάν τα ἐν εγκεῖν ἐν ε νκεναι ὡς προεῖπ ον ἐξ ἴσου δια μερι σθῆναι. καὶ τοῦτο τυχὼν εἰσαεί σου τῇ ψυ χ ῇ χάριτά σοι ὁμ ολ ογήσω , κύρι ε. ἔ στιν δέ· .... .. .......",
+      "translation": ""
+    },
+    {
+      "corpus_id": 25038,
+      "reference": "P.Abinn. 57",
+      "date": "ca. 346",
+      "description": "Petition | Aurelius Ouranios: attacked with clubs near Hermopolis",
+      "greek": "Φλ Φλ αυ είῳ Ἀβινναίῳ ἐπάρχῳ εἴλης στρατιωτῶν κάστρων εἴλης στρατιωτῶν κάστρων Διονυσιάδος παρὰ Αὐρηλίου Διονυσιάδος παρὰ Αὐρηλίου Οὐρανίου υἱοῦ Δαλματίου ἀπὸ Οὐρανίου υἱοῦ Δαλματίου ἀπὸ πραιποσίτων πρεποσίτων γεουχοῦντος γεουχοῦντι ἐν κώμῃ Θεοξενίδι. κατὰ τὴν κώμῃ Θεοξενίδι. κατὰ τὴν τεσσαρ εσκαιδεκάτην εσκαιδεκάτην τεσαρ εσκαιδεκάτην εσκαιδεκάτην τοῦ ὄντος μην ὸς Χοιὰκ περιερχομένου ὸς Χοιὰκ περιερχομένου μου τὸν ἀγρόν μου εἶπέν μου τὸν ἀγρόν μου εἶπέν μοι Διόσκορος μοι Διόσκορος υἱὸς υἱὼς Παύλου τοῦ Λιβυκοῦ ὅτι τὰ πρόβατα τοῦ Λιβυκοῦ ὅτι τὰ πρόβατα Πέτρος Πέτρου υἱὸς υἱου Ἀγαῶνος κ αὶ σὺ ν συ αὐτῷ αὐτοῦ ἀδελφοὶ ἄλλο ι ἄλλο δύο ἐξαλίσαντες ἐξα λ ίσσαντες τὰ πρόβατα καὶ τὸν χόρτον σφετερί καὶ τὸν χόρτον σφετερί σαντες καὶ ἀρ σαντες καὶ ἀρ .. τησα αρντησα αὐτοῖς καὶ ἐπῆλθάν μοι οἱ τρεῖς καὶ ἐπῆλθάν μοι οἱ τρεῖς περὶ τὰ ὅρια τῆς Ἑρμοῦ πόλεως τὰ ὅρια τῆς Ἑρμοῦ πόλεως μετὰ μετὰ ῥοπάλων ῥωβάλλων καὶ πληγαῖς πληγε͂ς ἀπέκτεινάν με. δι ἀπέκτεινάν με. δι ὰ αὐτὸ τοῦ το ἀξιῶ καὶ δέομαί σου τῆς το ἀξιῶ καὶ δέομαί σου τῆς φιλανθρωπίας ὅπως φιλανθρωπίας ὅπως τούτους συνλα τούτους συνλα βόμ ενος α α .... τησῃς",
+      "translation": "To Flavius Abinnaeus, prefect of the cavalry unit of the soldiers of the fort of Dionysias, from Aurelius Ouranios son of Dalmatios, one of the praepositi, who owns land in the village of Theoxenis. On the fourteenth of the current month of Choiak, as I was going around my field, Dioskoros son of Paulos the Libyan told me that the sheep — Petros son of Agaon and with him two other brothers, having driven out the sheep and having seized the fodder [...] and I [...] them, and the three of them attacked me near the boundaries of Hermopolis with clubs and with blows nearly killed me. Therefore I request and beseech your benevolence that you arrest these men [...]."
+    },
+    {
+      "corpus_id": 23914,
+      "reference": "P.Abinn. 58",
+      "date": "1 Feb 345",
+      "description": "Power of attorney | Prytanis commissions Abinnaeus to obtain appointment at court",
+      "greek": "μετὰ τὴν μετὰ τὴν ὑπατεί α ν ὑπα τί α ν Φλ αουίου Λεοντίου κ αὶ Ἰουλίου Σαλου στ ίου τῶν λαμπροτά τῶν λαμπροτά των Με χὶρ ζ . Αὐρήλιος Εὐλό Αὐρήλιος Εὐλό γ ε ι ος Ἀνδρέ α ἔναρχος πρύτανις προπολιτευόμενο ς προπολειτευόμεν ο ς τῆς Ἀρσινοιτῶν πόλεως Φλ αουίῳ Ἀβενναίῳ ἀπὸ ἐπάρχων εἴλης χαίρειν χαίριν . ἀπαντοῦντί σοι ἐν τῷ ἀπαντοῦντί σοι ἐν τῷ ἱ ερῷ κομιτάτῳ ἐντέλλομ α ί σοι καὶ ἐπιτρέπω κατὰ τήνδε τὴν ἐντολὴν ὅπως ἐπιτρέπω κατὰ τήνδε τὴν ἐντολὴν ὅπως ἐπιστολὴν επαστολην ἐξακτορίας ἐπʼ ὀνόμα ἐξακτορίας ἐπʼ ὀνόμα τός μου ἐνέγ κῃς παρὰ τῆς θειότητος θιότητος τῶν τῶν δε σ ποτῶν δεποτῶν ἡμῶν α ἰωνίων Αὐγούστων, ἐμ οῦ ἐπι γιγνώσκοντος εἴ τι γιγνώσκοντος εἴ τι ἐ ὰν ἁπαξαπλῶς ἀναλώσῃς ε ἰς τ ὴν αὐτὴν ἐπιστολὴν τῇ σῇ αὐτὴν ἐπιστολὴν τῇ σῇ πίστει πίστι . ἐξεδόμην σοι τοί νυ ν τόδε τὸ ἐντολικὸ τόδε τὸ ἐντολικὸ ν ἐ πὶ ὑπογραφῆς μου, ὅπερ κύριον ἔστω πανταχοῦ ἐπι ἔστω πανταχοῦ ἐπι φερ όμενον, κ αὶ ἐπε ρ ωτηθεὶς ὡμολ όγησα . Αὐρήλιος Εὐλόγιο ς πρ ύ τανις ἐξεδόμην σοι τὴν ἐντολὴ τὴν ἐντολὴ ν κ α ὶ ἐμμενῶ πᾶσι ὡς πρόκ ειται .",
+      "translation": "[Translation from P.Abinn.] After the consulship of Flavius Leontius and Iulius Sallustius the most illustrious, Mecheir 7. Aurelius Eulogius son of Andrew, prytanis in office, president of the senate of the city of the Arsinoites, to Flavius Abinnaeus, formerly praefectus alae, greeting. On the occasion of your visit to the Imperial suite I instruct and commission you by this power of attorney to procure in my name from the sanctity of our masters the eternal Augusti a certificate of appointment as exactor, and I undertake to discharge all expenses whatever incurred by you on your responsibility for the said certificate. I have therefore delivered to you this power of attorney with my subscription, which shall be valid wherever produced, and in reply to the formal question I have given my consent. I Aurelius Eulogius, prytanis, have delivered to you the power of attorney and abide by all the aforesaid terms."
+    },
+    {
+      "corpus_id": 16635,
+      "reference": "P.Abinn. 59",
+      "date": "2 Feb 345",
+      "description": "Surety bond | Aurelius Plas guarantees to Abinnaeus",
+      "greek": "Αὐρήλιος Πλᾶς οὐετρανὸς Αὐρήλιος Πλᾶς οὐετρανὸς κα κα .. ... ν ο ς ἐν κ ώ μῃ Διονυ Διονυ σιά δι τοῦ Ἀ ρσινο ί του νομο ῦ Φλαυίῳ Ἀβιννέ Φλαυίῳ Ἀβιννέ ῳ ἀπὸ πραι ποσίτων ποσίτων πρε ποσείτων ποσείτων χ αί ρειν. ὁμολογῶ ὡμολογῶ διὰ τοῦδε τοῦ γραμ ματίου ἐπὰν ματίου ἐπὰν ἐν έγ κῃς ἐν έγ κεͅς ἐπʼ ἐπʼ ὀνό ματος τοῦ ἡμετέρου υἱοῦ υἱοῦ .. ρ ου π ρ ω ματιῶναν δεκαδάρχο υ δεκατάρχο υ κάστρων Διονυσιάδο Διονυσιάδο ς εἴλης πέμπτης πραιλήκτων πραιλήκτων εἴ ἤ τι δʼ ἂν δῷς δης εἰς εἰς λόγον λό γ ων τῆς αὐτῆς πρω μοτίωνος ἔ μοτίωνος ἔ ναν τι θεοῦ θεῶ ὡς ἂν δ ὡς ἂν δ ώσ ῃς ἐμοὶ ἐμὲ τῷ τον Πλᾶς ἀποκαταστήσω Πλᾶς ἀποκαταστήσω σο ι μετὰ καλῆς πίστεως μετὰ καλῆς πίστεως ἐκ πλήρους. ἐκ πλήρους. μετὰ τὴν μετὰ τὴν ὑπατείαν ὑπατίαν Φλαυίο υ Λεοντίο υ καὶ Φλαυίο υ Σαλουστίο υ Σαλουτίο υ τῶν λαμπροτάτων ἐπάρχων ἐπάρχον Μεχεὶρ η . Αὐρήλιος Πλᾶς σενε εὐδοκῶ σενε εὐδοκῶ πᾶσι πᾶ σ ει τοῖς τοῖς ἐγγεγραμμένοις ἐνγεγαρμέν οις ὡς ὡς πρόκειται πρώκιται . Σύρος ἔγραψα ὑπὲρ αὐτοῦ. ἔγραψα ὑπὲρ αὐτοῦ. γραμμάτιον Πλᾶς οὐετρανοῦ. γραμμάτιον Πλᾶς οὐετρανοῦ.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 16636,
+      "reference": "P.Abinn. 60",
+      "date": "28 Jul 346",
+      "description": "Sale | Flavius Elias sells cattle to Abinnaeus",
+      "greek": "προσ προσ ε φώνησε ν καὶ ὡμολόγη σ εν Φ λ α ού ι ος Ἠλείας στρατι Ἠλείας στρατι ώ της ἀναφερόμε νος ἐ ν κάστροις Διον κάστροις Διον υ σιάδ ο ς ὑπὸ Ἀ .... .... ν ἐπάρχων ἐπάρχον ἀπὸ ὀ φφ ικίου καινοῦ π επρακ έναι τῷ Φλαου τῷ Φλαου ί ῳ Ἀ βι νναίῳ τὰς ὑπο κ ε ιμέ νας ὑπο κ ε ιμε να ι βόας βόες τὸν ἀρι θμ ὸ ν δύο , τελείας τελίας , τὴν η μ ί αν μ ι α μὲν μέλαιναν μέλανην ὀνόματι Σαλ ε .. υ , τὴν δὲ τὴν δὲ ἑτέραν ετερα φυρὰν ὀνόματι Τεειαει καὶ ἀπέσχον παρὰ Τεειαει καὶ ἀπέσχον παρὰ σ ου τὴν συμπεφωνηθεῖσα τὴν συμπεφωνηθεῖσα ν μεταξὺ μετοξὺ ἡ μῶν ἀλ λήλων τιμὴν ἀργυρίου τιμὴν ἀργυρίου κεφαλαίου κεφαλέου Σεβαστῶν Σεβαστο͂ν νομίσματος τάλαν τα χίλια τα χίλια δ ι ακόσια δακόσια , τάλαντα Ασ , ἐκ πλήρους πλήρους δ ι ὰ χειρὸς καὶ βε βαιῶ βαιῶ πάσῃ πάσει βεβαιώσει βεβαιώσι ἀπὸ παν τὸς τοῦ ἐπελευσομένου τὸς τοῦ ἐπελευσομένου ἢ ἐμποιησομένου. τὰς ἢ ἐμποιησομένου. τὰς δὲ δὲ βόας βόαις ἐντεῦθεν παρέ λαβεν ὁ πριάμενος λαβεν ὁ πριάμενος Ἀβίνναιος ταύτας τοιαύ Ἀβίνναιος ταύτας τοιαύ τας τας ἀναπορρίφους ἀναπορίφους . ἡ πρᾶ σις κυρία καὶ ἐπερωτη σις κυρία καὶ ἐπερωτη θεὶς ὡμολόγησα. θεὶς ὡμολόγησα. ὑ πατείας τῶν δεσ ποτῶν ποτῶν ἡμῶν Κωνσταντίου ἡμῶν Κωνσταντίου Αὐγούστου Ἀγούστου δ καὶ Κώνσταντος Κώνσταντος Αὐγούστου Ἀγούστου τὸ τὸ γ , Μεσορὴ δ . Φλαύιος Φλαυ ΐ ου Ἠλείας ὁ προκίμενος πέπρακα τὰς βόας καὶ ἀπέσχον πέπρακα τὰς βόας καὶ ἀπέσχον τὴν τὴν τιμὴν διμ ὰ ν ἐκ πλήρους πληρου . Φλαύ ι ος Οὐενάφριος οὐεναφριου οὐ ετρανὸς ἐδρανὸς ἀπὸ Διονυσιάδος Διονυσιάτης ἀξιωθεὶς ἔγραψα ὑπὲρ αὐτοῦ πα ἔγραψα ὑπὲρ αὐτοῦ πα ρόντος ἀγραμμάτου. ρόντος ἀγραμμάτου.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 16637,
+      "reference": "P.Abinn. 61",
+      "date": "21 Aug 346",
+      "description": "Surety | Aurelius Ioulis guarantees Ammonion to Abinnaeus",
+      "greek": "Φλαυίῳ Ἀβιννέῳ Φλαυίῳ Ἀβιννέῳ πραιπόσιτῳ πρεπόσιτῳ κάστροις Διονυσιάδος τοῦ κάστροις Διονυσιάδος τοῦ Ἀρσ ινοίτου νομ ο ῦ παρὰ Αὐρηλίου Ἰούλις Διονυσίου παρὰ Αὐρηλίου Ἰούλις Διονυσίου ἀπὸ κώμης Διονυσιάδος. ἀπὸ κώμης Διονυσιάδος. ὁμολογῶ ὡμολογῶ ἐγὼ Ἰούλις ἐγ γυῶμαι γυῶμαι ἐν γυοῦμε γυοῦμε Ἀμμώνιν υἱὸν Σωοὺκ ἀπὸ κώμης Ταυρίνου· Σωοὺκ ἀπὸ κώμης Ταυρίνου· ὁπόταν ὡπόταν ζητηθῇ ἐγὼ αὐτὸς Ἰούλις παραστήσω Ἰούλις παραστήσω αὐτὸ ν αὐτω ὡς πρόκιται, καὶ ἐπερωτηθεὶς ὡς πρόκιται, καὶ ἐπερωτηθεὶς ὡμολόγησα. ὡμολόγησα. ὑπατείας ὑπατίας τῶν δεσποτῶν ἡμῶν Κωνσταντίου Κωσταντίου Αὐγούστου Ἀγούστω τὸ δ καὶ Κώνσταντος Κώσταντος τὸ γ Αὐγούστου Ἀούστου , Μεσορὴ κη . Αὐρ ή λ ι ς Ἰούλις ἐγγυῶ μαι μαι ἐνγυοῦ με με Ἀμμώνιν Σωούκ· ὁπόταν ὡπόταν ζητηθῇ ἐγὼ αὐτὸς παραστήσω ζητηθῇ ἐγὼ αὐτὸς παραστήσω αὐτὸν αὐτὼν ὡς πρόκιται. Παῦλος ἔγραψα ὑπὲρ αὐτοῦ ἀγραμμάτου. ἔγραψα ὑπὲρ αὐτοῦ ἀγραμμάτου.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23833,
+      "reference": "P.Abinn. 62",
+      "date": "5 Feb 350",
+      "description": "Agreement | Property division at Philadelphia: Philadelphos and Eustorgion",
+      "greek": "μετὰ τὴν ὑπα μετὰ τὴν ὑπα τ εία ν Λιμενίο υ καὶ Κατλίνου τῶν λαμπροτάτων, Μεχείρ ια . ὁμ ο λογοῦσιν πρὸς ἀλλή λους Αὐρήλιοι Φ λους Αὐρήλιοι Φ ιλ άδελφος καὶ Εὐστόργιον ἀ μφότεροιἬλιτος ὁμ ο γ άστριοι ἀδελφαὶ ἀπ ὸ τ ῆς Ἀλε ξ α νδρ ί ας κατοικοῦντε ς κατοικουτα ς ἐ ν κώμῃ Φι λαδελφίᾳ το ῦ Ἀρσινοείτου νομοῦ συνεστῶτος τῇ Εὐστοργίῳ καὶ σ υ ν ε υ δ δ ο κοῦντος τ ῇ δε τῇ διαιρέ σ ε ι τοῦ συμβίου αὐτῆς Αὐρηλίου Κου ερ ῆτος Ἀπολλῶτος ἀ πὸ τῆς α ὐτῆ ς κώμ ης Φιλαδελφίας χ Φιλαδελφίας χ αί ρειν ἐπει δ ὴ οἰκόπεδον πατρῷον ἡμῶν ἐν τῇ αὐτῇ Φιλαδελφίᾳ διαιρή κα μεν πρὸς ἑαυ μεν πρὸς ἑαυ το ὺς καὶ ἔλαχέν σοι τῇ Εὐστοργίῳ ἐκ δικαίου καὶ ἀκι ν ήτου κλήρου γεγενημένου κατὰ τὸ αἱ ροῦν ροῦν ἑ ροῦν ροῦν σοι μέρος πέμπτον τ ὸ στάβλον τῶν ὄνων τὸ εἰς τὸ μέσον καὶ ἐκ νότου τῆς οἰκίας ἀστέγα στον στον ὄν ὤν , καὶ σ υ νεπείσθημεν σ υ νεπίσθημεν πρὸς ἑαυτ ο ὺς εἴσω ἴ σω μηνῶν ἕξ , τοῦτο ἐστιν τουτεστιν μηνὶ Ἐπεὶφ τῆς εὐτυχ οῦ ς εἰσιούσης ἐνάτης νέας ἰνδικτίονος κοινότερον στεγάσαι τὴν προκειμένην αὐλὴν τῶν ὄνων, εἰσιούσης ἐνάτης νέας ἰνδικτίονος κοινότερον στεγάσαι τὴν προκειμένην αὐλὴν τῶν ὄνων, ἐμὲ μὲν τὸν Φιλάδελφον ἐμὲ μὲν τὸν Φιλάδελφον δοῦναι δῶναι ἀναλωμάτων μέρη τέσσαρα καὶ σὲ τὴν Εὐστόργιον μέρος ἕν . ἐὰν οὖν ἡ ἀ δε λ φὴ φὴ ἡ μῶν Νόννα πα ραχωρή σ ῃ . .. ι . .. . .... ε ρ . ... ε ξ .. .. ι .. αὐτὴ α π .. ξη . ε . ς καὶ κ αλ ω εἰ δὲ μή, δώσω μέχρι τοῦ αὐθεν εἰ δὲ μή, δώσω μέχρι τοῦ αὐθεν τικοῦ πυλῶ νος μόνου εἴσοδον αἱροῦσαν ἑροῦσαν εἰς ὃ το ἐκληρώθης μέρος εἰς τὸ ἀνὰ μέσο εἰς τὸ ἀνὰ μέσο ν τοῦ μέρους τ οῦ στάβλου καὶ τ ῆς ἐμῆς ἐξέδρας. καὶ οὐκ ἔξεστιν οὐδενὶ ἡμῶν παραβῆναί τι τῶν ἐγγεγραμμέν ἐγγεγραμμέν ω ν. ὁ δὲ ἐπελευ σόμενος ἐκτείσ ει τῷ ἑτέρῳ ὑπὲρ στροφ ῆ ς καὶ ἐπηρείας ἐπηρίας λόγου ἀργυρί ο υ δη ν αρ ί ων μυ ριάδας τριακο ριάδας τριακο σί α ς . ἐὰν δὲ μὴ ἐκτείσω σοι, ἀφ ήσω ἕως τῆς ὡρισμένης προθεσμίας μένειν μένιν σε ὡς μένεις μένις ἀκωλύτως. ἡ ὁμολογία κυρ ἀκωλύτως. ἡ ὁμολογία κυρ ία καὶ ἐπερωτη θέντες ἐπερωτη θένταις ὡμολογή σ α μεν. Αὐρήλιοι Φ ιλ άδελφ ος καὶ Εὐστόργιον καὶ καὶ Κ ουερηοῦς σ υν ε υδοκοῦμ εν τοῖς ἐγγεγ ραμμένοις ὡς πρ ό κειται. Αὐρήλιος Σ α ραπίων Ἰ ουλιανοῦ ἀπὸ τῆς Ἀλεξ ἀπὸ τῆς Ἀλεξ α νδ ρί ας κατοι κῶν ἐν τῇ αὐ τ ῇ κώμῃ ὁ καὶ τὸ σωμ άτ ιον πο ι ήσ ας ἔ γρ α ψ α ὑπὲρ αὐτῶν γράμ ματα μὴ ε ματα μὴ ε ἰδότ ων ἐπὶ π αρουσίᾳ μαρ τύρων Ἑ ρενίου Ἁρ πο κρατίωνος καὶ Λογγινᾶτος . .. ν τ τ ο ς ἀπὸ τῆ ς αὐ τῆς κώμ ης. ἀντί ἀντί γραφον ..",
+      "translation": ""
+    },
+    {
+      "corpus_id": 14894,
+      "reference": "P.Abinn. 63",
+      "date": "13 Nov 350",
+      "description": "Court record | Proceedings before Flavius Gennadius, iuridicus of Alexandria",
+      "greek": "o Nigriniano nigrinino v iris uu iris c larissimis cc larissimis co n s ulibu s coss die Idus Novembr es Ἁθὺρ ιζ . praesentibus H o r o et Nonna et Dionu s io Gennadius d ixit : ὑπὲρ Εὐ σ τοργίου κατʼ ἐντολὴν δοθεῖσαν Ὥ ρῳ καὶ ἀναγν ώ σομαί σοι τὴν ἐντολὴν τὴν δοθεῖσαν Ὥρῳ ὑπὸ Ε ὐ στορ γ ίου ἥτις ἐν τοῖς ὑπομνήμασι ν τοῖς πραχθεῖσιν κατʼ ἐν τολὴ ν ἐπὶ τῆς σῆς καθοσιώσεως ἀνελήμφθη. Fl avius Gennadius v ir p erfectissimus i uridic us Alex andreae d ixit : ἀνάγνωθι. Gennadius d ixit : ἀναγνώσομαι, et rec itavit : Sergio et Nigriniano Nigriniani v iris vv iris c larissimis cc larissimis co n s ulibus s coss die Φαῶφι θ et ec c etera : or ator adiecit: τοιαύτη μέν ἐστ ιν ἡ ἐντολή· ἀξιοῦμεν δὲ τὴν παροῦσαν ἢ ἀπ ο στῆναι τοῦ μέρο υ ς τοῦ διαφέροντος τῇ βοηθου μέν ῃ , τετάρτου μὲν αὐλυδρίου, ἡμίσους ἡμισεως δὲ τοῦ ἄρτου, τετάρ του δὲ δωρεᾶς καὶ ἀποθήκης, ἢ τὴν ἀποκατάστασιν ἠμῖν ποιήσασθαι τούτων ἢ τὸ ἄξιον στεγανόμιον ὅπερ ἂν παράσχοιεν ἕτερος παρασχεῖν ..... νος ἐπιθεωροῦντος ἐπιθεοροῦντος περὶ τοῦ αὐλυδρίου τὸ παραρτίδιον ὅπερ καὶ ἑ κοῦσα ἀποδώσει ν ἀποδωσει συνέστηκεν. Nonna d ixit : εἰς τὸ μέρος Εὐστοργίου ............ υ Διδι αν ῷ κα τὰ τὸ τέταρτον . Flavius Gennadius vir perfectissimus iuridicus Alexandreae dixit: ἀκό λου θόν ἐστιν ἀ ρχιτ έκτον α ἐ π ὶ τ ῶ ν τ όπων γενόμε ν ον δο κ ιμ άσα ντα ὁ ρ ίσαι π όσον ὀφείλει ὀφείλι φέρειν ὑπὲρ τοῦ τετάρτου τ οῦ τε αὐ λυ δρίου καὶ τ ῆς ἀποθήκης Εὐστοργί ῳ Νόννα στεγανόμιο ν ..... .. τ ηθηναι καὶ τοῦτο Νόνναν Ὥρῳ τῷ ταύτης ἐκδίκῳ βεβαι ῶ σαι διὰ τὸ μάλιστα μάλειστα κ αὶ Νόν ναν τούτῳ τῷ λόγῳ συνδεδραμηκέναι καὶ ὑπισ χνεῖσθαι ὑπισ χνῖσθαι ὅσον ἐὰν ἕτερος μέλλοι μισθὸν φορέσειν τοσοῦτον ἔν δον οἰκοῦσαν παρασχ εῖ ν, προνοουμένης ε ἰς τ ο ῦτ ο τῆς τάξεως. G enn adius d ixit : ταῦτα μὲν π ταῦτα μὲν π ε ρὶ τοῦ αὐλυδρίου ἐ ξ σεν ἡ σὴ καθ ο σίωσις εἰ ς τὸ πρό σωπον Νόννης· ἀξ ιοῦμ εν δὲ καὶ το περὶ τοῦ ἡμί σεως τοῦ ἄρτου καὶ τοῦ τετάρτου τῆς δωρεᾶς ἀποδοῦναι αὐτὰ Νόννα τῷ ἐντολικαρί ῳ τῆς συνη γορο υμένης, ἅπαξ ἐντολῆς παρ ασχεθείσης. Flavius Gennadius vir perfectissimus iuridicus Alexandreae dixit: τί φ ησιν καὶ περὶ τούτων Νό ννα; Nonna d ixit : ἐπὶ ἀντίδικον λαμβάνειν λαμβάνιν ἐ ξουσίαν ξουσίαν . Gennadius d ixit : ἐπειδὴ ἀμφιβάλλει ἀμφιβάλλι περὶ ἀρτυδίου καὶ δωρεᾶς, ἐντ ο λὴ δ ὲ ἀνεγνώσθη κα ὶ γ ρα μματεῖον αὐτῆς ἔχομεν ὁμολογοῦσης αὐτῇ φυλάττειν φυλάττιν ταῦτα τα · κατὰ τὴν ἐντολὴν ἀποδότω. Flavius Gennadius vir perfectissimus iuridicus Alexandreae dixit: γρα μματεῖ ον ὃ Φῂ ς ἔχ ε ι ν ἀνάγνωθι. et rec itavit : Αὐρηλία Ν όννα θυγά τη ρ Ἤλι τος Ἠλι δίκαι ο ν παίδων ἔχουσα Αὐρη λί ᾳ Εὐστοργίῳ ἀδελφῇ μου συν π α ρό ντος κ αὶ το ῦ ἀ ν δρός σου Αὐρηλίου Φέου Ἀπολλωνίου Χαίρειν. ὁμολογοῦμ εν με μ ισθῶσθαι καὶ παρειλη φέ ναι παρὰ σοῦ μ έρος τέταρτον et ec c etera . or ator Gennadius d ixit : ὡμο λόγ ηται καὶ τὸ ἀρτίδιον δι α φέρειν δι α φ έριν ἐκείνῃ, λέγω δὴ τὸ ἥμισυ καὶ τὸ τέταρτον τῆς δωρεᾶς καὶ ἀξιοῦμεν αὐτὴν ἀπολύειν ταῦτα αὐτὰ τὰ ἀρτίδια τῷ καὶ ἀξιοῦμεν αὐτὴν ἀπολύειν ταῦτα αὐτὰ τὰ ἀρτίδια τῷ μέρει μέρι ἡμετέρῳ. C ur us d ixit : ὡμολογεῖ καὶ Εὐστόργιον ἔχειν ἥμισυ μέρος ἄρτου· ὁμολογεῖ ὁμολογῖ δὲ καὶ τῆς δωρεᾶς μέρος τέταρτον καὶ ἀξιοῖ τὸ δικαστήριον ὁρίσ αι τ ίνι δέοι παρασχεθῆναι ἐ ξ ὀνόματος ἐκείνου. Fl avius Gennadius v ir p erfectissimus iuridic us Alex andreae d ixit : ἀκόλουθόν ἐστιν κατὰ τὴν ἐστιν κατὰ τὴν π αρασχε θ εῖσαν ἐντολ ὴ ν ὑπὸ Εὐστοργίου Ὥρῳ καὶ ἀφʼ ὧν ἡ ἀνάγνωσις τῆς συνταχθείσης ἀνάγνωσις τῆς συνταχθείσης ὑ πὸ Νόννης ὁμολογίας ἐδίδαξεν καὶ τὸ ἥμισυ μέρος τ οῦ ἄρτου καὶ τῆς δωρεᾶς τὸ τέταρτον δωρεᾶς τὸ τέταρτον τῷ ἐκδίκῳ Εὐστοργίου Ὥρῳ παρὰ Νόννας ἀποκατασταθῆναι. Gennadius d ixit : ταῦτα μὲν ἡ σὴ καθοσίωσις ἀπεφήνατο, οἷς καὶ τὸ ἔργον προσενεχθῆναι ἀξιοῦμεν διὰ τῆς τάξεως. ἐπειδὴ δὲ καὶ Διονύσιος ἕστηκεν, ἀξιοῦμεν καθοσίωσις ἀπεφήνατο, οἷς καὶ τὸ ἔργον προσενεχθῆναι ἀξιοῦμεν διὰ τῆς τάξεως. ἐπειδὴ δὲ καὶ Διονύσιος ἕστηκεν, ἀξιοῦμεν αὐτὴν εἰπεῖν τί βούλεται καὶ περὶ τούτου. αὐτὴν εἰπεῖν τί βούλεται καὶ περὶ τούτου. Curus d ixit : Διονύσιος μὲν καὶ ἀδελφός ἐστιν· διὰ δὲ τὸ μὴ ἔχειν παρακολουθήσεις κουράτωρ αὐτῷ κατεστάθη ὁ δὲ ἀδελφὸς Φιλάδελφος ὃς καὶ ἐν τῇ Αἰγύπτῳ ἐστὶν καὶ οὐ κουράτωρ αὐτῷ κατεστάθη ὁ δὲ ἀδελφὸς Φιλάδελφος ὃς καὶ ἐν τῇ Αἰγύπτῳ ἐστὶν καὶ οὐ μετ’ οὐ πολὺ ἥξει· τέως δὲ ὁ παῖς καὶ συν ο ικεῖ συν ο ικῖ τῇ ἀδελ φῇ καὶ τὸν ἄρτον κομίζε ται καὶ οὐδεὶς φθόνος ἐστί ν . F l avius Gennadius v ir p erfectissimus iuridic us Alex andreae d ixit : τοῦτο δεῖξον δῖξον . Curus d ixit : κο υρά το ρ α ἔχει ὃς κ αὶ ἄπεστιν· ὁ δὲ ἀ ντί δ ικος ὑπαναπείσας ὑπαν απ ίσας τοῦτ ον κατέσχεν βουλὸμενος πάλιν ἑτέραν περιγραφὴν κατέσχεν βουλὸμενος πάλιν ἑτέραν περιγραφὴν ἐργάσασθαι ἐργέσασθαι κατὰ τῆς βοηθο υ μένης. F l avius Gennadius v ir p erfectissimus iurid ic us Alex andreae d ixit : ἐπειδὴ κουράτορος ἐμνημόνευσας, ἀνάγνωθι ὅπως κουράτωρ γεγένηται Φιλάδελφος Διονυσίου τοῦ παρόντος. γεγένηται Φιλάδελφος Διονυσίου τοῦ παρόντος. Curus d ixit : ἐν τῇ Αἰγύπτῳ ἐστὶν ὁ κουράτωρ, ἡ δὲ ἀδελφὴ χορηγεῖ μέρος τοῦ ἄρτου τῷ ἀδελφῷ καὶ οὐ κωλύει εἰσιόντα αὐτὸν καὶ οἰκοῦντα ἐν τῇ αὐλῇ. χορηγεῖ μέρος τοῦ ἄρτου τῷ ἀδελφῷ καὶ οὐ κωλύει εἰσιόντα αὐτὸν καὶ οἰκοῦντα ἐν τῇ αὐλῇ. Fl avius Ge nn adius v ir p erfectissimus iurid ic us Alex andreae d ixit : ὁ κουράτωρ ἀπαντήσας οὐ κωλυθήσεται τούτοις χρήσασθαι τοῖς λόγοις οἷσπερ καὶ σὺ νῦν λέγεις, εἴ γε ἀληθῆ ἐστιν τὰ παρὰ σοῦ εἰρημένα. τοῖς λόγοις οἷσπερ καὶ σὺ νῦν λέγεις, εἴ γε ἀληθῆ ἐστιν τὰ παρὰ σοῦ εἰρημένα. C u rus d ixit : ἵ να μ ὴ ὁ παῖς ὑπαναπεισθεὶς ὑ παναπι σ θεὶς ὑπὸ τοῦ ἀντιδίκου δοκοίη περιγραφήν τινα ὑ πομένειν, τοῦτο γὰρ σπουδάζει, μηδεμίαν κ αινοτομίαν γίγν ε σθαι ἀπόντος τ οῦ κουράτορος· ἑτοῖμος γάρ ἐστιν ἡ ἀδελφὴ χορηγήσειν χορηγήσιν Διονυσίῳ καὶ τὸ μέρος τοῦ ἄρτου καὶ τὸ στεγανόμιον τὸ ἐπιβάλλον. μέρος τοῦ ἄρτου καὶ τὸ στεγανόμιον τὸ ἐπιβάλλον. Fl avius Gennadius v ir p erfectissimus iuridic us Alex andreae d ixit : τέως καθʼ ἃ ἐπηγγείλατο ἐπηγγίλατο Νόννα σπουδασάτω τὴν χορηγίαν τοῦ τε ἡμίσεως ἄρτου, ἔτι γε μὴν καὶ τοῦ στεγανομίου Διονυσίῳ ἀμέμπτως παρέχ ἔτι γε μὴν καὶ τοῦ στεγανομίου Διονυσίῳ ἀμέμπτως παρέχ ειν · εἰ γὰρ καὶ ἂν κὰν πρό ς τι βραχὺ τῆς χορηγίας τούτων παραμελήσειεν, δυνήσεται πρόσοδον ποιησάμενος τῷ δικαστηρίῳ Διονύσιος τῆς τούτων παραμελήσειεν, δυνήσεται πρόσοδον ποιησάμενος τῷ δικαστηρίῳ Διονύσιος τῆς ὀφει λομένης λομένης ὀφι λομένη λομένη ς αὐτ ῷ ἐπικουρίας τυχεῖν τυχιν τυχεῖν . Gennadius d ixit : πότε πόται προσάγιόν φ η σιν; ἡμεῖς ἡμῖς γὰρ οὐδὲ ἴσμεν εἴσμεν ὅλως τοιοῦτόν τι πεπραγμένον ὁποῖον ὅλως τοιοῦτόν τι πεπραγμένον ὁποῖον διατείνεται διατίνεται , κουράτορα ἐσχηκέναι τὸν καὶ ἐρρωμένον τὴν διάνο τὴν διάνο ι αν καὶ ἑστῶτα καὶ ἀ παίτ ησιν ποιούμ ε νον τῶν α ὐ τῷ δι αφ ε ρόντων. Cu r u s d ixit : ἐπειδὴ ἐν τῷ Ἀρ Ἀρ σ ιν οε ίτ ῃ ἐστὶν εἴσω ἴσω τεσσαράκοντα τεσ σε ράκοντα ἡμερῶν π ροσάγομεν ἐκεῖνον ἐκῖνον . Fl avius Gennadius v ir p erfectissimus iuridic us Alex andreae d ixit : εἰ μὴ εἴσω ἴσω τῶν τεσσαράκοντα τεσσεράκοντα ἡμερῶν τὸν λεγόμε ν ον εἶναι κουράτορα Διονυσίου προσαγάγ προσαγάγ ο ι Νόννα τῷ δικαστηρίῳ ἢ αὐτὸς διʼ ἑαυτοῦ παρὼν ἐπιδείξειεν ἐπιδιξιεν επιδίξειεν ἑαυτὸν κουράτορα σὺν νόμῳ αὐτοῦ γεγε αὐτοῦ γεγε ν ῆσθαι ἐνταχθείη τε τὸ δικαστήριον αὖθις αὖθεις ὑπὸ Διονυσίου τότε προ σ ταχθήσεται καὶ ἡ νομὴ ὑπὸ Νόν ὑπὸ Νόν ν ας τοῦ ἡμίσεως τοῦ ἄρτου καὶ τοῦ τετάρτου τῆς δωρεᾶς ἔτι γε μὴν καὶ τοῦ τετάρτου μέρους του γε αὐλυδρίου καὶ τῆς ἀποθήκης Διονυσίῳ ἀποκατασταθῆναι. του γε αὐλυδρίου καὶ τῆς ἀποθήκης Διονυσίῳ ἀποκατασταθῆναι. exemplum.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 14944,
+      "reference": "P.Abinn. 64",
+      "date": "337--350",
+      "description": "Sale | Sale of slaves Metiron/Ptillon and Primus to Aurelia Nonna",
+      "greek": "... Πέτρον τὸ ν Πτ ο λ εμαῖον καὶ ὁπότερον αὐτῶν τ ῶ ν δύο ἐ γ γ ύ ω ν ἀλλήλων ἀποστ ή σειν ἀπο στ ή σιν καὶ ἐκδικήσειν ἐκδικήσιν παραχρῆμα τοῖς ἰ δίοις α ὐτ ῶν δαπανήμασιν· ἐὰ ν δὲ μή, ἐκτεί σ ειν ἐκτε ί σ ιν αὐτοὺς καὶ ὁπότερον αὐτῶν τῇ Αὐ τῇ Αὐ ρ ηλίᾳ Νόννᾳ τῇ καὶ Πολυετίῳ παραχρῆμα τὴν τιμὴν τειμὴν δ ιπ λῆν καὶ τὰ βλάβη καὶ δα πανήματα πάν πανήματα πάν τα κ ατ ὰ τ ρ όπ ο ν. ἀναδέδωκαν δὲ οἱ ἀποδόμενοι τῇ ἐωνημένῃ ωνημενη ἣν πεποίηνται ἐπὶ τῆ ς δι καιοδ ο σία ς τ ῶν οἰκετῶν ἀνάκρισι ν οὖ σαν τῇ ἐνεστώσῃ σαν τῇ ἐνεστώσῃ . περὶ δὲ τοῦ ταῦτα οὕτως ὀρθῶς καλῶς γενέσθαι ἐπηρώτησεν ἡ καταγραφομένη Αὐρηλία Νόννα ἡ καὶ Πολυέτιον ἔχουσα ἐπηρώτησεν ἡ καταγραφομένη Αὐρηλία Νόννα ἡ καὶ Πολυέτιον ἔχουσα δίκαιον τέκνων· ὡμολό δίκαιον τέκνων· ὡμολό γη σαν οἵ τε ἀποδόμενοι Αὐρήλιοι Πέτρος καὶ Ζήνων καὶ ὁ βεβαιωτὴς καὶ ὁ βεβαιωτὴς Μᾶρκος Αὐρήλιος Πτολεμ α ῖος. Μ ᾶ ρ κοι Αὐρήλιοι Πέτρος καὶ Ζήν ω ν ἀμφό τεροι Πέτρου τεροι Πέτρου υ ἱ ο ὶ πεπράκαμεν καὶ κατεγράψαμεν Νόννᾳ τει τῇ καὶ Πολυ ετίῳ δοῦλα ἑαυτῶ ετίῳ δοῦλα ἑαυτῶ ν σώματα Μήτιρον τὸν κα ὶ Πτίλλωνα Πτιλλωναν καὶ Πρῖμον ἀ ἀ δ ελ φ ὸν ἐ νγ ενεῖς ἐ νγ ενῖς Ἀλεξανδρεῖ ς Ἀλεξανδρ ῖ ς διπλῷ διποκῷ χρήματι χρήματει πιστοὺς καὶ ἀδράστους καὶ καλῇ καλες αἱρέσει ἑρεσις καὶ ὄντας ἐκτὸς ἱ ερᾶς νό σ ο υ καὶ ἐπ α φῆς καὶ ἀπέσχομ ε ν παρʼ αὐ τῆς τὴν τῆς τὴν ὑ π ὲρ αὐτῶν τιμ ὴν ἀργυρίου Σεβαστῶν νομίσματος τάλαντα δισχίλια τ δισχίλια τ ε τρακόσια πλήρη πλήρης διὰ χειρός, κ α ὶ ἀναδεδώκαμεν αὐτῇ ἣν πε ποιήμεθα πεποιημεθαι αὐτῶν ἐπ ὶ τῆς δικαιοδοσίας δικεοδ οσ ίας ἀνάκρισιν ἀνάκρησιν , καὶ ἐπερωτηθέντες ὡμολογήσαμεν ὡς ὡμολογήσαμεν ὡς πρόκειται πρό κε ιτε . ἐγὼ δὲ ὁ Πέτρος ἔγραψα καὶ ὑ πὲρ τοῦ ἀδελ φοῦ μου τὰ φοῦ μου τὰ πλεῖστα πλῖστα . Α ὐ ρήλιος Ζήνων σ υ νκατέ γ ραψα σ υ νκατεραψα ἅμα τῷ ἀδελφῷ μοῦ Πέτρῳ τὰ δοῦλα σώματα Μήτιρον τὸν καὶ Πτε τὰ δοῦλα σώματα Μήτιρον τὸν καὶ Πτε ί λλωνα καὶ Πρεῖμον καὶ αμ συν α πέσχον τὴν τιμήν, καὶ ἐπερωτ τιμήν, καὶ ἐπερωτ η θ εὶ ς ὡ μο λόγησα ὡς πρόκειται πρώκιτε . Μᾶρκος Αὐρήλιος Πτολεμαῖος Ἑρμία τοῦ Λουκίου Σωσικόσμιος ὁ καὶ τοῦ Λουκίου Σωσικόσμιος ὁ καὶ Ἀλθαιεὺς Ἀλθεοὺς βεβαιῶ βεβεῶ τὴν τῶν δούλων σωμάτων Μη τίρου τοῦ κα τίρου τοῦ κα ὶ Πτίλλωνος Πιτλλωνος πτλλωνος καὶ Πρίμου ἀδ ε λφ ῶ ν κα τα γ ραφὴν τῇ ἐμῇ πίστει πίστι καὶ ἐ ἐ ν το λῇ καὶ παρέξω τὴν καταγραφὴν καθαρὰν ἀπὸ πάσης ἀντιπ οιήσεως, καὶ καὶ ἐπερωτηθεὶς ἐπερωτηθὶς ὡμολόγησα ὡς π ρόκιται. Αὐ ρήλιος Σ ε ραπ όδ ωρος Τ Τ ρ ιφερίου οἰκ ῶ ν ἐν τῷ Μενδιδίῳ ἐν τοῖς ἰδίοις ἠδίοις μαρ τυρῶ. τυρῶ. Αὐρή λ ιος Κῦ ρο ς Διοσκόρου Διοσκόρω οἰκῶν ἐν τόπῳ Γ ... . δίῳ ἐν τοῖς ἰδίοις ἠδίοις μαρτυρῶ μαρτ οι ρῶ . Αὐρήλιος Πέτρος ἀπέλυσα τὰς ὠνὰς πληρ ωθεὶς τὴν τιμήν. Αὐρήλι ος Ζήνων ἀ πέλυσ α τ ὰς ὠνὰς πληρωθεὶς πληρωθὶς τὴν τιμήν.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 14955,
+      "reference": "P.Abinn. 66",
+      "date": "mid-4th c.",
+      "description": "Account | Grain account from Andromachis: wheat and barley by name",
+      "greek": "κώμης Ἀνδ κώμης Ἀνδ ρ ομαχίδος βρέυιον σίτου καὶ κριθῆς βρέυιον σίτου καὶ κριθῆς ἀ ἀ πὸ χειρογράφων εἰσὶ δέ· εἰσὶ δέ· Εὔπορος Ἑρμεία σίτου Εὔπορος Ἑρμεία σίτου ἀρτάβαι ϛ Κύριλλος Αὐνίωνος σίτου Κύριλλος Αὐνίωνος σίτου ἀρτάβαι .. κριθ ῆς ἀρτάβαι ϛ 𐅸 Ἑλλῆς Ὡρίωνος Ἑλλῆς Ὡρίωνος κρι θ ῆς ἀρτάβαι θ Ἄ Ἄ γα θο ς Ἀνν έ ως σί του ἀρτάβαι λ κ ριθῆς ἀρτάβαι . Φιλέα Φιλέα ς .... .. ς κ ριθῆς ἀρτάβαι . . ......... α σίτου ἀρτάβαι ιγ 𐅵 Ε χ ... α ς Αὐνίωνος σίτου ἀρτάβαι ια 𐅵 κριθῆς ἀρτάβαι ϛ 𐅸 Σαρ Σαρ μ άτης Ἑκούσε ως σίτου ἀρτάβαι νδ κριθ ῆς ἀρτάβαι νε Μέ λα ς Αὐνίωνος σίτου ἀρτάβαι δ κριθ ῆς ἀρτάβαι ϛ 𐅸 Α Α ὐνίω ν Νιννᾶ σίτοῦ ἀρτάβαι ρε κριθ ῆς ἀρτάβαι λε Κιαλῖς στρατι Κιαλῖς στρατι ώ τ η ς σίτου ἀρτάβαι δ Μάρων Ἑρμεία σίτου Μάρων Ἑρμεία σίτου ἀρτάβαι ργ κριθ ῆς ἀρτάβαι μθ 𐅵 ὁμ οίως Α Α ὐ ν ί ων σίτου ἀρτάβαι ϛ 𐅸 Εὖτ Εὖτ ος Ἀντινόου σίτου ἀρτάβαι κδ Ἰοῦστος Κυρίλλου σίτου Ἰοῦστος Κυρίλλου σίτου ἀρτάβαι .. κριθ ῆς ἀρτάβαι κ Αὐνῆς στρατιώτης σίτου Αὐνῆς στρατιώτης σίτου ἀρτάβαι ϛ κριθ ῆς ἀρτάβαι ε Ὡρίων Ἀ Ὡρίων Ἀ ν νέως σίτου ἀρτάβαι . 𐅸 κριθῆς ἀρτάβαι .. π αρὰ τοῦ κοινοῦ τῶν ἀπὸ κώμης Ἀνδρομαχείδος σίτου κώμης Ἀνδρομαχείδος σίτου ἀρτάβαι κ κριθ ῆς ἀρτάβαι κ ἀργυρ ἀργυρ ικῶν ὁμοί ως Μου Μου σῆς στ ρατι ώ της ἀ ρ γ υρίου τάλαντα χ καὶ καὶ π .... Ἄγαθος Ἄγαθος κ αὶ Πωλίων τάλαντα φξ Μάρων Μάρων Ἑ ρμεία τάλαντα Αχ Μουσῆ Μουσῆ ς .. Μελανεύτου Πωλίωνος Πωλίωνος ἀργ υρίου τάλαντα φ Ἰοῦστο Ἰοῦστο ς Κυρίλλου ἀργ υρίου τάλαντα τ Αὐνίων Νιννᾶ Αὐνίων Νιννᾶ ἀργ υρίου τάλαντα Ασμ Κιαλῆς στρατιώτης Κιαλῆς στρατιώτης τάλαντα σ Ἄπες Παύλου Ἄπες Παύλου τάλαντα ρπ Σαρμάτης Ἑκούσεως Σαρμάτης Ἑκούσεως χωρὶς χωρὶς χειρο γ ράφου χιρο γ ράφου τάλαντα σ Κάστωρ Μαλλίτου Κάστωρ Μαλλίτου ἀργ υρίου τάλαντα τ Κοπρῆς Παύλου ἐλαίου Κοπρῆς Παύλου ἐλαίου ῥαφανίνου λ̔αφανίνου ξέσται . Ἰεκῶν Πεειήου Ἰεκῶν Πεειήου ξέσται . Ὡρίων Διοσκόρο Ὡρίων Διοσκόρο υ ἐλα ίου χρηστοῦ χρηστοῦ ξέσται γ Ἀιῶν Κοπρῆ Ἀιῶν Κοπρῆ ἐλαί ου χ ρηστ οῦ ξέσται ιε ........ .. ... ιου ἀργ υρίου τάλαντα πα ...... ν στρατιώ της τάλαντα τ Ἀνοῦφις Λεοντίου Ἀνοῦφις Λεοντίου τάλαντα ρ ι β Ἀκ Ἀκ ου εῖς Μίσθιος τάλαντα φ Π Π αν οῦφις τάλαντα ρ",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23834,
+      "reference": "P.Abinn. 69r",
+      "date": "mid-4th c.",
+      "description": "List | Grain assessment: veterans, women, village officials",
+      "greek": ".... . .... .. λο ῦ ς οὐετρ ανὸς ἀ ρτάβαι .. ............ Ἑ ρμο γένους ἀ ρτάβαι ιη ? .... .... ἀ ρτάβαι .. .... Ἕ λλη ν Σ α . μ ... ου ἀ ρτάβη α Ἔ λπετα ι Σεραπ ᾶ ἀ ρτάβαι β ϛ ... ἀ ρτάβαι ε ἀρτάβαι . Ἑκῦσις Διονυσίου Ἑκῦσις Διονυσίου ἀ ρτάβαι . Ζω Ζω ί λος ἀ ρτάβαι . . Ἥρων Ἥρων Ἁλῶ το ς ἀ ρτάβαι . Ἰ Ἰ σί ων Μ ιταί που ἀ ρτάβαι δ ϛ Ι .. νας Πολείωνος ἀ ρτάβαι β γ ιβ Ἀ Ἀ γ ώρα ἀδελ φ ὴ ἀ ρτάβαι β ϛ Ἰ ούλι ον ου ται ἀ ρτάβαι γ Ἶ σι ς Πολί ων ος ἀ ρτάβαι δ ϛ Ἰ σίων Μάρωνος ἀ ρτάβαι ε γ Ἰ σίων Ἀ ι ω ν έως ἀ ρτάβαι ζ ϛ κληρ όνομοι Ἀλιτίου Ὡρίωνος ἀ ρτάβαι β κδ Κ Κ αε ῖς Ἀ ι ωνέως ἀρτάβαι ε ϛ Κωπρίας Ἥρων Κωπρίας Ἥρων ος ἀρτάβαι γ Καπαεῖς Ὡρίωνος Καπαεῖς Ὡρίωνος ἀ ρτάβαι γ 𐅷 Καπαεῖς Ἡρᾶ Καπαεῖς Ἡρᾶ ἀ ρτάβαι ζ ϛ Κα Κα π . νηλ Ἀπά μωνος ἀ ρτάβη α κδ ...... ου σίου ἀ ρτάβαι β γ ιβ ....... ν ος ἀ ρτάβαι β ϛ Αὐνῆς ἀ Αὐνῆς ἀ δ ελφός ἀρτάβαι β ϛ Μέλας Σερήνου Μέλας Σερήνου ἀ ρτάβαι β γ ιβ Μέλα Μέλα ς Ἀ ι ωνέως ἀ ρτάβαι γ γ Μάξιμος Ἀ Μάξιμος Ἀ ι ωνέως ἀ ρτάβαι ε γ ιβ Οὐενάφρις Πολείωνος Οὐενάφρις Πολείωνος ἀ ρτάβη α Παῦλος Ἀλῆτ Παῦλος Ἀλῆτ ἀ ρτάβαι γ Πολείον Φαὶτ Πολείον Φαὶτ ἀ ρτάβαι β 𐅷 Παῦλος Ἀ Παῦλος Ἀ ι ωνέως ἀ ρτάβαι β γ Π Π αμ ο ύτ ι ο ς Ἀ ι ωνέως ἀ ρτάβαι δ γ Παειη Παειη ο ῦς Σα κά ω ν ος ἀ ρτάβαι γ Παειηοῦς Σεραπ Παειηοῦς Σεραπ άμμ ων ἀ ρτάβαι ζ ϛ Παει ηοῦς Ἁτρῆ ἀ ρτάβαι ε . Π αῆσις Π ατ ρ ήο υ ἀ ρτάβαι δ . Πα ῦλος ἀδελφὸς ἀ ρτάβαι β γ ιβ Π απᾶς ἀδελφὸς ἀ ρτάβαι β γ ιβ .. . ιος Μαξίμου ἀ ρτάβαι δ γ Π α ειηοῦς Ψαβὲλ ἀ ρτάβαι ϛ 𐅵 . . ιππίο υς Ἁτρῆ ἀ ρτάβαι δ γ Σ Σ αβ άδιος Κωπρία ἀ ρτάβαι η γ Σα βῖνος οὐετρ ανός ἀ ρτάβαι η Σα ραπίον Παησίου ἀ ρτάβη α κδ Σαβῖνος Σλ Σαβῖνος Σλ ά λεως ἀ ρτάβαι β γ Σα ρ απᾶς Ἐσού ρεως ἀ ρτάβαι ε γ ιβ Το υᾶν Ἀλῶτ Λῶτ ἀ ρτάβη α 𐅵 Σ Σ αβ ῖ νο ς Ἀρτ ῦ τος ἀ ρτάβαι δ γ . .. ρ Πολείωνος ἀ ρτάβαι β γ Τ αλίτης Κυρίλλου ἀ ρτάβαι δ γ Τ ιμωθέως Κυρίλλου ἀ ρτάβαι ε 𐅷 ϛ Χρυσᾶς Χρυσᾶς Γ ουμῆν ἀ ρτάβαι δ ιβ Ὡρίων Ἰωνᾶ Ὡρίων Ἰωνᾶ ἀ ρτάβαι ε Ὡρίων Ἀιῆς Ὡρίων Ἀιῆς ἀ ρτάβαι β Ὡρίων Παπᾶς Ὡρίων Παπᾶς ἀ ρτάβαι ε Ὡρίων Σλάλεως Ὡρίων Σλάλεως ἀ ρτάβαι ζ γ Ὡρ Ὡρ ί ων Ἐ σο ύρεως ἀ ρτάβαι γ ϛ Ὡρίων Ὡρίων γραμματεύς γραματεύς ἀ ρτάβαι ε γ Ἀπολλῶς Σλάλεως Ἀπολλῶς Σλάλεως ἀ ρτάβαι γ κδ Ἀλύπιος ἀπὸ Ἀλύπιος ἀπὸ Θεοξεν ί δος Θεοξεν δος ἀ ρτάβη α 𐅵 Ἀκῆς Τρύφονος Ἀκῆς Τρύφονος ἀ ρτάβη α γ Ἥρων Φιλίππου Ἥρων Φιλίππου ἀ ρτάβαι η Εὐδέμων Σακάωνος ἀ ρτάβαι η Σουχάμμων ἀ ρτάβαι ϛ 𐅷 ϛ",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23839,
+      "reference": "P.Abinn. 73",
+      "date": "mid-4th c.",
+      "description": "Account | Barley collection by name and amount",
+      "greek": ". ολ οπρ Α ὐ ρήλιοι Κ ύριλλ ο ς Φ ιλίππο υ καὶ Ἀλῆτ Ἥρωνος Ἥρων Παησίου καὶ Φίλι ππος Κυρίλλου καὶ Ἀ ί ων Σλάλεως Γ ερόντιος Διονυσίου καὶ Πλουτάμμων Ἁτρῆ. εἴσπραξις κριθῆς εἴσπραξις κριθῆς Ἀπολ Ἀπολ λ ὼ οὐετρ ανὸς τάλαντα ιη Γερόντιος Γερόντιος τάλαντα ιϛ . ετυνχ ενχ ο κ ιων καὶ Ἀὸλ Ἀπόλ λων ος δι ὰ Φιλίππου τάλαντα β Ἀ Ἀ γοῦσις Ἀπολλῶ τάλαντα ι δ δηνάρια χ Καὸρ Ἀιον Καὸρ Ἀιον έω ς τάλαντα μ δηνάρια ϡ . . ρ .. ο ῦν Η σ ... ος τάλαντα λβ Ἅρπαλος Πεεῖ Ἅρπαλος Πεεῖ π ις τάλαντα μ ἄ λ λα τάλαντα κ δ Παειηοῦς Ψ Παειηοῦς Ψ α βὲλ τάλαντα λβ Α Α ω ιαι η Ἰ σιδώ ρ ο υ τάλαντα ιζ Σι Σι σ ό ις ... ί ου τάλαντα ιϛ κληρ όνομοι Ἀλι Ὡ ρί ω ν ος τάλαντα ιϛ Ἰ Ἰ σ ίων Μ α τό ι τάλαντα κ Ἰά δωρα Ιον .... ς τάλαντα ιϛ Μέ λας Ὡρίω ν ος τάλαντα ιϛ Π ε κ ῦσις Διο ν υ σίου τάλαντα ια Π Π α ῦλος Ἀιων έω ς τάλαντα ιϛ πϛ γίνεται τάλαντα τμϛ Πε Πε μ ουαῖ ς Ἀπο λλῶς τάλαντα ιϛ δηνάρια Γ . Ἰαλῖθις Ἀλῆτ Ἰαλῖθις Ἀλῆτ τάλαντα ιϛ Ἰσίων Ἀι Ἰσίων Ἀι ων έως τάλαντα ιδ Μέλας Διο Μέλας Διο ν υσίου τάλαντα ι ϛ Ἰσίων Ἄρωνος Ἰσίων Ἄρωνος τάλαντα κε Ὡρίων Ὡρίων Ἐσ ούρεως τάλαντα ιϛ Αὐν ῆς Ἀ ι ῶν τάλαντα ιϛ Βελλῆς Σ Βελλῆς Σ ῶ νι ς τάλαντα η Πὸλ Μαξίμου Πὸλ Μαξίμου τάλαντα λα δηνάρια Γσ Σαραπίων Ἀ Σαραπίων Ἀ κο ίου τάλαντα ε Ἁτρῆς Ἁτρῆς Διο νυσ ίο υ τάλαντα β Ἀλ Ἀλ ῖ θις Κοπρῆ τάλαντα κδ Ὡρίων Ἀ Ὡρίων Ἀ σ ῆς τάλαντα ιϛ Ὡρίων γραμματεὺς Ὡρίων γραμματεὺς τάλαντα λβ Σαβῖνος Σλάλε Σαβῖνος Σλάλε ως τάλαντα κβ δηνάρια ω Π Π α ειη ο ῦς Ἁτρῆ τάλαντα κγ Ἀννεῦς Παύλου Ἀννεῦς Παύλου τάλαντα νδ Ἀλείτης Κωπρῆ Ἀλείτης Κωπρῆ τάλαντα η Ἀ Ἀ ι ῶν Νειλᾶ τάλαντα κδ Ὡρίων γραμματεὺς Ὡρίων γραμματεὺς τάλαντα ια Πυ Πυ . η .. Π ε μουθίου τάλαντα κ δ Πα Πα μ όις Παειήου τάλαντα ιϛ Ἀλεῖ Ἀλεῖ τις Κωπ ρ ῆ τάλαντα ιϛ Οὐ Οὐ ενά φρις Πολι ω ... τάλαντα η Αὐ Αὐ νῆ ς σ τρ ατιώτης τάλαντα ιϛ Αὐ Αὐ ν ῆς Ἥρων ος τάλαντα ιη Κοπρῆ γραμματεὺς Κοπρῆ γραμματεὺς τάλαντα ιγ Παυλίν Παυλίν ου Ἰωάννου αβενει τάλαντα κδ ἄλ λα τάλαντα η τῆς τῆς ἡ μ έρ ας τάλαντα φοε λ οιπά · Παειηοῦς Ψαβὲλ τάλαντα ιϛ Ἄρι Ἄρι ς Ἀλῆθις τάλαντα ιγ Ἥρων Ἀλῆτ Ἥρων Ἀλῆτ τάλαντα ιϛ Σουχάμμων Σουχάμμων τάλαντα ιϛ Σ όν σ ις τάλαντα ϛ Τουᾶν Ἀλὸτ Τουᾶν Ἀλὸτ τάλαντα θ δηνάρια ϡ Καπεεῖς Καπεεῖς τάλαντα λβ",
+      "translation": ""
+    },
+    {
+      "corpus_id": 14957,
+      "reference": "P.Abinn. 74",
+      "date": "mid-4th c.",
+      "description": "List | Boat-tax (naubia) assessments",
+      "greek": "ἔκθεσις ἔχθεσις ναυβίων Παῆσις Παῆσις τάλαντα β Ἑλλῆς Ἀλυπίου Ἑλλῆς Ἀλυπίου τάλαντα ε Σακάων Πεμουτίου Σακάων Πεμουτίου τάλαντα β Ἀκούεις Ἀκούεις τάλαντα β δραχμαί Β Ἠοῦς Ἠοῦς δραχμαί Β Πατοῦσι Πατοῦσι ς δραχμαί Β Μάρων Ἑρμεῖς Μάρων Ἑρμεῖς τάλαντα δραχμαί Δ Λείων Ἥρωνος Λείων Ἥρωνος δραχμαί ω Ἄγαθος Ἄγαθος τάλαντα θ δραχμαί Β Μέλας Ἄγαθος Μέλας Ἄγαθος τάλαντα ιβ Σ Σ α βὲλ τάλαντα δ δραχμαί Δτ Μέλας Αὐνίων Μέλας Αὐνίων τάλαντα Α Κύριλλος Αὐνίων Κύριλλος Αὐνίων τάλαντα κα Ἀγουσᾶς Ἀγουσᾶς τάλαντα θ Ἐηοῦς Ἐηοῦς τάλαντα ιδ δραχμαί Β Ἰσχυρίων Ἰσχυρίων τάλαντα δραχμαί Β Αλύπιος Αλύπιος τάλαντα η Φαρίτης Φαρίτης τάλαντα ιγ Ἀννευοῦς Ἀννευοῦς Ὡρίωνο ς τάλαντα ϛ δραχμαί Β Ἐλλῆς Ὡρίωνος Ἐλλῆς Ὡρίωνος τάλαντα ϛ Ἑρμείας Ἑρμείας τάλαντα ϛ Τιμόθεος Τιμόθεος τάλαντα ϛ δραχμαί Δ Σοῆς Πεμουτίου Σοῆς Πεμουτίου τάλαντον α δραχμαί Β Αὐνῆς Σοῆς Αὐνῆς Σοῆς τάλαντα ϛ Ὡρίων Ὡρίων τάλαντα κβ δραχμαί Β .. θις τάλαντα θ δραχμαί ω . απ ρων δραχμαί Δ Αὐνῆς Αὐνῆς δραχμαί Δ Ἀπίων Ἀπίων δραχμαί Β Σαραπίων Σαραπίων τάλαντα γ δραχμαί Γχ Ἄπε Ἄπε ς Παῦλ ος τάλαντα θ δραχμαί Α Συρίων Συρίων τάλαντα κβ δραχμαί .. Θάεις Ἀρίων Θάεις Ἀρίων τάλαντα κα Ἀπου Ἀπου τάλαντα .. δραχμαί Β Ἄπ Ἄπ ετο ς τάλαντα ζ Πο ταμμων ε ῦς τάλαντα β",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23840,
+      "reference": "P.Abinn. 75",
+      "date": "ca. 340--348",
+      "description": "Account | Wine distribution to soldiers, veterans, officials",
+      "greek": "ἔκθεσις ἔχθεσις οἴνου· ὁ ἀριθμὸς ὁ ἀριθμὸς σπάθ ια δ β κεράμ ια γ καὶ τάλαντα ξ καὶ ἄλ λα τάλαντα π Καμπὸλ Καμπὸλ σπάθ ια δ Καννᾶς Καννᾶς σπάθ ια δ ὁ αὐτὸς ὁ αὐτὸς σπάθ ια β ὁ αὐτὸς καὶ Καμπὸλ ὁ αὐτὸς καὶ Καμπὸλ σπάθ ια β ὁ αὐτὸς μόνος ὁ αὐτὸς μόνος κεράμι α β ζ ήτει ὁ αὐτὸς καὶ Ἁτρῆς εἰς λόγον ἀποχῆς ὁ αὐτὸς καὶ Ἁτρῆς εἰς λόγον ἀποχῆς σπάθ ια β καὶ καὶ δέλφακ α α ὁ αὐτὸς καὶ Πωλίων ὁ αὐτὸς καὶ Πωλίων δεκαδάρχης καὶ Πολεουῆ καὶ Χρῆστος σπάθ ιον α καὶ κεράμ ιον α ὁ αὐτὸς μόνος ὁ αὐτὸς μόνος κεράμ ιον α πλήρ ης Καπίτων καὶ Παῦλος Καπίτων καὶ Παῦλος οὐε τρανοὶ σπάθ ια η Ἀππιανὸς ἐν τῷ κήπῳ Ἀππιανὸς ἐν τῷ κήπῳ σπάθ ια γ Ἄγαθος ἀκτουάριος κεράμιον α Ἀλέξανδρος καὶ Βονώσιος σπάθιον α πλήρ ης Ἀσκληπιάδης Ἀσκληπιάδης σπάθ ιον α Πὸλ καὶ Κανήρων Πὸλ καὶ Κανήρων σπάθ ια ιε Χρῆστος Χρῆστος Ἐπιμ άχου κερ άμιον α ἄλ λο σπάθ ιον α Πανίσκος Πανίσκος κεράμ ιον α Παῦλος Καπίτωνος Παῦλος Καπίτωνος σίτο υ ἀρτάβαι ιϛ π λήρης ? Ἀλέξ ανδ ρος καὶ Ἀπολλώνιος καὶ Ἄγαθος κερ άμιον α Κα Κα ν νᾶς κερ άμιον α Πωλίων δεκαδάρχης κερ άμιον α καὶ σπάθ ιον α Μέλας καὶ Ἀγου Μέλας καὶ Ἀγου σ ᾶς καὶ Σαρμάτης κερ άμια β ὁ αὐ τὸ ς Μέλας ἄλλο κερ άμιον α τ οῖς ἀ πὸ Μ α γαίδος Πολουῆ σπάθ ια β ταλάντων ταλάντων ν Καπίτων καὶ Καμπὸλ Καπίτων καὶ Καμπὸλ σπάθ ιον α ταλάντων εἴκοσι πέντε ταλάντων εἴκοσι πέντε ὁ αὐτὸς Πολευῆ ἐν τῷ αἰγιαλῷ αἰγιαλῷ σπάθ ιον α , τάλαντα κ ε Ταμεφόρτι τε σ ουρ Παῦλος οὐετρανὸς ὑπὲρ τῶν οὐετρανῶν ὑπὲρ τῶν οὐετρανῶν ἔλαβε ἐλαβι κερ άμιον α δι ὰ Σύρου στρατιώτ ου πόκους ἐρεῶ πόκους ἐρεῶ ν ι αἰγίδιον ἕν αἰγίδιον ἕν . ἀπὸ λόγου ὧν χρεωστεῖ χρεωστῖ Καννᾶς σπάθια Καννᾶς σπάθια θ δέδωκε δεδωκι τάλαντα ρε δέδωκε δεδωκι σπάθ ια δ πλήρης Καπίτων ο ἴ ν ου σπάθι α β vestiges Ἀσκληπιάδης δέδωκεδεδωκι διὰ Κθημ σπάθιον α οἱ δεδωκότες δεδωκώτ ες ἀπὸ λόγου οἴ οἴ ν ου Οὐεναφ ρ ίου στρα τιώτου ἀδελφοῦ Σαρμάτου ἀδελφοῦ Σαρμάτου Παῦλος Καπίτωνος Παῦλος Καπίτωνος τάλαντα ϛ .. Μάρων Μάρων τάλαντα ϛ Καννᾶς Καννᾶς ϛ ἔλαβον ἐλα β α ἐγὼ ὁ πραι π π ό σιτο ς ἀπὸ λόγου κ κ τ η τό ρων τριῶν Μέλατ ος Βαφέως. ἔλαβον ἐλ α βα διὰ Μέλα τίρω νος τάλαντα λ τρ τρ ιά κοντα",
+      "translation": ""
+    },
+    {
+      "corpus_id": 23842,
+      "reference": "P.Abinn. 77",
+      "date": "mid-4th c.",
+      "description": "Roster | Military roster: decurions, soldiers, grain allocations",
+      "greek": "Λ οι Μουσῆς Μουσῆς δεκαδάρ χ ης . Νιλάμμω Νιλάμμω ν Οὐενοῦφρ Οὐενοῦφρ ις Ἁτρῆς Ἁτρῆς δι ὰ Σ υ ρ Παῆσις Παῆσις δεκαδάρ χ ης σ ί τ ου Συρίων Συρίων σ ιτ ου Πετρώνιος σί Πετρώνιος σί τ ου δ δ Παλῶτ σίτ Παλῶτ σίτ ου Μουσῆς Μουσῆς Αγ σίτ ου Πεννιοῦς Πεννιοῦς Ἀπολλ Ἀπολλ ῶς π ρ Νῖλος Οὐενούφ Νῖλος Οὐενούφ ριος Ἕκ ιος τέκτω ν Π Π α λῆς Παῦ λος δεκαδάρ χ ης σ ίτου Σαβῖνος πολ Σαβῖνος πολ ίτης Εὐλόγιος πολ Εὐλόγιος πολ ίτης Π αλῆς σίτο υ ἀρτάβαι β . δ σ ίτου ἀρτάβη α γ ....... Διονυσ ιάδος σίτου ἀρτάβη α 𐅵 γ ................ Θεόφιλος Θεόφιλος ἀρτάβαι β . Ἀλητίῳ ἀ Ἀλητίῳ ἀ π ὸ Διονυσι ά δος Προτέριος σίτο Προτέριος σίτο υ Ἄγαθος ἀκτου Ἄγαθος ἀκτου άρ ιος σίτ ο υ Ζ ω ίλος κατάφ ρακτος σίτου Ζ Ζ ω ίλος υ ἱὸς Ὠ λ Δίων Ἰλ Δίων Ἰλ . υ κατάφ ρακτος σ ίτου Ἥρων Ἥρων κατά φ ρακτος σίτο ῦ Μέλας Μέλας πολ ίτης Συρίων Συρίων Πεννιοῦς Πεννιοῦς . ουσιω ς ἀπὸ Ἑρμ οῦ πόλεως Ἄγαθος Ἄγαθος ἀκτου ά ρι ος ἀκτουρι ος λος . λιου σίτ ου α ὐτοῦ π ου Διονυσιάδ ος ς Διον υσιά δος Διον υσιάδο ς ... π αρὰ Οὐεναφρίου μυριά δες μ παρὰ Οὐεναφρίου μυριάδες θ ......",
+      "translation": ""
+    },
+    {
+      "corpus_id": 50049,
+      "reference": "O.Oslo 18",
+      "date": "9 Nov 261",
+      "description": "Receipt | Granary record: donkeys from Narmouthis and Dionysias",
+      "greek": "θη σαυροῦ κώ μης Θεαδελφ είας γενή ματος ϛ ἔτους διὰ κτη νῶν κω μῶν Ναρμού θεως καὶ Διονυσιάδος καὶ Διονυσιάδος ὀνό ματος Ἀπ πιανῆς Διοδώρας ὄνοι πιανῆς Διοδώρας ὄνοι ὄκτώ, ὄκτώ, γ ίνονται η . ἔτους β Ἁθὺρ ιγ .",
+      "translation": "Granary of the village of Theadelphia, from the harvest of year 6, by beasts of the villages of Narmouthis and Dionysias, in the name of Appiane daughter of Diodora: eight donkeys, total 8. Year 2, Hathyr 13."
+    },
+    {
+      "corpus_id": 21128,
+      "reference": "CdE 95.109",
+      "date": "320",
+      "description": "Surety | Narmouthis military camp: surety for Aurelia Tiresis",
+      "greek": "Φλα Φλα υ ουίῳ Σ αλβιτ ί ῳ ἀ π ὸ προτηκ τ ό ρων πρωτηκ τ ό ρων τριβούνῳ κάστρω τριβούνῳ κάστρω ν κώ μη ς Ναρ μούθεως τοῦ Ἀρσ ι νοείτου νομ ο ῦ. παρὰ Αὐρηλίου Νιλᾶ παρὰ Αὐρηλίου Νιλᾶ τ οῦ Σ ύρου ἀ πὸ κώμης Ναρμούθεως τοῦ Ναρμούθεως τοῦ Ἀ ρσινοείτου νο μ ο ῦ· ὁμο λ ογῶ ἐπομνυό ἐπομνυό μενος τ ὸν πά ν τα θ ρ ε ψ ά μενον θεὸν καὶ θεὸν καὶ τὴ ν θείαν τ ύχ ην κ αὶ νί κ ην τῶν δεσποτῶν ἡμῶν αἰωνίων δεσποτῶν ἡμῶν αἰωνίων Αὐγούστων Ἀγού στων ἑκουσί ως καὶ ως καὶ αὐθαιρέτως αὐθερ έτως μον ῆς κ αὶ ἐμφανείας ἐ μφανίας ἐγ ἐγ γυᾶσθαι Αὐρ ηλ ία ν Τίρεσι ν γ υν αῖ κα Φιλίππου οὐετρανο Φιλίππου οὐετρανο ῦ θυγ α τέρα Πέβι ο ς ἣν καὶ παραστήσω ὁπ καὶ παραστήσω ὁπ ό ταν ἐπιζητή σῃς· σῃς· εἰ ἠ δὲ μὴ παρασ τήσω αὐτὴν ὑπ ε ύ θυνος ἔσομαι τοῖς θυνος ἔσομαι τοῖς πρὸς αὐτὴν ἐπιζη τ ου μένοις πᾶ μένοις πᾶ σ ι ἢ ἔν οχο ς εἴην τῷ θείῳ θίῳ ὅρκ ῳ καὶ τῷ ἐπηρτημένῳ κι καὶ τῷ ἐπηρτημένῳ κι ν δύνῳ καὶ ἐπερωτηθείς ἐπε ρ ρ ω τηθὶς ὡμολόγησ α . ὑπατείας ὑπ ατ ίας τ ῶν δεσ ποτῶν ἡμ ῶν Κ ων σταν τ ί ν ου τὸ . καὶ Κωνσταντίνου το ῦ ἐπιφ ἐπιφ α ν εστ ά τ ου Καίσ αρ ο ς τ ὸ . . Αὐρήλιος Ν ι λ ᾶς υ ἱ ὸς Σ ύρ ου ἐγ γυῶ μαι",
+      "translation": "À Flavius Salvitius ex protectoribus, tribun du camp du village de Narmouthis du nome Arsinoïte.\n                De la part d’Aurélios Nilas fils de Syros du village de Narmouthis du nome Arsinoïte: je déclare mon accord, en jurant par le dieu qui a nourri (?) toutes choses, \nainsi que par la fortune divine et la victoire de nos seigneurs éternels Augustes, pour me porter garant, de mon plein gré et volontairement, du lieu de résidence et de la comparution d’Aurélia Tirésis, \népouse du vétéran Philippos, fille de Pébis,  que je présenterai quand tu la réclameras; si je ne la présente pas, je serai responsable pour tout ce qui lui sera réclamé \nou bien puissé-je être exposé aux conséquences de mon serment divin et au risque qui y est attaché. Et, interrogé, j’ai déclaré mon accord.  Sous le consulat de nos seigneurs Constantin, \nconsul pour la (?) fois, et Constantin (ou Constance) le très illustre César, consul pour la (?) fois, (mois, jour).\n                Moi, Aurélios Nilas, fils de Syros, je me porte garant ... .\n            Translation with minor modifications: A. Martin and R. Pintaudi, CdE 95 (2020) 109-110"
+    },
+    {
+      "corpus_id": 137291,
+      "reference": "P.Lond. 5.1648dupl",
+      "date": "373",
+      "description": "Registration | Irenarch registration and labor assignment",
+      "greek": "μ ετὰ τὴν ὑπατείαν Δο μ ι τίου Μ ο δέστ ου τοῦ λ αμπροτά τ ου ἐπάρχου τοῦ ἱ εροῦ πρ πρ αι τωρίου καὶ Φ λα υίου Ἀρινθέ ο υ τ οῦ λ αμπροτά τ ου στρατηλάτου. Αὐρ Αὐρ η λίοις Δ ω ρ οθ έ ῳ Σιλβ α νοῦ καὶ Ἀρτε μ ιδ ώ ρῳ Ἑρμίν ο υ π ολιτευομέ νοις ῥιπαρί νοις ῥιπαρί ο ι ς νομ οῦ Ἑρμου π ολίτ ο υ π αρὰ Α ὐ ρ ηλίου Κά σ τορο ς Παπνουθίου μη τρὸς Σ οφίας ε ἰρηνάρχ ου ἀπὸ κώμης Τ εμενκ ύ ρκεω ς Πο ιμένων το ῦ αὐτοῦ νομοῦ. ἀν αδ ίδωμι καὶ ε ἰσα γγέ λλω τοὺ ς ἑ ξῆς ἐγ γεγρ αμ μ έν ους ἐκβ ο λέας τε χωμάτων κα κα ὶ χωμ ατ ογραμματέα χ ωμο γ ρ αμμ ατέα κ αὶ ξυλομέτρ η ν κα ὶ ἐ ργοδό τη ν τῶν δε τῶν χ χ ω μάτω ν τ ῆς εὐτυ χῶς εἰσ ϊ ο ύ σης ι ζ ἤτ οι β νέας ἰνδικ τίονος ἀ να βάσεως καρπῶν τῆς εὐτυχοῦ ς ιη ἤ τοι γ ἰνδ ι κ τίονος ὄντας ἱ ἱ κα ν οὺς καὶ ἐ π ι τ ηδείους καὶ ε ὐθέτο υς πρὸ ς τὸ ἐγχει ρισθὲν αὐ αὐ τ οῖς φρόντισ μ α κινδύνῳ ἐμο ῦ τοῦ εἰρηνάρχ ου. εἰσὶ δέ · ἐκβολεῖς· ἐκβολεῖς· Ἀπολλώνιος Ἀπολλώνιος Κ ο λλούθου Παρ άμμων Σ . . η τι ος Ὀ ννώφρις Εὐδα ίμονος Λ Λ ύ τις Π αλ χωμ ατ ογραμματεὺς χωμ ο γραμματεὺς · Ἴ βο ϊ ς Στεφάνου ξυλο ξυλο μέτρη ς· Ἡράκλει Ἡράκλει ος Π ε β ῶ το ς ἐργοδ ἐργοδ ότης · Λύτις Σι Λύτις Σι λ βανοῦ φύλαξ Πο ρ λ ᾶ τῆ ς δ η μ οσίας ὁδοῦ· Πετβῆ Πετβῆ ς Πήσ ι ο ς οὕσπερ ἐγ γυῶμαι καὶ παραστήσω ἀποπ λ ηροῦντας τὸ ἐγ χειρισθὲν αὐτοῖς φρόντισμα καθ χειρισθὲν αὐτοῖς φρόντισμα καθ ὼς π ρ ο δ εδήλωται ὑ γιῶς καὶ πιστῶς εἰς τὸ ἐν μηδενὶ με μ φθῆναι. ἐὰν δέ τις α ὐτῶν ἀ φυστ ε ρ ήσῃ καὶ μὴ π αρ α στ ήσω ἐγ ὼ αὐτὸ ς τ ὸν ὑπὲρ αὐτοῦ λόγον ὑποσ τήσο μαι καὶ ἐπερωτηθεὶς ὡμολόγησα .",
+      "translation": "After the consulship of Domitius Modestus, the most illustrious prefect of the sacred praetorium, and of Flavius Arintheus, the most illustrious magister militum. To Aurelii Dorotheos son of Silvanos and Artemidoros son of Herminos, politeuomenoi and riparioi of the Hermopolite nome, from Aurelius Kastor son of Papnouthios, whose mother is Sophia, eirenarch, from the village of Temenkyrkis Poimenon of the same nome. I assign and register the below-listed embankment workers and an embankment secretary and a wood-measurer and a labor foreman for the embankments of the prosperous incoming 17th, that is the 2nd new indiction, flood season, and the crops of the prosperous 18th, that is the 3rd indiction, being capable, suitable, and fit for the duty entrusted to them, at my risk as eirenarch. They are: embankment workers: Apollonios son of Kollouthos, Parammon S[...]tios, Onnophris son of Eudaimon, Lytis son of Pal[...]; embankment secretary [...]"
+    },
+    {
+      "corpus_id": 25646,
+      "reference": "O.Trim 2.743",
+      "date": "ca. 300--350",
+      "description": "Order | Exactor to irenarchs",
+      "greek": "π αρὰ τοῦ ἐξ άκτορος ε ἰ ρ ηνά ρχ οις κώμ κώμ ..... ατρη",
+      "translation": "From the exactor. To the eirenarchs of the village [...] Hatres."
+    },
+    {
+      "corpus_id": 25039,
+      "reference": "PSI 1.42",
+      "date": "4th c.",
+      "description": "Acknowledgment | Loan at Theoxenis: 36 artabas wheat, 6 artabas barley",
+      "greek": "ὁμολογεῖ Αὐρή λιος Κάστωρ Σαραπίωνος μητρὸς ἀπὸ κώμης Θεοξενίδος ὡς ἐτῶν νη οὐλὴ Αὐρηλίῳ Ἀνατολείῳ βουλευτῇ τῆς Ἀρσι νοιτῶν πόλεως διὰ Μέλανος πρ ονοητοῦ ἔχειν παρʼ αὐτοῦ τὸν ὁμολογοῦν τα ἐν μηνὶ Π αῦνι σὺν ἡμ ιολείᾳ πυροῦ ἀρτάβας τριακονταὲξ καὶ κριθῆς ἀρτάβας ἕξ , ὧν καὶ τὴν ἀπό δοσιν ἐπά ναγ κον ποιήσεται ὁ ὁμολογῶν Αὐρήλιος Κάστωρ Αὐρηλίῳ Ἀνατολείῳ διὰ Μέλανος προνο ητοῦ τὰς πυρ οῦ ἀρτάβας τριακονταὲξ καὶ κριθῆς ἀρτάβ ας ἓξ ἐ ν μην ὶ Παῦνι τοῦ ἐνεστῶτος ἔτους τῆς παρούσης ἰνδικ τίονος ι ἐν τῇ προκιμένῃ κώμῃ μέτρῳ τετραχοινί κῳ ἀνυπερθέτως, καὶ ἐπὶ τῆς ἀπαι τήσεως γί νεσθαί σοι τῷ Αὐρηλίῳ Ἀνατολείῳ διὰ Μέλανος προνοητοῦ τὴν πρᾶξιν π ρᾶξ ειν ἔκ τε",
+      "translation": "Aurelius Kastor son of Sarapion, whose mother is [...], from the village of Theoxenis, aged approximately 58, with a scar, acknowledges to Aurelius Anatolios, councilor of the city of the Arsinoites, through Melas his agent, that he has received from him, the acknowledging party, to be repaid in the month of Payni with a surcharge of one-half: thirty-six artabas of wheat and six artabas of barley. The repayment of which the acknowledging party Aurelius Kastor shall of necessity make to Aurelius Anatolios through Melas his agent — the thirty-six artabas of wheat and six artabas of barley — in the month of Payni of the current year of the present 10th indiction, in the aforesaid village, by the four-choinix measure, without delay. And upon default, you, Aurelius Anatolios, through Melas the agent, shall have the right of execution against [...]."
+    },
+    {
+      "corpus_id": 24816,
+      "reference": "P.Sakaon 41",
+      "date": "323",
+      "description": "Petition | Arion from Theadelphia: violence by tax collectors",
+      "greek": "Σαβ Σαβ ιν ι αν ῶι τῷ διασημοτάτωι ἡγεμ ό νι ἡγεμνι Μερκουριανῆς Αἰγύπτου παρὰ Ἀρίωνος Διοσκόρου ἀπὸ κώμης Θεαδελφίας τοῦ Ἀρσινοΐτου νομοῦ. παρὰ Ἀρίωνος Διοσκόρου ἀπὸ κώμης Θεαδελφίας τοῦ Ἀρσινοΐτου νομοῦ. προσέταξέν σου τὸ μεγαλεῖον, δέσποτα ἡγεμών, κατὰ θεῖον πρόσταγμα, μηδέ προσέταξέν σου τὸ μεγαλεῖον, δέσποτα ἡγεμών, κατὰ θεῖον πρόσταγμα, μηδέ να ὑπεραπαιτηθῆναι ἀλλʼ ἕκαστον ὑπαντᾶν πρὸς τὰ ἴδια βάρη. να ὑπεραπαιτηθῆναι ἀλλʼ ἕκαστον ὑπαντᾶν πρὸς τὰ ἴδια βάρη. ἐπεὶ τοίνυν συνεβίωσα γυναικὶ Εἰρήνῃ καὶ ἐτεκνοποιησάμην ἐξ αὐ ἐπεὶ τοίνυν συνεβίωσα γυναικὶ Εἰρήνῃ καὶ ἐτεκνοποιησάμην ἐξ αὐ τῆς καὶ αὐτή τε ἅμα τοῖς τέκνοις τὸν βίον μετήλλαξαν — ἐπεὶ τῆς καὶ αὐτή τε ἅμα τοῖς τέκνοις τὸν βίον μετήλλαξαν — ἐπεὶ τοίνυν οινυν οἱ πρακτῆρες ἐπὶ τόπων, καταφρονοῦντες τῆς μετριότητός μου καὶ οἱ πρακτῆρες ἐπὶ τόπων, καταφρονοῦντες τῆς μετριότητός μου καὶ ἀπραγμοσύνης ὁμοῦ τε καὶ τοῦ γήρους καὶ τῆς ἀπραγμοσύνης ὁμοῦ τε καὶ τοῦ γήρους καὶ τῆς ἀτεκνίας ἀτεκνείας μου, ἐπέρ χονταί μοι βιάσασθαί με βουλόμενοι τῆς γῆς τοῦ πενθεροῦ μου ἕνεκεν χονταί μοι βιάσασθαί με βουλόμενοι τῆς γῆς τοῦ πενθεροῦ μου ἕνεκεν τοῦ μηδεμίαν μετουσίαν ἔχοντός μου πρὸς αὐτόν, διὰ τοῦτο δέομαι καὶ τοῦ μηδεμίαν μετουσίαν ἔχοντός μου πρὸς αὐτόν, διὰ τοῦτο δέομαι καὶ παρακαλῶ τῆς σῆς ἀρετῆς ὅπως παρακαλῶ τῆς σῆς ἀρετῆς ὅπως οἰκτίρῃς οἰκτείρῃς μου τὸ γῆρας καὶ τὴν κατα λαβοῦσάν με συμφορὰν τῶν ἀπογενομένων μου τέκνων καὶ κελεύ λαβοῦσάν με συμφορὰν τῶν ἀπογενομένων μου τέκνων καὶ κελεύ σῇς διʼ εὐτονωτάτης σου ὑπογραφῆς διʼ οὗ ἐὰν δοκιμάσῃς κωλυθῆναι σῇς διʼ εὐτονωτάτης σου ὑπογραφῆς διʼ οὗ ἐὰν δοκιμάσῃς κωλυθῆναι τὴν γιγνομένην κατʼ ἐμοῦ βίαν ἐπὶ τόπων, ἵνα δυνηθῶ ὑπαντᾶν τὴν γιγνομένην κατʼ ἐμοῦ βίαν ἐπὶ τόπων, ἵνα δυνηθῶ ὑπαντᾶν πρὸς τὰ ἴδια βάρη τῆς γῆς μου καὶ διὰ παντὸς τῇ τύχῃ σου χάριτας πρὸς τὰ ἴδια βάρη τῆς γῆς μου καὶ διὰ παντὸς τῇ τύχῃ σου χάριτας ὁμολογῆσαι. διευτύχει. ὁμολογῆσαι. διευτύχει. Ἀρείων ἐπιδέδωκα. Ἰσίδωρος α . ν . πολ ἔγρ αψα ὑ πὲρ αὐτοῦ φ ά σκοντος μὴ εἰδέ ναι ναι γρ άμματα . Ἐπεὶφ κ . οὐκ ἀγνοεῖ ὁ πραιπόσιτος τοῦ οὐκ ἀγνοεῖ ὁ πραιπόσιτος τοῦ πάγου τίνα χρὴ μεθοδεύεσθαι πάγου τίνα χρὴ μεθοδεύεσθαι ὑπὲρ τῶν τῆς γῆς εὐσεβῶν εἰσφο ὑπὲρ τῶν τῆς γῆς εὐσεβῶν εἰσφο ρῶν. ρῶν. κόλλ ημα ρκ τόμ ου α",
+      "translation": "‘To Sabinianus, the most illustrious praeses of Aegyptus Herculia, from Arion son of Dioscorus from the village of Theadelphia in the Arsinoite nome. Your mightiness has ordered, lord praeses, in accordance with the divine order, that no one should be subjected to undue demands but that each man should meet his own burdens. Now I lived with my wife Irene and begot children by her, and she with her children departed this life. Now the local collectors, in contempt of my meek and unobtrusive character and of my age and childlessness no less are attacking me and wishing to do me violence in respect of my father-in-law’s land on the ground that I am not in partnership with him. That is why I pray and beseech your virtue to pity my old age and the disaster of my children’s death that has overtaken me and give instructions most stringent in your reply with the result that with your approval a stop may be put to these local acts of violence that I may be in a position to meet the burdens proper to my land and throughout confess my gratitude to your Genius. Farewell. I Areion have submitted the petition. I, Isidorus, of the same city, have written on his behalf as he claims to be illiterate.’\n(2nd hand) ‘Epeiph 20. The Praepositus of the pagus is well aware from whom taxes should be collected in respect of the sacred revenues of the land. Entry 102, volume 1.’"
+    },
+    {
+      "corpus_id": 24819,
+      "reference": "P.Sakaon 44",
+      "date": "331--332",
+      "description": "Petition | Community petition from Theadelphia: tax-evading migrants",
+      "greek": "Φλαουί ῳ Φλαυουι Ὑγίνῳ τῷ διασημ ο τάτῳ ἐπάρχῳ Αἰγύπτου παρὰ τοῦ κοινοῦ τῶν ἀπὸ κώμης Φιλαδελφίας ὀγδόου πάγου τοῦ Ἀρσινοεί παρὰ τοῦ κοινοῦ τῶν ἀπὸ κώμης Φιλαδελφίας ὀγδόου πάγου τοῦ Ἀρσινοεί του διʼ ἡμῶν Ἥρωνος καὶ Σακαῶνος καὶ Κανα του διʼ ἡμῶν Ἥρωνος καὶ Σακαῶνος καὶ Κανα ῦ . τρεῖς τρῖς ἐσμεν, οἱ προκίμενοι, ἐν τῇ κώμῃ, ἔπαρχε δέσποτα, ἐν τῇ κώμῃ, ἔπαρχε δέσποτα, οἵτινες οἵτεινες εἰσφέρομεν ὑπὲρ ὅλης τῆς κώμης ἀρουρῶν πεντακοσίων, καὶ μηδὲ ἀρουρῶν πεντακοσίων, καὶ μηδὲ συνβροχιζομένων συνπροχιζομένων , καὶ τοῦ κατʼ ἄνδρα σὺν σὺν ταμιακοῖς σαμιακοῖς ἀνδράσι εἴκοσι πέντε πένται · ὡς ἐκ τούτου πάνυ πάνοι τὴν κώμην ἡμῶν εἰς εἰς σ τενοκομιδὴν τενοκομιδὴν ἐλθεῖν ἐλθῖν . πρὸς ἀναζήτησιν δὲ ἐγενόμεθα τῶν ὁμοκομητῶν ἐπὶ τῷ Ὀξυρυγχείτῃ καὶ κατελαβόμεθα ἐν ἐποικίῳ Εὐλογίου ἐπὶ τῷ Ὀξυρυγχείτῃ καὶ κατελαβόμεθα ἐν ἐποικίῳ Εὐλογίου υἱοῦ υἱῶ Νίδα τῶν ἀπὸ Σερήνου προβόλους ἄνδρας Σερήνου προβόλους ἄνδρας πέντε πένται , Διονύσιον καὶ καὶ Σουχ ειδᾶν καὶ Ὧρ καὶ Ἄμμω να καὶ Σουχειδᾶν καὶ Ἀπὸλ καὶ Σαββαῖον μετὰ τῶν γενῶν, καὶ ὁ τούτων γεο να καὶ Σουχειδᾶν καὶ Ἀπὸλ καὶ Σαββαῖον μετὰ τῶν γενῶν, καὶ ὁ τούτων γεο ῦ χος Εὐλόγ χος Εὐλόγ ιο ς ἅμα Ἀρείωνι ἀμπελουργῷ καὶ Σεραπίωνι γεωργῷ οὐκ ἐπέτ ρε ψαντο οὔτε τῆς ψαντο οὔτε τῆς θ ύ ρας τοῦ ἐποικίου ἐνγίσαι μεθʼ ὕβρεων. ἔτι δὲ καὶ εὕραμ εν ἐν τῷ ἐν τῷ αὐτῷ Κυνοπολίτῳ νομῷ ὁμοκωμήτας τρεῖς τρῖς περατάς παρατάς , Γερόντιον καὶ Παθαῦ καὶ Ἥρω να, ἔχοντας ὅλας βασιλικῆς ἀρούρας ἑκατὸν καὶ πρός. διὰ τοῦτο δεόμεθα τῆς να, ἔχοντας ὅλας βασιλικῆς ἀρούρας ἑκατὸν καὶ πρός. διὰ τοῦτο δεόμεθα τῆς σῆς ἐξ σῆς ἐξ ο υσίας, ἄνθρ ω ποι μέτριοι καὶ μονήρεις μονήρις , προστάξαι προστάξε τῷ τὰ εἰρηνικὰ ἐ ν πε πιστε πιστε υ μένῳ τοὺς ὁ μοκομήτας ἡμῖν παραδοῦναι μετὰ τῶν γενῶν ἵνα εἵνα δυ νηθῶμεν νηθῶμεν μετὰ τῶν γενῶν εἵνα δυνηθῶμεν διὰ ταύτης τῆς παραμυθίας στῆν στῆν α ι ἐν τῇ κώμῃ καὶ διὰ παντὸς τῇ λαμπρᾷ σου τύχῃ χάριτας ὁμολο γήσομεν . διευτύχει. Αὐρ ήλιοι Σακαῶν καὶ Ἥρων καὶ Καναοῦγ ἐπιδεδώκαμεν. Αὐρ ήλιος Μαξ έντι ος ἔγρ αψα ὑ πὲρ αὐτῶν γράμματα μὴ εἰδ ότων .",
+      "translation": "To his eminence Flavius Hyginus, praefect of Egypt, from the community of the village of Theadelphia in the 8th pagus of the Arsinoite nome, through us, Heron and Sakaon and Kanaoug. We the aforesaid, our lord praefect, are a group of three persons in the village who pay taxes on behalf of all the village for five hundred arurae which are not even being ploughed up and for a roll of twenty-five individuals including the employees of the Treasury, so that from this state of things our village is reduced to great straits.\n                Setting out in search of our fellow-villagers in the Oxyrhynchite nome we discovered at the farmstead of Eulogius, son of Nidas, of the hamlet of Serenus, five nominated (?) men, Dionysius, Hor, Ammon, Soucheidas, Apol, and Sabbaeus, with their families; and their landlord Eulogius, together with Arion, a vine-dresser, and Serapion, a cultivator, did not allow us even to approach the door of the farmstead, repulsing us with violence. We also found three migrants in the Cynopolite nome, Gerontius, Pathas, and Heron, holding between them a hundred arurae and more of Crown land.\n              Therefore we, humble and solitary men, beseech your excellency to give order to the superintendent of public security to deliver up to us our fellow-villagers with their families, in order that we may be enabled by this measure of relief to remain in our village and may for ever feel grateful to your illustrious fortune. Farewell.\n              (Signed) We, the Aurelii Sakaon and Heron and Kanaoug, have presented this petition. I, Aurelius Maximus, wrote for them, as they are illiterate.\n                      Translation: A.S. Hunt – C.C. Edgar, Sel.Pap. 2 295"
+    }
+  ],
+  "further_reading": [
+    "Bell, H.I., V. Martin, E.G. Turner, and D. van Berchem. *The Abinnaeus Archive: Papers of a Roman Officer in the Reign of Constantius II*. Oxford: Clarendon Press, 1962.",
+    "Bagnall, Roger S. *Egypt in Late Antiquity*. Princeton: Princeton University Press, 1993.",
+    "Barnes, T.D. *Athanasius and Constantius: Theology and Politics in the Constantian Empire*. Cambridge, MA: Harvard University Press, 1993.",
+    "Bryen, Ari. \"Visibility and Violence in Petitions from Roman Egypt.\" *Greek, Roman, and Byzantine Studies* 48 (2008): 181--200.",
+    "Jones, A.H.M. *The Later Roman Empire, 284--602: A Social, Economic, and Administrative Survey*. 3 vols. Oxford: Blackwell, 1964.",
+    "Sidebotham, S.E. *Berenike and the Ancient Maritime Spice Route*. Berkeley: University of California Press, 2011.",
+    "van Berchem, D. *L'Armee de Diocletien et la Reforme Constantinienne*. Paris: Paul Geuthner, 1952.",
+    "Vegetius. *Epitoma Rei Militaris*. Trans. N.P. Milner. Liverpool: Liverpool University Press, 1993.",
+    "Wallace, Sherman LeRoy. *Taxation in Egypt from Augustus to Diocletian*. Princeton: Princeton University Press, 1938.",
+    "---"
+  ]
+}

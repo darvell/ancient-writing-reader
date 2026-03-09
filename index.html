@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ancient Writing — Stories from the Papyri</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="site-nav">
+    <span class="nav-title">Ancient Writing</span>
+    <button class="theme-toggle" aria-label="Toggle dark mode">
+      <span class="theme-icon-light">&#9790;</span>
+      <span class="theme-icon-dark">&#9788;</span>
+    </button>
+  </nav>
+
+  <main class="index">
+    <header class="index-header">
+      <h1>Stories from the Papyri</h1>
+      <p class="index-desc">Microhistories reconstructed from ancient Greek documentary papyri, inscriptions, and literary texts. Each story traces a real person through the archival record — tax receipts, petitions, contracts, love letters — and footnotes every claim back to the source.</p>
+    </header>
+
+    <ul class="story-list">
+      
+      <li class="story-card">
+        <a href="she-conducted-herself-blamelessly.html">
+          <h2>She Conducted Herself Blamelessly</h2>
+          
+          <p class="card-subtitle">Syra, Daughter of Theon --- Oxyrhynchus, c. 20--50 CE</p>
+          
+          <p class="card-meta">
+            31 documents &middot; 89 notes &middot; 12 sections
+          </p>
+        </a>
+      </li>
+      
+      <li class="story-card">
+        <a href="mistress-of-her-own-person.html">
+          <h2>Mistress of Her Own Person</h2>
+          
+          <p class="card-subtitle">Dionysia, Daughter of Chaeremon — Oxyrhynchus, c. 126–186 CE</p>
+          
+          <p class="card-meta">
+            31 documents &middot; 75 notes &middot; 12 sections
+          </p>
+        </a>
+      </li>
+      
+      <li class="story-card">
+        <a href="the-ties-that-bind.html">
+          <h2>The Ties That Bind</h2>
+          
+          <p class="card-subtitle">Three Generations of a Fayum Family, Tebtunis and Antinoopolis, 89--224 CE</p>
+          
+          <p class="card-meta">
+            58 documents &middot; 60 notes &middot; 13 sections
+          </p>
+        </a>
+      </li>
+      
+      <li class="story-card">
+        <a href="because-i-am-a-greek.html">
+          <h2>Because I Am a Greek</h2>
+          
+          <p class="card-subtitle">Ptolemaios, Son of Glaukias --- The Serapeum at Memphis, c. 172--145 BCE</p>
+          
+          <p class="card-meta">
+            37 documents &middot; 117 notes &middot; 12 sections
+          </p>
+        </a>
+      </li>
+      
+      <li class="story-card">
+        <a href="the-managers-accounts.html">
+          <h2>The Manager's Accounts</h2>
+          
+          <p class="card-subtitle">Heroneinos, Phrontistes of Theadelphia — c. 248-268 CE</p>
+          
+          <p class="card-meta">
+            48 documents &middot; 72 notes &middot; 13 sections
+          </p>
+        </a>
+      </li>
+      
+      <li class="story-card">
+        <a href="the-commanders-desk.html">
+          <h2>The Commander's Desk</h2>
+          
+          <p class="card-subtitle">Flavius Abinnaeus, Praefectus Alae, Dionysias, 340--351 CE</p>
+          
+          <p class="card-meta">
+            57 documents &middot; 67 notes &middot; 13 sections
+          </p>
+        </a>
+      </li>
+      
+      <li class="story-card">
+        <a href="no-small-danger.html">
+          <h2>No Small Danger</h2>
+          
+          <p class="card-subtitle">Aurelia Techosis, Daughter of Diodorus -- The Small Oasis to Oxyrhynchus, 295 CE</p>
+          
+          <p class="card-meta">
+            43 documents &middot; 83 notes &middot; 12 sections
+          </p>
+        </a>
+      </li>
+      
+      <li class="story-card">
+        <a href="under-zeus-earth-and-sun.html">
+          <h2>Under Zeus, Earth, and Sun</h2>
+          
+          <p class="card-subtitle">Euphrosyne of Oxyrhynchus -- 86 CE</p>
+          
+          <p class="card-meta">
+            27 documents &middot; 70 notes &middot; 12 sections
+          </p>
+        </a>
+      </li>
+      
+      <li class="story-card">
+        <a href="the-weavers-boy.html">
+          <h2>The Weaver's Boy</h2>
+          
+          <p class="card-subtitle">Learning a Trade in Roman Oxyrhynchus, 1st--3rd Century CE</p>
+          
+          <p class="card-meta">
+            36 documents &middot; 106 notes &middot; 13 sections
+          </p>
+        </a>
+      </li>
+      
+      <li class="story-card">
+        <a href="the-purple-sellers-house.html">
+          <h2>The Purple-Seller's House</h2>
+          
+          <p class="card-subtitle">Psates, Son of Abraamios -- This, in the Theban Province, 592--616 CE</p>
+          
+          <p class="card-meta">
+            11 documents &middot; 103 notes &middot; 12 sections
+          </p>
+        </a>
+      </li>
+      
+    </ul>
+  </main>
+
+  <script>
+    // Theme toggle for index page
+    const toggle = document.querySelector('.theme-toggle');
+    const html = document.documentElement;
+    const saved = localStorage.getItem('theme');
+    if (saved) html.setAttribute('data-theme', saved);
+
+    toggle?.addEventListener('click', () => {
+      const next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    });
+  </script>
+</body>
+</html>

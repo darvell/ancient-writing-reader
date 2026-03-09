@@ -1,0 +1,1171 @@
+{
+  "people": {
+    "dionysia-oxyrhynchus-c-105--after-186-ce": {
+      "id": "dionysia-oxyrhynchus-c-105--after-186-ce",
+      "type": "person",
+      "canonical_name": "Dionysia",
+      "name_variants": [
+        "Dionysia daughter of Chaeremon"
+      ],
+      "patronymic": "daughter of Chaeremon son of Phanias",
+      "dates": "c. 105--after 186 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "landowner",
+          "date": "",
+          "location": "Oxyrhynchite nome"
+        },
+        {
+          "title": "litigant",
+          "date": "131 CE",
+          "location": "Alexandria"
+        },
+        {
+          "title": "litigant",
+          "date": "186 CE",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        69364,
+        141383,
+        43143,
+        43480
+      ],
+      "bio": "One of the most fully documented women from Roman Egypt. Across at least sixty years (126--186 CE), she purchased and managed agricultural and urban property, survived a catastrophic Nile flood, and fought two major legal battles -- first against a man who challenged her vineyard purchase, then against her own father who tried to reclaim her property and invoke an ancient Egyptian law to remove her from her husband's house. Her petition P.Oxy. 2.237 is one of the longest and most legally sophisticated papyri ever discovered.",
+      "disambiguation": "Not to be confused with Dionysia daughter of Theon (P.Oxy. 3.494, corpus ID 141058, 165 CE) or Aurelia Dionysias alias Chaeremonis (P.Oxy. 10.1278, corpus ID 43204, 214 CE).",
+      "physical_ids": [
+        "P.Oxy. III 486",
+        "P.Oxy. II 237",
+        "P.Oxy. I 101",
+        "P.Oxy. III 502"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "chaeremon-oxyrhynchus-fl-c-160--186-ce": {
+      "id": "chaeremon-oxyrhynchus-fl-c-160--186-ce",
+      "type": "person",
+      "canonical_name": "Chaeremon",
+      "name_variants": [
+        "Chaeremon son of Phanias",
+        "Chaeremon ex-gymnasiarch"
+      ],
+      "patronymic": "son of Phanias",
+      "dates": "fl. c. 160--186 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "ex-gymnasiarch",
+          "date": "",
+          "location": "Oxyrhynchus"
+        },
+        {
+          "title": "litigant",
+          "date": "c. 178--186 CE",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        141383
+      ],
+      "bio": "Dionysia's father, an ex-gymnasiarch of Oxyrhynchus -- the highest civic magistracy, requiring substantial personal wealth. He waged a decades-long campaign to reclaim property he had given to Dionysia and to invoke the ancient Egyptian law of apospasis (forcible removal of a daughter from her husband). Every official who investigated his claims found against him.",
+      "disambiguation": "Not the same as Chaeremon of Antinoë, Dionysia's second cousin, who previously owned the house she leased in 164 CE.",
+      "physical_ids": [
+        "P.Oxy. II 237"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "hermione-oxyrhynchus-d-c-130--131-ce": {
+      "id": "hermione-oxyrhynchus-d-c-130--131-ce",
+      "type": "person",
+      "canonical_name": "Hermione",
+      "name_variants": [
+        "Hermione daughter of Chaeremon"
+      ],
+      "patronymic": "daughter of Chaeremon",
+      "dates": "d. c. 130--131 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "property co-owner",
+          "date": "",
+          "location": "Oxyrhynchite nome"
+        }
+      ],
+      "corpus_ids": [
+        69364
+      ],
+      "bio": "Dionysia's mother, who co-managed property with her daughter. Accused of pharmakeia (poisoning) by Sarapion son of Mnesitheus as a tactic in his property dispute. Died before the case could come to trial.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. III 486"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "horion-oxyrhynchus-fl-c-160--186-ce": {
+      "id": "horion-oxyrhynchus-fl-c-160--186-ce",
+      "type": "person",
+      "canonical_name": "Horion",
+      "name_variants": [
+        "Horion son of Apion"
+      ],
+      "patronymic": "son of Apion",
+      "dates": "fl. c. 160--186 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "husband of Dionysia",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        141383
+      ],
+      "bio": "Dionysia's husband, whom Chaeremon blamed for instigating his daughter's resistance. Chaeremon accused Horion of threatening violence and claimed Dionysia acted at his instigation.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. II 237"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "apion-oxyrhynchus-fl-142--164-ce": {
+      "id": "apion-oxyrhynchus-fl-142--164-ce",
+      "type": "person",
+      "canonical_name": "Apion",
+      "name_variants": [
+        "Apion also called Dionysius",
+        "Dionysius son of Diogenes"
+      ],
+      "patronymic": "son of Diogenes",
+      "dates": "fl. 142--164 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "guardian (kyrios) of Dionysia",
+          "date": "",
+          "location": "Oxyrhynchus"
+        },
+        {
+          "title": "priest of Faustina Augusta",
+          "date": "164 CE",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        43143,
+        43480
+      ],
+      "bio": "Dionysia's son, who served as her legal guardian (kyrios) in property transactions from at least 142 to 164 CE. By 164 CE he held the priesthood of the deified empress Faustina Augusta, confirming the family's elite status.",
+      "disambiguation": "Not the same as Apion, father of Horion (Dionysia's father-in-law), though the naming pattern suggests the grandson was named after the paternal grandfather.",
+      "physical_ids": [
+        "P.Oxy. I 101",
+        "P.Oxy. III 502"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "mnesitheus-oxyrhynchus-d-before-c-127-ce": {
+      "id": "mnesitheus-oxyrhynchus-d-before-c-127-ce",
+      "type": "person",
+      "canonical_name": "Mnesitheus",
+      "name_variants": [
+        "Mnesitheus father of Sarapion"
+      ],
+      "patronymic": "",
+      "dates": "d. before c. 127 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "property seller",
+          "date": "",
+          "location": "Oxyrhynchite nome"
+        }
+      ],
+      "corpus_ids": [
+        69364
+      ],
+      "bio": "The man who sold vineyard and corn-land to Dionysia around 126/7 CE. He had creditors who held the land as mortgage security, suggesting financial difficulties. His death triggered his son Sarapion's challenge to the sale.",
+      "disambiguation": "Possibly related to the Mnesitheus son of Theon attested in Stud.Pal. 4, pp. 114--5 (corpus ID 141428).",
+      "physical_ids": [
+        "P.Oxy. III 486"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "sarapion-oxyrhynchus-fl-c-127--131-ce": {
+      "id": "sarapion-oxyrhynchus-fl-c-127--131-ce",
+      "type": "person",
+      "canonical_name": "Sarapion",
+      "name_variants": [
+        "Sarapion son of Mnesitheus"
+      ],
+      "patronymic": "son of Mnesitheus",
+      "dates": "fl. c. 127--131 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "litigant",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        69364
+      ],
+      "bio": "Son of Mnesitheus, who sold vineyard and corn-land to Dionysia. After his father's death, Sarapion challenged the sale, claiming the land was merely mortgaged. He also accused Dionysia's mother Hermione of poisoning. He was ordered to appear before the praefect in Alexandria but repeatedly failed to attend.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. III 486"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "titus-flavius-titianus-alexandria-fl-126--133-ce": {
+      "id": "titus-flavius-titianus-alexandria-fl-126--133-ce",
+      "type": "person",
+      "canonical_name": "Titus Flavius Titianus",
+      "name_variants": [
+        "Flavius Titianus",
+        "Titianus"
+      ],
+      "patronymic": "",
+      "dates": "fl. 126--133 CE",
+      "location": "Alexandria",
+      "roles": [
+        {
+          "title": "praefect of Egypt",
+          "date": "c. 126--133 CE",
+          "location": "Alexandria"
+        }
+      ],
+      "corpus_ids": [
+        69364,
+        141383
+      ],
+      "bio": "Praefect of Egypt under Hadrian, to whom Dionysia petitioned in 131 CE about the vineyard dispute. His ruling in a separate case -- that a wife's own choice determined where she lived -- became the foundational legal precedent that Dionysia cited fifty-five years later against her father.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. III 486",
+        "P.Oxy. II 237"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "julius-varianus-heptanomis-fl-131-ce": {
+      "id": "julius-varianus-heptanomis-fl-131-ce",
+      "type": "person",
+      "canonical_name": "Julius Varianus",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 131 CE",
+      "location": "Heptanomis",
+      "roles": [
+        {
+          "title": "epistrategus of the Heptanomis and Arsinoite nome",
+          "date": "131 CE",
+          "location": "Heptanomis"
+        }
+      ],
+      "corpus_ids": [
+        69364
+      ],
+      "bio": "Epistrategus to whom the praefect Titianus referred Dionysia's vineyard case for local adjudication.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. III 486"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "claudius-quintianus-heptanomis-fl-c-128--130-ce": {
+      "id": "claudius-quintianus-heptanomis-fl-c-128--130-ce",
+      "type": "person",
+      "canonical_name": "Claudius Quintianus",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. c. 128--130 CE",
+      "location": "Heptanomis",
+      "roles": [
+        {
+          "title": "epistrategus of the Heptanomis",
+          "date": "c. 128--130 CE",
+          "location": "Heptanomis"
+        }
+      ],
+      "corpus_ids": [
+        69364
+      ],
+      "bio": "Epistrategus who first heard the combined property dispute and poisoning accusation between Dionysia/Hermione and Sarapion. He referred the case to the praefect in Alexandria.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. III 486"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "pomponius-faustianus-alexandria-fl-c-185--186-ce": {
+      "id": "pomponius-faustianus-alexandria-fl-c-185--186-ce",
+      "type": "person",
+      "canonical_name": "Pomponius Faustianus",
+      "name_variants": [
+        "Faustianus"
+      ],
+      "patronymic": "",
+      "dates": "fl. c. 185--186 CE",
+      "location": "Alexandria",
+      "roles": [
+        {
+          "title": "praefect of Egypt",
+          "date": "c. 185--186 CE",
+          "location": "Alexandria"
+        }
+      ],
+      "corpus_ids": [
+        141383
+      ],
+      "bio": "Praefect of Egypt to whom Dionysia addressed her massive petition against her father Chaeremon in 186 CE. His predecessor Longaeus Rufus had already investigated and found in Dionysia's favor.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. II 237"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "longaeus-rufus-alexandria-fl-c-185-ce": {
+      "id": "longaeus-rufus-alexandria-fl-c-185-ce",
+      "type": "person",
+      "canonical_name": "Longaeus Rufus",
+      "name_variants": [
+        "Rufus"
+      ],
+      "patronymic": "",
+      "dates": "fl. c. 185 CE",
+      "location": "Alexandria",
+      "roles": [
+        {
+          "title": "praefect of Egypt",
+          "date": "c. 185 CE",
+          "location": "Alexandria"
+        }
+      ],
+      "corpus_ids": [
+        141383
+      ],
+      "bio": "Praefect of Egypt who investigated Chaeremon's initial claims and ordered the strategus to examine Dionysia's case. The investigation confirmed Dionysia's property rights.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. II 237"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "harpocration-oxyrhynchus-fl-186-ce": {
+      "id": "harpocration-oxyrhynchus-fl-186-ce",
+      "type": "person",
+      "canonical_name": "Harpocration",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 186 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "royal scribe (basilicogrammateus)",
+          "date": "",
+          "location": "Oxyrhynchite nome"
+        },
+        {
+          "title": "deputy-strategus",
+          "date": "186 CE",
+          "location": "Oxyrhynchite nome"
+        }
+      ],
+      "corpus_ids": [
+        141383
+      ],
+      "bio": "Royal scribe and acting deputy-strategus who presided over the hearing on June 3, 186 CE. He declined to rule on Chaeremon's claim of apospasis and referred the matter to the praefect for a definitive decision.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. II 237"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "isidorus-oxyrhynchus-fl-c-185--186-ce": {
+      "id": "isidorus-oxyrhynchus-fl-c-185--186-ce",
+      "type": "person",
+      "canonical_name": "Isidorus",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. c. 185--186 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "strategus of the Oxyrhynchite nome",
+          "date": "c. 185--186 CE",
+          "location": "Oxyrhynchite nome"
+        }
+      ],
+      "corpus_ids": [
+        141383
+      ],
+      "bio": "Strategus (nome governor) who carried out the praefect's instructions to investigate Chaeremon's claims and ordered the keepers of the archives to produce their reports.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. II 237"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "ulpius-dionysodorus-oxyrhynchus-fl-c-185--186-ce": {
+      "id": "ulpius-dionysodorus-oxyrhynchus-fl-c-185--186-ce",
+      "type": "person",
+      "canonical_name": "Ulpius Dionysodorus",
+      "name_variants": [
+        "Dionysodorus"
+      ],
+      "patronymic": "",
+      "dates": "fl. c. 185--186 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "lawyer (nomikos)",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        141383
+      ],
+      "bio": "Legal counsel retained by Dionysia. His formal opinion -- that 'since Dionysia has been given away by her father in marriage, she is no longer in his power' -- was a key element of her legal argument against the right of apospasis.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. II 237"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "paconius-felix-heptanomis-fl-1334-ce": {
+      "id": "paconius-felix-heptanomis-fl-1334-ce",
+      "type": "person",
+      "canonical_name": "Paconius Felix",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 133/4 CE",
+      "location": "Heptanomis",
+      "roles": [
+        {
+          "title": "epistrategus",
+          "date": "133/4 CE",
+          "location": "Heptanomis"
+        }
+      ],
+      "corpus_ids": [
+        141383
+      ],
+      "bio": "Epistrategus who ruled in the case of Phlauesis vs. Heron, following the precedent of Flavius Titianus that the wife's own choice determined where she lived.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. II 237"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "umbrius-alexandria-fl-867-ce": {
+      "id": "umbrius-alexandria-fl-867-ce",
+      "type": "person",
+      "canonical_name": "Umbrius",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 86/7 CE",
+      "location": "Alexandria",
+      "roles": [
+        {
+          "title": "iuridicus",
+          "date": "86/7 CE",
+          "location": "Alexandria"
+        }
+      ],
+      "corpus_ids": [
+        141383
+      ],
+      "bio": "Roman judicial official who ruled that 'it is worse to take away a wife from her husband than a dowry from a daughter' -- a precedent cited by Dionysia in her petition a century later.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. II 237"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "marcus-mettius-rufus-alexandria-fl-8990-ce": {
+      "id": "marcus-mettius-rufus-alexandria-fl-8990-ce",
+      "type": "person",
+      "canonical_name": "Marcus Mettius Rufus",
+      "name_variants": [
+        "Mettius Rufus"
+      ],
+      "patronymic": "",
+      "dates": "fl. 89/90 CE",
+      "location": "Alexandria",
+      "roles": [
+        {
+          "title": "praefect of Egypt",
+          "date": "89/90 CE",
+          "location": "Alexandria"
+        }
+      ],
+      "corpus_ids": [
+        141383,
+        43378,
+        46946
+      ],
+      "bio": "Praefect of Egypt who issued the proclamation establishing the bibliotheke enkteseon (property registration system) in 89/90 CE. His decree required all property owners to register their holdings and wives to insert marriage contracts in husbands' property statements. This system was the foundation of Dionysia's legal victories.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. II 237",
+        "P.Oxy. II 247",
+        "P.Oxy. I 72"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "psenamounis-paberke-fl-142-ce": {
+      "id": "psenamounis-paberke-fl-142-ce",
+      "type": "person",
+      "canonical_name": "Psenamounis",
+      "name_variants": [],
+      "patronymic": "son of Thonis and Seoris",
+      "dates": "fl. 142 CE",
+      "location": "Paberke",
+      "roles": [
+        {
+          "title": "tenant farmer",
+          "date": "",
+          "location": "Oxyrhynchite nome"
+        }
+      ],
+      "corpus_ids": [
+        43143
+      ],
+      "bio": "Tenant farmer from Paberke in the eastern toparchy, described as 'a Persian of the Epigone.' He leased 38 arourae from Dionysia for six years beginning in 142 CE at a rent of 190 artabae of wheat and 12 drachmas per year.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. I 101"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "ptolema-antinoë-fl-164-ce": {
+      "id": "ptolema-antinoë-fl-164-ce",
+      "type": "person",
+      "canonical_name": "Ptolema",
+      "name_variants": [],
+      "patronymic": "daughter of Theon",
+      "dates": "fl. 164 CE",
+      "location": "Antinoë",
+      "roles": [
+        {
+          "title": "tenant",
+          "date": "",
+          "location": "Oxyrhynchus"
+        }
+      ],
+      "corpus_ids": [
+        43480
+      ],
+      "bio": "Woman from Antinoë who leased a house from Dionysia in Oxyrhynchus in 164 CE, acting through an agent named Iulas son of Didymus. The annual rent was 200 silver drachmas.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. III 502"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "valerius-eudaemon-alexandria-fl-1378-ce": {
+      "id": "valerius-eudaemon-alexandria-fl-1378-ce",
+      "type": "person",
+      "canonical_name": "Valerius Eudaemon",
+      "name_variants": [
+        "Eudaemon"
+      ],
+      "patronymic": "",
+      "dates": "fl. 137/8 CE",
+      "location": "Alexandria",
+      "roles": [
+        {
+          "title": "praefect of Egypt",
+          "date": "137/8 CE",
+          "location": "Alexandria"
+        }
+      ],
+      "corpus_ids": [
+        141383
+      ],
+      "bio": "Praefect who issued a decree against debtors bringing criminal counter-accusations to avoid payment -- the same tactic Sarapion used against Dionysia and Hermione.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. II 237"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "phlauesis-unknown-fl-1334-ce": {
+      "id": "phlauesis-unknown-fl-1334-ce",
+      "type": "person",
+      "canonical_name": "Phlauesis",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 133/4 CE",
+      "location": "unknown",
+      "roles": [
+        {
+          "title": "litigant (father)",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        141383
+      ],
+      "bio": "Father who tried to reclaim his daughter Taeichekis from her husband Heron, citing the Egyptian law of apospasis. The epistrategus Paconius Felix ruled that the daughter's own choice determined the matter.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. II 237"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "taeichekis-unknown-fl-1334-ce": {
+      "id": "taeichekis-unknown-fl-1334-ce",
+      "type": "person",
+      "canonical_name": "Taeichekis",
+      "name_variants": [],
+      "patronymic": "daughter of Phlauesis",
+      "dates": "fl. 133/4 CE",
+      "location": "unknown",
+      "roles": [
+        {
+          "title": "wife",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        141383
+      ],
+      "bio": "Daughter of Phlauesis, who chose to remain with her husband Heron when the epistrategus ruled that her choice controlled the question of apospasis.",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. II 237"
+      ],
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    }
+  },
+  "places": {
+    "oxyrhynchus-heptanomia-middle-egypt": {
+      "id": "oxyrhynchus-heptanomia-middle-egypt",
+      "type": "place",
+      "name": "Oxyrhynchus",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "Heptanomia (Middle Egypt)",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "alexandria": {
+      "id": "alexandria",
+      "type": "place",
+      "name": "Alexandria",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "no-small-danger",
+        "she-conducted-herself-blamelessly",
+        "the-managers-accounts"
+      ]
+    },
+    "oxyrhynchus-oxyrhynchite-nome-heptanomis-roman-egypt": {
+      "id": "oxyrhynchus-oxyrhynchite-nome-heptanomis-roman-egypt",
+      "type": "place",
+      "name": "Oxyrhynchus",
+      "ancient_variants": [
+        "Per-Medjed"
+      ],
+      "modern_location": "el-Bahnasa, Minya Governorate, Egypt",
+      "region": "Oxyrhynchite nome, Heptanomis, Roman Egypt",
+      "period": "Ptolemaic through Byzantine",
+      "bio": "Third-largest city in Roman Egypt and capital of the Oxyrhynchite nome. One of the most important archaeological sites for ancient papyri. In the second century CE it was dominated by wealthy families who held gymnasiarchies and other liturgical offices. Its record offices (bibliotheke enkteseon), courts, temples, and gymnasium formed the institutional backdrop of Dionysia's legal battles.",
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "alexandria-lower-egypt": {
+      "id": "alexandria-lower-egypt",
+      "type": "place",
+      "name": "Alexandria",
+      "ancient_variants": [
+        "Alexandreia"
+      ],
+      "modern_location": "Alexandria, Egypt",
+      "region": "Lower Egypt",
+      "period": "Ptolemaic through modern",
+      "bio": "Capital of Roman Egypt and seat of the praefect. Dionysia traveled roughly 200 km from Oxyrhynchus to Alexandria in 131 CE to appear before the praefect's court. The city was the ultimate destination for legal disputes that provincial officials could not resolve.",
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "temgenouthis-oxyrhynchus": {
+      "id": "temgenouthis-oxyrhynchus",
+      "type": "place",
+      "name": "Temgenouthis",
+      "ancient_variants": [],
+      "modern_location": "within el-Bahnasa, Egypt",
+      "region": "Oxyrhynchus",
+      "period": "Roman",
+      "bio": "A quarter (amphodon) of Oxyrhynchus where Dionysia owned a house with courts, two yards (one with a well), and a portico, which she leased to Ptolema of Antinoë in 164 CE for 200 silver drachmas per year.",
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "paberke-oxyrhynchite-nome-eastern-toparchy": {
+      "id": "paberke-oxyrhynchite-nome-eastern-toparchy",
+      "type": "place",
+      "name": "Paberke",
+      "ancient_variants": [],
+      "modern_location": "near el-Bahnasa, Egypt",
+      "region": "Oxyrhynchite nome, eastern toparchy",
+      "period": "Roman",
+      "bio": "Village in the eastern toparchy of the Oxyrhynchite nome, home of Psenamounis, Dionysia's tenant farmer who leased her 38 arourae beginning in 142 CE.",
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "antinoë-antinoite-nome-heptanomis-roman-egypt": {
+      "id": "antinoë-antinoite-nome-heptanomis-roman-egypt",
+      "type": "place",
+      "name": "Antinoë",
+      "ancient_variants": [
+        "Antinoopolis"
+      ],
+      "modern_location": "Sheikh Ibada, Egypt",
+      "region": "Antinoite nome, Heptanomis, Roman Egypt",
+      "period": "Roman (founded 130 CE)",
+      "bio": "City founded by Hadrian in 130 CE in honor of his companion Antinous. The house Dionysia leased in 164 CE had previously belonged to her second cousin Chaeremon of Antinoë, and her tenant Ptolema was from this city.",
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "theadelphia-themistos-division-arsinoite-nome-fayum": {
+      "id": "theadelphia-themistos-division-arsinoite-nome-fayum",
+      "type": "place",
+      "name": "Theadelphia",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "Themistos division, Arsinoite nome, Fayum",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "arsinoe": {
+      "id": "arsinoe",
+      "type": "place",
+      "name": "Arsinoe",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "the-fayum-arsinoite-nome": {
+      "id": "the-fayum-arsinoite-nome",
+      "type": "place",
+      "name": "The Fayum (Arsinoite nome)",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "euhemeria": {
+      "id": "euhemeria",
+      "type": "place",
+      "name": "Euhemeria",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "philoteris": {
+      "id": "philoteris",
+      "type": "place",
+      "name": "Philoteris",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "dionysias": {
+      "id": "dionysias",
+      "type": "place",
+      "name": "Dionysias",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "sathro": {
+      "id": "sathro",
+      "type": "place",
+      "name": "Sathro",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "taureinos": {
+      "id": "taureinos",
+      "type": "place",
+      "name": "Taureinos",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "ibion-argaiou": {
+      "id": "ibion-argaiou",
+      "type": "place",
+      "name": "Ibion Argaiou",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "ptolemais-hormou": {
+      "id": "ptolemais-hormou",
+      "type": "place",
+      "name": "Ptolemais Hormou",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "talei": {
+      "id": "talei",
+      "type": "place",
+      "name": "Talei",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-managers-accounts"
+      ]
+    },
+    "oxyrhynchus": {
+      "id": "oxyrhynchus",
+      "type": "place",
+      "name": "Oxyrhynchus",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "no-small-danger",
+        "the-weavers-boy",
+        "under-zeus-earth-and-sun"
+      ]
+    },
+    "the-small-oasis-mikra-oasis": {
+      "id": "the-small-oasis-mikra-oasis",
+      "type": "place",
+      "name": "The Small Oasis (Mikra Oasis)",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "no-small-danger"
+      ]
+    },
+    "temgenouthis-square-temgenouthis-street": {
+      "id": "temgenouthis-square-temgenouthis-street",
+      "type": "place",
+      "name": "Temgenouthis Square / Temgenouthis Street",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-weavers-boy"
+      ]
+    },
+    "gymnasium-square": {
+      "id": "gymnasium-square",
+      "type": "place",
+      "name": "Gymnasium Square",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-weavers-boy"
+      ]
+    },
+    "square-of-thoeris": {
+      "id": "square-of-thoeris",
+      "type": "place",
+      "name": "Square of Thoeris",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-weavers-boy"
+      ]
+    },
+    "quarter-of-poimenike-shepherds-quarter": {
+      "id": "quarter-of-poimenike-shepherds-quarter",
+      "type": "place",
+      "name": "Quarter of Poimenike (Shepherds' Quarter)",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-weavers-boy"
+      ]
+    },
+    "serapeum": {
+      "id": "serapeum",
+      "type": "place",
+      "name": "Serapeum",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-weavers-boy"
+      ]
+    },
+    "panopolis-modern-akhmim": {
+      "id": "panopolis-modern-akhmim",
+      "type": "place",
+      "name": "Panopolis (modern Akhmim)",
+      "ancient_variants": [],
+      "modern_location": "",
+      "region": "",
+      "period": "",
+      "bio": "",
+      "stories": [
+        "the-weavers-boy"
+      ]
+    }
+  },
+  "offices": {
+    "praefect-of-egypt": {
+      "id": "praefect-of-egypt",
+      "type": "office",
+      "title": "Praefect of Egypt",
+      "greek_term": "hegemon",
+      "description": "The highest-ranking Roman official in Egypt, appointed by the emperor as his personal representative. An equestrian post (senators were barred from Egypt).",
+      "duties": "Supreme judicial and administrative authority in the province. Held annual courts (conventus), heard appeals, issued edicts, and supervised nome governors.",
+      "cost_burden": "Imperial appointment; no personal financial burden.",
+      "status_level": "Highest provincial authority below the emperor.",
+      "bio": "Multiple praefects appear in Dionysia's story: Titus Flavius Titianus (c. 126--133 CE), Valerius Eudaemon (137/8 CE), Longaeus Rufus (c. 185 CE), and Pomponius Faustianus (c. 185--186 CE). Their rulings and precedents formed the legal framework within which Dionysia's battles were fought.",
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "epistrategus": {
+      "id": "epistrategus",
+      "type": "office",
+      "title": "Epistrategus",
+      "greek_term": "epistrategos",
+      "description": "Regional administrator serving as intermediary between the praefect and the nome strategoi. Three epistrategoi covered Egypt: the Delta, the Heptanomis (Middle Egypt), and the Thebaid.",
+      "duties": "Administrative oversight of a region; could serve as delegate judge (iudex pedaneus) when cases were referred by the praefect.",
+      "cost_burden": "Imperial appointment.",
+      "status_level": "Regional authority, below the praefect.",
+      "bio": "The epistrategoi Claudius Quintianus and Julius Varianus were involved in Dionysia's vineyard case (131 CE). Paconius Felix ruled on the apospasis question in 133/4 CE.",
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "iuridicus": {
+      "id": "iuridicus",
+      "type": "office",
+      "title": "Iuridicus",
+      "greek_term": "dikaiodotes",
+      "description": "A Roman judicial official in Egypt, subordinate to the praefect, with jurisdiction over certain categories of civil cases.",
+      "duties": "Hearing and deciding legal disputes, particularly those involving status, inheritance, and family law.",
+      "cost_burden": "Imperial appointment.",
+      "status_level": "Senior judicial official.",
+      "bio": "The iuridicus Umbrius ruled in 86/7 CE that 'it is worse to take away a wife from her husband than a dowry from a daughter' -- a precedent Dionysia cited a century later.",
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "strategus": {
+      "id": "strategus",
+      "type": "office",
+      "title": "Strategus",
+      "greek_term": "strategos",
+      "description": "Governor of an individual nome (administrative district), the basic unit of Egyptian local government.",
+      "duties": "Civil and judicial administration of the nome. Investigated cases, enforced orders, supervised local officials including village magistrates.",
+      "cost_burden": "Appointed office; increasingly burdensome in the 2nd century CE.",
+      "status_level": "Nome-level authority.",
+      "bio": "The strategus Isidorus investigated Chaeremon's property claims and ordered the keepers of the archives to produce their reports confirming Dionysia's rights.",
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "royal-scribe": {
+      "id": "royal-scribe",
+      "type": "office",
+      "title": "Royal Scribe",
+      "greek_term": "basilicogrammateus",
+      "description": "A senior official in the nome administration responsible for record-keeping, tax rolls, and land surveys.",
+      "duties": "Maintained official records; could serve as deputy-strategus and render interim judicial decisions.",
+      "cost_burden": "Appointed office.",
+      "status_level": "Senior nome official, below strategus.",
+      "bio": "Harpocration served as royal scribe and deputy-strategus of the Oxyrhynchite nome, presiding over the hearing on June 3, 186 CE in Dionysia's case against her father.",
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "gymnasiarch": {
+      "id": "gymnasiarch",
+      "type": "office",
+      "title": "Gymnasiarch",
+      "greek_term": "gymnasiarchos",
+      "description": "The highest civic magistracy in the Greek cities of Roman Egypt. A liturgy requiring substantial personal wealth to fund gymnasium operations.",
+      "duties": "Funding and administration of the gymnasium: oil supply for athletes, maintenance of facilities, organization of festivals and games.",
+      "cost_burden": "Extremely heavy; the gymnasiarch paid for operations out of personal wealth. The office could bankrupt wealthy families.",
+      "status_level": "Highest civic honor in Egyptian metropoleis.",
+      "bio": "Chaeremon son of Phanias, Dionysia's father, was an ex-gymnasiarch. The title marked him as one of the wealthiest and most prominent citizens of Oxyrhynchus, but the financial burden may have contributed to his attempts to reclaim property from his daughter.",
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "eutheniarch": {
+      "id": "eutheniarch",
+      "type": "office",
+      "title": "Eutheniarch",
+      "greek_term": "eutheniarchos",
+      "description": "A civic magistrate responsible for the city's grain supply.",
+      "duties": "Overseeing the distribution and supply of grain to the city.",
+      "cost_burden": "Liturgical office with personal financial exposure.",
+      "status_level": "Senior civic magistrate.",
+      "bio": "In P.Oxy. 6.908 (199 CE), Apion -- possibly Dionysia's father-in-law or a close relative -- is described as 'ex-gymnasiarch of Oxyrhynchus, at present eutheniarch,' showing the family's continued presence in the highest civic offices.",
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "keeper-of-the-archives": {
+      "id": "keeper-of-the-archives",
+      "type": "office",
+      "title": "Keeper of the Archives",
+      "greek_term": "bibliophylax",
+      "description": "Officials responsible for maintaining the bibliotheke enkteseon (property registration office) established by Mettius Rufus in 89/90 CE.",
+      "duties": "Registration of property, mortgages, and marriage contracts. Production of reports (prosophonesis) on property ownership when requested by judicial authorities.",
+      "cost_burden": "Appointed office.",
+      "status_level": "Administrative official.",
+      "bio": "The bibliophylakes of Oxyrhynchus repeatedly investigated Chaeremon's property claims and confirmed Dionysia's rights. Their records were the documentary foundation of her legal victories.",
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    },
+    "agoranomos": {
+      "id": "agoranomos",
+      "type": "office",
+      "title": "Agoranomos",
+      "greek_term": "agoranomeus",
+      "description": "Public notary who executed and registered official contracts in the state archives.",
+      "duties": "Witnessing, recording, and archiving contracts of sale, leases, and other legal instruments. The demosios chrematismos (official sale contract) that Dionysia received for her vineyard was produced through this office.",
+      "cost_burden": "Liturgical office requiring personal wealth.",
+      "status_level": "Civic magistrate.",
+      "bio": "The agoranomos's office produced the official sale contract that proved Dionysia's ownership of the vineyard against Sarapion's challenge.",
+      "stories": [
+        "mistress-of-her-own-person"
+      ]
+    }
+  }
+}
