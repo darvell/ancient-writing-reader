@@ -1,26 +1,19 @@
 {
   "title": "The Weaver's Boy",
   "subtitle": "Apprentice Weavers of Oxyrhynchus, 54--183 CE",
-  "summary": "",
-  "category": "",
+  "summary": "A weaver with failing eyes places his son under another man's loom and leaves behind an archive of tools, houses, dowries, tax labels, and apprenticeship contracts. The story follows a family of textile workers through the paperwork that trained a boy into a trade.",
+  "category": "Economy & Labor",
   "tags": [
-    "Roman",
     "Oxyrhynchus",
-    "Marriage & Family",
-    "Law & Justice",
-    "Craft & Labor",
-    "Taxation",
-    "Military",
-    "Women",
-    "Religion",
-    "Children"
+    "weavers",
+    "apprenticeship",
+    "craft labor",
+    "Roman Egypt",
+    "family archive",
+    "textiles",
+    "contracts"
   ],
   "sections": [
-    {
-      "id": "opening",
-      "title": "",
-      "body_html": "<p>In the thirteenth year of Nero, on the twenty-fifth of Thoth &ndash; 18 September 66 CE &ndash; a weaver named Tryphon walked his son to someone else&rsquo;s loom.</p>\n<p>The boy was called Thoonis. He was not yet of age &ndash; <em>oudepo onta ton eton</em> &ndash; perhaps twelve, perhaps fourteen, the <span class=\"term\" data-definition=\"Writing material made from the papyrus reed, which grew abundantly in the Nile marshes. Egypt's dry climate preserved tens of thousands of documents.\">papyrus</span> does not say.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup> His mother was Saraeus, daughter of Apion, who had brought to her marriage with Tryphon a <span class=\"term\" data-definition=\"Property (money, land, goods) brought by a wife to the marriage. Legally protected — had to be returned if the marriage ended.\">dowry</span> of 40 silver <span class=\"term\" data-definition=\"The standard silver coin unit. In Roman Egypt, 1 drachma bought roughly a day's basic food. A skilled worker earned 1–4 drachmas per day.\">drachmas</span> in cash, a pair of gold earrings worth 20 drachmas, and a milk-white robe valued at 12.<sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup> His father was a weaver, the son of a weaver, the grandson of a weaver. Three generations at the loom, at least. Probably more.</p>\n<p>The master was Ptolemaeus, son of Pausirion, himself the son of Pausiris &ndash; a weaver from a weaving family, living in the same city, working the same trade, known to Tryphon through the dense network of obligations and acquaintances that bound the weaving quarter together.<sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup> Ptolemaeus would teach Thoonis <em>gerdiaken technen</em> &ndash; the weaver&rsquo;s art &ndash; &ldquo;in all its branches of which Ptolemaeus has knowledge.&rdquo;<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup></p>\n<p>The contract was written. The terms were specific. The duration was one year.</p>\n<p>And that is how a boy became a weaver in Roman <span class=\"term\" data-definition=\"A major city in Upper Egypt (modern el-Bahnasa) — one of the richest archaeological sites for papyri. Over 5,000 documents have been published from its rubbish heaps.\">Oxyrhynchus</span>: not by watching his father, not by playing under the loom as a toddler and gradually absorbing the rhythm of the shuttle, but by legal instrument, with penalty clauses and daily-absence fines and a mutual obligation enforceable by the state.</p>"
-    },
     {
       "id": "the-weaver-at-the-serapeum",
       "title": "I. The Weaver at the Serapeum",
@@ -110,7 +103,7 @@
   "notes": [
     {
       "id": 1,
-      "section": "opening",
+      "section": "",
       "text": "P.Oxy. 2.275 (corpus ID 43394), dated 18 September 66 CE (Year 13 of Nero). Thoonis is described as \"not yet of age\" (*oudepo onta ton eton*). The typical age of entry for apprentices in Roman Egypt was 12-14 years.",
       "corpus_ids": [
         43394
@@ -118,7 +111,7 @@
     },
     {
       "id": 2,
-      "section": "opening",
+      "section": "",
       "text": "P.Oxy. 2.267 (corpus ID 43391), dated 22 May 37 CE (Year 1 of Gaius Caesar). Saraeus's dowry of 72 drachmas total: 40 in cash, gold earrings at 20 drachmas, milk-white robe at 12 drachmas.",
       "corpus_ids": [
         43391
@@ -126,13 +119,13 @@
     },
     {
       "id": 3,
-      "section": "opening",
+      "section": "",
       "text": "The connection between the families is documented in scholarship on the weaving families of Oxyrhynchus. See \"Three Weavers of the First Century CE: Tryphon of Oxyrhynchus, Pausiris of Oxyrhynchus, and Paul of Tarsus\" (2019).",
       "corpus_ids": []
     },
     {
       "id": 4,
-      "section": "opening",
+      "section": "",
       "text": "P.Oxy. 2.275 (corpus ID 43394): Ptolemaeus agrees to teach Thoonis \"the weaver's art in all its branches of which Ptolemaeus has knowledge.\"",
       "corpus_ids": [
         43394
