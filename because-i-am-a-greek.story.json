@@ -1,21 +1,17 @@
 {
   "title": "Because I Am a Greek",
   "subtitle": "Ptolemaios Son of Glaukias, the Great Serapeum at Memphis, 172--152 BCE",
+  "summary": "A Macedonian man spends twenty years confined inside Egypt's greatest temple, unable to leave. He writes petitions, records his dreams, fights ethnic violence, and cares for two orphaned girls — producing over 120 papyri that are among the most intimate documents from the ancient world.",
+  "category": "Religion & Identity",
   "tags": [
-    "Ptolemaic",
-    "Memphis",
-    "Law & Justice",
-    "Military",
-    "Property & Land",
-    "Religion",
-    "Children"
+    "Temple Confinement",
+    "Ethnic Conflict",
+    "Dreams",
+    "Greek-Egyptian Relations",
+    "Ptolemaic Era",
+    "Memphis"
   ],
   "sections": [
-    {
-      "id": "opening",
-      "title": "",
-      "body_html": "<p>On the eleventh of Phaophi, in the nineteenth year of King Ptolemy Philometor &ndash; a day in late October, 163 BCE &ndash; men came through the door of the Astartieion with bronze scrapers in their hands.</p>\n<p>They were temple sweepers and bakers. Kallyntai and artokopoi. Men whose job it was to clean the floors and bake the sacred bread. They forced their way into the small chapel where a Macedonian named Ptolemaios had been living, without leaving, for ten years.</p>\n<p>They wanted to strip him. To drag him out. To beat him.</p>\n<p>He knew why. He wrote it down in a petition to the <span class=\"term\" data-definition=\"Chief magistrate of a nome (district) in Roman Egypt — responsible for tax collection, law enforcement, and local administration.\">strategos</span> Dionysios, and that petition survived: <em>para to Hellena me einai</em> &ndash; &ldquo;because I am a Greek.&rdquo;<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup></p>\n<p>The phrase sits at the center of the document like a stone in the throat. Not &ldquo;because I stole something.&rdquo; Not &ldquo;because I offended a god.&rdquo; Because of what he was. A Macedonian in an Egyptian temple, during a time of rebellion, in a country where the line between Greek ruler and Egyptian subject had begun to cut like a blade.</p>\n<p>Ptolemaios locked himself inside. But his servant Harmais was not so fortunate. They found him on the dromos &ndash; the great processional avenue lined with sphinxes that led to the underground galleries of the Apis bulls &ndash; and they beat him with their bronze strigils until he could not stand.<sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup></p>"
-    },
     {
       "id": "the-man-who-could-not-leave",
       "title": "I. The Man Who Could Not Leave",
@@ -100,7 +96,7 @@
   "notes": [
     {
       "id": 1,
-      "section": "opening",
+      "section": "",
       "text": "UPZ 1 pg648 (corpus ID 40535), dated 19 November 163 BCE. Petition from Ptolemaios son of Glaukias to the strategos Dionysios. Translation adapted from J. Bauschatz, *Law and Enforcement in Ptolemaic Egypt*, p. 211. The Greek: *para to Hellena me einai*.",
       "corpus_ids": [
         40535
@@ -108,7 +104,7 @@
     },
     {
       "id": 2,
-      "section": "opening",
+      "section": "",
       "text": "UPZ 1 pg648 (corpus ID 40535). Harmais is described as \"the one from me\" (*ton par' emou*), indicating a servant or agent. The bronze instruments are *chalkois xystersin* -- bronze strigils or scrapers, the kind used for cleaning temple surfaces or, in Greek athletic contexts, for scraping oil and sweat from the body after exercise.",
       "corpus_ids": [
         40535

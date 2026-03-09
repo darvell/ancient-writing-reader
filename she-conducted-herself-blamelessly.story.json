@@ -1,25 +1,17 @@
 {
   "title": "She Conducted Herself Blamelessly",
   "subtitle": "Syra, Daughter of Theon --- Oxyrhynchus, c. 20--50 CE",
+  "summary": "A woman petitions the chief justice to recover her dowry from the husband who squandered it, beat her, and left her destitute. Her voice — formal, precise, furious — survives on a scrap of papyrus from a rubbish dump.",
+  "category": "Women & Power",
   "tags": [
-    "Ptolemaic",
-    "Oxyrhynchus",
-    "Marriage & Family",
-    "Law & Justice",
-    "Craft & Labor",
-    "Taxation",
-    "Military",
-    "Women",
-    "Property & Land",
-    "Religion",
-    "Children"
+    "Domestic Violence",
+    "Dowry Law",
+    "Women's Legal Agency",
+    "Weaving",
+    "1st Century CE",
+    "Oxyrhynchus"
   ],
   "sections": [
-    {
-      "id": "opening",
-      "title": "",
-      "body_html": "<p>The woman&rsquo;s voice is formal, precise, and furious. It reaches us across two thousand years on a scrap of <span class=\"term\" data-definition=\"Writing material made from the papyrus reed, which grew abundantly in the Nile marshes. Egypt's dry climate preserved tens of thousands of documents.\">papyrus</span> pulled from a municipal rubbish dump in the Egyptian desert, and it opens with the name of the most powerful judge in the province:</p>\n<blockquote>\n<p>To <span class=\"entity\" data-entity-id=\"heraclides-alexandria-fl-20-50-ce\" data-type=\"person\">Heraclides</span>, priest, chief justice, superintendent of the <span class=\"term\" data-definition=\"A panel of traveling judges who heard legal cases outside Alexandria. They moved through the nomes on circuit, like modern circuit courts.\">chrematistae</span> and the other courts, from <span class=\"entity\" data-entity-id=\"syra-oxyrhynchus-fl-20-50-ce\" data-type=\"person\">Syra</span>, daughter of <span class=\"entity\" data-entity-id=\"theon-oxyrhynchus-fl-1st-century-ce\" data-type=\"person\">Theon</span>.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup></p>\n</blockquote>\n<p>She is petitioning. She wants her money back. She wants her husband dragged before the court and compelled &mdash; &ldquo;perforce,&rdquo; she says, <em>epanancasthei synechomenos</em> &mdash; to return what he took from her.<sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup> Behind the legal formulae, which she or her scribe deploy with practiced accuracy, is a story of marriage, abuse, and abandonment that could have been written last week. But it was written sometime in the first half of the first century of the common era, in the Nile-side city of <span class=\"entity\" data-entity-id=\"oxyrhynchus-heptanomia-middle-egypt\" data-type=\"place\">Oxyrhynchus</span>, two hundred kilometers south of Cairo, in a world governed by Roman prefects and Greek law and Egyptian custom all at once.</p>\n<p>We have the petition. We do not have the outcome.</p>"
-    },
     {
       "id": "the-petition",
       "title": "I. The Petition",
@@ -79,7 +71,7 @@
   "notes": [
     {
       "id": 1,
-      "section": "opening",
+      "section": "",
       "text": "P.Oxy. 2.281 (corpus ID 43400), dated 20--50 CE. The Greek reads: Ἡρακλείδηι ἱερεῖ καὶ ἀρχιδικαστῆι καὶ πρὸς τῇ ἐπιμελείᾳ τῶν χρηματιστῶν καὶ τῶν ἄλλων κριτηρίων παρὰ Σύρας τῆς Θέωνος.",
       "corpus_ids": [
         43400
@@ -87,7 +79,7 @@
     },
     {
       "id": 2,
-      "section": "opening",
+      "section": "",
       "text": "P.Oxy. 2.281: ὅπως ἐπαναγκασθῇ συνεχόμενος ἀποδοῦναι μοι τὴν φερνήν.",
       "corpus_ids": []
     },

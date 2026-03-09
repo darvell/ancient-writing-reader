@@ -1,23 +1,17 @@
 {
   "title": "The Commander's Desk",
   "subtitle": "Flavius Abinnaeus, Praefectus Alae, Dionysias, 340--351 CE",
+  "summary": "A cavalry commander at a desert fortress is buried under petitions from villagers — stolen sheep, corrupt police, runaway soldiers, a mother begging for her son's release. His desk reveals what the Roman army actually did in late antiquity: not fight wars, but hold a fraying world together.",
+  "category": "Military Life",
   "tags": [
-    "Late Antique",
-    "Memphis",
-    "Law & Justice",
-    "Military",
-    "Women",
-    "Property & Land",
-    "Religion",
-    "Death & Inheritance",
-    "Children"
+    "Roman Army",
+    "Village Policing",
+    "Petitions",
+    "Desert Frontier",
+    "4th Century CE",
+    "Fayum"
   ],
   "sections": [
-    {
-      "id": "opening",
-      "title": "",
-      "body_html": "<p><em>Based on the 82 documents of the Abinnaeus Archive (P.Abinn.) and related papyri from the ancient-writing corpus. In the tradition of Carlo Ginzburg&rsquo;s The Cheese and the Worms: reconstructing one life from the paper trail it left behind.</em></p>\n<p>Sometime in the summer of 346, a woman walked into the fortress at Dionysias and dictated a complaint about sheep.</p>\n<p>Her name was Aurelia Maria. She was the daughter-in-law of a soldier named Akiar, who was stationed at Memphis under a different commander. She owned land in the village of Theoxenis. And on the second of Epeiph &ndash; early July, when the Egyptian summer pressed the breath out of the <span class=\"term\" data-definition=\"A fertile depression west of the Nile, about 80 km southwest of Cairo. Heavily settled in Ptolemaic and Roman times, producing many of the surviving papyri.\">Fayum</span> &ndash; criminals had come to her sheepfold by night, shorn nine of her animals, and carried off three more alive.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup></p>\n<p>She had not come to the police. The village police &ndash; the field-guards, the <em>agronomoi</em> &ndash; had already done their work. They had tracked the stolen fleeces to the field of Narmouthis and identified two men: Ioannes and Eleias.<sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup> What Aurelia Maria needed now was someone with the power to arrest them.</p>\n<p>That someone was Flavius Abinnaeus, <em><span class=\"term\" data-definition=\"Commander of a Roman cavalry regiment (ala) — a mid-ranking officer typically commanding 500 horsemen.\">praefectus alae</span></em> of the cavalry unit stationed at the camp of Dionysias, a mudbrick fortress at the western edge of the Fayum where the irrigated land ended and the desert began. He was a cavalry commander. He was also, for all practical purposes, the sheriff.</p>\n<p><em>Axiō kai deomai sou tēs eunomias</em> &ndash; &ldquo;I ask and beseech your benevolence.&rdquo;<sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup> The formula was standard. Dozens of petitioners would use exactly these words. What varied was the crime: stolen sheep, stolen pigs, broken bones, tunneled walls, inheritance seized, children beaten with clubs. What never varied was the destination. Everything landed on the commander&rsquo;s desk.</p>"
-    },
     {
       "id": "the-road-to-the-fortress",
       "title": "I. The Road to the Fortress",
@@ -82,7 +76,7 @@
   "notes": [
     {
       "id": 1,
-      "section": "opening",
+      "section": "",
       "text": "P.Abinn. 49 (corpus ID 25037), dated 5 July 346 (Epeiph 11). Aurelia Maria, daughter-in-law of Akiar, a soldier stationed in Memphis under the command of Kollouthos, praepositus, petitions Abinnaeus about sheep theft at Theoxenis. Full Greek text and translation in Bell, Martin, Turner, and van Berchem, *The Abinnaeus Archive* (Oxford, 1962), no. 49.",
       "corpus_ids": [
         25037
@@ -90,7 +84,7 @@
     },
     {
       "id": 2,
-      "section": "opening",
+      "section": "",
       "text": "P.Abinn. 49 (corpus ID 25037): \"the field-guards of the village of Theoxenis, investigating the shearing and driving-off of the sheep, found in the field of Narmouthis Ioannes and Eleias, as those who had committed the shearing and driving-off.\"",
       "corpus_ids": [
         25037
@@ -98,7 +92,7 @@
     },
     {
       "id": 3,
-      "section": "opening",
+      "section": "",
       "text": "P.Abinn. 49 (corpus ID 25037). The formula *axiō kai deomai sou tēs eunomias/philanthropias* recurs throughout the petitions; see also P.Abinn. 48 (corpus ID 18372), P.Abinn. 53 (corpus ID 137220), P.Abinn. 57 (corpus ID 25038).",
       "corpus_ids": [
         25037,

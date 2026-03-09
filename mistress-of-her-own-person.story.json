@@ -1,21 +1,17 @@
 {
   "title": "Mistress of Her Own Person",
   "subtitle": "Dionysia, Daughter of Chaeremon — Oxyrhynchus, c. 126–186 CE",
+  "summary": "A wealthy woman fights her own father in court for sixty years — over a vineyard, over her marriage, over the right to control her own life. She produces one of the longest legal documents to survive from antiquity.",
+  "category": "Women & Power",
   "tags": [
-    "Roman",
-    "Oxyrhynchus",
-    "Taxation",
-    "Women",
-    "Property & Land",
-    "Death & Inheritance",
-    "Children"
+    "Property Rights",
+    "Father-Daughter Conflict",
+    "Roman Law",
+    "Vineyards",
+    "2nd Century CE",
+    "Oxyrhynchus"
   ],
   "sections": [
-    {
-      "id": "opening",
-      "title": "",
-      "body_html": "<p>The letter she dictated that October was the letter of a woman running out of time.</p>\n<p>She had been in <span class=\"entity\" data-entity-id=\"alexandria-lower-egypt\" data-type=\"place\">Alexandria</span> for weeks — perhaps months — waiting for a man who would\nnot come. The <span class=\"term\" data-definition=\"The Roman governor of Egypt — a high-ranking equestrian appointed directly by the emperor. Had supreme judicial and military authority.\">praefect</span>&rsquo;s court had its schedule; she was far from home; and her\nopponent, a man called <span class=\"entity\" data-entity-id=\"sarapion-oxyrhynchus-fl-c-127--131-ce\" data-type=\"person\">Sarapion son of Mnesitheus</span>, had simply ignored the summons.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup>\nThen the news arrived from <span class=\"entity\" data-entity-id=\"oxyrhynchus-oxyrhynchite-nome-heptanomis-roman-egypt\" data-type=\"place\">Oxyrhynchus</span>. The Nile, which in an ordinary year rose and\nfell within the channels and embankments that generations of farmers had built to contain\nit, had risen beyond all measure. Her property — &ldquo;buildings, lands, and dykes&rdquo; — was\ngone.<sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup></p>\n<p>She put it plainly: she asked the praefect to let her go home, &ldquo;in order that I may\nobtain justice and that I may not in addition to the loss of my property also perish\nof hunger.&rdquo;<sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup></p>\n<p>That was in the sixteenth year of Hadrian — 131 CE. She would still be fighting, in\na different battle against a different adversary, fifty-five years later.</p>"
-    },
     {
       "id": "the-vineyard",
       "title": "I. The Vineyard",
@@ -75,7 +71,7 @@
   "notes": [
     {
       "id": 1,
-      "section": "opening",
+      "section": "",
       "text": "P.Oxy. 3.486 (corpus ID 69364), dated after October 10, 131 CE. Dionysia's petition to Julius Varianus, epistrategus of the Heptanomis and Arsinoite nome, describes Sarapion's failure to appear at the praefect's court in Alexandria.",
       "corpus_ids": [
         69364
@@ -83,13 +79,13 @@
     },
     {
       "id": 2,
-      "section": "opening",
+      "section": "",
       "text": "P.Oxy. 3.486, within the copy of the petition to praefect Titianus: \"all my property has been lost through the excessive rise of the most sacred Nile, both buildings, lands, and dykes.\"",
       "corpus_ids": []
     },
     {
       "id": 3,
-      "section": "opening",
+      "section": "",
       "text": "P.Oxy. 3.486, petition to Titianus.",
       "corpus_ids": []
     },

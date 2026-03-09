@@ -1,23 +1,18 @@
 {
   "title": "The Purple-Seller's House",
   "subtitle": "Psates son of Abraamios, the Village of This, 592--616 CE",
+  "summary": "Parents sell their crumbling house to their own son for three gold coins — and the receipt, written in Coptic and Greek, is one of the last documents from a world about to change forever. A purple-dye seller's family archive spans the final decades of Byzantine Egypt before the Arab conquest.",
+  "category": "Family & Household",
   "tags": [
-    "Late Antique",
-    "Thinis",
-    "Marriage & Family",
-    "Craft & Labor",
-    "Women",
-    "Property & Land",
-    "Religion",
-    "Love & Desire",
-    "Children"
+    "Purple Dye Trade",
+    "Bilingual Documents",
+    "House Sales",
+    "Byzantine Egypt",
+    "Coptic",
+    "6th–7th Century CE",
+    "Upper Egypt"
   ],
   "sections": [
-    {
-      "id": "opening",
-      "title": "",
-      "body_html": "<p>Three gold coins, less one keration.</p>\n<p>That was the price of a dilapidated house, a cell, and a patch of bare land in the village of This, in the Thinite <span class=\"term\" data-definition=\"An administrative district in Egypt, inherited from pharaonic times. Roman Egypt had about 30 nomes, each governed by a strategos.\">nome</span> of Upper Egypt, on the fourteenth day of June in the year 592 CE.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup> The sellers were a husband and wife. The buyer was their son. The property sat on a lane named after dead people &ndash; &ldquo;the lane of the heirs of Pachot&rdquo; &ndash; beside an oil-press belonging to other dead people, the heirs of Pachareabe.<sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup> Its boundaries ran, as the document puts it, &ldquo;from the ground to the sky.&rdquo;<sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup></p>\n<p>The husband&rsquo;s name was <span class=\"entity\" data-entity-id=\"psates-son-of-abraamios-panopolis-originally-this-thinite-nome-fl-592-ce-d-before-july-600-ce\" data-type=\"person\">Psates son of Abraamios</span>. His mother was called <span class=\"entity\" data-entity-id=\"tmouthes-panopolis-uncertain\" data-type=\"person\">Tmouthes</span>. His trade was purple &ndash; <em><span class=\"entity\" data-entity-id=\"porphyropoles-purple-seller\" data-type=\"office\">porphyropoles</span></em>, purple-seller &ndash; a word that links him, across a millennium of Greek, to Lydia of Thyatira in the Acts of the Apostles.<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup> His wife was <span class=\"entity\" data-entity-id=\"maria-daughter-of-philamon-panopolis-originally-this-thinite-nome-fl-592-ce-d-before-july-600-ce\" data-type=\"person\">Maria daughter of Philamon</span>, whose mother was <span class=\"entity\" data-entity-id=\"taniskene-panopolis-uncertain\" data-type=\"person\">Taniskene</span>. They had come from the city of <span class=\"entity\" data-entity-id=\"panopolis-akhmim-upper-egypt-panopolite-nome\" data-type=\"place\">Panopolis</span> &ndash; modern <span class=\"entity\" data-entity-id=\"panopolis-akhmim-upper-egypt-panopolite-nome\" data-type=\"place\">Akhmim</span>, one of the great textile centres of the ancient world &ndash; and they had lived in This &ldquo;for a long time,&rdquo; the document says, using a phrase that suggests decades rather than years.<sup><a href=\"#note-5\" class=\"note-ref\" data-note=\"5\">5</a></sup></p>\n<p>Neither of them could write. A deacon named <span class=\"entity\" data-entity-id=\"psates-son-of-papnouthios-this-thinite-nome-fl-592-ce\" data-type=\"person\">Psates son of Papnouthios</span> held the pen for them. &ldquo;I wrote on their behalf at their request,&rdquo; the subscription reads.<sup><a href=\"#note-6\" class=\"note-ref\" data-note=\"6\">6</a></sup></p>\n<p>And so two illiterate purple-sellers transferred a crumbling house to their eldest son, and a deacon&rsquo;s handwriting became the only record of the transaction. Seventeen centuries later, we have the <span class=\"term\" data-definition=\"Writing material made from the papyrus reed, which grew abundantly in the Nile marshes. Egypt's dry climate preserved tens of thousands of documents.\">papyrus</span>. We have the names. We do not have the conversation that preceded the signing &ndash; the family argument, the calculation, the worry about the other children who would inherit nothing from this particular house. That conversation lives in the document&rsquo;s silences, and in what happened next.</p>"
-    },
     {
       "id": "the-village-on-the-edge-of-memory",
       "title": "I. The Village on the Edge of Memory",
@@ -102,7 +97,7 @@
   "notes": [
     {
       "id": 1,
-      "section": "opening",
+      "section": "",
       "text": "P.Paris 21bis (corpus ID 25044), dated 14 June 592 CE (Payni 20, Year 10 of Emperor Mauricius, 11th indiction): \"in the reign and consulship of our most divine lord of the inhabited world, Flavius Mauricius, the eternal Augustus and Imperator, year ten, Payni 20, beginning of the 11th indiction, in the village of This in the Theban province.\"",
       "corpus_ids": [
         25044
@@ -110,7 +105,7 @@
     },
     {
       "id": 2,
-      "section": "opening",
+      "section": "",
       "text": "P.Paris 21bis (corpus ID 25044): \"situated in the same village on the lane called that of the heirs of Pachot and the oil-press of the heirs of Pachareabe.\"",
       "corpus_ids": [
         25044
@@ -118,7 +113,7 @@
     },
     {
       "id": 3,
-      "section": "opening",
+      "section": "",
       "text": "P.Paris 21bis (corpus ID 25044): boundary description includes *apo edaphous eis ouranon* -- \"from the ground to the sky.\"",
       "corpus_ids": [
         25044
@@ -126,7 +121,7 @@
     },
     {
       "id": 4,
-      "section": "opening",
+      "section": "",
       "text": "P.Paris 21bis (corpus ID 25044): Psates identified as *porphyropoles* (πορφυροπώλης). Cf. Acts 16:14: Lydia of Thyatira is described as a *porphyropolis*, \"a seller of purple goods.\"",
       "corpus_ids": [
         25044
@@ -134,7 +129,7 @@
     },
     {
       "id": 5,
-      "section": "opening",
+      "section": "",
       "text": "P.Paris 21bis (corpus ID 25044): \"all from the city of Panopolis, but now for a long time resident in the village of This of the Thinite nome\" -- *apo poleōs Panōn, nyn de ek pollou chronou katoikountes en kōmē Thinōs tou Thinitou nomou*.",
       "corpus_ids": [
         25044
@@ -142,7 +137,7 @@
     },
     {
       "id": 6,
-      "section": "opening",
+      "section": "",
       "text": "P.Paris 21bis (corpus ID 25044): \"I wrote on their behalf at their request, Psates son of Papnouthios, deacon, from This.\"",
       "corpus_ids": [
         25044

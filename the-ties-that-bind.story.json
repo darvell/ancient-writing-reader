@@ -1,22 +1,18 @@
 {
   "title": "The Ties That Bind",
   "subtitle": "Three Generations of a Fayum Family, Tebtunis and Antinoopolis, 89--224 CE",
+  "summary": "A moneylender's family climbs from a Fayum village to citizenship in Hadrian's new city over three generations — through marriages, divorces, a sibling war over a slave, and an emperor's child welfare program.",
+  "category": "Family & Household",
   "tags": [
-    "Roman",
-    "Tebtunis",
-    "Slavery & Freedom",
-    "Marriage & Family",
-    "Military",
-    "Women",
-    "Property & Land",
-    "Children"
+    "Social Mobility",
+    "Citizenship",
+    "Divorce",
+    "Inheritance Disputes",
+    "Hadrian",
+    "1st–3rd Century CE",
+    "Fayum"
   ],
   "sections": [
-    {
-      "id": "opening",
-      "title": "",
-      "body_html": "<p>On the fifth of May, in the eighteenth year of Hadrian, a fifty-seven-year-old man named Herakleides stood in the registry office at Antinoopolis and presented his two sons for citizenship in a city that had not existed when he was born.</p>\n<p>The elder boy, Lysimachos, was seven. The younger, Philosarapis, was one.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup> Their father &ndash; who went by Herakleides also called Valerius, son of Herakleides son of Maron, Antinoite citizen, settler from the Arsinoite class of Hellenes &ndash; swore that these were his legitimate sons, born to him by his wife Herakleia daughter of Hermos. Three guarantors vouched for him: Herakleides also called Gemellos, Souchos son of Ptolemaios, and Heron son of Ptolemaios, all Antinoite settlers from the Arsinoite.<sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup> The <span class=\"term\" data-definition=\"The presiding officer of a city council (boule). Chaired meetings and had judicial powers.\">prytanis</span> was Kastor son of Ammonios. The fee &ndash; the <em>aparche</em>, the initiation payment &ndash; was duly recorded.</p>\n<p>The city was three years old. Its god was a drowned boy. And the family registering that morning had carried their papers two hundred kilometers up the Nile from a village in the <span class=\"term\" data-definition=\"A fertile depression west of the Nile, about 80 km southwest of Cairo. Heavily settled in Ptolemaic and Roman times, producing many of the surviving papyri.\">Fayum</span> where they had been lending money, leasing land, and burying their dead for at least two generations.</p>\n<p>This is their story, or what remains of it: fifty-six <span class=\"term\" data-definition=\"Writing material made from the papyrus reed, which grew abundantly in the Nile marshes. Egypt's dry climate preserved tens of thousands of documents.\">papyrus</span> documents spanning a hundred and thirty-five years, from the reign of Domitian to the reign of Severus Alexander, dug out of the sands of Tebtunis and published in 1950 by B.A. van Groningen as <em>A Family Archive from Tebtunis</em>.<sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup> The archive tracks a family across three generations through marriages and divorces, loans and foreclosures, births and lawsuits, slave sales and sibling disputes, from a village in the southern Fayum to a new imperial city on the Nile, and back again. It is a record of ambition, of debt, of the stubborn persistence of family obligation &ndash; and of the ways a family could rise, fracture, and hold together across a century of change.</p>"
-    },
     {
       "id": "the-moneylenders-house",
       "title": "I. The Moneylender's House",
@@ -81,7 +77,7 @@
   "notes": [
     {
       "id": 1,
-      "section": "opening",
+      "section": "",
       "text": "P.Fam.Tebt. 30 (corpus ID 28534), dated 5 May 133 CE. Herakleides also called Valerius, aged 57, registers his sons Lysimachos also called Didymos (age 7) and Philosarapis (age 1) as Antinoite citizens. Published in van Groningen, *A Family Archive from Tebtunis* (Leiden, 1950).",
       "corpus_ids": [
         28534
@@ -89,7 +85,7 @@
     },
     {
       "id": 2,
-      "section": "opening",
+      "section": "",
       "text": "P.Fam.Tebt. 30 (corpus ID 28534). The three guarantors -- Herakleides also called Gemellos, Souchos son of Ptolemaios, and Heron son of Ptolemaios -- were all Antinoite settlers from the Arsinoite, suggesting a community of Fayum expatriates in the new city.",
       "corpus_ids": [
         28534
@@ -97,7 +93,7 @@
     },
     {
       "id": 3,
-      "section": "opening",
+      "section": "",
       "text": "Van Groningen, B.A. *A Family Archive from Tebtunis (P. Fam. Tebt.)*, Papyrologica Lugduno-Batava vol. 6 (Leiden: E.J. Brill, 1950). The corpus.db database contains 56 documents with source IDs matching \"fam.tebt,\" spanning 89-224 CE.",
       "corpus_ids": []
     },

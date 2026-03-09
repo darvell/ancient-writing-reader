@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Untitled</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="site-nav">
+    <a href="index.html" class="nav-home">&larr; Stories</a>
+    <button class="theme-toggle" aria-label="Toggle dark mode">
+      <span class="theme-icon-light">&#9790;</span>
+      <span class="theme-icon-dark">&#9788;</span>
+    </button>
+  </nav>
+
+  <article class="story">
+    <header class="story-header">
+      
+      <h1>Untitled</h1>
+      
+      
+      <p class="meta">0 primary documents &middot; 0 notes</p>
+    </header>
+
+    <hr class="story-rule">
+
+    
+
+    <hr class="story-rule">
+
+    
+    <section class="notes-section" id="notes">
+      <h2>Notes</h2>
+      <ol class="notes-list">
+        
+      </ol>
+    </section>
+
+    
+    <aside class="entity-panel" id="entity-panel" hidden>
+      <button class="entity-panel-close" aria-label="Close entity panel">&times;</button>
+      <div class="entity-panel-content">
+        <div class="entity-panel-header">
+          <span class="entity-type-badge"></span>
+          <h3 class="entity-name"></h3>
+        </div>
+        <p class="entity-dates"></p>
+        <p class="entity-location"></p>
+        <p class="entity-bio"></p>
+        <div class="entity-roles"></div>
+        <div class="entity-disambiguation"></div>
+        <p class="entity-docs"></p>
+      </div>
+    </aside>
+
+    
+    <aside class="source-panel" id="source-panel" hidden>
+      <button class="source-panel-close" aria-label="Close source panel">&times;</button>
+      <div class="source-panel-content">
+        <h3 class="source-ref"></h3>
+        <p class="source-date"></p>
+        <p class="source-desc"></p>
+        <div class="source-translation">
+          <h4>Translation</h4>
+          <div class="source-translation-text"></div>
+        </div>
+        <div class="source-greek" hidden>
+          <h4>Greek Text</h4>
+          <div class="source-greek-text"></div>
+        </div>
+        <button class="greek-toggle">Show Greek</button>
+      </div>
+    </aside>
+
+    
+    
+
+    
+    
+  </article>
+
+  
+  <script id="source-data" type="application/json">
+    []
+  </script>
+
+  
+
+  <script src="reader.js"></script>
+</body>
+</html>

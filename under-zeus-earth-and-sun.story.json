@@ -1,21 +1,18 @@
 {
   "title": "Under Zeus, Earth, and Sun",
   "subtitle": "Euphrosyne of Oxyrhynchus: A House-Born Slave Freed, 86 CE",
+  "summary": "A woman named Joy — born into slavery in a household she never chose — is freed at thirty-five with a formula invoking Zeus, Earth, and Sun. What came before, what came after, and what freedom actually meant when you had no family name, no property, and no past.",
+  "category": "Slavery & Freedom",
   "tags": [
-    "Roman",
-    "Oxyrhynchus",
-    "Slavery & Freedom",
-    "Marriage & Family",
-    "Women",
-    "Property & Land",
-    "Children"
+    "Manumission",
+    "House-Born Slaves",
+    "Naming",
+    "Legal Identity",
+    "Domitian",
+    "1st Century CE",
+    "Oxyrhynchus"
   ],
   "sections": [
-    {
-      "id": "opening",
-      "title": "",
-      "body_html": "<p><em>Based on P.Oxy. 1.48 and related papyri from the ancient-writing corpus. Every factual claim is footnoted to a surviving document.</em></p>\n<p><span class=\"entity\" data-entity-id=\"chaeremon-oxyrhynchus-1st-century-ce\" data-type=\"person\">Chaeremon</span> picks up a pen and writes to the agoranomus. The letter is short. It asks for one thing: <em>dos eleutherosin Euphrosynei doulei</em> &ndash; &ldquo;grant freedom to <span class=\"entity\" data-entity-id=\"euphrosyne-oxyrhynchus-ca-51---after-86-ce\" data-type=\"person\">Euphrosyne</span>, a slave.&rdquo;<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup></p>\n<p>She is about thirty-five years old. She was born in this house. Her mother&rsquo;s name was <span class=\"entity\" data-entity-id=\"demetrous-oxyrhynchus-1st-century-ce\" data-type=\"person\">Demetrous</span>. She has never been anything but property.</p>\n<p>Today is the nineteenth of Phaophi, in the sixth year of the emperor Caesar Domitianus Augustus Germanicus. By our calendar: October 16, 86 CE.<sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup> By any reckoning: the day that a woman named Joy walks out of a household in <span class=\"entity\" data-entity-id=\"oxyrhynchus\" data-type=\"place\">Oxyrhynchus</span> and into a new kind of life &ndash; circumscribed, precarious, marked by the stain of what she had been &ndash; but free.</p>\n<p>The <span class=\"term\" data-definition=\"Writing material made from the papyrus reed, which grew abundantly in the Nile marshes. Egypt's dry climate preserved tens of thousands of documents.\">papyrus</span> that records this moment is twenty lines of Greek on a scrap that would fit in a man&rsquo;s palm. It was found in 1897 in the rubbish dumps of ancient <span class=\"entity\" data-entity-id=\"oxyrhynchus\" data-type=\"place\">Oxyrhynchus</span> by two young Englishmen named Bernard Grenfell and Arthur Hunt, published in 1898 in the first volume of what would become the most important papyrological series in the world, and shipped to the Vaughan Library at Harrow School in England, where it remains.<sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup> It is the only evidence that <span class=\"entity\" data-entity-id=\"euphrosyne-oxyrhynchus-ca-51---after-86-ce\" data-type=\"person\">Euphrosyne</span> ever existed.</p>"
-    },
     {
       "id": "the-letter",
       "title": "I. The Letter",
@@ -80,7 +77,7 @@
   "notes": [
     {
       "id": 1,
-      "section": "opening",
+      "section": "",
       "text": "P.Oxy. 1.48 (corpus ID 43162), dated 16 October 86 CE (Year 6 of Domitian, Phaophi 19). The full Greek text reads: *Chairemon toi agoranomoi chairein. Dos eleutherosin Euphrosynei doulei hos eton le, oikogenei ek doules Demetroutos, tei eleutheroumenei hypo Dia Gen Helion epi lytrois hypo tes heautes despotidos Aloines tes Komonos tou Dionysiou ton ap' Oxyrhynchon poleos...* Published in Grenfell and Hunt, *The Oxyrhynchus Papyri*, Volume 1 (1898), no. 48.",
       "corpus_ids": [
         43162
@@ -88,7 +85,7 @@
     },
     {
       "id": 2,
-      "section": "opening",
+      "section": "",
       "text": "P.Oxy. 1.48 (corpus ID 43162): *etous 6 Autokratoros Kaisaros Domitianou Sebastou Germanikou, Phaophi 19.* The date converts to 16 October 86 CE.",
       "corpus_ids": [
         43162
@@ -96,7 +93,7 @@
     },
     {
       "id": 3,
-      "section": "opening",
+      "section": "",
       "text": "The excavations at Oxyrhynchus by B.P. Grenfell and A.S. Hunt began in January 1897 and continued intermittently until 1907. See P. Parsons, *City of the Sharp-Nosed Fish* (2007). The site, modern el-Bahnasa, lies approximately 160 km south-southwest of Cairo in the Minia Governorate.",
       "corpus_ids": []
     },

@@ -824,12 +824,39 @@ body {
   margin: 0 0 0.5rem;
 }
 
+.card-category {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  margin-bottom: 0.3rem;
+}
+
+.card-summary {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--fg-muted);
+  margin: 0.5rem 0 0.8rem;
+}
+
 .card-meta {
   font-size: 0.78rem;
   color: var(--fg-faint);
   text-transform: uppercase;
   letter-spacing: 0.08em;
   margin: 0;
+}
+
+.story-category {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  margin-bottom: 0.3rem;
 }
 
 /* ---------- Responsive ---------- */
