@@ -21,12 +21,12 @@
     {
       "id": "the-oath",
       "title": "The Oath",
-      "body_html": "<p>Before there was the Sacred Band, there was a tomb.</p>\n<p>In front of the Proetidian gate at <span class=\"entity\" data-entity-id=\"thebes-boeotia-central-greece\" data-type=\"place\">Thebes</span> stood the <span class=\"term\" data-definition=\"Not just a sports facility — in Greco-Roman Egypt, the gymnasium was the center of Greek civic life, offering athletics, education, and marking Greek citizen status.\">gymnasium</span> called the <span class=\"entity\" data-entity-id=\"gymnasium-of-iolaus-thebes-boeotia\" data-type=\"place\">Gymnasium of Iolaus</span> &mdash; <em>τὸ γυμνάσιον τὸ τοῦ Ἰολάου</em> &mdash; and beside it a racecourse, built up with earthen banks like those at Olympia and Epidaurus. Here also stood a hero-shrine of Iolaus, the companion of Heracles, who according to Theban tradition was not merely the hero&rsquo;s nephew but his <em>eromenos</em>, his beloved.<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup> Pausanias, writing in the second century CE but drawing on traditions far older, confirms both the gymnasium and the shrine. The Thebans themselves admitted that Iolaus had died at Sardinia, far from home, with the Athenian and Thespian colonists he led there. But his shrine at <span class=\"entity\" data-entity-id=\"thebes-boeotia-central-greece\" data-type=\"place\">Thebes</span> endured.<sup><a href=\"#note-5\" class=\"note-ref\" data-note=\"5\">5</a></sup></p>\n<p>It was at this tomb that lovers swore oaths to each other.</p>\n<p>Plutarch, drawing on Aristotle, tells us plainly: &ldquo;Aristotle says that even down to his day the tomb of Iolaus was a place where lovers and beloved plighted mutual faith&rdquo; &mdash; <em>ἐπὶ τοῦ τάφου τοῦ Ἰόλεω τὰς καταπιστώσεις ποιεῖσθαι τοὺς ἐρωμένους καὶ τοὺς ἐραστάς</em>.<sup><a href=\"#note-6\" class=\"note-ref\" data-note=\"6\">6</a></sup> &ldquo;Down to his day&rdquo; means down to the mid-fourth century BCE, when Aristotle was writing. The practice was not archaic. It was alive and flourishing at the very time the Sacred Band existed. The oath at the tomb of Iolaus was not a metaphor. It was an institution.</p>\n<p>We have a document that may preserve the texture of such an oath. An inscription from Athens, catalogued as IG I3 1399, records a verse dedication by or about a man named <span class=\"entity\" data-entity-id=\"gnathios-athens-5th-c-bce\" data-type=\"person\">Gnathios</span>:</p>\n<p><em>ἐνθάδ&rsquo; ἀνὲρ ὄμοσε[ν κα]τὰ ℎορκία παιδὸς ἐρα[σ]θὶς / νείκεα συνμείσχ̣ιν πόλεμόν θ&rsquo; ἅμα δακρυόεντα.</em></p>\n<p>&ldquo;Here a man swore oaths, having fallen in love with a boy, to share in strife and tearful war together.&rdquo;<sup><a href=\"#note-7\" class=\"note-ref\" data-note=\"7\">7</a></sup></p>\n<p>The inscription is fragmentary &mdash; the bottom is broken, and only traces remain of what followed. But what survives is extraordinary. A man, having fallen in love (<em>paidos erasthis</em>), swears a formal oath (<em>kata horkia</em>) to share in strife (<em>neikea</em>) and tearful war (<em>polemon dakryoenta</em>) together with his beloved. The language is Homeric. The sentiment is precise. This is not a private declaration of affection. It is a sworn compact, binding two men together in the expectation of shared violence.</p>\n<p>The inscription then shifts: &ldquo;Of <span class=\"entity\" data-entity-id=\"gnathios-athens-5th-c-bce\" data-type=\"person\">Gnathios</span>, whose soul perished in [&hellip;].&rdquo; And then: &ldquo;I am sacred to the hero [&hellip;].&rdquo;<sup><a href=\"#note-8\" class=\"note-ref\" data-note=\"8\">8</a></sup> The monument itself is sacred &mdash; <em>hieros</em> &mdash; to a hero whose name is lost to the break in the stone. If the hero is Iolaus, or a local equivalent, then this inscription preserves exactly the kind of oath that Aristotle described: a formal vow, taken at a hero&rsquo;s shrine, binding an <em>erastes</em> and <em>eromenos</em> together for war.</p>\n<p>The date of the inscription is disputed, but it is Attic, not Theban. This matters. The practice of swearing erotic-military oaths was not confined to <span class=\"entity\" data-entity-id=\"thebes-boeotia-central-greece\" data-type=\"place\">Thebes</span>. It was part of a wider Greek culture in which the bond between lover and beloved could be formalized, sanctified, and directed toward the state&rsquo;s purposes. <span class=\"entity\" data-entity-id=\"thebes-boeotia-central-greece\" data-type=\"place\">Thebes</span> was unusual not in having such bonds, but in building an army around them.</p>\n<hr></hr>"
+      "body_html": "<p>Before there was the Sacred Band, there was a tomb.</p>\n<p>In front of the Proetidian gate at <span class=\"entity\" data-entity-id=\"thebes-boeotia-central-greece\" data-type=\"place\">Thebes</span> stood the <span class=\"term\" data-definition=\"Not just a sports facility — in Greco-Roman Egypt, the gymnasium was the center of Greek civic life, offering athletics, education, and marking Greek citizen status.\">gymnasium</span> called the <span class=\"entity\" data-entity-id=\"gymnasium-of-iolaus-thebes-boeotia\" data-type=\"place\">Gymnasium of Iolaus</span> <greek>(τὸ γυμνάσιον τὸ τοῦ Ἰολάου)</greek>, and beside it a racecourse, built up with earthen banks like those at Olympia and Epidaurus. Here also stood a hero-shrine of Iolaus, the companion of Heracles, who according to Theban tradition was not merely the hero&rsquo;s nephew but his <em>eromenos</em>, his beloved.<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup> Pausanias, writing in the second century CE but drawing on traditions far older, confirms both the gymnasium and the shrine. The Thebans themselves admitted that Iolaus had died at Sardinia, far from home, with the Athenian and Thespian colonists he led there. But his shrine at <span class=\"entity\" data-entity-id=\"thebes-boeotia-central-greece\" data-type=\"place\">Thebes</span> endured.<sup><a href=\"#note-5\" class=\"note-ref\" data-note=\"5\">5</a></sup></p>\n<p>It was at this tomb that lovers swore oaths to each other.</p>\n<p>Plutarch, drawing on Aristotle, tells us plainly: &ldquo;Aristotle says that even down to his day the tomb of Iolaus was a place where lovers and beloved plighted mutual faith&rdquo; <greek>(ἐπὶ τοῦ τάφου τοῦ Ἰόλεω τὰς καταπιστώσεις ποιεῖσθαι τοὺς ἐρωμένους καὶ τοὺς ἐραστάς)</greek>.<sup><a href=\"#note-6\" class=\"note-ref\" data-note=\"6\">6</a></sup> &ldquo;Down to his day&rdquo; means down to the mid-fourth century BCE, when Aristotle was writing. The practice was not archaic. It was alive and flourishing at the very time the Sacred Band existed. The oath at the tomb of Iolaus was not a metaphor. It was an institution.</p>\n<p>We have a document that may preserve the texture of such an oath. An inscription from Athens, catalogued as IG I3 1399, records a verse dedication by or about a man named <span class=\"entity\" data-entity-id=\"gnathios-athens-5th-c-bce\" data-type=\"person\">Gnathios</span>:</p>\n<p>&ldquo;Here a man swore oaths, having fallen in love with a boy, to share in strife and tearful war together.&rdquo; <greek>(ἐνθάδ&rsquo; ἀνὲρ ὄμοσε[ν κα]τὰ ℎορκία παιδὸς ἐρα[σ]θὶς / νείκεα συνμείσχ̣ιν πόλεμόν θ&rsquo; ἅμα δακρυόεντα.)</greek><sup><a href=\"#note-7\" class=\"note-ref\" data-note=\"7\">7</a></sup></p>\n<p>The inscription is fragmentary &mdash; the bottom is broken, and only traces remain of what followed. But what survives is extraordinary. A man, having fallen in love (<em>paidos erasthis</em>), swears a formal oath (<em>kata horkia</em>) to share in strife (<em>neikea</em>) and tearful war (<em>polemon dakryoenta</em>) together with his beloved. The language is Homeric. The sentiment is precise. This is not a private declaration of affection. It is a sworn compact, binding two men together in the expectation of shared violence.</p>\n<p>The inscription then shifts: &ldquo;Of <span class=\"entity\" data-entity-id=\"gnathios-athens-5th-c-bce\" data-type=\"person\">Gnathios</span>, whose soul perished in [&hellip;].&rdquo; And then: &ldquo;I am sacred to the hero [&hellip;].&rdquo;<sup><a href=\"#note-8\" class=\"note-ref\" data-note=\"8\">8</a></sup> The monument itself is sacred &mdash; <em>hieros</em> &mdash; to a hero whose name is lost to the break in the stone. If the hero is Iolaus, or a local equivalent, then this inscription preserves exactly the kind of oath that Aristotle described: a formal vow, taken at a hero&rsquo;s shrine, binding an <em>erastes</em> and <em>eromenos</em> together for war.</p>\n<p>The date of the inscription is disputed, but it is Attic, not Theban. This matters. The practice of swearing erotic-military oaths was not confined to <span class=\"entity\" data-entity-id=\"thebes-boeotia-central-greece\" data-type=\"place\">Thebes</span>. It was part of a wider Greek culture in which the bond between lover and beloved could be formalized, sanctified, and directed toward the state&rsquo;s purposes. <span class=\"entity\" data-entity-id=\"thebes-boeotia-central-greece\" data-type=\"place\">Thebes</span> was unusual not in having such bonds, but in building an army around them.</p>\n<hr></hr>"
     },
     {
       "id": "the-formation",
       "title": "The Formation",
-      "body_html": "<p>The Sacred Band was formed around 378 BCE, in the aftermath of a revolution.</p>\n<p>Three years earlier, in 382 BCE, the Spartan general Phoebidas had seized the <span class=\"entity\" data-entity-id=\"cadmeia-boeotia-central-greece\" data-type=\"place\">Cadmeia</span> &mdash; the citadel of <span class=\"entity\" data-entity-id=\"thebes-boeotia-central-greece\" data-type=\"place\">Thebes</span> &mdash; during the festival of the Thesmophoria, when the Thebans were unarmed and unsuspecting.<sup><a href=\"#note-9\" class=\"note-ref\" data-note=\"9\">9</a></sup> It was an act of naked aggression disguised as an accident of timing. The pro-Spartan faction, led by Leontiades and Archias, had invited the garrison in. The democrats &mdash; Ismenias, Androcleides, and others &mdash; were arrested, exiled, or killed. <span class=\"entity\" data-entity-id=\"pelopidas-thebes-boeotia-c-410-364-bce\" data-type=\"person\">Pelopidas</span>, a young aristocrat of impeccable family, was among those who fled to Athens.<sup><a href=\"#note-10\" class=\"note-ref\" data-note=\"10\">10</a></sup></p>\n<p>For three years, the exiles plotted. <span class=\"entity\" data-entity-id=\"pelopidas-thebes-boeotia-c-410-364-bce\" data-type=\"person\">Pelopidas</span>, &ldquo;although he was one of the youngest of the exiles, kept inciting each man of them privately, and when they met together pleaded before them that it was neither right nor honourable for them to suffer their native city to be garrisoned and enslaved.&rdquo;<sup><a href=\"#note-11\" class=\"note-ref\" data-note=\"11\">11</a></sup> When the conspiracy was ready, twelve men slipped back into <span class=\"entity\" data-entity-id=\"thebes-boeotia-central-greece\" data-type=\"place\">Thebes</span> in the dress of peasants, carrying hunting dogs and nets to disguise their purpose, entering the city at different points &ldquo;while it was yet day&rdquo; during a snowstorm.<sup><a href=\"#note-12\" class=\"note-ref\" data-note=\"12\">12</a></sup> They assembled at the house of Charon. Their number, counting supporters already inside the city, reached forty-eight.</p>\n<p>What followed was a night of assassination. <span class=\"entity\" data-entity-id=\"pelopidas-thebes-boeotia-c-410-364-bce\" data-type=\"person\">Pelopidas</span> and Damocleidas attacked Leontiades and Hypates in their homes. Charon and Melon, wearing women&rsquo;s clothing over their breastplates and thick garlands of pine that shaded their faces, entered the drinking party where Archias and <span class=\"entity\" data-entity-id=\"philip-ii-of-macedon-pella-macedonia-thebes-as-hostage-c-368-365-bce-382-336-bce\" data-type=\"person\">Philip</span>, the pro-Spartan polemarchs, were carousing with their secretary Phillidas, who was himself a conspirator. The tyrants were killed. By dawn, the city was free.<sup><a href=\"#note-13\" class=\"note-ref\" data-note=\"13\">13</a></sup></p>\n<p>&ldquo;At break of day the exiles came in from Attica under arms, and a general assembly of the people was convened. Then <span class=\"entity\" data-entity-id=\"epaminondas-thebes-boeotia-c-418-362-bce\" data-type=\"person\">Epaminondas</span> and <span class=\"entity\" data-entity-id=\"gorgidas-thebes-boeotia-fl-378-bce\" data-type=\"person\">Gorgidas</span> brought before it <span class=\"entity\" data-entity-id=\"pelopidas-thebes-boeotia-c-410-364-bce\" data-type=\"person\">Pelopidas</span> and his companions, surrounded by the priests, holding forth garlands, and calling upon the citizens to come to the aid of their country and their gods.&rdquo;<sup><a href=\"#note-14\" class=\"note-ref\" data-note=\"14\">14</a></sup></p>\n<p><span class=\"entity\" data-entity-id=\"epaminondas-thebes-boeotia-c-418-362-bce\" data-type=\"person\">Epaminondas</span> and <span class=\"entity\" data-entity-id=\"gorgidas-thebes-boeotia-fl-378-bce\" data-type=\"person\">Gorgidas</span>. The two names appear together at the moment of <span class=\"entity\" data-entity-id=\"thebes-boeotia-central-greece\" data-type=\"place\">Thebes</span>&rsquo; liberation, and they would remain linked in the decade that followed. <span class=\"entity\" data-entity-id=\"epaminondas-thebes-boeotia-c-418-362-bce\" data-type=\"person\">Epaminondas</span> was the philosopher-general, ascetic, poor by choice, devoted to lectures and philosophy where <span class=\"entity\" data-entity-id=\"pelopidas-thebes-boeotia-c-410-364-bce\" data-type=\"person\">Pelopidas</span> preferred the <span class=\"term\" data-definition=\"Not just a sports facility — in Greco-Roman Egypt, the gymnasium was the center of Greek civic life, offering athletics, education, and marking Greek citizen status.\">gymnasium</span> and the hunt.<sup><a href=\"#note-15\" class=\"note-ref\" data-note=\"15\">15</a></sup> <span class=\"entity\" data-entity-id=\"gorgidas-thebes-boeotia-fl-378-bce\" data-type=\"person\">Gorgidas</span> was the organizer &mdash; the man who, in the immediate aftermath of liberation, created the Sacred Band.</p>\n<p>Plutarch&rsquo;s account is specific: &ldquo;The sacred band, we are told, was first formed by <span class=\"entity\" data-entity-id=\"gorgidas-thebes-boeotia-fl-378-bce\" data-type=\"person\">Gorgidas</span>, of three hundred chosen men, to whom the city furnished exercise and maintenance, and who encamped in the <span class=\"entity\" data-entity-id=\"cadmeia-boeotia-central-greece\" data-type=\"place\">Cadmeia</span>; for which reason, too, they were called the city band &mdash; <em>ὁ ἐκ πόλεως λόχος</em> &mdash; for citadels in those days were properly called cities.&rdquo;<sup><a href=\"#note-16\" class=\"note-ref\" data-note=\"16\">16</a></sup></p>\n<p>Three hundred men. State-funded training. State-funded maintenance. Quartered in the citadel itself &mdash; the very <span class=\"entity\" data-entity-id=\"cadmeia-boeotia-central-greece\" data-type=\"place\">Cadmeia</span> that Phoebidas had seized and the revolution had liberated. The symbolism was deliberate. Where Spartan soldiers had garrisoned the citadel, Theban lovers would now stand guard.</p>\n<p>&ldquo;But some say,&rdquo; Plutarch continues, &ldquo;that this band was composed of lovers and beloved&rdquo; &mdash; <em>ἐξ ἐραστῶν καὶ ἐρωμένων</em>.<sup><a href=\"#note-17\" class=\"note-ref\" data-note=\"17\">17</a></sup></p>\n<p>The hedging &mdash; &ldquo;some say&rdquo; &mdash; is characteristic of Plutarch, who was himself a Boeotian from <span class=\"entity\" data-entity-id=\"chaeroneia-boeotia-central-greece\" data-type=\"place\">Chaeroneia</span> and had access to local traditions. But the weight of his narrative leaves no doubt that he believed it. Everything that follows in his account of the Sacred Band assumes the erotic bond as foundational.</p>\n<hr></hr>"
+      "body_html": "<p>The Sacred Band was formed around 378 BCE, in the aftermath of a revolution.</p>\n<p>Three years earlier, in 382 BCE, the Spartan general Phoebidas had seized the <span class=\"entity\" data-entity-id=\"cadmeia-boeotia-central-greece\" data-type=\"place\">Cadmeia</span> &mdash; the citadel of <span class=\"entity\" data-entity-id=\"thebes-boeotia-central-greece\" data-type=\"place\">Thebes</span> &mdash; during the festival of the Thesmophoria, when the Thebans were unarmed and unsuspecting.<sup><a href=\"#note-9\" class=\"note-ref\" data-note=\"9\">9</a></sup> It was an act of naked aggression disguised as an accident of timing. The pro-Spartan faction, led by Leontiades and Archias, had invited the garrison in. The democrats &mdash; Ismenias, Androcleides, and others &mdash; were arrested, exiled, or killed. <span class=\"entity\" data-entity-id=\"pelopidas-thebes-boeotia-c-410-364-bce\" data-type=\"person\">Pelopidas</span>, a young aristocrat of impeccable family, was among those who fled to Athens.<sup><a href=\"#note-10\" class=\"note-ref\" data-note=\"10\">10</a></sup></p>\n<p>For three years, the exiles plotted. <span class=\"entity\" data-entity-id=\"pelopidas-thebes-boeotia-c-410-364-bce\" data-type=\"person\">Pelopidas</span>, &ldquo;although he was one of the youngest of the exiles, kept inciting each man of them privately, and when they met together pleaded before them that it was neither right nor honourable for them to suffer their native city to be garrisoned and enslaved.&rdquo;<sup><a href=\"#note-11\" class=\"note-ref\" data-note=\"11\">11</a></sup> When the conspiracy was ready, twelve men slipped back into <span class=\"entity\" data-entity-id=\"thebes-boeotia-central-greece\" data-type=\"place\">Thebes</span> in the dress of peasants, carrying hunting dogs and nets to disguise their purpose, entering the city at different points &ldquo;while it was yet day&rdquo; during a snowstorm.<sup><a href=\"#note-12\" class=\"note-ref\" data-note=\"12\">12</a></sup> They assembled at the house of Charon. Their number, counting supporters already inside the city, reached forty-eight.</p>\n<p>What followed was a night of assassination. <span class=\"entity\" data-entity-id=\"pelopidas-thebes-boeotia-c-410-364-bce\" data-type=\"person\">Pelopidas</span> and Damocleidas attacked Leontiades and Hypates in their homes. Charon and Melon, wearing women&rsquo;s clothing over their breastplates and thick garlands of pine that shaded their faces, entered the drinking party where Archias and <span class=\"entity\" data-entity-id=\"philip-ii-of-macedon-pella-macedonia-thebes-as-hostage-c-368-365-bce-382-336-bce\" data-type=\"person\">Philip</span>, the pro-Spartan polemarchs, were carousing with their secretary Phillidas, who was himself a conspirator. The tyrants were killed. By dawn, the city was free.<sup><a href=\"#note-13\" class=\"note-ref\" data-note=\"13\">13</a></sup></p>\n<p>&ldquo;At break of day the exiles came in from Attica under arms, and a general assembly of the people was convened. Then <span class=\"entity\" data-entity-id=\"epaminondas-thebes-boeotia-c-418-362-bce\" data-type=\"person\">Epaminondas</span> and <span class=\"entity\" data-entity-id=\"gorgidas-thebes-boeotia-fl-378-bce\" data-type=\"person\">Gorgidas</span> brought before it <span class=\"entity\" data-entity-id=\"pelopidas-thebes-boeotia-c-410-364-bce\" data-type=\"person\">Pelopidas</span> and his companions, surrounded by the priests, holding forth garlands, and calling upon the citizens to come to the aid of their country and their gods.&rdquo;<sup><a href=\"#note-14\" class=\"note-ref\" data-note=\"14\">14</a></sup></p>\n<p><span class=\"entity\" data-entity-id=\"epaminondas-thebes-boeotia-c-418-362-bce\" data-type=\"person\">Epaminondas</span> and <span class=\"entity\" data-entity-id=\"gorgidas-thebes-boeotia-fl-378-bce\" data-type=\"person\">Gorgidas</span>. The two names appear together at the moment of <span class=\"entity\" data-entity-id=\"thebes-boeotia-central-greece\" data-type=\"place\">Thebes</span>&rsquo; liberation, and they would remain linked in the decade that followed. <span class=\"entity\" data-entity-id=\"epaminondas-thebes-boeotia-c-418-362-bce\" data-type=\"person\">Epaminondas</span> was the philosopher-general, ascetic, poor by choice, devoted to lectures and philosophy where <span class=\"entity\" data-entity-id=\"pelopidas-thebes-boeotia-c-410-364-bce\" data-type=\"person\">Pelopidas</span> preferred the <span class=\"term\" data-definition=\"Not just a sports facility — in Greco-Roman Egypt, the gymnasium was the center of Greek civic life, offering athletics, education, and marking Greek citizen status.\">gymnasium</span> and the hunt.<sup><a href=\"#note-15\" class=\"note-ref\" data-note=\"15\">15</a></sup> <span class=\"entity\" data-entity-id=\"gorgidas-thebes-boeotia-fl-378-bce\" data-type=\"person\">Gorgidas</span> was the organizer &mdash; the man who, in the immediate aftermath of liberation, created the Sacred Band.</p>\n<p>Plutarch&rsquo;s account is specific: &ldquo;The sacred band, we are told, was first formed by <span class=\"entity\" data-entity-id=\"gorgidas-thebes-boeotia-fl-378-bce\" data-type=\"person\">Gorgidas</span>, of three hundred chosen men, to whom the city furnished exercise and maintenance, and who encamped in the <span class=\"entity\" data-entity-id=\"cadmeia-boeotia-central-greece\" data-type=\"place\">Cadmeia</span>; for which reason, too, they were called the city band&rdquo; <greek>(ὁ ἐκ πόλεως λόχος)</greek>, &ldquo;for citadels in those days were properly called cities.&rdquo;<sup><a href=\"#note-16\" class=\"note-ref\" data-note=\"16\">16</a></sup></p>\n<p>Three hundred men. State-funded training. State-funded maintenance. Quartered in the citadel itself &mdash; the very <span class=\"entity\" data-entity-id=\"cadmeia-boeotia-central-greece\" data-type=\"place\">Cadmeia</span> that Phoebidas had seized and the revolution had liberated. The symbolism was deliberate. Where Spartan soldiers had garrisoned the citadel, Theban lovers would now stand guard.</p>\n<p>&ldquo;But some say,&rdquo; Plutarch continues, &ldquo;that this band was composed of lovers and beloved&rdquo; <greek>(ἐξ ἐραστῶν καὶ ἐρωμένων)</greek>.<sup><a href=\"#note-17\" class=\"note-ref\" data-note=\"17\">17</a></sup></p>\n<p>The hedging &mdash; &ldquo;some say&rdquo; &mdash; is characteristic of Plutarch, who was himself a Boeotian from <span class=\"entity\" data-entity-id=\"chaeroneia-boeotia-central-greece\" data-type=\"place\">Chaeroneia</span> and had access to local traditions. But the weight of his narrative leaves no doubt that he believed it. Everything that follows in his account of the Sacred Band assumes the erotic bond as foundational.</p>\n<hr></hr>"
     },
     {
       "id": "the-logic-of-eros",
@@ -94,6 +94,7 @@
       "id": 1,
       "section": "",
       "text": "Plutarch, *Life of Pelopidas* 18.5. Corpus ID 95518. The passage is one of the most famous in Greek historiography and has been quoted continuously from antiquity to the present.",
+      "text_html": "Plutarch, <em>Life of Pelopidas</em> 18.5. Corpus ID 95518. The passage is one of the most famous in Greek historiography and has been quoted continuously from antiquity to the present.",
       "corpus_ids": [
         95518
       ]
@@ -102,6 +103,7 @@
       "id": 2,
       "section": "",
       "text": "Plutarch, *Pelopidas* 18.5. Corpus ID 95518. Greek: *ἀπόλοιντο κακῶς οἱ τούτους τι ποιεῖν ἢ πάσχειν αἰσχρὸν ὑπονοοῦντες.*",
+      "text_html": "Plutarch, <em>Pelopidas</em> 18.5. Corpus ID 95518. Greek: <em>ἀπόλοιντο κακῶς οἱ τούτους τι ποιεῖν ἢ πάσχειν αἰσχρὸν ὑπονοοῦντες.</em>",
       "corpus_ids": [
         95518
       ]
@@ -110,12 +112,14 @@
       "id": 3,
       "section": "",
       "text": "The verb *ἀναμίγνυμι* (to mingle, to mix together) appears in military contexts for the intermingling of bodies in battle, and in erotic contexts for sexual union. See LSJ s.v. ἀναμίγνυμι.",
+      "text_html": "The verb <em>ἀναμίγνυμι</em> (to mingle, to mix together) appears in military contexts for the intermingling of bodies in battle, and in erotic contexts for sexual union. See LSJ s.v. ἀναμίγνυμι.",
       "corpus_ids": []
     },
     {
       "id": 4,
       "section": "the-oath",
       "text": "Pausanias, *Description of Greece* 9.23.1. Corpus ID 114181. Pausanias describes the gymnasium, the racecourse, and the hero-shrine of Iolaus at Thebes.",
+      "text_html": "Pausanias, <em>Description of Greece</em> 9.23.1. Corpus ID 114181. Pausanias describes the gymnasium, the racecourse, and the hero-shrine of Iolaus at Thebes.",
       "corpus_ids": [
         114181
       ]
@@ -124,6 +128,7 @@
       "id": 5,
       "section": "the-oath",
       "text": "Pausanias, *Description of Greece* 9.23.1. Corpus ID 114181. \"That Iolaus himself died at Sardis along with the Athenians and Thespians who made the crossing with him is admitted even by the Thebans themselves.\"",
+      "text_html": "Pausanias, <em>Description of Greece</em> 9.23.1. Corpus ID 114181. &ldquo;That Iolaus himself died at Sardis along with the Athenians and Thespians who made the crossing with him is admitted even by the Thebans themselves.&rdquo;",
       "corpus_ids": [
         114181
       ]
@@ -132,6 +137,7 @@
       "id": 6,
       "section": "the-oath",
       "text": "Plutarch, *Pelopidas* 18.2. Corpus ID 95517. Greek: *ἐπὶ τοῦ τάφου τοῦ Ἰόλεω τὰς καταπιστώσεις ποιεῖσθαι τοὺς ἐρωμένους καὶ τοὺς ἐραστάς.*",
+      "text_html": "Plutarch, <em>Pelopidas</em> 18.2. Corpus ID 95517. Greek: <em>ἐπὶ τοῦ τάφου τοῦ Ἰόλεω τὰς καταπιστώσεις ποιεῖσθαι τοὺς ἐρωμένους καὶ τοὺς ἐραστάς.</em>",
       "corpus_ids": [
         95517
       ]
@@ -140,6 +146,7 @@
       "id": 7,
       "section": "the-oath",
       "text": "IG I3 1399. Corpus ID 75649. The inscription is on stone, fragmentary, and its precise date is uncertain but likely fifth century BCE.",
+      "text_html": "IG I3 1399. Corpus ID 75649. The inscription is on stone, fragmentary, and its precise date is uncertain but likely fifth century BCE.",
       "corpus_ids": [
         75649
       ]
@@ -148,6 +155,7 @@
       "id": 8,
       "section": "the-oath",
       "text": "IG I3 1399. Corpus ID 75649. The second portion reads: *Γναθίο τοσφυχ[ὲ] ὄλετ' ἐν... ℎιερός εἰμι τοℎέρο το...* \"Of Gnathios, whose soul perished in [...]. I am sacred to the hero [...].\"",
+      "text_html": "IG I3 1399. Corpus ID 75649. The second portion reads: <em>Γναθίο τοσφυχ[ὲ] ὄλετ&rsquo; ἐν&hellip; ℎιερός εἰμι τοℎέρο το&hellip;</em> &ldquo;Of Gnathios, whose soul perished in [&hellip;]. I am sacred to the hero [&hellip;].&rdquo;",
       "corpus_ids": [
         75649
       ]
@@ -156,6 +164,7 @@
       "id": 9,
       "section": "the-formation",
       "text": "Plutarch, *Pelopidas* 5.2-3. Corpus ID 95450. Phoebidas seized the Cadmeia during the Thesmophoria.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 5.2-3. Corpus ID 95450. Phoebidas seized the Cadmeia during the Thesmophoria.",
       "corpus_ids": [
         95450
       ]
@@ -164,6 +173,7 @@
       "id": 10,
       "section": "the-formation",
       "text": "Plutarch, *Pelopidas* 5.3. Corpus ID 95450. \"Ismenias was arrested, carried to Sparta, and after a little while put to death; while Pelopidas, Pherenicus, Androcleides, and the rest of the democratic leaders fled to Athens.\"",
+      "text_html": "Plutarch, <em>Pelopidas</em> 5.3. Corpus ID 95450. &ldquo;Ismenias was arrested, carried to Sparta, and after a little while put to death; while Pelopidas, Pherenicus, Androcleides, and the rest of the democratic leaders fled to Athens.&rdquo;",
       "corpus_ids": [
         95450
       ]
@@ -172,6 +182,7 @@
       "id": 11,
       "section": "the-formation",
       "text": "Plutarch, *Pelopidas* 7.1-2. Corpus ID 95456.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 7.1-2. Corpus ID 95456.",
       "corpus_ids": [
         95456
       ]
@@ -180,18 +191,21 @@
       "id": 12,
       "section": "the-formation",
       "text": "Plutarch, *Pelopidas* 8.1-3, 9.1. Corpus IDs 95460, 95465. Twelve conspirators set out with hunting dogs and nets.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 8.1-3, 9.1. Corpus IDs 95460, 95465. Twelve conspirators set out with hunting dogs and nets.",
       "corpus_ids": []
     },
     {
       "id": 13,
       "section": "the-formation",
       "text": "Plutarch, *Pelopidas* 11.1-4. Corpus IDs 95473, 95477. The assassination of the tyrants is described in detail.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 11.1-4. Corpus IDs 95473, 95477. The assassination of the tyrants is described in detail.",
       "corpus_ids": []
     },
     {
       "id": 14,
       "section": "the-formation",
       "text": "Plutarch, *Pelopidas* 12.2. Corpus ID 95487.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 12.2. Corpus ID 95487.",
       "corpus_ids": [
         95487
       ]
@@ -200,6 +214,7 @@
       "id": 15,
       "section": "the-formation",
       "text": "Plutarch, *Pelopidas* 4.1. Corpus ID 95443. \"Pelopidas delighted more in exercising the body, Epaminondas in storing the mind.\"",
+      "text_html": "Plutarch, <em>Pelopidas</em> 4.1. Corpus ID 95443. &ldquo;Pelopidas delighted more in exercising the body, Epaminondas in storing the mind.&rdquo;",
       "corpus_ids": [
         95443
       ]
@@ -208,6 +223,7 @@
       "id": 16,
       "section": "the-formation",
       "text": "Plutarch, *Pelopidas* 18.1. Corpus ID 95514. Greek: *τὸν δ' ἱερὸν λόχον, ὥς φασι, συνετάξατο Γοργίδας πρῶτος ἐξ ἀνδρῶν ἐπιλέκτων τριακοσίων.*",
+      "text_html": "Plutarch, <em>Pelopidas</em> 18.1. Corpus ID 95514. Greek: <em>τὸν δ&rsquo; ἱερὸν λόχον, ὥς φασι, συνετάξατο Γοργίδας πρῶτος ἐξ ἀνδρῶν ἐπιλέκτων τριακοσίων.</em>",
       "corpus_ids": [
         95514
       ]
@@ -216,6 +232,7 @@
       "id": 17,
       "section": "the-formation",
       "text": "Plutarch, *Pelopidas* 18.1. Corpus ID 95514. Greek: *ἔνιοι δέ φασιν ἐξ ἐραστῶν καὶ ἐρωμένων γενέσθαι τὸ σύστημα τοῦτο.*",
+      "text_html": "Plutarch, <em>Pelopidas</em> 18.1. Corpus ID 95514. Greek: <em>ἔνιοι δέ φασιν ἐξ ἐραστῶν καὶ ἐρωμένων γενέσθαι τὸ σύστημα τοῦτο.</em>",
       "corpus_ids": [
         95514
       ]
@@ -224,6 +241,7 @@
       "id": 18,
       "section": "the-logic-of-eros",
       "text": "Plutarch, *Pelopidas* 18.1. Corpus ID 95515. The Homer citation is *Iliad* 2.362-363.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 18.1. Corpus ID 95515. The Homer citation is <em>Iliad</em> 2.362-363.",
       "corpus_ids": [
         95515
       ]
@@ -232,6 +250,7 @@
       "id": 19,
       "section": "the-logic-of-eros",
       "text": "Plutarch, *Pelopidas* 18.1. Corpus ID 95515.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 18.1. Corpus ID 95515.",
       "corpus_ids": [
         95515
       ]
@@ -240,6 +259,7 @@
       "id": 20,
       "section": "the-logic-of-eros",
       "text": "Plutarch, *Pelopidas* 18.2. Corpus ID 95516.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 18.2. Corpus ID 95516.",
       "corpus_ids": [
         95516
       ]
@@ -248,6 +268,7 @@
       "id": 21,
       "section": "the-logic-of-eros",
       "text": "Plato, *Symposium* 181b-c. Corpus ID 132402.",
+      "text_html": "Plato, <em>Symposium</em> 181b-c. Corpus ID 132402.",
       "corpus_ids": [
         132402
       ]
@@ -256,6 +277,7 @@
       "id": 22,
       "section": "the-logic-of-eros",
       "text": "Plato, *Symposium* 181d. Corpus ID 132402. Greek: *παρεσκευασμένοι ... ἀεὶ μετ' αὐτοῦ εἶναι τὸν ἅπαντα βίον κοινῇ.*",
+      "text_html": "Plato, <em>Symposium</em> 181d. Corpus ID 132402. Greek: <em>παρεσκευασμένοι &hellip; ἀεὶ μετ&rsquo; αὐτοῦ εἶναι τὸν ἅπαντα βίον κοινῇ.</em>",
       "corpus_ids": [
         132402
       ]
@@ -264,6 +286,7 @@
       "id": 23,
       "section": "the-logic-of-eros",
       "text": "Plutarch, *Pelopidas* 19.2. Corpus ID 95523.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 19.2. Corpus ID 95523.",
       "corpus_ids": [
         95523
       ]
@@ -272,12 +295,14 @@
       "id": 24,
       "section": "harmony-daughter-of-ares-and-aphrodite",
       "text": "The myth of Laius and Chrysippus was well known in antiquity. Later commentators attributed the \"invention\" of pederasty to Laius, making Thebes the birthplace of the practice. Plutarch explicitly rejects this genealogy.",
+      "text_html": "The myth of Laius and Chrysippus was well known in antiquity. Later commentators attributed the &ldquo;invention&rdquo; of pederasty to Laius, making Thebes the birthplace of the practice. Plutarch explicitly rejects this genealogy.",
       "corpus_ids": []
     },
     {
       "id": 25,
       "section": "harmony-daughter-of-ares-and-aphrodite",
       "text": "Plutarch, *Pelopidas* 19.1. Corpus ID 95519.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 19.1. Corpus ID 95519.",
       "corpus_ids": [
         95519
       ]
@@ -286,6 +311,7 @@
       "id": 26,
       "section": "harmony-daughter-of-ares-and-aphrodite",
       "text": "Plutarch, *Pelopidas* 19.2. Corpus ID 95521. The reference is to Harmonia, daughter of Ares and Aphrodite, patron goddess of Thebes and wife of the city's mythical founder Cadmus.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 19.2. Corpus ID 95521. The reference is to Harmonia, daughter of Ares and Aphrodite, patron goddess of Thebes and wife of the city&rsquo;s mythical founder Cadmus.",
       "corpus_ids": [
         95521
       ]
@@ -294,6 +320,7 @@
       "id": 27,
       "section": "tegyra-the-prelude",
       "text": "Plutarch, *Pelopidas* 19.3. Corpus ID 95522.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 19.3. Corpus ID 95522.",
       "corpus_ids": [
         95522
       ]
@@ -302,6 +329,7 @@
       "id": 28,
       "section": "tegyra-the-prelude",
       "text": "Plutarch, *Pelopidas* 19.3. Corpus ID 95522. Greek: *ὥσπερ σώματι χρώμενος ὅλῳ προεκινδύνευε τοῖς μεγίστοις ἀγῶσιν* --- \"treating them as a single body, he put them into the forefront of the greatest conflicts.\"",
+      "text_html": "Plutarch, <em>Pelopidas</em> 19.3. Corpus ID 95522. Greek: <em>ὥσπερ σώματι χρώμενος ὅλῳ προεκινδύνευε τοῖς μεγίστοις ἀγῶσιν</em> &mdash; &ldquo;treating them as a single body, he put them into the forefront of the greatest conflicts.&rdquo;",
       "corpus_ids": [
         95522
       ]
@@ -310,12 +338,14 @@
       "id": 29,
       "section": "tegyra-the-prelude",
       "text": "Plutarch, *Pelopidas* 16.3-5. Corpus IDs 95501-95503. The temple of Apollo Tegyraeus was an ancient oracle site.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 16.3-5. Corpus IDs 95501-95503. The temple of Apollo Tegyraeus was an ancient oracle site.",
       "corpus_ids": []
     },
     {
       "id": 30,
       "section": "tegyra-the-prelude",
       "text": "Plutarch, *Pelopidas* 17.1. Corpus ID 95506. One of the most famous remarks in ancient military history.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 17.1. Corpus ID 95506. One of the most famous remarks in ancient military history.",
       "corpus_ids": [
         95506
       ]
@@ -324,12 +354,14 @@
       "id": 31,
       "section": "tegyra-the-prelude",
       "text": "Plutarch, *Pelopidas* 17.2-4. The Spartan polemarchs on both wings were killed, and the Spartan line was broken.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 17.2-4. The Spartan polemarchs on both wings were killed, and the Spartan line was broken.",
       "corpus_ids": []
     },
     {
       "id": 32,
       "section": "tegyra-the-prelude",
       "text": "Plutarch, *Pelopidas* 16.1. Corpus ID 95501. Greek: *ἡ περὶ Τεγύρας μάχη ... οἷον προαγών τις οὖσα τῆς ἐν Λεύκτροις.*",
+      "text_html": "Plutarch, <em>Pelopidas</em> 16.1. Corpus ID 95501. Greek: <em>ἡ περὶ Τεγύρας μάχη &hellip; οἷον προαγών τις οὖσα τῆς ἐν Λεύκτροις.</em>",
       "corpus_ids": [
         95501
       ]
@@ -338,6 +370,7 @@
       "id": 33,
       "section": "leuctra-the-overthrow",
       "text": "Plutarch, *Pelopidas* 20.1. Corpus ID 95524.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 20.1. Corpus ID 95524.",
       "corpus_ids": [
         95524
       ]
@@ -346,6 +379,7 @@
       "id": 34,
       "section": "leuctra-the-overthrow",
       "text": "Plutarch, *Pelopidas* 20.2. Corpus ID 95525.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 20.2. Corpus ID 95525.",
       "corpus_ids": [
         95525
       ]
@@ -354,6 +388,7 @@
       "id": 35,
       "section": "leuctra-the-overthrow",
       "text": "Plutarch, *Pelopidas* 20.2. Corpus ID 95525.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 20.2. Corpus ID 95525.",
       "corpus_ids": [
         95525
       ]
@@ -362,6 +397,7 @@
       "id": 36,
       "section": "leuctra-the-overthrow",
       "text": "Plutarch, *Pelopidas* 23.1. Corpus ID 95535. Epaminondas' oblique phalanx at Leuctra is one of the most studied tactical innovations in Western military history.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 23.1. Corpus ID 95535. Epaminondas&rsquo; oblique phalanx at Leuctra is one of the most studied tactical innovations in Western military history.",
       "corpus_ids": [
         95535
       ]
@@ -370,6 +406,7 @@
       "id": 37,
       "section": "leuctra-the-overthrow",
       "text": "Plutarch, *Pelopidas* 23.2. Corpus ID 95536.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 23.2. Corpus ID 95536.",
       "corpus_ids": [
         95536
       ]
@@ -378,6 +415,7 @@
       "id": 38,
       "section": "leuctra-the-overthrow",
       "text": "Plutarch, *Pelopidas* 23.4. Corpus ID 95538.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 23.4. Corpus ID 95538.",
       "corpus_ids": [
         95538
       ]
@@ -386,6 +424,7 @@
       "id": 39,
       "section": "leuctra-the-overthrow",
       "text": "The Theban invasion of the Peloponnese in 370/369 BCE liberated Messenia from Spartan control for the first time in over three centuries. Plutarch, *Pelopidas* 24.4. Corpus ID 95578.",
+      "text_html": "The Theban invasion of the Peloponnese in 370/369 BCE liberated Messenia from Spartan control for the first time in over three centuries. Plutarch, <em>Pelopidas</em> 24.4. Corpus ID 95578.",
       "corpus_ids": [
         95578
       ]
@@ -394,6 +433,7 @@
       "id": 40,
       "section": "leuctra-the-overthrow",
       "text": "Plutarch, *Pelopidas* 23.4. Corpus ID 95538.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 23.4. Corpus ID 95538.",
       "corpus_ids": [
         95538
       ]
@@ -402,6 +442,7 @@
       "id": 41,
       "section": "what-the-athenians-thought",
       "text": "Aeschines, *Against Timarchus* 132-133. Corpus ID 116254. Greek: *ὁ σώφρων καὶ ἔννομος, εἴτε ἔρωτα εἴτε ὅντινα τρόπον χρὴ προσειπεῖν.*",
+      "text_html": "Aeschines, <em>Against Timarchus</em> 132-133. Corpus ID 116254. Greek: <em>ὁ σώφρων καὶ ἔννομος, εἴτε ἔρωτα εἴτε ὅντινα τρόπον χρὴ προσειπεῖν.</em>",
       "corpus_ids": [
         116254
       ]
@@ -410,6 +451,7 @@
       "id": 42,
       "section": "what-the-athenians-thought",
       "text": "Aeschines, *Against Timarchus* 132. Corpus ID 116245. Aeschines describes how the defense will invoke Harmodius and Aristogeiton, \"describing their fidelity to one another.\"",
+      "text_html": "Aeschines, <em>Against Timarchus</em> 132. Corpus ID 116245. Aeschines describes how the defense will invoke Harmodius and Aristogeiton, &ldquo;describing their fidelity to one another.&rdquo;",
       "corpus_ids": [
         116245
       ]
@@ -418,6 +460,7 @@
       "id": 43,
       "section": "what-the-athenians-thought",
       "text": "Thucydides, *History of the Peloponnesian War* 6.54-59. Corpus ID 106263. \"Indeed, the daring action of Aristogiton and Harmodius was undertaken in consequence of a love affair.\"",
+      "text_html": "Thucydides, <em>History of the Peloponnesian War</em> 6.54-59. Corpus ID 106263. &ldquo;Indeed, the daring action of Aristogiton and Harmodius was undertaken in consequence of a love affair.&rdquo;",
       "corpus_ids": [
         106263
       ]
@@ -426,12 +469,14 @@
       "id": 44,
       "section": "what-the-athenians-thought",
       "text": "Aeschines, *Against Timarchus* 19-21. The penalties for male prostitution (*hetairesis*) included loss of citizen rights (*atimia*). The law attributed to Solon specifically targeted citizens who prostituted themselves.",
+      "text_html": "Aeschines, <em>Against Timarchus</em> 19-21. The penalties for male prostitution (<em>hetairesis</em>) included loss of citizen rights (<em>atimia</em>). The law attributed to Solon specifically targeted citizens who prostituted themselves.",
       "corpus_ids": []
     },
     {
       "id": 45,
       "section": "what-the-athenians-thought",
       "text": "Aeschines, *Against Timarchus* 142. Corpus ID 116256.",
+      "text_html": "Aeschines, <em>Against Timarchus</em> 142. Corpus ID 116256.",
       "corpus_ids": [
         116256
       ]
@@ -440,6 +485,7 @@
       "id": 46,
       "section": "what-the-athenians-thought",
       "text": "Aeschines, *Against Timarchus* 149-150. Corpus ID 116264. The passage quotes Homer, *Iliad* 23.77-91, the ghost of Patroclus.",
+      "text_html": "Aeschines, <em>Against Timarchus</em> 149-150. Corpus ID 116264. The passage quotes Homer, <em>Iliad</em> 23.77-91, the ghost of Patroclus.",
       "corpus_ids": [
         116264
       ]
@@ -448,6 +494,7 @@
       "id": 47,
       "section": "the-boy-who-watched",
       "text": "Plutarch, *Pelopidas* 26.4. Corpus ID 95556. Philip was sent to Thebes as a hostage around 368 BCE.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 26.4. Corpus ID 95556. Philip was sent to Thebes as a hostage around 368 BCE.",
       "corpus_ids": [
         95556
       ]
@@ -456,6 +503,7 @@
       "id": 48,
       "section": "the-boy-who-watched",
       "text": "Plutarch, *Pelopidas* 18.1. Corpus ID 95515 (Pammenes' quip about Nestor); Plutarch, *Pelopidas* 26.5. Corpus ID 95557 (Philip living with Pammenes).",
+      "text_html": "Plutarch, <em>Pelopidas</em> 18.1. Corpus ID 95515 (Pammenes&rsquo; quip about Nestor); Plutarch, <em>Pelopidas</em> 26.5. Corpus ID 95557 (Philip living with Pammenes).",
       "corpus_ids": [
         95515,
         95557
@@ -465,6 +513,7 @@
       "id": 49,
       "section": "the-boy-who-watched",
       "text": "Plutarch, *Pelopidas* 26.5. Corpus ID 95557.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 26.5. Corpus ID 95557.",
       "corpus_ids": [
         95557
       ]
@@ -473,6 +522,7 @@
       "id": 50,
       "section": "the-boeotian-way-of-love",
       "text": "Plutarch, *Pelopidas* 19.1. Corpus ID 95519.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 19.1. Corpus ID 95519.",
       "corpus_ids": [
         95519
       ]
@@ -481,6 +531,7 @@
       "id": 51,
       "section": "the-boeotian-way-of-love",
       "text": "Plato, *Symposium* 182b. Corpus ID 132402. The passage distinguishes between the complex Athenian customs around male love and the simpler Boeotian and Elean ordinances.",
+      "text_html": "Plato, <em>Symposium</em> 182b. Corpus ID 132402. The passage distinguishes between the complex Athenian customs around male love and the simpler Boeotian and Elean ordinances.",
       "corpus_ids": [
         132402
       ]
@@ -489,18 +540,21 @@
       "id": 52,
       "section": "the-boeotian-way-of-love",
       "text": "Plato, *Symposium* 178e-179a. The imagined city or army of lovers is Phaedrus' contribution to the dialogue: \"If there were only some way of contriving that a state or an army should be made up of lovers and their loves, they would be the very best governors of their own city.\"",
+      "text_html": "Plato, <em>Symposium</em> 178e-179a. The imagined city or army of lovers is Phaedrus&rsquo; contribution to the dialogue: &ldquo;If there were only some way of contriving that a state or an army should be made up of lovers and their loves, they would be the very best governors of their own city.&rdquo;",
       "corpus_ids": []
     },
     {
       "id": 53,
       "section": "the-death-of-pelopidas",
       "text": "Plutarch, *Pelopidas* 32.4-7. Pelopidas died fighting Alexander of Pherae at the Battle of Cynoscephalae in 364 BCE.",
+      "text_html": "Plutarch, <em>Pelopidas</em> 32.4-7. Pelopidas died fighting Alexander of Pherae at the Battle of Cynoscephalae in 364 BCE.",
       "corpus_ids": []
     },
     {
       "id": 54,
       "section": "the-death-of-pelopidas",
       "text": "Plutarch, *Pelopidas* 4.4-5. Corpus ID 95447. At the Battle of Mantinea (probably 385 BCE), Epaminondas defended Pelopidas' body \"single-handed against many, determined to die rather than leave Pelopidas lying there.\"",
+      "text_html": "Plutarch, <em>Pelopidas</em> 4.4-5. Corpus ID 95447. At the Battle of Mantinea (probably 385 BCE), Epaminondas defended Pelopidas&rsquo; body &ldquo;single-handed against many, determined to die rather than leave Pelopidas lying there.&rdquo;",
       "corpus_ids": [
         95447
       ]
@@ -509,12 +563,14 @@
       "id": 55,
       "section": "the-death-of-pelopidas",
       "text": "Epaminondas died at the Second Battle of Mantinea in 362 BCE. Diodorus Siculus 15.87; Cornelius Nepos, *Epaminondas* 9.",
+      "text_html": "Epaminondas died at the Second Battle of Mantinea in 362 BCE. Diodorus Siculus 15.87; Cornelius Nepos, <em>Epaminondas</em> 9.",
       "corpus_ids": []
     },
     {
       "id": 56,
       "section": "the-death-of-pelopidas",
       "text": "Plutarch, *Comparison of Pelopidas and Marcellus* 1.1. Corpus ID 95788.",
+      "text_html": "Plutarch, <em>Comparison of Pelopidas and Marcellus</em> 1.1. Corpus ID 95788.",
       "corpus_ids": [
         95788
       ]
@@ -523,12 +579,14 @@
       "id": 57,
       "section": "the-death-of-pelopidas",
       "text": "The remark is attributed to various sources and appears in variant forms. The substance is consistent: Theban hegemony died with its two architects.",
+      "text_html": "The remark is attributed to various sources and appears in variant forms. The substance is consistent: Theban hegemony died with its two architects.",
       "corpus_ids": []
     },
     {
       "id": 58,
       "section": "chaeroneia",
       "text": "Plutarch, *Camillus* 19.3. Corpus ID 94010. \"On the fifth day of the month of Hippodromius (which the Athenians call Hecatombaeon) the Boeotians won two illustrious victories which set the Greeks free: that at Leuctra, and that at Ceressus more than two hundred years earlier.\" The Battle of Chaeroneia, fought on the same calendar day, inverted the pattern.",
+      "text_html": "Plutarch, <em>Camillus</em> 19.3. Corpus ID 94010. &ldquo;On the fifth day of the month of Hippodromius (which the Athenians call Hecatombaeon) the Boeotians won two illustrious victories which set the Greeks free: that at Leuctra, and that at Ceressus more than two hundred years earlier.&rdquo; The Battle of Chaeroneia, fought on the same calendar day, inverted the pattern.",
       "corpus_ids": [
         94010
       ]
@@ -537,18 +595,21 @@
       "id": 59,
       "section": "chaeroneia",
       "text": "Diodorus Siculus 16.85-86. Alexander, aged eighteen, commanded the Macedonian left wing and led the Companion cavalry against the Theban position.",
+      "text_html": "Diodorus Siculus 16.85-86. Alexander, aged eighteen, commanded the Macedonian left wing and led the Companion cavalry against the Theban position.",
       "corpus_ids": []
     },
     {
       "id": 60,
       "section": "chaeroneia",
       "text": "The tactical reconstruction of the Battle of Chaeroneia is debated. The main sources are Diodorus Siculus 16.85-86 and Plutarch, *Alexander* 9.2. Philip's feigned retreat on the right wing is attested in multiple sources.",
+      "text_html": "The tactical reconstruction of the Battle of Chaeroneia is debated. The main sources are Diodorus Siculus 16.85-86 and Plutarch, <em>Alexander</em> 9.2. Philip&rsquo;s feigned retreat on the right wing is attested in multiple sources.",
       "corpus_ids": []
     },
     {
       "id": 61,
       "section": "chaeroneia",
       "text": "Plutarch, *Pelopidas* 18.5. Corpus ID 95518. Greek: *ἐναντίους ἀπηντηκότας ταῖς σαρίσαις ἅπαντας ἐν τοῖς ὅπλοις καὶ μετ' ἀλλήλων ἀναμεμιγμένους.*",
+      "text_html": "Plutarch, <em>Pelopidas</em> 18.5. Corpus ID 95518. Greek: <em>ἐναντίους ἀπηντηκότας ταῖς σαρίσαις ἅπαντας ἐν τοῖς ὅπλοις καὶ μετ&rsquo; ἀλλήλων ἀναμεμιγμένους.</em>",
       "corpus_ids": [
         95518
       ]
@@ -557,6 +618,7 @@
       "id": 62,
       "section": "chaeroneia",
       "text": "Plutarch states the Band \"was never beaten, until the battle of Chaeroneia\" (*Pelopidas* 18.5, Corpus ID 95518), implying total destruction. The question of survivors is discussed in modern scholarship; see J. G. DeVoto, \"The Sacred Band and Chaeroneia,\" *Ancient History Bulletin* 3 (1989).",
+      "text_html": "Plutarch states the Band &ldquo;was never beaten, until the battle of Chaeroneia&rdquo; (<em>Pelopidas</em> 18.5, Corpus ID 95518), implying total destruction. The question of survivors is discussed in modern scholarship; see J. G. DeVoto, &ldquo;The Sacred Band and Chaeroneia,&rdquo; <em>Ancient History Bulletin</em> 3 (1989).",
       "corpus_ids": [
         95518
       ]
@@ -565,60 +627,70 @@
       "id": 63,
       "section": "the-bones",
       "text": "The Lion of Chaeronea was first reported by English travelers George Ledwell Taylor and Edward Cresy in 1818. The monument is carved from a single block of marble and stands approximately 5.5 meters tall.",
+      "text_html": "The Lion of Chaeronea was first reported by English travelers George Ledwell Taylor and Edward Cresy in 1818. The monument is carved from a single block of marble and stands approximately 5.5 meters tall.",
       "corpus_ids": []
     },
     {
       "id": 64,
       "section": "the-bones",
       "text": "The reconstruction was carried out by Georgios Soteriades in 1902-1903. The Order of Chaeronea, founded in 1897, was a secret society devoted to the memory of the Sacred Band and the cause of homosexual rights; its founder, George Cecil Ives, was a contemporary of Oscar Wilde.",
+      "text_html": "The reconstruction was carried out by Georgios Soteriades in 1902-1903. The Order of Chaeronea, founded in 1897, was a secret society devoted to the memory of the Sacred Band and the cause of homosexual rights; its founder, George Cecil Ives, was a contemporary of Oscar Wilde.",
       "corpus_ids": []
     },
     {
       "id": 65,
       "section": "the-bones",
       "text": "Soteriades, *Ἐφημερὶς Ἀρχαιολογική* 1903. The excavation revealed 254 skeletons arranged in seven rows beneath the lion monument.",
+      "text_html": "Soteriades, <em>Ἐφημερὶς Ἀρχαιολογική</em> 1903. The excavation revealed 254 skeletons arranged in seven rows beneath the lion monument.",
       "corpus_ids": []
     },
     {
       "id": 66,
       "section": "the-bones",
       "text": "Recent analyses of the skeletal remains, including reports presented at the Archaeological Institute of America, have documented the injuries consistent with hoplite battle and noted the arrangement of some bodies with arms linked or hands clasped.",
+      "text_html": "Recent analyses of the skeletal remains, including reports presented at the Archaeological Institute of America, have documented the injuries consistent with hoplite battle and noted the arrangement of some bodies with arms linked or hands clasped.",
       "corpus_ids": []
     },
     {
       "id": 67,
       "section": "the-bones",
       "text": "The discrepancy between 254 skeletons and the traditional 300 has been explained variously: some bodies may have been removed by retreating allies, some may have been too damaged for recovery, and some of the interred may have been non-Sacred Band Theban casualties from the same sector of the battle.",
+      "text_html": "The discrepancy between 254 skeletons and the traditional 300 has been explained variously: some bodies may have been removed by retreating allies, some may have been too damaged for recovery, and some of the interred may have been non-Sacred Band Theban casualties from the same sector of the battle.",
       "corpus_ids": []
     },
     {
       "id": 68,
       "section": "the-bones",
       "text": "Maria Liston, \"Death Comes to the Theban Sacred Band: Skeletons from the Battle of Chaironeia (338 BC),\" presentation at the Archaeological Institute of America. The skeletal analysis documented trauma patterns consistent with close-quarters combat against the sarissa.",
+      "text_html": "Maria Liston, &ldquo;Death Comes to the Theban Sacred Band: Skeletons from the Battle of Chaironeia (338 BC),&rdquo; presentation at the Archaeological Institute of America. The skeletal analysis documented trauma patterns consistent with close-quarters combat against the sarissa.",
       "corpus_ids": []
     },
     {
       "id": 69,
       "section": "what-philips-tears-mean",
       "text": "The *poiein/paschein* distinction --- doing/suffering --- mapped onto the active/passive sexual roles in Greek erotic discourse. See K. J. Dover, *Greek Homosexuality* (Cambridge, MA: Harvard University Press, 1978), 16-17, 100-109.",
+      "text_html": "The <em>poiein/paschein</em> distinction &mdash; doing/suffering &mdash; mapped onto the active/passive sexual roles in Greek erotic discourse. See K. J. Dover, <em>Greek Homosexuality</em> (Cambridge, MA: Harvard University Press, 1978), 16-17, 100-109.",
       "corpus_ids": []
     },
     {
       "id": 70,
       "section": "what-philips-tears-mean",
       "text": "Philip II was assassinated in 336 BCE by Pausanias, a member of his bodyguard. Several ancient sources attribute the assassination to sexual motives: Pausanias had been assaulted and Philip had failed to provide justice. See Diodorus Siculus 16.93-94.",
+      "text_html": "Philip II was assassinated in 336 BCE by Pausanias, a member of his bodyguard. Several ancient sources attribute the assassination to sexual motives: Pausanias had been assaulted and Philip had failed to provide justice. See Diodorus Siculus 16.93-94.",
       "corpus_ids": []
     },
     {
       "id": 71,
       "section": "what-survives",
       "text": "Alexander destroyed Thebes in 335 BCE after the city revolted during his campaign against the Illyrians. He spared the temples, the house of Pindar, and the descendants of Philip's hosts. Arrian, *Anabasis* 1.8-9; Plutarch, *Alexander* 11.6.",
+      "text_html": "Alexander destroyed Thebes in 335 BCE after the city revolted during his campaign against the Illyrians. He spared the temples, the house of Pindar, and the descendants of Philip&rsquo;s hosts. Arrian, <em>Anabasis</em> 1.8-9; Plutarch, <em>Alexander</em> 11.6.",
       "corpus_ids": []
     },
     {
       "id": 72,
       "section": "what-survives",
       "text": "Hyperides, *Funeral Speech* 39-40. Corpus ID 90833. The speech was delivered in 322 BCE for the Athenian dead in the Lamian War.",
+      "text_html": "Hyperides, <em>Funeral Speech</em> 39-40. Corpus ID 90833. The speech was delivered in 322 BCE for the Athenian dead in the Lamian War.",
       "corpus_ids": [
         90833
       ]
@@ -630,6 +702,7 @@
       "reference": "Plutarch - Pelopidas 18.1",
       "date": "1st-2nd c. CE",
       "description": "Biography | Formation of the Sacred Band by Gorgidas; 300 chosen men; lovers and beloved",
+      "description_html": "Biography | Formation of the Sacred Band by Gorgidas; 300 chosen men; lovers and beloved",
       "greek": "τὸν δ’ ἱερὸν λόχον, ὥς φασι, συνετάξατο Γοργίδας πρῶτος ἐξ ἀνδρῶν ἐπιλέκτων τριακοσίων, οἷς ἡ πόλις ἄσκησιν καὶ δίαιταν ἐν τῇ Καδμείᾳ στρατοπεδευομένοις παρεῖχε, καὶ διὰ τοῦθ’ ὁ ἐκ πόλεως λόχος ἐκαλοῦντο· τὰς γὰρ ἀκροπόλεις ἐπιεικῶς οἱ τότε πόλεις ὠνόμαζον. ἔνιοι δέ φασιν ἐξ ἐραστῶν καὶ ἐρωμένων γενέσθαι τὸ σύστημα τοῦτο.",
       "translation": "The sacred band, we are told, was first formed by Gorgidas, of three hundred chosen men, to whom the city furnished exercise and maintenance, and who encamped in the Cadmeia; for which reason, too, they were called the city band; for citadels in those days were properly called cities. But some say that this band was composed of lovers and beloved."
     },
@@ -638,6 +711,7 @@
       "reference": "Plutarch - Pelopidas 18.1",
       "date": "1st-2nd c. CE",
       "description": "Biography | Pammenes' quip about Nestor; lover by beloved in battle",
+      "description_html": "Biography | Pammenes&rsquo; quip about Nestor; lover by beloved in battle",
       "greek": "καὶ Παμμένους ἀπομνημονεύεταί τι μετὰ παιδιᾶς εἰρημένον· οὐ γὰρ ἔφη τακτικὸν εἶναι τὸν Ὁμήρου Νέστορα κελεύοντα κατὰ φῦλα καὶ φρήτρας συλλοχίζεσθαι τοὺς Ἕλληνας, ὡς φρήτρη φρήτρηφιν ἀρήγῃ, φῦλα δὲ φύλοις, δέον ἐραστὴν παρ’ ἐρώμενον τάττειν. φυλέτας μὲν γὰρ φυλετῶν καὶ φράτορας φρατόρων οὐ πολὺν λόγον ἔχειν ἐν τοῖς δεινοῖς, τὸ δ’ ἐξ ἐρωτικῆς φιλίας συνηρμοσμένον στῖφος ἀδιάλυτον εἶναι καὶ ἄρρηκτον, ὅταν οἱ μὲν ἀγαπῶντες τοὺς ἐρωμένους, οἱ δὲ αἰσχυνόμενοι τοὺς ἐρῶντας ἐμμένωσι τοῖς δεινοῖς ὑπὲρ ἀλλήλων.",
       "translation": "And a pleasantry of Pammenes is cited, in which he said that Homer’s Nestor was no tactician when he urged the Greeks to form in companies by clans and tribes, That clan might give assistance unto clan, and tribes to tribes, since he should have stationed lover by beloved. For tribesmen and clansmen make little account of tribesmen and clansmen in times of danger; whereas, a band that is held together by the friendship between lovers is indissoluble and not to be broken, since the lovers are ashamed to play the coward before their beloved, and the beloved before their lovers, and both stand firm in danger to protect each other."
     },
@@ -646,6 +720,7 @@
       "reference": "Plutarch - Pelopidas 18.2",
       "date": "1st-2nd c. CE",
       "description": "Biography | The dying man who asked to be stabbed in the breast",
+      "description_html": "Biography | The dying man who asked to be stabbed in the breast",
       "greek": "καὶ τοῦτο θαυμαστὸν οὐκ ἔστιν, εἴγε δὴ καὶ μὴ παρόντας αἰδοῦνται μᾶλλον ἑτέρων παρόντων, ὡς ἐκεῖνος ὁ τοῦ πολεμίου κείμενον αὑτὸν ἐπισφάττειν μέλλοντος δεόμενος καὶ ἀντιβολῶν διὰ τοῦ στέρνου διεῖναι τὸ ξίφος, ὅπως, ἔφη, μή με νεκρὸν ὁ ἐρώμενος ὁρῶν κατὰ νώτου τετρωμένον αἰσχυνθῇ.",
       "translation": "Nor is this a wonder since men have more regard for their lovers even when absent than for others who are present, as was true of him who, when his enemy was about to slay him where he lay, earnestly besought him to run his sword through his breast, in order, as he said, that my beloved may not have to blush at sight of my body with a wound in the back."
     },
@@ -654,6 +729,7 @@
       "reference": "Plutarch - Pelopidas 18.2",
       "date": "1st-2nd c. CE",
       "description": "Biography | Iolaus as beloved of Heracles; oaths at the tomb; Plato's \"friend inspired of God\"",
+      "description_html": "Biography | Iolaus as beloved of Heracles; oaths at the tomb; Plato&rsquo;s &ldquo;friend inspired of God&rdquo;",
       "greek": "λέγεται δὲ καὶ τὸν Ἰόλεων τοῦ Ἡρακλέους ἐρώμενον ὄντα κοινωνεῖν τῶν ἄθλων καὶ παρασπίζειν. Ἀριστοτέλης δὲ καὶ καθ’ αὑτὸν ἔτι φησὶν ἐπὶ τοῦ τάφου τοῦ Ἰόλεω τὰς καταπιστώσεις ποιεῖσθαι τοὺς ἐρωμένους καὶ τοὺς ἐραστάς. εἰκὸς οὖν καὶ τὸν λόχον ἱερὸν προσαγορεύεσθαι, καθότι καὶ Πλάτων ἔνθεον φίλον τὸν ἐραστὴν προσεῖπε.",
       "translation": "It is related, too, that Iolaüs, who shared the labours of Heracles and fought by his side, was beloved of him. And Aristotle says that even down to his day the tomb of Iolaüs was a place where lovers and beloved plighted mutual faith. It was natural, then, that the band should also be called sacred, because even Plato calls the lover a friend inspired of God."
     },
@@ -662,6 +738,7 @@
       "reference": "Plutarch - Pelopidas 18.5",
       "date": "1st-2nd c. CE",
       "description": "Biography | Annihilation at Chaeroneia; Philip's tears; \"mingled one with another\"",
+      "description_html": "Biography | Annihilation at Chaeroneia; Philip&rsquo;s tears; &ldquo;mingled one with another&rdquo;",
       "greek": "λέγεται δὲ διαμεῖναι μέχρι τῆς ἐν Χαιρωνείᾳ μάχης ἀήττητον· ὡς δὲ μετὰ τὴν μάχην ἐφορῶν τοὺς νεκροὺς ὁ Φίλιππος ἔστη κατὰ τοῦτο τὸ χωρίον ἐν ᾧ συνετύγχανε κεῖσθαι τοὺς τριακοσίους, ἐναντίους ἀπηντηκότας ταῖς σαρίσαις ἅπαντας ἐν τοῖς ὅπλοις καὶ μετ’ ἀλλήλων ἀναμεμιγμένους, θαυμάσαντα καὶ πυθόμενον ὡς ὁ τῶν ἐραστῶν καὶ τῶν ἐρωμένων οὗτος εἴη λόχος, δακρῦσαι καὶ εἰπεῖν ἀπόλοιντο κακῶς οἱ τούτους τι ποιεῖν ἢ πάσχειν αἰσχρὸν ὑπονοοῦντες.",
       "translation": "It is said, moreover, that the band was never beaten, until the battle of Chaeroneia; and when, after the battle, Philip was surveying the dead, and stopped at the place where the three hundred were lying, all where they had faced the long spears of his phalanx, with their armour, and mingled one with another, he was amazed, and on learning that this was the band of lovers and beloved, burst into tears and said: Perish miserably they who think that these men did or suffered aught disgraceful."
     },
@@ -670,6 +747,7 @@
       "reference": "Plutarch - Pelopidas 19.1",
       "date": "1st-2nd c. CE",
       "description": "Biography | Theban lawmakers cultivated love and music to temper violent natures",
+      "description_html": "Biography | Theban lawmakers cultivated love and music to temper violent natures",
       "greek": "ὅλως δὲ τῆς περὶ τοὺς ἐραστὰς συνηθείας οὐχ, ὥσπερ οἱ ποιηταὶ λέγουσι, Θηβαίοις τὸ Λαΐου πάθος ἀρχὴν παρέσχεν, ἀλλ’ οἱ νομοθέται τὸ φύσει θυμοειδὲς αὐτῶν καὶ ἄκρατον ἀνιέναι καὶ ἀνυγραίνειν εὐθὺς ἐκ παίδων βουλόμενοι, πολὺν μὲν ἀνεμίξαντο καὶ σπουδῇ καὶ παιδιᾷ πάσῃ τὸν αὐλόν, εἰς τιμὴν καὶ προεδρίαν ἄγοντες, λαμπρὸν δὲ τὸν ἔρωτα ταῖς παλαίστραις ἐνεθρέψαντο, συγκεραννύντες τὰ ἤθη τῶν νέων.",
       "translation": "Speaking generally, however, it was not the passion of Laius that, as the poets say, first made this form of love customary among the Thebans; but their law-givers, wishing to relax and mollify their strong and impetuous natures in earliest boyhood, gave the flute great prominence both in their work and in their play, bringing this instrument into preeminence and honour, and reared them to give love a conspicuous place in the life of the palaestra, thus tempering the dispositions of the young men."
     },
@@ -678,6 +756,7 @@
       "reference": "Plutarch - Pelopidas 19.2",
       "date": "1st-2nd c. CE",
       "description": "Biography | Harmonia, daughter of Ares and Aphrodite, patroness of Thebes",
+      "description_html": "Biography | Harmonia, daughter of Ares and Aphrodite, patroness of Thebes",
       "greek": "ὀρθῶς δὲ πρὸς τοῦτο καὶ τὴν ἐξ Ἄρεως καὶ Ἀφροδίτης γεγονέναι λεγομένην θεὸν τῇ πόλει συνῳκείωσαν, ὡς, ὅπου τὸ μαχητικὸν καὶ πολεμικὸν μάλιστα τῷ μετέχοντι πειθοῦς καὶ χαρίτων ὁμιλεῖ καὶ σύνεστιν, εἰς τὴν ἐμμελεστάτην καὶ κοσμιωτάτην πολιτείαν δι’ Ἁρμονίας καθισταμένων ἁπάντων.",
       "translation": "And with this in view, they did well to give the goddess who was said to have been born of Ares and Aphrodite a home in their city; for they felt that, where the force and courage of the warrior are most closely associated and united with the age which possesses grace and persuasiveness, there all the activities of civil life are brought by Harmony into the most perfect consonance and order."
     },
@@ -686,6 +765,7 @@
       "reference": "Plutarch - Pelopidas 19.3",
       "date": "1st-2nd c. CE",
       "description": "Biography | Gorgidas scattered the Band; Pelopidas united them after Tegyra",
+      "description_html": "Biography | Gorgidas scattered the Band; Pelopidas united them after Tegyra",
       "greek": "τὸν οὖν ἱερὸν λόχον τοῦτον ὁ μὲν Γοργίδας διαιρῶν εἰς τὰ πρῶτα ζυγά καὶ παρ’ ὅλην τὴν φάλαγγα τῶν ὁπλιτῶν προβαλλόμενος ἐπίδηλον οὐκ ἐποίει τὴν ἀρετὴν τῶν ἀνδρῶν, οὐδ’ ἐχρῆτο τῇ δυνάμει πρὸς κοινὸν ἔργον, ἅτε δὴ διαλελυμένῃ καὶ πρὸς πολὺ μεμιγμένῃ τὸ φαυλότερον, ὁ δὲ Πελοπίδας, ὡς ἐξέλαμψεν αὐτῶν ἡ ἀρετὴ περὶ Τεγύρας, καθαρῶς καὶ περὶ αὐτὸν ἀγωνισαμένων, οὐκέτι διεῖλεν οὐδὲ διέσπασεν, ἀλλ’ ὥσπερ σώματι χρώμενος ὅλῳ προεκινδύνευε τοῖς μεγίστοις ἀγῶσιν.",
       "translation": "Gorgidas, then, by distributing this sacred band among the front ranks of the whole phalanx of men-at-arms, made the high excellence of the men inconspicuous, and did not direct their strength upon a common object, since it was dissipated and blended with that of a large body of inferior troops; but Pelopidas, after their valour had shone out at Tegyra, where they fought by themselves and about his own person, never afterwards divided or scattered them, but, treating them as a unit, put them into the forefront of the greatest conflicts."
     },
@@ -694,6 +774,7 @@
       "reference": "Plutarch - Pelopidas 19.2",
       "date": "1st-2nd c. CE",
       "description": "Biography | The yoked horses metaphor for paired lovers in battle",
+      "description_html": "Biography | The yoked horses metaphor for paired lovers in battle",
       "greek": "ὥσπερ γὰρ οἱ ἵπποι θᾶσσον ὑπὸ τοῖς ἅρμασιν ἢ καθ’ αὑτοὺς ἐλαυνόμενοι θέουσιν, οὐχ ὅτι μᾶλλον ἐμπίπτοντες ἐκβιάζονται τὸν ἀέρα τῷ πλήθει ῥηγνύμενον, ἀλλ’ ὅτι συνεκκαίει τὸν θυμὸν ἡ μετ’ ἀλλήλων ἅμιλλα καὶ τὸ φιλόνεικον, οὕτως ᾤετο τοὺς ἀγαθοὺς ζῆλον ἀλλήλοις καλῶν ἔργων ἐνιέντας ὠφελιμωτάτους εἰς κοινὸν ἔργον εἶναι καὶ προθυμοτάτους.",
       "translation": "For just as horses run faster when yoked to a chariot than when men ride them singly, not because they cleave the air with more impetus owing to their united weight, but because their mutual rivalry and ambition inflame their spirits; so he thought that brave men were most ardent and serviceable in a common cause when they inspired one another with a zeal for high achievement."
     },
@@ -702,6 +783,7 @@
       "reference": "Plutarch - Pelopidas 20.1",
       "date": "1st-2nd c. CE",
       "description": "Biography | Cleombrotus invades Boeotia; unprecedented fear",
+      "description_html": "Biography | Cleombrotus invades Boeotia; unprecedented fear",
       "greek": "ἐπεὶ δὲ Λακεδαιμόνιοι πᾶσι τοῖς Ἕλλησιν εἰρήνην συνθέμενοι πρὸς μόνους Θηβαίους ἐξήνεγκαν τὸν πόλεμον, ἐνεβεβλήκει δὲ Κλεόμβροτος ὁ βασιλεύς ἄγων ὁπλίτας μυρίους, ἱππεῖς δὲ χιλίους, ὁ δὲ κίνδυνος οὐ περὶ ὧν πρότερον ἦν Θηβαίοις, ἀλλ’ ἄντικρυς ἀπειλὴ καὶ καταγγελία διοικισμοῦ, καὶ φόβος οἷος οὔπω τὴν Βοιωτίαν κατεῖχεν, ἐξιὼν μὲν ἐκ τῆς οἰκίας ὁ Πελοπίδας, καὶ τῆς γυναικὸς ἐν τῷ προπέμπειν δακρυούσης καὶ παρακαλούσης σῴζειν ἑαυτόν,",
       "translation": "But now the Lacedaemonians made peace with all the other Greeks and directed the war against the Thebans alone; Cleombrotus their king invaded Boeotia with a force of ten thousand men-at-arms and a thousand horse; a new peril confronted the Thebans, since they were openly threatened with downright dispersion; and an unprecedented fear reigned in Boeotia. It was at this time that Pelopidas, on leaving his house, when his wife followed him on his way in tears and begging him not to lose his life, said:"
     },
@@ -710,6 +792,7 @@
       "reference": "Plutarch - Pelopidas 20.2",
       "date": "1st-2nd c. CE",
       "description": "Biography | Pelopidas to his wife; captain of the Sacred Band at Leuctra",
+      "description_html": "Biography | Pelopidas to his wife; captain of the Sacred Band at Leuctra",
       "greek": "ταῦτα, εἶπεν, ὦ γύναι, τοῖς ἰδιώταις χρὴ παραινεῖν, τοῖς δὲ ἄρχουσιν ὅπως τοὺς ἄλλους σῴζωσιν· ἐλθὼν δὲ εἰς τὸ στρατόπεδον καὶ τοὺς βοιωτάρχας καταλαβὼν οὐχ ὁμογνωμονοῦντας, πρῶτος Ἐπαμεινώνδᾳ προσέθετο γνώμην ψηφιζομένῳ διὰ μάχης ἰέναι τοῖς πολεμίοις, βοιωτάρχης μὲν οὐκ ἀποδεδειγμένος, ἄρχων δὲ τοῦ ἱεροῦ λόχου, καὶ πιστευόμενος, ὡς ἦν δίκαιον ἄνδρα τηλικαῦτα δεδωκότα τῇ πατρίδι σύμβολα εἰς τὴν ἐλευθερίαν.",
       "translation": "This advice, my wife, should be given to private men; but men in authority should be told not to lose the lives of others. And when he reached the camp and found that the boeotarchs were not in accord he was first to side with Epaminondas in voting to give the enemy battle. Now Pelopidas, although he had not been appointed boeotarch, was captain of the sacred band, and highly trusted, as it was right that a man should be who had given his country such tokens of his devotion to freedom."
     },
@@ -718,6 +801,7 @@
       "reference": "Plutarch - Pelopidas 23.1",
       "date": "1st-2nd c. CE",
       "description": "Biography | Epaminondas' oblique phalanx at Leuctra",
+      "description_html": "Biography | Epaminondas&rsquo; oblique phalanx at Leuctra",
       "greek": "ἐν δὲ τῇ μάχῃ τοῦ Ἐπαμεινώνδου τὴν φάλαγγα λοξὴν ἐπὶ τὸ εὐώνυμον ἕλκοντος, ὅπως τῶν ἄλλων Ἑλλήνων ἀπωτάτω γένηται τὸ δεξιὸν τῶν Σπαρτιατῶν καὶ τὸν Κλεόμβροτον ἐξώσῃ προσπεσὼν ἀθρόως κατὰ κέρας καὶ βιασάμενος, οἱ μὲν πολέμιοι καταμαθόντες τὸ γινόμενον ἤρξαντο μετακινεῖν τῇ τάξει σφᾶς αὐτοὺς,",
       "translation": "In the battle, while Epaminondas was drawing his phalanx obliquely towards the left, in order that the right wing of the Spartans might be separated as far as possible from the rest of the Greeks, and that he might thrust back Cleombrotus by a fierce charge in column with all his men-at-arms, the enemy understood what he was doing and began to change their formation;"
     },
@@ -726,6 +810,7 @@
       "reference": "Plutarch - Pelopidas 23.2",
       "date": "1st-2nd c. CE",
       "description": "Biography | Sacred Band's charge at Leuctra before Cleombrotus could reform",
+      "description_html": "Biography | Sacred Band&rsquo;s charge at Leuctra before Cleombrotus could reform",
       "greek": "καὶ τὸ δεξιὸν ἀνέπτυσσον καὶ περιῆγον ὡς κυκλωσόμενοι καὶ περιβαλοῦντες ὑπὸ πλήθους τὸν Ἐπαμεινώνδαν, ὁ δὲ Πελοπίδας ἐν τούτῳ προεξέδραμε, καὶ συστρέψας τοὺς τριακοσίους δρόμῳ φθάνει πρὶν ἀνατεῖναι τὸν Κλεόμβροτον τὸ κέρας ἢ συναγαγεῖν πάλιν εἰς τὸ αὐτὸ καὶ συγκλεῖσαι τὴν τάξιν, οὐ καθεστῶσιν, ἀλλὰ θορυβουμένοις δι’ ἀλλήλων τοῖς Λακεδαιμονίοις ἐπιβαλών.",
       "translation": "they were opening up their right wing and making an encircling movement, in order to surround Epaminondas and envelop him with their numbers. But at this point Pelopidas darted forth from his position, and with his band of three hundred on the run, came up before Cleombrotus had either extended his wing or brought it back again into its old position and closed up his line of battle, so that the Lacedaemonians were not standing in array, but moving confusedly about among each other when his onset reached them."
     },
@@ -734,6 +819,7 @@
       "reference": "Plutarch - Pelopidas 23.4",
       "date": "1st-2nd c. CE",
       "description": "Biography | Flight and slaughter of Spartans at Leuctra",
+      "description_html": "Biography | Flight and slaughter of Spartans at Leuctra",
       "greek": "τότε δὲ ἡ τοῦ Ἐπαμεινώνδου φάλαγξ ἐπιφερομένη μόνοις ἐκείνοις καὶ παραλλάττουσα τοὺς ἄλλους, ὅ τε Πελοπίδας μετὰ τάχους ἀπίστου καὶ τόλμης ἐν τοῖς ὅπλοις γενόμενος, συνέχεον τά τε φρονήματα καὶ τὰς ἐπιστήμας αὐτῶν οὕτως ὥστε φυγὴν καὶ φόνον Σπαρτιατῶν ὅσον οὔπω πρότερον γενέσθαι, διὸ τῷ Ἐπαμεινώνδᾳ βοιωταρχοῦντι μὴ βοιωταρχῶν, καὶ πάσης ἡγουμένῳ τῆς δυνάμεως μικροῦ μέρους ἄρχων. ἴσον ἠνέγκατο δόξης τῆς νίκης ἐκείνης καὶ τοῦ κατορθώματος.",
       "translation": "At this time, however, since the phalanx of Epaminondas bore down upon them alone and neglected the rest of their force, and since Pelopidas engaged them with incredible speed and boldness, their courage and skill were so confounded that there was a flight and slaughter of the Spartans such as had never before been seen. Therefore, although Epaminondas was boeotarch, Pelopidas, who was not boeotarch, and commanded only a small portion of the whole force, won as much glory for the success of that victory as he did."
     },
@@ -742,6 +828,7 @@
       "reference": "Plutarch - Pelopidas 16.1",
       "date": "1st-2nd c. CE",
       "description": "Biography | Tegyra as prelude to Leuctra",
+      "description_html": "Biography | Tegyra as prelude to Leuctra",
       "greek": "ὁ δὲ περὶ Τεγύρας τρόπον τινὰ τοῦ Λευκτρικοῦ προαγὼν γενόμενος μέγαν ἦρε δόξῃ τὸν Πελοπίδαν, οὔτε πρὸς κατόρθωμα τοῖς συστρατήγοις ἀμφισβήτησιν οὔτε τῆς ἥττης πρόφασιν τοῖς πολεμίοις ἀπολιπών. τῇ γὰρ Ὀρχομενίων πόλει τὰ Σπαρτιατῶν ἑλομένῃ καὶ δύο δεδεγμένῃ μόρας αὐτῶν ὑπὲρ ἀσφαλείας ἐπεβούλευε μὲν ἀεὶ καὶ παρεφύλαττε καιρόν,",
       "translation": "But the conflict at Tegyra, which was a sort of prelude to that at Leuctra, raised high the reputation of Pelopidas; for it afforded his fellow commanders no rival claim in its success, and his enemies no excuse for their defeat. Against the city of Orchomenus, which had chosen the side of the Spartans and received two divisions of them for its protection, he was ever laying plans and watching his opportunity,"
     },
@@ -750,6 +837,7 @@
       "reference": "Plutarch - Pelopidas 17.1",
       "date": "1st-2nd c. CE",
       "description": "Biography | \"We have fallen into our enemies' hands!\" --- Pelopidas at Tegyra",
+      "description_html": "Biography | &ldquo;We have fallen into our enemies&rsquo; hands!&rdquo; &mdash; Pelopidas at Tegyra",
       "greek": "εἰς δ’ οὖν Τεγύρας οἱ Θηβαῖοι κατὰ τὸν αὐτὸν χρόνον ἐκ τῆς Ὀρχομενίας ἀπιόντες καί οἱ Λακεδαιμόνιοι συνέπιπτον, ἐξ ἐναντίας αὐτοῖς ἐκ τῆς Λοκρίδος ἀναζευγνύντες. ὡς δὲ πρῶτον ὤφθησαν τὰ στενὰ διεκβάλλοντες, καί τις εἶπε τῷ Πελοπίδᾳ προσδραμών· ἐμπεπτώκαμεν εἰς τοὺς πολεμίους, τί μᾶλλον, εἶπεν, ἢ εἰς ἡμᾶς ἐκεῖνοι;",
       "translation": "So, then, as the Thebans entered the district of Tegyra on their way back from Orchomenus, the Lacedaemonians also entered it at the same time, returning in the opposite direction from Locris, and met them. As soon as they were seen marching through the narrow pass, some one ran up to Pelopidas and said: We have fallen into our enemies’ hands! Why any more, said he, than they into ours?"
     },
@@ -758,6 +846,7 @@
       "reference": "Plutarch - Pelopidas 4.4-5",
       "date": "1st-2nd c. CE",
       "description": "Biography | Epaminondas defends Pelopidas' body at Mantinea",
+      "description_html": "Biography | Epaminondas defends Pelopidas&rsquo; body at Mantinea",
       "greek": "καὶ Πελοπίδας μὲν ἑπτὰ τραύματα λαβὼν ἐναντία πολλοῖς ἐπικατερρύη νεκροῖς ὁμοῦ φίλοις καὶ πολεμίοις, Ἐπαμεινώνδας δέ, καίπερ ἀβιώτως ἔχειν αὐτὸν ἡγούμενος, ὑπὲρ τοῦ σώματος καὶ τῶν ὅπλων ἔστη προελθών καὶ διεκινδύνευσε πρὸς πολλοὺς μόνος, ἐγνωκὼς ἀποθανεῖν μᾶλλον ἢ Πελοπίδαν ἀπολιπεῖν κείμενον· ἤδη δὲ καὶ τούτου κακῶς ἔχοντος, καὶ λόγχῃ μὲν εἰς τὸ στῆθος, ξίφει δὲ εἰς τὸν βραχίονα τετρωμένου, προσεβοήθησεν ἀπὸ θατέρου κέρως Ἀγησίπολις ὁ βασιλεὺς τῶν Σπαρτιατῶν, καὶ περιεποίησεν ἀνελπίστως αὐτοὺς ἀμφοτέρους·",
       "translation": "Pelopidas, after receiving seven wounds in front, sank down upon a great heap of friends and enemies who lay dead together; but Epaminondas, although he thought him lifeless, stood forth to defend his body and his arms, and fought desperately, single-handed against many, determined to die rather than leave Pelopidas lying there. And now he too was in a sorry plight, having been wounded in the breast with a spear and in the arm with a sword, when Agesipolis the Spartan king came to his aid from the other wing, and when all hope was lost, saved them both."
     },
@@ -766,6 +855,7 @@
       "reference": "Plutarch - Pelopidas 12.2",
       "date": "1st-2nd c. CE",
       "description": "Biography | Epaminondas and Gorgidas present the liberators to the assembly",
+      "description_html": "Biography | Epaminondas and Gorgidas present the liberators to the assembly",
       "greek": "ἅμα δὲ ἡμέρᾳ παρῆσαν μὲν ἐκ τῆς Ἀττικῆς οἱ φυγάδες ὡπλισμένοι, συνήθροιστο δὲ εἰς τὴν ἐκκλησίαν ὁ δῆμος. εἰσῆγον δὲ τοὺς περὶ Πελοπίδαν Ἐπαμεινώνδας καὶ Γοργίδας ὑπὸ τῶν ἱερέων περιεχομένους στέμματα προτεινόντων καὶ παρακαλούντων τοὺς πολίτας τῇ πατρίδι καὶ τοῖς θεοῖς βοηθεῖν, ἡ δ’ ἐκκλησία ὀρθὴ πρὸς τὴν ὄψιν μετὰ κρότου καὶ βοῆς ἐξανέστη, δεχομένων τοὺς ἄνδρας ὡς εὐεργέτας καὶ σωτῆρας.",
       "translation": "At break of day the exiles came in from Attica under arms, and a general assembly of the people was convened. Then Epaminondas and Gorgidas brought before it Pelopidas and his companions, surrounded by the priests, holding forth garlands, and calling upon the citizens to come to the aid of their country and their gods. And the assembly, at the sight, rose to its feet with shouts and clapping of hands, and welcomed the men as deliverers and benefactors."
     },
@@ -774,6 +864,7 @@
       "reference": "Plutarch - Pelopidas 26.5",
       "date": "1st-2nd c. CE",
       "description": "Biography | Philip as boy hostage in Thebes, living with Pammenes",
+      "description_html": "Biography | Philip as boy hostage in Thebes, living with Pammenes",
       "greek": "οὗτος ἦν Φίλιππος ὁ τοῖς Ἕλλησιν ὕστερον πολεμήσας ὑπὲρ τῆς ἐλευθερίας, τότε δὲ παῖς ὢν ἐν Θήβαις παρὰ Παμμένει δίαιταν εἶχεν. ἐκ δὲ τούτου καὶ ζηλωτὴς γεγονέναι ἔδοξεν Ἐπαμεινώνδου, τὸ περὶ τοὺς πολέμους καὶ τὰς στρατηγίας δραστήριον ἴσως κατανοήσας, ὃ μικρὸν ἦν τῆς τοῦ ἀνδρὸς ἀρετῆς μόριον, ἐγκρατείας δὲ καὶ δικαιοσύνης καὶ μεγαλοψυχίας καὶ πρᾳότητος, οἷς ἦν ἀληθῶς μέγας ἐκεῖνος, οὐδὲν οὔτε φύσει Φίλιππος οὔτε μιμήσει μετέσχε.",
       "translation": "This was the Philip who afterwards waged war to enslave the Greeks, but at this time he was a boy and lived in Thebes with Pammenes. Hence he was believed to have become a zealous follower of Epaminondas, perhaps because he comprehended his efficiency in wars and campaigns, which was only a small part of the man’s high excellence; but in restraint, justice, magnanimity, and gentleness, wherein Epaminondas was truly great, Philip had no share, either naturally or as a result of imitation."
     },
@@ -782,6 +873,7 @@
       "reference": "Plutarch - Pelopidas 26.4",
       "date": "1st-2nd c. CE",
       "description": "Biography | Philip received as hostage; Theban prestige after Leuctra",
+      "description_html": "Biography | Philip received as hostage; Theban prestige after Leuctra",
       "greek": "ἐλθὼν δὲ καὶ διαλύσας τὰς διαφορὰς καὶ καταγαγὼν τοὺς φεύγοντας, ὅμηρον ἔλαβε τὸν ἀδελφὸν τοῦ βασιλέως Φίλιππον καὶ τριάκοντα παῖδας ἄλλους τῶν ἐπιφανεστάτων, καὶ κατέστησεν εἰς Θήβας, ἐπιδειξάμενος τοῖς Ἕλλησιν ὡς πόρρω διήκει τὰ Θηβαίων πράγματα τῇ δόξῃ τῆς δυνάμεως καὶ τῇ πίστει τῆς δικαιοσύνης.",
       "translation": "After he had come, then, and had settled their differences and brought home the exiles, he received as hostages Philip, the king’s brother, and thirty other sons of the most illustrious men, and brought them to live at Thebes, thus showing the Greeks what an advance the Theban state had made in the respect paid to its power and the trust placed in its justice."
     },
@@ -790,6 +882,7 @@
       "reference": "Plato - Symposium 181b-d",
       "date": "4th c. BCE",
       "description": "Philosophy | Pausanias on Heavenly Love; male-directed eros; lifelong partnership",
+      "description_html": "Philosophy | Pausanias on Heavenly Love; male-directed eros; lifelong partnership",
       "greek": "ὁ δὲ τῆς Οὐρανίας πρῶτον μὲν οὐ μετεχούσης θήλεος ἀλλ’ ἄρρενος μόνον καὶ ἔστιν οὗτος ὁ τῶν παίδων ἔρως ἔπειτα πρεσβυτέρας, ὕβρεως ἀμοίρου·\nὅθεν δὴ ἐπὶ τὸ ἄρρεν τρέπονται οἱ ἐκ τούτου τοῦ ἔρωτος ἔπιπνοι, τὸ φύσει ἐρρωμενέστερον καὶ νοῦν μᾶλλον ἔχον ἀγαπῶντες.\nκαί τις ἂν γνοίη καὶ ἐν αὐτῇ τῇ παιδεραστίᾳ τοὺς εἰλικρινῶς ὑπὸ τούτου τοῦ ἔρωτος ὡρμημένους·\nοὐ γὰρ ἐρῶσι παίδων, ἀλλ’ ἐπειδὰν ἤδη ἄρχωνται νοῦν ἴσχειν, τοῦτο δὲ πλησιάζει τῷ γενειάσκειν.\nπαρεσκευασμένοι γὰρ οἶμαί εἰσιν οἱ ἐντεῦθεν ἀρχόμενοι ἐρᾶν ὡς τὸν βίον ἅπαντα συνεσόμενοι καὶ κοινῇ συμβιωσόμενοι, ἀλλ’ οὐκ ἐξαπατήσαντες, ἐν ἀφροσύνῃ λαβόντες ὡς νέον, καταγελάσαντες οἰχήσεσθαι ἐπ’ ἄλλον ἀποτρέχοντες.\nχρῆν δὲ καὶ νόμον εἶναι μὴ ἐρᾶν παίδων, ἵνα μὴ εἰς ἄδηλον πολλὴ σπουδὴ ἀνηλίσκετο·\nτὸ γὰρ τῶν παίδων τέλος ἄδηλον οἷ τελευτᾷ κακίας καὶ ἀρετῆς ψυχῆς τε πέρι καὶ σώματος.\nοἱ μὲν οὖν ἀγαθοὶ τὸν νόμον τοῦτον αὐτοὶ αὑτοῖς ἑκόντες τίθενται, χρῆν δὲ καὶ τούτους τοὺς πανδήμους ἐραστὰς προσαναγκάζειν τὸ τοιοῦτον, ὥσπερ καὶ τῶν ἐλευθέρων γυναικῶν προσαναγκάζομεν αὐτοὺς καθ’ ὅσον δυνάμεθα μὴ ἐρᾶν.\nοὗτοι γάρ εἰσιν οἱ καὶ τὸ ὄνειδος πεποιηκότες, ὥστε τινὰς τολμᾶν λέγειν ὡς αἰσχρὸν χαρίζεσθαι ἐρασταῖς·\nλέγουσι δὲ εἰς τούτους ἀποβλέποντες, ὁρῶντες αὐτῶν τὴν ἀκαιρίαν καὶ ἀδικίαν, ἐπεὶ οὐ δήπου κοσμίως γε καὶ νομίμως ὁτιοῦν πρᾶγμα πραττόμενον ψόγον ἂν δικαίως φέροι.\nκαὶ δὴ καὶ ὁ περὶ τὸν ἔρωτα νόμος ἐν μὲν ταῖς ἄλλαις πόλεσι νοῆσαι ῥᾴδιος, ἁπλῶς γὰρ ὥρισται· ὁ δ’ ἐνθάδε καὶ ἐν Λακεδαίμονι ποικίλος.\nἐν Ἤλιδι μὲν γὰρ καὶ ἐν Βοιωτοῖς, καὶ οὗ μὴ σοφοὶ λέγειν, ἁπλῶς νενομοθέτηται καλὸν τὸ χαρίζεσθαι ἐρασταῖς, καὶ οὐκ ἄν τις εἴποι οὔτε νέος οὔτε παλαιὸς ὡς αἰσχρόν, ἵνα οἶμαι μὴ πράγματ’ ἔχωσιν λόγῳ πειρώμενοι πείθειν τοὺς νέους, ἅτε ἀδύνατοι λέγειν·\nτῆς δὲ Ἰωνίας καὶ ἄλλοθι πολλαχοῦ αἰσχρὸν νενόμισται, ὅσοι ὑπὸ βαρβάροις οἰκοῦσιν.\nτοῖς γὰρ βαρβάροις διὰ τὰς τυραννίδας αἰσχρὸν τοῦτό γε καὶ ἥ γε φιλοσοφία καὶ ἡ φιλογυμναστία·\nοὐ γὰρ οἶμαι συμφέρει τοῖς ἄρχουσι φρονήματα μεγάλα ἐγγίγνεσθαι τῶν ἀρχομένων, οὐδὲ φιλίας ἰσχυρὰς καὶ κοινωνίας, ὃ δὴ μάλιστα φιλεῖ τά τε ἄλλα πάντα καὶ ὁ ἔρως ἐμποιεῖν.\nἔργῳ δὲ τοῦτο ἔμαθον καὶ οἱ ἐνθάδε τύραννοι·\nὁ γὰρ Ἀριστογείτονος ἔρως καὶ ἡ Ἁρμοδίου φιλία βέβαιος γενομένη κατέλυσεν αὐτῶν τὴν ἀρχήν.\nοὕτως οὗ μὲν αἰσχρὸν ἐτέθη χαρίζεσθαι ἐρασταῖς, κακίᾳ τῶν θεμένων κεῖται, τῶν μὲν ἀρχόντων πλεονεξίᾳ, τῶν δὲ ἀρχομένων ἀνανδρίᾳ·\nοὗ δὲ καλὸν ἁπλῶς ἐνομίσθη, διὰ τὴν τῶν θεμένων τῆς ψυχῆς ἀργίαν.\nἐνθάδε δὲ πολὺ τούτων κάλλιον νενομοθέτηται, καὶ ὅπερ εἶπον, οὐ ῥᾴδιον κατανοῆσαι.\nὃ δὲ δεινότατον, ὥς γε λέγουσιν οἱ πολλοί, ὅτι καὶ ὀμνύντι μόνῳ συγγνώμη παρὰ θεῶν ἐκβάντι τῶν ὅρκων ἀφροδίσιον γὰρ ὅρκον οὔ φασιν εἶναι·\nοὕτω καὶ οἱ θεοὶ καὶ οἱ ἄνθρωποι πᾶσαν ἐξουσίαν πεποιήκασι τῷ ἐρῶντι, ὡς ὁ νόμος φησὶν ὁ ἐνθάδε ταύτῃ μὲν οὖν οἰηθείη ἄν τις πάγκαλον νομίζεσθαι ἐν τῇδε τῇ πόλει καὶ τὸ ἐρᾶν καὶ τὸ φίλους γίγνεσθαι τοῖς ἐρασταῖς.\nἐπειδὰν δὲ παιδαγωγοὺς ἐπιστήσαντες οἱ πατέρες τοῖς ἐρωμένοις μὴ ἐῶσι διαλέγεσθαι τοῖς ἐρασταῖς, καὶ τῷ παιδαγωγῷ ταῦτα προστεταγμένα ᾖ, ἡλικιῶται δὲ καὶ ἑταῖροι ὀνειδίζωσιν ἐάν τι ὁρῶσιν τοιοῦτον γιγνόμενον, καὶ τοὺς ὀνειδίζοντας αὖ οἱ πρεσβύτεροι μὴ διακωλύωσι μηδὲ λοιδορῶσιν ὡς οὐκ ὀρθῶς λέγοντας, εἰς δὲ ταῦτά τις αὖ βλέψας ἡγήσαιτ’ ἂν πάλιν αἴσχιστον τὸ τοιοῦτον ἐνθάδε νομίζεσθαι.\nτὸ δὲ οἶμαι ὧδ’ ἔχει·\nοὐχ ἁπλοῦν ἐστιν, ὅπερ ἐξ ἀρχῆς ἐλέχθη οὔτε καλὸν εἶναι αὐτὸ καθ’ αὑτὸ οὔτε αἰσχρόν, ἀλλὰ καλῶς μὲν πραττόμενον καλόν, αἰσχρῶς δὲ αἰσχρόν.\nαἰσχρῶς μὲν οὖν ἐστι πονηρῷ τε καὶ πονηρῶς χαρίζεσθαι, καλῶς δὲ χρηστῷ τε καὶ καλῶς.\nπονηρὸς δ’ ἐστὶν ἐκεῖνος ὁ ἐραστὴς ὁ πάνδημος, ὁ τοῦ σώματος μᾶλλον ἢ τῆς ψυχῆς ἐρῶν·\nκαὶ γὰρ οὐδὲ μόνιμός ἐστιν, ἅτε οὐδὲ μονίμου ἐρῶν πράγματος.\nἅμα γὰρ τῷ τοῦ σώματος ἄνθει λήγοντι, οὗπερ ἤρα, οἴχεται ἀποπτάμενος, πολλοὺς λόγους καὶ ὑποσχέσεις καταισχύνας·\nὁ δὲ τοῦ ἤθους χρηστοῦ ὄντος ἐραστὴς διὰ βίου μένει, ἅτε μονίμῳ συντακείς.\nτούτους δὴ βούλεται ὁ ἡμέτερος νόμος εὖ καὶ καλῶς βασανίζειν, καὶ τοῖς μὲν χαρίσασθαι, τοὺς δὲ διαφεύγειν.\nδιὰ ταῦτα οὖν τοῖς μὲν διώκειν παρακελεύεται, τοῖς δὲ φεύγειν, ἀγωνοθετῶν καὶ βασανίζων ποτέρων ποτέ ἐστιν ὁ ἐρῶν καὶ ποτέρων ὁ ἐρώμενος.\nοὕτω δὴ ὑπὸ ταύτης τῆς αἰτίας πρῶτον μὲν τὸ ἁλίσκεσθαι ταχὺ αἰσχρὸν νενόμισται, ἵνα χρόνος ἐγγένηται, ὃς δὴ δοκεῖ τὰ πολλὰ καλῶς βασανίζειν, ἔπειτα τὸ ὑπὸ χρημάτων καὶ ὑπὸ πολιτικῶν δυνάμεων ἁλῶναι αἰσχρόν, ἐάν τε κακῶς πάσχων πτήξῃ καὶ μὴ καρτερήσῃ, ἄν τ’ εὐεργετούμενος εἰς χρήματα ἢ εἰς διαπράξεις πολιτικὰς μὴ καταφρονήσῃ·\nοὐδὲν γὰρ δοκεῖ τούτων οὔτε βέβαιον οὔτε μόνιμον εἶναι, χωρὶς τοῦ μηδὲ πεφυκέναι ἀπ’ αὐτῶν γενναίαν φιλίαν.\nμία δὴ λείπεται τῷ ἡμετέρῳ νόμῳ ὁδός, εἰ μέλλει καλῶς χαριεῖσθαι ἐραστῇ παιδικά.\nἔστι γὰρ ἡμῖν νόμος, ὥσπερ ἐπὶ τοῖς ἐρασταῖς ἦν δουλεύειν ἐθέλοντα ἡντινοῦν δουλείαν παιδικοῖς μὴ κολακείαν εἶναι μηδὲ ἐπονείδιστον, οὕτω δὴ καὶ ἄλλη μία μόνη δουλεία ἑκούσιος λείπεται οὐκ ἐπονείδιστος·\nαὕτη δ’ ἐστὶν ἡ περὶ τὴν ἀρετήν.\nνενόμισται γὰρ δὴ ἡμῖν, ἐάν τις ἐθέλῃ τινὰ θεραπεύειν ἡγούμενος δι’ ἐκεῖνον ἀμείνων ἔσεσθαι ἢ κατὰ σοφίαν τινὰ ἢ κατὰ ἄλλο ὁτιοῦν μέρος ἀρετῆς, αὕτη αὖ ἡ ἐθελοδουλεία οὐκ αἰσχρὰ εἶναι οὐδὲ κολακεία.\nδεῖ δὴ τὼ νόμω τούτω συμβαλεῖν εἰς ταὐτόν, τόν τε περὶ τὴν παιδεραστίαν καὶ τὸν περὶ τὴν φιλοσοφίαν τε καὶ τὴν ἄλλην ἀρετήν, εἰ μέλλει συμβῆναι καλὸν γενέσθαι τὸ ἐραστῇ παιδικὰ χαρίσασθαι.\nἐπὶ τούτῳ καὶ ἐξαπατηθῆναι οὐδὲν αἰσχρόν·\nἐπὶ δὲ τοῖς ἄλλοις πᾶσι καὶ ἐξαπατωμένῳ αἰσχύνην φέρει καὶ μή.\nεἰ γάρ τις ἐραστῇ ὡς πλουσίῳ πλούτου ἕνεκα χαρισάμενος ἐξαπατηθείη καὶ μὴ λάβοι χρήματα, ἀναφανέντος τοῦ ἐραστοῦ πένητος, οὐδὲν ἧττον αἰσχρόν·\nδοκεῖ γὰρ ὁ τοιοῦτος τό γε αὑτοῦ ἐπιδεῖξαι, ὅτι ἕνεκα χρημάτων ὁτιοῦν ἂν ὁτῳοῦν ὑπηρετοῖ, τοῦτο δὲ οὐ καλόν.\nκατὰ τὸν αὐτὸν δὴ λόγον κἂν εἴ τις ὡς ἀγαθῷ χαρισάμενος καὶ αὐτὸς ὡς ἀμείνων ἐσόμενος διὰ τὴν φιλίαν ἐραστοῦ ἐξαπατηθείη, ἀναφανέντος ἐκείνου κακοῦ καὶ οὐ κεκτημένου ἀρετήν, ὅμως καλὴ ἡ ἀπάτη·\nδοκεῖ γὰρ αὖ καὶ οὗτος τὸ καθ’ αὑτὸν δεδηλωκέναι, ὅτι ἀρετῆς γ’ ἕνεκα καὶ τοῦ βελτίων γενέσθαι πᾶν ἂν παντὶ προθυμηθείη, τοῦτο δὲ αὖ πάντων κάλλιστον·\nοὕτω πᾶν πάντως γε καλὸν ἀρετῆς γ’ ἕνεκα χαρίζεσθαι.\nοὗτός ἐστιν ὁ τῆς οὐρανίας θεοῦ ἔρως καὶ οὐράνιος καὶ πολλοῦ ἄξιος καὶ πόλει καὶ ἰδιώταις, πολλὴν ἐπιμέλειαν ἀναγκάζων ποιεῖσθαι πρὸς ἀρετὴν τόν τε ἐρῶντα αὐτὸν αὑτοῦ καὶ τὸν ἐρώμενον·\nοἱ δ’ ἕτεροι πάντες τῆς ἑτέρας, τῆς πανδήμου.\nταῦτά σοι, ἔφη, ὡς ἐκ τοῦ παραχρῆμα, ὦ Φαῖδρε, περὶ Ἔρωτος συμβάλλομαι.\nΠαυσανίου δὲ παυσαμένου διδάσκουσι γάρ με ἴσα λέγειν οὑτωσὶ οἱ σοφοί ἔφη ὁ Ἀριστόδημος δεῖν μὲν Ἀριστοφάνη λέγειν, τυχεῖν δὲ αὐτῷ τινα ἢ ὑπὸ πλησμονῆς ἢ ὑπό τινος ἄλλου λύγγα ἐπιπεπτωκυῖαν καὶ οὐχ οἷόν τε εἶναι λέγειν, ἀλλ’ εἰπεῖν αὐτόν ἐν τῇ κάτω γὰρ αὐτοῦ τὸν ἰατρὸν Ἐρυξίμαχον κατακεῖσθαι ὦ Ἐρυξίμαχε, δίκαιος εἶ ἢ παῦσαί με τῆς λυγγὸς ἢ λέγειν ὑπὲρ ἐμοῦ, ἕως ἂν ἐγὼ παύσωμαι.",
       "translation": "But the other Love springs from the Heavenly goddess who, firstly, partakes not of the female but only of the male and secondly, is the elder, untinged with wantonness\nwherefore those who are inspired by this Love betake them to the male, in fondness for what has the robuster nature and a larger share of mind.\nEven in the passion for boys you may note the way of those who are under the single incitement of this Love\nthey love boys only when they begin to acquire some mind—a growth associated with that of down on their chins.\nFor I conceive that those who begin to love them at this age are prepared to be always with them and share all with them as long as life shall last they will not take advantage of a boy’s green thoughtlessness to deceive him and make a mock of him by running straight off to another.\nAgainst this love of boys a law should have been enacted, to prevent the sad waste of attentions paid to an object so uncertain\nfor who can tell where a boy will end at last, vicious or virtuous in body and soul?\nGood men, however, voluntarily make this law for themselves, and it is a rule which those popular lovers ought to be forced to obey, just as we force them, so far as we can, to refrain from loving our freeborn women.\nThese are the persons responsible for the scandal which prompts some to say it is a shame to gratify one’s lover\nsuch are the cases they have in view, for they observe all their reckless and wrongful doings and surely, whatsoever is done in an orderly and lawful manner can never justly bring reproach.\nFurther, it is easy to note the rule with regard to love in other cities there it is laid down in simple terms, while ours here is complicated.\nFor in Elis and Boeotia and where there is no skill in speech they have simply an ordinance that it is seemly to gratify lovers, and no one whether young or old will call it shameful, in order, I suppose, to save themselves the trouble of trying what speech can do to persuade the youths for they have no ability for speaking.\nBut in Ionia and many other regions where they live under foreign sway, it is counted a disgrace.\nForeigners hold this thing, and all training in philosophy and sports, to be disgraceful, because of their despotic government\nsince, I presume, it is not to the interest of their princes to have lofty notions engendered in their subjects, or any strong friendships and communions all of which Love is pre-eminently apt to create.\nIt is a lesson that our despots learnt by experience\nfor Aristogeiton’s love and Harmodius’s friendship grew to be so steadfast that it wrecked their power.\nThus where it was held a disgrace to gratify one’s lover, the tradition is due to the evil ways of those who made such a law— that is, to the encroachments of the rulers and to the cowardice of the ruled.\nBut where it was accepted as honorable without any reserve, this was due to a sluggishness of mind in the law-makers.\nIn our city we have far better regulations, which, as I said, are not so easily grasped.\nfor while the latter would reproach him with adulation and ill-breeding, the former would admonish him and feel ashamed of his conduct. But in a lover all such doings only win him favor by free grant of our law he may behave thus without reproach, as compassing a most honorable end. Strangest of all, he alone in the vulgar opinion has indulgence from the gods when he forsakes the vow he has sworn\nSo true it is that both gods and men have given absolute licence to the lover, as our Athenian law provides. Thus far, then, we have ground for supposing that here in our city both loving some one and showing affection to one’s lover are held in highest honor.\nBut it happens that fathers put tutors in charge of their boys when they are beloved, to prevent them from conversing with their lovers the tutor has strict injunctions on the matter, and when they observe a boy to be guilty of such a thing his playmates and fellows reproach him, while his reproachers are not in their turn withheld or upbraided by their elders as speaking amiss and from this it might rather be inferred that his behavior is held to be a great disgrace in Athens.\nYet the truth of it, I think, is this\nthe affair is no simple thing you remember we said that by itself it was neither noble nor base, but that it was noble if nobly conducted, and base if basely.\nTo do the thing basely is to gratify a wicked man in a wicked manner nobly means having to do with a good man in a noble manner.\nBy wicked we mean that popular lover, who craves the body rather than the soul\nas he is not in love with what abides, he himself is not abiding.\nAs soon as the bloom of the body he so loved begins to fade he flutters off and is gone, leaving all his speeches and promises dishonored\nwhereas the lover of a nature that is worthy abides throughout life, as being fused into one with the abiding.\nNow our law has a sure and excellent test for the trial of these persons, showing which are to be favored and which to be shunned.\nIn the one case, accordingly, it encourages pursuit, but flight in the other, applying ordeals and tests in each case, whereby we are able to rank the lover and the beloved on this side or on that.\nAnd so it is for this reason that our convention regards a quick capitulation as a disgrace for there ought, first, to be a certain interval—the generally approved touchstone—of time and, second, it is disgraceful if the surrender is due to gold or public preferment, or is a mere cowering away from the endurance of ill-treatment, or shows the youth not properly contemptuous of such benefits as he may receive in pelf or political success.\nFor in these there appears nothing steadfast or abiding, unless it be the impossibility of their producing a noble friendship.\nOne way remains in our custom whereby a favorite may rightly gratify his lover\nit is our rule that, just as in the case of the lovers it was counted no flattery or scandal for them to be willingly and utterly enslaved to their favorites, so there is left one sort of voluntary thraldom which is not scandalous\nI mean, in the cause of virtue.\nIt is our settled tradition that when a man freely devotes his service to another in the belief that his friend will make him better in point of wisdom, it may be, or in any of the other parts of virtue, this willing bondage also is no sort of baseness or flattery.\nLet us compare the two rules—one dealing with the passion for boys, and the other with the love of wisdom and all virtuous ways by this we shall see if we are to conclude it a good thing that a favorite should gratify his lover.\nTo have such hopes deceived is no disgrace\nwhile those of any other sort must be disgraceful, whether deceived or not.\nFor suppose that a youth had a lover he deemed to be wealthy and, after obliging him for the sake of his wealth, were to find himself deceived and no money to be got, since the lover proved to be poor this would be disgraceful all the same\nsince the youth may be said to have revealed his character, and shown himself ready to do anyone any service for pelf, and this is not honorable.\nBy the same token, when a youth gratifies a friend, supposing him to be a good man and expecting to be made better himself as a result of his lover’s affection, and then finds he is deceived, since his friend proves to be vile and destitute of virtue even so the deception is honorable.\nFor this youth is also held to have discovered his nature, by showing that he would make anyone the object of his utmost ardor for the sake of virtuous improvement and this by contrast is supremely honorable.\nThus by all means it is right to bestow this favor for the sake of virtue.\nThis is the Love that belongs to the Heavenly Goddess, heavenly itself and precious to both public and private life for this compels lover and beloved alike to feel a zealous concern for their own virtue.\nBut lovers of the other sort belong all to the other Goddess, the Popular.\nSuch, Phaedrus, is the contribution I am able to offer you, on the spur of the moment, towards the discussion of Love.\nPausanias’ praise made a pause with this phrase—you see what jingles the schoolmen are teaching me! The next speaker, so Aristodemus told me, was to have been Aristophanes but a surfeit or some other cause had chanced to afflict him with a hiccough, which prevented him from speaking and he could only just say to Eryximachus the doctor, whose place was next below him, I look to you Eryximachus, either to stop my hiccough, or to speak in my stead until I can stop it."
     },
@@ -798,6 +891,7 @@
       "reference": "Aeschines - Against Timarchus 132",
       "date": "346 BCE",
       "description": "Forensic speech | Defense will invoke Harmodius and Aristogeiton",
+      "description_html": "Forensic speech | Defense will invoke Harmodius and Aristogeiton",
       "greek": "ἀναβήσεται δ’ ἐν τῇ ἀπολογίᾳ καὶ τῶν στρατηγῶν τις, ὡς ἀκούω, ὑπτιάζων καὶ κατασκοπούμενος ἑαυτόν, ὡς ἐν παλαίστραις καὶ διατριβαῖς γεγονώς· ὃς ἐπιχειρήσει διασύρειν τὴν ὅλην ἔνστασιν τοῦ ἀγῶνος, οὐ κρίσιν ἐξευρηκέναι με φάσκων, ἀλλὰ δεινῆς ἀπαιδευσίας ἀρχήν, παραφέρων πρῶτον μὲν τοὺς εὐεργέτας τοὺς ὑμετέρους, Ἁρμόδιον καὶ Ἀριστογείτονα, καὶ τὴν πρὸς ἀλλήλους πίστιν καὶ τὸ πρᾶγμα ὡς συνήνεγκε τῇ πόλει διεξιών·",
       "translation": "But in the course of the defence one of the generals will, as I am told, mount the platform, with head held high and a self-conscious air, as one who should say, Behold the graduate of the wrestling schools, and the student of philosophy! And he will undertake to throw ridicule upon the whole idea of the prosecution, asserting that this is no legal process that I have devised, but the first step in a dangerous decline in the culture of our youth. He will cite first those benefactors of yours, Harmodius and Aristogeiton, describing their fidelity to one another, and telling how in their case this relationship proved the salvation of the state."
     },
@@ -806,6 +900,7 @@
       "reference": "Aeschines - Against Timarchus 133",
       "date": "346 BCE",
       "description": "Forensic speech | \"Chaste and lawful love\" of the tyrannicides",
+      "description_html": "Forensic speech | &ldquo;Chaste and lawful love&rdquo; of the tyrannicides",
       "greek": "τοιγάρτοι τοὺς τῆς πόλεως μὲν εὐεργέτας, ταῖς δ’ ἀρεταῖς ὑπερενηνοχότας, Ἁρμόδιον καὶ Ἀριστογείτονα, ὁ σώφρων καὶ ἔννομος, εἴτε ἔρωτα εἴτε ὅντινα τρόπον χρὴ προσειπεῖν, τοιούτους ἐπαίδευσεν, ὥστε τοὺς ἐπαινοῦντας τὰ ἐκείνων ἔργα καταδεεστέρους δοκεῖν εἶναι ἐν τοῖς ἐγκωμίοις τῶν ἐκείνοις πεπραγμένων.",
       "translation": "and so it was that those benefactors of the state, Harmodius and Aristogeiton, men pre-eminent for their virtues, were so nurtured by that chaste and lawful love—or call it by some other name than love if you like—and so disciplined, that when we hear men praising what they did, we feel that words are inadequate to the eulogy of their deeds."
     },
@@ -814,6 +909,7 @@
       "reference": "Aeschines - Against Timarchus 142",
       "date": "346 BCE",
       "description": "Forensic speech | Homer hides the love of Achilles and Patroclus",
+      "description_html": "Forensic speech | Homer hides the love of Achilles and Patroclus",
       "greek": "λέξω δὲ πρῶτον μὲν περὶ Ὁμήρου, ὃν ἐν τοῖς πρεσβυτάτοις καὶ σοφωτάτοις τῶν ποιητῶν εἶναι τάττομεν. ἐκεῖνος γὰρ πολλαχοῦ μεμνημένος περὶ Πατρόκλου καὶ Ἀχιλλέως, τὸν μὲν ἔρωτα καὶ τὴν ἐπωνυμίαν αὐτῶν τῆς φιλίας ἀποκρύπτεται, ἡγούμενος τὰς τῆς εὐνοίας ὑπερβολὰς καταφανεῖς εἶναι τοῖς πεπαιδευμένοις τῶν ἀκροατῶν.",
       "translation": "I will speak first of Homer, whom we rank among the oldest and wisest of the poets. Although he speaks in many places of Patroclus and Achilles, he hides their love and avoids giving a name to their friendship, thinking that the exceeding greatness of their affection is manifest to such of his hearers as are educated men."
     },
@@ -822,6 +918,7 @@
       "reference": "Aeschines - Against Timarchus 149",
       "date": "346 BCE",
       "description": "Forensic speech | Patroclus' ghost: \"Let not my bones be laid apart from thine\"",
+      "description_html": "Forensic speech | Patroclus&rsquo; ghost: &ldquo;Let not my bones be laid apart from thine&rdquo;",
       "greek": "ἀναγίγνωσκε δὴ ἃ περὶ τοῦ ὁμοτάφους αὐτοὺς γενέσθαι λέγει ἐν τῷ ὕπνῳ ὁ Πάτροκλος, καὶ περὶ τῶν διατριβῶν, ἃς συνδιέτριβον ἀλλήλοις. οὐ γὰρ ἔτι ζωοί γε φίλων ἀπάνευθεν ἑταίρωνβουλὰς ἑζόμενοι βουλεύσομεν· ἀλλ’ ἐμὲ μὲν Κὴρἀμφέχανε στυγερή, ἥπερ λάχε γεινόμενόν περ·καὶ δὲ σοὶ αὐτῷ μοῖρα, θεοῖς ἐπιείκελ’ Ἀχιλλεῦ,τείχει ὕπο Τρώων εὐηγενέων ἀπολέσθαι,μαρνάμενον δηίοις Ἑλένης ἕνεκ’ ἠυκόμοιο.ἄλλο δέ τοι ἐρέω, σὺ δ’ ἐνὶ φρεσὶ βάλλεο σῇσιν·μὴ ἐμὰ σῶν ἀπάνευθε τιθήμεναι ὀστέ’, Ἀχιλλεῦ,ἀλλ’ ἵνα πέρ σε καὶ αὐτὸν ὁμοίη γαῖα κεκεύθῃ,χρυσέῳ ἐν ἀμφιφορεῖ, τόν τοι πόρε πότνια μήτηρ,ὡς ὁμοῦ ἐτράφομέν περ ἐν ὑμετέροισι δόμοισιν,εὖτέ με τυτθὸν ἐόντα Μενοίτιος ἐξ Ὀπόεντοςἤγαγεν ὑμέτερόνδ’ ἀνδροκτασίης ὕπο λυγρῆς,ἤματι τῷ, ὅτε παῖδα κατέκτανον Ἀμφιδάμαντος,νήπιος, οὐκ ἐθέλων, ἀμφ’ ἀστραγάλοισι χολωθείς·ἔνθα με δεξάμενος ἐν δώμασιν ἱππότα Πηλεὺςἔτρεφέ τ’ ἐνδυκέως καὶ σὸν θεράποντ’ ὀνόμηνεν·ὣς δὲ καὶ ὀστέα νῶιν ὁμὴ σορὸς ἀμφικαλύπτοι.",
       "translation": "Now read what Patroclus says in the dream about their common burial and about the intercourse that they once had with one another. “For we no longer as in life shall sitApart in sweet communion. Nay, the doomAppointed me at birth has yawned for me.And fate has destined thee, Achilles, peerOf gods, to die beneath the wall of Troy'sProud lords, fighting for fair-haired Helen's sake.More will I say to thee, pray heed it well:Let not my bones be laid apart from thine,Achilles, but that thou and I may beIn common earth, I beg that I may shareThat golden coffer which thy mother broughtTo be thine own, even as we in youthGrew up together in thy home. My sireMenoetius brought me, a little lad, from home,From Opus, to your house, for sad bloodshed,That day, when, all unwitting, in childish wrathAbout the dice, I killed Amphidamas' son.The knightly Peleus took me to his homeAnd kindly reared me, naming me thy squire.So let one common coffer hide our bones.”"
     },
@@ -830,6 +927,7 @@
       "reference": "IG I3 1399",
       "date": "5th c. BCE (?)",
       "description": "Inscription | Gnathios oath: man swears oaths having fallen in love with a boy",
+      "description_html": "Inscription | Gnathios oath: man swears oaths having fallen in love with a boy",
       "greek": "A.1 ἐνθάδ’ ἀνὲρ ὄμοσε [ν κα]- τὰ ℎορκία παιδὸς ἐρα [σ]- θὶς / νείκεα συνμείσχ̣ιν̣ {²⁶συνμείχσειν}²⁶ πόλεμόν θ’ ἅμα δα- κρυόεντα. / Γναθίο το͂ σφυχ [ὲ] {²⁶φσυχὲ}²⁶ ὄλετ’ ἐν̣— — ℎιερός εἰμι το͂ ℎέρο το͂ — — — B.1 [Γνά] θιε, αἰεὶ σπευδε— — —",
       "translation": "Here a man swore oaths, having fallen in love with a boy, to share in strife and tearful war together. (Of) Gnathios, whose soul(?) perished in [...]. I am sacred to the hero [...]. Gnathios, always strive [...]."
     },
@@ -838,6 +936,7 @@
       "reference": "Pausanias - Description of Greece 9.23.1",
       "date": "2nd c. CE",
       "description": "Geography | Gymnasium and hero-shrine of Iolaus at Thebes",
+      "description_html": "Geography | Gymnasium and hero-shrine of Iolaus at Thebes",
       "greek": "Θηβαίοις δὲ πρὸ τῶν πυλῶν ἐστι τῶν Προιτίδων καὶ τὸ Ἰολάου καλούμενον γυμνάσιον καὶ στάδιον κατὰ ταὐτὰ τῷ τε ἐν Ὀλυμπίᾳ καὶ τῷ Ἐπιδαυρίων γῆς χῶμα· ἐνταῦθα δείκνυται καὶ ἡρῷον Ἰολάου. τελευτῆσαι δὲ ἐν Σαρδοῖ τόν τε Ἰόλαον αὐτὸν καὶ Ἀθηναίων καὶ Θεσπιέων τοὺς συνδιαβάντας ὁμολογοῦσι καὶ οἱ Θηβαῖοι.",
       "translation": "In front of the Proetidian gate at Thebes is the gymnasium called the Gymnasium of Iolaus and also a race-course, a bank of earth like those at Olympia and Epidaurus. Here there is also shown a hero-shrine of Iolaus. That Iolaus himself died at Sardis along with the Athenians and Thespians who made the crossing with him is admitted even by the Thebans themselves."
     },
@@ -846,6 +945,7 @@
       "reference": "Thucydides - History 6.54",
       "date": "5th c. BCE",
       "description": "History | Harmodius and Aristogeiton's act \"undertaken in consequence of a love affair\"",
+      "description_html": "History | Harmodius and Aristogeiton&rsquo;s act &ldquo;undertaken in consequence of a love affair&rdquo;",
       "greek": "τὸ γὰρ Ἀριστογείτονος καὶ Ἁρμοδίου τόλμημα δι’ ἐρωτικὴν ξυντυχίαν ἐπεχειρήθη, ἣν ἐγὼ ἐπὶ πλέον διηγησάμενος ἀποφανῶ οὔτε τοὺς ἄλλους οὔτε αὐτοὺς Ἀθηναίους περὶ τῶν σφετέρων τυράννων οὐδὲ περὶ τοῦ γενομένου ἀκριβὲς οὐδὲν λέγοντας.",
       "translation": "Indeed, the daring action of Aristogiton and Harmodius was undertaken in consequence of a love affair, which I shall relate at some length, to show that the Athenians are not more accurate than the rest of the world in their accounts of their own tyrants and of the facts of their own history."
     },
@@ -854,6 +954,7 @@
       "reference": "Thucydides - History 6.54",
       "date": "5th c. BCE",
       "description": "History | Harmodius \"in the flower of youthful beauty,\" Aristogeiton \"his lover\"",
+      "description_html": "History | Harmodius &ldquo;in the flower of youthful beauty,&rdquo; Aristogeiton &ldquo;his lover&rdquo;",
       "greek": "Πεισιστράτου γὰρ γηραιοῦ τελευτήσαντος ἐν τῇ τυραννίδι οὐχ Ἵππαρχος, ὥσπερ οἱ πολλοὶ οἴονται, ἀλλ’ Ἱππίας πρεσβύτατος ὢν ἔσχε τὴν ἀρχήν. γενομένου δὲ Ἁρμοδίου ὥρᾳ ἡλικίας λαμπροῦ Ἀριστογείτων ἀνὴρ τῶν ἀστῶν, μέσος πολίτης, ἐραστὴς ὢν εἶχεν αὐτόν.",
       "translation": "Pisistratus dying at an advanced age in possession of the tyranny, was succeeded by his eldest son, Hippias, and not Hipparchus, as is vulgarly believed. Harmodius was then in the flower of youthful beauty, and Aristogiton, a citizen in the middle rank of life, was his lover and possessed him."
     },
@@ -862,6 +963,7 @@
       "reference": "Hyperides - Funeral Speech 39-40",
       "date": "322 BCE",
       "description": "Oratory | Harmodius and Aristogeiton alongside the Lamian War dead",
+      "description_html": "Oratory | Harmodius and Aristogeiton alongside the Lamian War dead",
       "greek": "οἶμαι δὲ καὶ τοὺς τὴν πρὸς ἀλλήλους φιλίαν τῷ δήμῳ βεβαιότατα ἐνδειξαμένους, λέγω δὲ Ἁρμόδιον καὶ Ἀριστογείτονα, οὐθένας οὕτως αὑτοῖς οἰκειοτέρους ὑμῖν εἶναι νομίζειν ὡς Λεωσθένη καὶ τοὺς ἐκείνῳ συναγωνισαμένους, οὐδ’ ἔστιν οἷς ἂν μᾶλλον ἢ τούτοις πλησιάσειαν ἐν Ἅιδου. εἰκότως· οὐκ ἐλάττω γὰρ ἐκείνων ἔργα διεπράξαντο, ἀλλ’ εἰ δέον εἰπεῖν, καὶ μείζω. οἱ μὲν γὰρ τοὺς τῆς πατρίδος τυράννους κατέλυσαν, οὗτοι δὲ τοὺς τῆς Ἑλλάδος ἁπάσης.",
       "translation": "Those too, I fancy, who gave the people the surest token of their mutual friendship, Harmodius and Aristogiton, do not regard . . . as Leosthenes and his comrades in arms; nor are there any with whom they would rather hold converse in the lower world than these. We need not wonder; for what these men did was no less a task than theirs; it was indeed, if judgement must be passed, a greater service still. Those two brought low the tyrants of their country, these the masters of the whole of Greece."
     },
@@ -870,6 +972,7 @@
       "reference": "Plutarch - Camillus 19.3",
       "date": "1st-2nd c. CE",
       "description": "Biography | The fifth of Hippodromius: Leuctra and Ceressus",
+      "description_html": "Biography | The fifth of Hippodromius: Leuctra and Ceressus",
       "greek": "τῇ δ’ ὑποκειμένῃ γραφῇ τὸ μνημονεῦσαι παραδειγμάτων ὀλίγων ἴσως ἂν ἁρμόσειε. τοῦτο μὲν τοίνυν Βοιωτοῖς Ἱπποδρομίου μηνός, ὡς δ’ Ἀθηναῖοι καλοῦσιν Ἑκατομβαιῶνος, ἱσταμένου πέμπτῃ δύο λαβεῖν συνέβη νίκας ἐπιφανεστάτας, αἷς τοὺς Ἕλληνας ἠλευθέρωσαν, τήν τε περὶ Λεῦκτρα καὶ τήν ἐπὶ Κερησσῷ ταύτης πρότερον ἔτεσι πλείοσιν ἢ διακοσίοις, ὅτε Λατταμύαν καὶ Θεσσαλοὺς ἐνίκησαν.",
       "translation": "Still, even in what I am now writing, the mention of a few examples may not be amiss. To begin with, then, it was on the fifth day of the month of Hippodromius (which the Athenians call Hecatombaeon) that the Boeotians won two illustrious victories which set the Greeks free: that at Leuctra, and that at Ceressus more than two hundred years earlier, when they conquered Lattamyas and the Thessalians."
     },
@@ -878,6 +981,7 @@
       "reference": "Plutarch - Pelopidas",
       "date": "undated",
       "description": "Referenced in note 9",
+      "description_html": "",
       "greek": "πεισθέντος δ’ ἐκείνου καὶ μὴ προσδοκῶσι τοῖς Θηβαίοις ἐπιθεμένου Θεσμοφορίων ὄντων, καὶ τῆς ἄκρας κυριεύσαντος, Ἰσμηνίας μὲν συναρπασθεὶς καὶ κομισθεὶς εἰς Λακεδαίμονα μετ’ οὐ πολὺν χρόνον ἀνῃρέθη, Πελοπίδας δὲ καὶ Φερένικος καὶ Ἀνδροκλείδας μετὰ συχνῶν ἄλλων φεύγοντες ἐξεκηρύχθησαν, Ἐπαμεινώνδας δὲ κατὰ χώραν ἔμεινε τῷ καταφρονηθῆναι διὰ μὲν φιλοσοφίαν ὡς ἀπράγμων, διὰ δὲ πενίαν ὡς ἀδύνατος.",
       "translation": "Phoebidas yielded to their persuasions, made his attack upon the Thebans when they did not expect it, since it was the festival of the Thesmophoria, and got possession of the citadel. Then Ismenias was arrested, carried to Sparta, and after a little while put to death; while Pelopidas, Pherenicus, Androcleides and many others took to flight and were proclaimed outlaws. Epaminondas, however, was suffered to remain in the city, because his philosophy made him to be looked down upon as a recluse, and his poverty as impotent."
     },
@@ -886,6 +990,7 @@
       "reference": "Plutarch - Pelopidas",
       "date": "undated",
       "description": "Referenced in note 11",
+      "description_html": "",
       "greek": "ὁ δὲ Πελοπίδας, καίπερ ἐν τοῖς νεωτάτοις ὤν, ἰδίᾳ τε καθ’ ἕκαστον ἐξώρμα τῶν φυγάδων, καὶ πρὸς τὸ πλῆθος ἐποιήσατο λόγους, ὡς οὔτε καλὸν οὔτε ὅσιον εἴη δουλεύουσαν τὴν πατρίδα καὶ φρουρουμένην περιορᾶν, αὐτοὺς δὲ μόνον τὸ σῴζεσθαι καὶ διαζῆν ἀγαπῶντας ἐκκρέμασθαι τῶν Ἀθήνησι ψηφισμάτων καὶ θεραπεύειν ὑποπεπτωκότας ἀεὶ τοῖς λέγειν δυναμένοις καὶ πείθειν τὸν ὄχλον,",
       "translation": "But Pelopidas, although he was one of the youngest of the exiles kept inciting each man of them privately, and when they met together pleaded before them that it was neither right nor honourable for them to suffer their native city to be garrisoned and enslaved, and, content with mere life and safety, to hang upon the decrees of the Athenians, and to be always cringing and paying court to such orators as could persuade the people;"
     },
@@ -894,6 +999,7 @@
       "reference": "Plutarch - Pelopidas",
       "date": "undated",
       "description": "Referenced in note 15",
+      "description_html": "",
       "greek": "ἦσαν δὲ καὶ πρὸς πᾶσαν ἀρετὴν πεφυκότες ὁμοίως, πλὴν ὅτι τῷ γυμνάζεσθαι μᾶλλον ἔχαιρε Πελοπίδας, τῷ δὲ μανθάνειν Ἐπαμεινώνδας, καὶ τὰς διατριβὰς ἐν τῷ σχολάζειν ὁ μὲν περὶ παλαίστρας καὶ κυνηγέσια, ὁ δὲ ἀκούων τι καὶ φιλοσοφῶν ἐποιεῖτο. πολλῶν δὲ καὶ καλῶν ὑπαρχόντων ἀμφοτέροις πρὸς δόξαν, οὐδὲν οἱ νοῦν ἔχοντες ἡγοῦνται τηλικοῦτον ἡλίκον τὴν διὰ τοσούτων ἀγώνων καὶ στρατηγιῶν καὶ πολιτειῶν ἀνεξέλεγκτον εὔνοιαν καὶ φιλίαν ἀπ’ ἀρχῆς μέχρι τέλους ἐμμείνασαν.",
       "translation": "They were also fitted by nature for the pursuit of every excellence, and in like measure, except that Pelopidas delighted more in exercising the body, Epaminondas in storing the mind, so that the one devoted his leisure hours to bodily exercise and hunting, the other to lectures and philosophy. Both had many claims upon the world’s esteem, but wise men consider none of these so great as the unquestioned good will and friendship which subsisted between them from first to last through all their struggles and campaigns and civil services."
     },
@@ -902,6 +1008,7 @@
       "reference": "Plutarch - Pelopidas",
       "date": "undated",
       "description": "Referenced in note 39",
+      "description_html": "",
       "greek": "ἀλλ’, ὡς πρῶτος περὶ τῆς ἐν Λεύκτροις μάχης ἐξέδραμε λόγος, ἀεί τινος καινοῦ προστιθεμένου κατορθώματος αὐξανομένη καὶ ἀναβαίνουσα πορρωτάτω κατέσχεν ἔπειτα τοῖς ἐπὶ θύραις σατράπαις καὶ στρατηγοῖς καὶ ἡγεμόσιν ὀφθείς θαῦμα καὶ λόγον παρέσχεν, ὡς οὗτος ἀνήρ ἐστιν ὁ γῆς καὶ θαλάττης ἐκβαλὼν Λακεδαιμονίους καὶ συστείλας ὑπὸ Ταΰγετον καὶ τὸν Εὐρώταν τὴν Σπάρτην τὴν ὀλίγον ἔμπροσθεν βασιλεῖ τῷ μεγάλῳ καὶ Πέρσαις δι’ Ἀγησιλάου τὸν περὶ Σούσων καὶ Ἐκβατάνων ἐπαραμένην πόλεμον.",
       "translation": "but, when once the report of the battle at Leuctra had sped abroad, it was ever increased by the addition of some new success, and prevailed to the farthest recesses of the interior; and, in the second place, when the satraps and generals and commanders at the King’s court beheld him, they spoke of him with wonder, saying that this was the man who had expelled the Lacedaemonians from land and sea, and shut up between Taÿgetus and the Eurotas that Sparta which, a little while before, through Agesilaüs, had undertaken a war with the Great King and the Persians for the possession of Susa and Ecbatana."
     },
@@ -910,6 +1017,7 @@
       "reference": "Plutarch - Comparison of Pelopidas and Marcellus",
       "date": "undated",
       "description": "Referenced in note 56",
+      "description_html": "",
       "greek": "οὐ μὴν ἀλλὰ τούτοις μὲν ἔστι παραβαλεῖν τὰ Λεῦκτρα καὶ Τεγύρας, ἐπιφανεστάτους καὶ μεγίστους ἀγώνων, κρυφαίαν δὲ σὺν λόχῳ κατωρθωμένην πρᾶξιν οὐκ ἔχομεν τοῦ Μαρκέλλου παραβαλεῖν οἷς Πελοπίδας περὶ τὴν ἐκ φυγῆς κάθοδον καὶ ἀναίρεσιν τῶν ἐν Θήβαις τυράννων ἔπραξεν, ἀλλ’ ἐκεῖνο πολὺ πάντων ἔοικε πρωτεύειν τῶν ὑπὸ σκότῳ καὶ δι’ ἀπάτης γεγενημένων τὸ ἔργον.",
       "translation": "However, with these exploits of Marcellus one may compare the battles of Leuctra and Tegyra, greatest and most illustrious of actions; and we have no exploit of Marcellus accomplished by stealth and ambuscade which we can compare with what Pelopidas did in coming back from exile and slaying the tyrants in Thebes, nay, that seems to rank far higher than any other achievement of secrecy and cunning."
     }

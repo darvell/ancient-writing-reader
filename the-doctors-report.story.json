@@ -1,0 +1,562 @@
+{
+  "title": "The Doctor's Report",
+  "subtitle": "Public Physicians, Drug Accounts, and the Bureaucratic Life of Medicine in Roman Egypt",
+  "summary": "A dossier of more than forty papyri shows Roman Egyptian medicine working not only at the bedside but inside administration. Public physicians inspected corpses, certified fever cases, drew pay from the physician-fund <greek>(ἰατρικόν)</greek>, received grain and rations, held land, bought drugs, and wrote home for ingredients. The doctor in these documents is as often a witness and fiscal professional as a healer.",
+  "category": "Medicine & Health",
+  "tags": [
+    "Roman Egypt",
+    "Medicine",
+    "Physicians",
+    "Oxyrhynchus",
+    "Public Health",
+    "Bureaucracy",
+    "Drugs",
+    "Taxation",
+    "Forensics",
+    "Illness"
+  ],
+  "sections": [
+    {
+      "id": "1-the-corpse-must-first-be-seen",
+      "title": "1. The Corpse Must First Be Seen",
+      "body_html": "<p>The report on <code>Hierax</code> is the clearest surviving example of a physician functioning as an officer of fact.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup> <code>Dionysus</code>, explicitly a public physician, writes because he has been ordered to inspect the body and state what he found.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup> He does not speculate. He observes. The bureaucratic value of medicine lies precisely in that economy.</p>\n<p>A second Oxyrhynchite text, from <code>182 CE</code>, makes the same point even more vividly. During a festival at <span class=\"entity\" data-entity-id=\"senepta-oxyrhynchite-nome\" data-type=\"place\">Senepta</span>, while castanet-players were performing, an eight-year-old slave named <code>Epaphroditus</code> leaned out to watch, fell, and died.<sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup> The <span class=\"term\" data-definition=\"Chief magistrate of a nome (district) in Roman Egypt — responsible for tax collection, law enforcement, and local administration.\">strategus</span> ordered an assistant to go with a public physician <greek>(δημόσιος ἰατρός)</greek>, inspect the body, and then release it for burial with a written report.<sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup></p>\n<p>That order is one of the most revealing medical texts in the archive. Before the child can be mourned properly, the body has to pass through a chain of official knowledge. Medicine here is not tenderness. It is authorization.<sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup></p>\n<p>By the fourth century, the category remained legible enough that a public physician from <span class=\"entity\" data-entity-id=\"hermopolis-middle-egypt\" data-type=\"place\">Hermopolis</span> could appear by title, public physician <greek>(δημόσιος ἰατρός)</greek>, in another legal text.<sup><a href=\"#note-14\" class=\"note-ref\" data-note=\"14\">14</a></sup> The dossier is thin and uneven, but the recurrence matters. In the documents we have, public physicians are summoned not only when someone might recover, but when officials require a body translated into usable evidence.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup><sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup><sup><a href=\"#note-14\" class=\"note-ref\" data-note=\"14\">14</a></sup></p>"
+    },
+    {
+      "id": "2-doctors-also-certified-the-living",
+      "title": "2. Doctors Also Certified the Living",
+      "body_html": "<p>The same administrative logic appears in a report on a living patient from <code>316 CE</code>.<sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup> Two public physicians, <span class=\"entity\" data-entity-id=\"heron-oxyrhynchus-316-ce\" data-type=\"person\">Heron</span> and <span class=\"entity\" data-entity-id=\"didymus-oxyrhynchus-316-ce\" data-type=\"person\">Didymus</span>, write to the <span class=\"entity\" data-entity-id=\"logistes\" data-type=\"office\">logistes</span> Valerius Ammonianus after being sent to inspect a man in the city.<sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup> They found him lying on a bed with a slight fever <greek>(πυρετίῳ)</greek> and submitted that in writing.<sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup></p>\n<p>The report is memorable for what it does not do. It offers no elaborate diagnosis, no long therapeutic argument, no bedside scene. What mattered to the official who commissioned it was that trained men had seen the patient and could say so.<sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup></p>\n<p>Other late antique texts suggest the same bureaucratic habit of converting illness into record. One fourth-century document preserves the words clinic <greek>(ἰατρεῖον)</greek>, &ldquo;fell ill&rdquo; <greek>(ἐνόσησεν)</greek>, and &ldquo;by illness&rdquo; <greek>(νόσῳ)</greek> in a compact case bundle.<sup><a href=\"#note-15\" class=\"note-ref\" data-note=\"15\">15</a></sup> Another refers to a doctor <greek>(ἰατρόν)</greek> and treatment in a context of illness and official communication.<sup><a href=\"#note-16\" class=\"note-ref\" data-note=\"16\">16</a></sup> These texts are not as vivid as the fever report, but they point in the same direction. In these official or transactional cases, sickness became paper when exemption, delay, or decision required certified observation.<sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup><sup><a href=\"#note-15\" class=\"note-ref\" data-note=\"15\">15</a></sup><sup><a href=\"#note-16\" class=\"note-ref\" data-note=\"16\">16</a></sup></p>\n<p>This is one reason ancient medical papyri feel so strange to a modern reader. Their emotional center is displaced. The patient&rsquo;s body matters, but often because somebody else needs a trustworthy line about it.</p>"
+    },
+    {
+      "id": "3-medicine-had-its-own-fiscal-vocabulary",
+      "title": "3. Medicine Had Its Own Fiscal Vocabulary",
+      "body_html": "<p>The doctor&rsquo;s authority was not only legal. It was fiscal.</p>\n<p>A receipt from <code>246 BCE</code> records <span class=\"entity\" data-entity-id=\"demetrios-egypt-246-bce\" data-type=\"person\">Demetrios</span> the physician receiving <code>80 drachmas</code> through the bank from the account of the physician-fund <greek>(ἰατρικόν)</greek>.<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup> Whatever the exact institutional arrangement behind the term, one fact is secure: physicians could be paid from a designated revenue stream.<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup></p>\n<p>The word itself reappears elsewhere. Ptolemaic fiscal documents preserve the same medical-fund term <greek>(ἰατρικοῦ)</greek> in tax and accounting contexts.<sup><a href=\"#note-17\" class=\"note-ref\" data-note=\"17\">17</a></sup><sup><a href=\"#note-18\" class=\"note-ref\" data-note=\"18\">18</a></sup><sup><a href=\"#note-19\" class=\"note-ref\" data-note=\"19\">19</a></sup><sup><a href=\"#note-20\" class=\"note-ref\" data-note=\"20\">20</a></sup> In one Tebtunis text it appears alongside other charges in a regularized list.<sup><a href=\"#note-18\" class=\"note-ref\" data-note=\"18\">18</a></sup> In another it reappears as part of a local account structure.<sup><a href=\"#note-19\" class=\"note-ref\" data-note=\"19\">19</a></sup> These are dry entries, but that dryness is precisely the point. By the second century BCE, medical expertise had already entered the grammar of ordinary finance.</p>\n<p>That matters for how we read the later public-physician reports. The <span class=\"term\" data-definition=\"Chief magistrate of a nome (district) in Roman Egypt — responsible for tax collection, law enforcement, and local administration.\">strategus</span> and the <span class=\"entity\" data-entity-id=\"logistes\" data-type=\"office\">logistes</span> were not improvising when they sent for doctors.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup><sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup> At least some physicians already stood inside a world of designated dues, payments, and recognized fiscal categories.<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup><sup><a href=\"#note-17\" class=\"note-ref\" data-note=\"17\">17</a></sup><sup><a href=\"#note-18\" class=\"note-ref\" data-note=\"18\">18</a></sup><sup><a href=\"#note-19\" class=\"note-ref\" data-note=\"19\">19</a></sup><sup><a href=\"#note-20\" class=\"note-ref\" data-note=\"20\">20</a></sup></p>\n<p>The archive does not let us reconstruct one uninterrupted budgetary institution from the Ptolemies to the fourth century. It does let us say that medicine repeatedly appears where one expects taxable, payable, and claimable expertise to appear.<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup><sup><a href=\"#note-14\" class=\"note-ref\" data-note=\"14\">14</a></sup><sup><a href=\"#note-17\" class=\"note-ref\" data-note=\"17\">17</a></sup><sup><a href=\"#note-18\" class=\"note-ref\" data-note=\"18\">18</a></sup><sup><a href=\"#note-19\" class=\"note-ref\" data-note=\"19\">19</a></sup><sup><a href=\"#note-20\" class=\"note-ref\" data-note=\"20\">20</a></sup></p>"
+    },
+    {
+      "id": "4-doctors-took-grain-wages-and-rations-like-other-working-men",
+      "title": "4. Doctors Took Grain, Wages, and Rations Like Other Working Men",
+      "body_html": "<p>The fiscal life of doctors did not end with the physician-fund <greek>(ἰατρικόν)</greek>.</p>\n<p>Accounts from the Ptolemaic period show doctors receiving money, cloth, and grain.<sup><a href=\"#note-21\" class=\"note-ref\" data-note=\"21\">21</a></sup><sup><a href=\"#note-22\" class=\"note-ref\" data-note=\"22\">22</a></sup> One list has Apollonius the physician receiving <span class=\"term\" data-definition=\"The standard silver coin unit. In Roman Egypt, 1 drachma bought roughly a day's basic food. A skilled worker earned 1–4 drachmas per day.\">drachmas</span> and garments.<sup><a href=\"#note-21\" class=\"note-ref\" data-note=\"21\">21</a></sup> Another records grain and ration measures for Horus the physician.<sup><a href=\"#note-22\" class=\"note-ref\" data-note=\"22\">22</a></sup> A crop account for <span class=\"entity\" data-entity-id=\"artemidorus-egypt-3rd-century-bce\" data-type=\"person\">Artemidorus</span> the physician includes not only grain and sesame but black poppy seed <greek>(μήκωνος μελαίνης)</greek>.<sup><a href=\"#note-11\" class=\"note-ref\" data-note=\"11\">11</a></sup></p>\n<p>These are not glamorous texts, but they are historically precious. They make the physician economically concrete. He is not floating above the material world as pure learned authority. He takes rations, receives fabric, counts produce, and lives among ordinary forms of compensation.<sup><a href=\"#note-11\" class=\"note-ref\" data-note=\"11\">11</a></sup><sup><a href=\"#note-21\" class=\"note-ref\" data-note=\"21\">21</a></sup><sup><a href=\"#note-22\" class=\"note-ref\" data-note=\"22\">22</a></sup></p>\n<p>That continues later. An ostracon from Trimithis records barley &ldquo;to the doctor.&rdquo;<sup><a href=\"#note-12\" class=\"note-ref\" data-note=\"12\">12</a></sup> A fourth-century ration account gives grain both to a physician and to a horse doctor <greek>(ἱπποϊατρός)</greek>, side by side.<sup><a href=\"#note-23\" class=\"note-ref\" data-note=\"23\">23</a></sup> A land list from <span class=\"entity\" data-entity-id=\"theadelphia-arsinoite-nome\" data-type=\"place\">Theadelphia</span> includes a physician among local holders.<sup><a href=\"#note-13\" class=\"note-ref\" data-note=\"13\">13</a></sup> By the fifth or sixth century, even inheritance and land records can still preserve &ldquo;the heirs of Papnoute the physician&rdquo; <greek>(κληρονόμοι Παπνοῦτε ἰατροῦ)</greek>.<sup><a href=\"#note-24\" class=\"note-ref\" data-note=\"24\">24</a></sup></p>\n<p>This is a larger and more stable claim than one might expect from scraps. Across these widely separated dossiers, doctors are visible receiving salaries, rations, produce, land, or inheritances; that shows repeated economic embedding rather than one unchanged role.<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup><sup><a href=\"#note-11\" class=\"note-ref\" data-note=\"11\">11</a></sup><sup><a href=\"#note-12\" class=\"note-ref\" data-note=\"12\">12</a></sup><sup><a href=\"#note-13\" class=\"note-ref\" data-note=\"13\">13</a></sup><sup><a href=\"#note-21\" class=\"note-ref\" data-note=\"21\">21</a></sup><sup><a href=\"#note-22\" class=\"note-ref\" data-note=\"22\">22</a></sup><sup><a href=\"#note-23\" class=\"note-ref\" data-note=\"23\">23</a></sup><sup><a href=\"#note-24\" class=\"note-ref\" data-note=\"24\">24</a></sup></p>"
+    },
+    {
+      "id": "5-temple-medicine-was-not-separate-from-the-paper-world",
+      "title": "5. Temple Medicine Was Not Separate from the Paper World",
+      "body_html": "<p>The civic side of medicine had a temple counterpart.</p>\n<p>A document around <code>101 BCE</code> names <span class=\"entity\" data-entity-id=\"athenagoras-the-labyrinth-around-101-bce\" data-type=\"person\">Athenagoras</span>, chief physician <greek>(ἀρχιατρός)</greek>, to the priests of the stolistai in the Labyrinth.<sup><a href=\"#note-5\" class=\"note-ref\" data-note=\"5\">5</a></sup> He writes about the burial of a subordinate and the release of a body from the temple cemetery without charge.<sup><a href=\"#note-5\" class=\"note-ref\" data-note=\"5\">5</a></sup> The setting is sacred, but the doctor is still doing administrative work.</p>\n<p>Another text, probably from the late first century BCE, refers to tax paid on the drugs of the <span class=\"term\" data-definition=\"A temple complex dedicated to the god Serapis. The Great Serapeum at Memphis (Saqqara) was one of the largest religious complexes in Egypt.\">Serapeum</span> <greek>(φάρμακα τοῦ Σαραπείου)</greek>.<sup><a href=\"#note-6\" class=\"note-ref\" data-note=\"6\">6</a></sup> Whatever exactly the taxable item was in practice, the phrase is striking. A temple&rsquo;s pharmaceutical world has become visible to a revenue mechanism.<sup><a href=\"#note-6\" class=\"note-ref\" data-note=\"6\">6</a></sup></p>\n<p>This is where medicine in the papyri starts to look less like an isolated profession and more like a chain of adjacent institutions. Priests, cemeteries, storerooms, drug stocks, and fiscal assessment lie close together.<sup><a href=\"#note-5\" class=\"note-ref\" data-note=\"5\">5</a></sup><sup><a href=\"#note-6\" class=\"note-ref\" data-note=\"6\">6</a></sup></p>\n<p>The dossier should still be handled carefully. It does not prove that temples ran something like a modern hospital. It does show that sacred establishments could have chief physicians, subordinate personnel, and taxable drug inventories. That is already enough to complicate any simple opposition between rational civic medicine and sacred healing.<sup><a href=\"#note-5\" class=\"note-ref\" data-note=\"5\">5</a></sup><sup><a href=\"#note-6\" class=\"note-ref\" data-note=\"6\">6</a></sup></p>"
+    },
+    {
+      "id": "6-drugs-belonged-to-markets-letters-and-tax-farming",
+      "title": "6. Drugs Belonged to Markets, Letters, and Tax-Farming",
+      "body_html": "<p>The Greek word for drug or remedy <greek>(φάρμακον)</greek> turns up in more settings than one might guess.</p>\n<p>A mid-second-century BCE petition about juniper resin <greek>(κέδρια)</greek> shows aromatics and drug-like substances passing through regulated retail and tax-farming.<sup><a href=\"#note-7\" class=\"note-ref\" data-note=\"7\">7</a></sup> Later texts preserve the word drug <greek>(φάρμακον)</greek> in domestic or small-scale documentary settings.<sup><a href=\"#note-8\" class=\"note-ref\" data-note=\"8\">8</a></sup><sup><a href=\"#note-25\" class=\"note-ref\" data-note=\"25\">25</a></sup><sup><a href=\"#note-26\" class=\"note-ref\" data-note=\"26\">26</a></sup><sup><a href=\"#note-27\" class=\"note-ref\" data-note=\"27\">27</a></sup> One third-century text combines that word with language of cure <greek>(θεραπευθῇ)</greek>.<sup><a href=\"#note-26\" class=\"note-ref\" data-note=\"26\">26</a></sup> Another preserves pharmaceutical vocabulary in a documentary context without much narrative around it.<sup><a href=\"#note-27\" class=\"note-ref\" data-note=\"27\">27</a></sup></p>\n<p>Recipe papyri thicken the same world from below. <code>P.Hib. 2.192</code> and <code>SB 8.9860</code> list ingredients, quantities, grinding, mixing, and modes of administration.<sup><a href=\"#note-28\" class=\"note-ref\" data-note=\"28\">28</a></sup><sup><a href=\"#note-29\" class=\"note-ref\" data-note=\"29\">29</a></sup> An undated <span class=\"term\" data-definition=\"Writing material made from the papyrus reed, which grew abundantly in the Nile marshes. Egypt's dry climate preserved tens of thousands of documents.\">papyrus</span> preserves a remedy for ophthalmia with pepper, cadmia, psimythion, gum, and opobalsam.<sup><a href=\"#note-30\" class=\"note-ref\" data-note=\"30\">30</a></sup> None of these is a doctor&rsquo;s certificate. All of them help reconstruct the materials physicians and households expected to have on hand.<sup><a href=\"#note-28\" class=\"note-ref\" data-note=\"28\">28</a></sup><sup><a href=\"#note-29\" class=\"note-ref\" data-note=\"29\">29</a></sup><sup><a href=\"#note-30\" class=\"note-ref\" data-note=\"30\">30</a></sup></p>\n<p>That material world also appears in letters. A fourth-century father asks urgently for pounded and unpounded salt of ammonia, basil-seed, and a mount so that the patient can be treated where he is.<sup><a href=\"#note-9\" class=\"note-ref\" data-note=\"9\">9</a></sup> Another text mentions a four-drug compound <greek>(τετραφάρμακος)</greek> in connection with a doctor.<sup><a href=\"#note-31\" class=\"note-ref\" data-note=\"31\">31</a></sup> A Zenon papyrus preserves the phrase medical goods <greek>(ἰατρικῶν)</greek> in a Ptolemaic account environment.<sup><a href=\"#note-32\" class=\"note-ref\" data-note=\"32\">32</a></sup></p>\n<p>The result is a documentable marketplace of healing substances: temple drugs, taxed aromatics, recipe ingredients, poppy seed, sal ammoniac, seeds, compounded remedies, and ordinary requests sent through kin or dependents.<sup><a href=\"#note-6\" class=\"note-ref\" data-note=\"6\">6</a></sup><sup><a href=\"#note-7\" class=\"note-ref\" data-note=\"7\">7</a></sup><sup><a href=\"#note-9\" class=\"note-ref\" data-note=\"9\">9</a></sup><sup><a href=\"#note-11\" class=\"note-ref\" data-note=\"11\">11</a></sup><sup><a href=\"#note-28\" class=\"note-ref\" data-note=\"28\">28</a></sup><sup><a href=\"#note-29\" class=\"note-ref\" data-note=\"29\">29</a></sup><sup><a href=\"#note-30\" class=\"note-ref\" data-note=\"30\">30</a></sup><sup><a href=\"#note-31\" class=\"note-ref\" data-note=\"31\">31</a></sup><sup><a href=\"#note-32\" class=\"note-ref\" data-note=\"32\">32</a></sup></p>"
+    },
+    {
+      "id": "7-the-doctor-was-not-only-a-state-agent",
+      "title": "7. The Doctor Was Not Only a State Agent",
+      "body_html": "<p>If the dossier stopped with corpse inspections and tax receipts, it would be misleading. The same archive preserves physicians in ordinary family life.</p>\n<p><span class=\"entity\" data-entity-id=\"eudaimon-egypt-4th-century-ce\" data-type=\"person\">Eudaimon</span> the physician writes to his mother and brothers in a tone of hurt domestic urgency.<sup><a href=\"#note-10\" class=\"note-ref\" data-note=\"10\">10</a></sup> Another letter gives thanks that a mistress has recovered from sickness.<sup><a href=\"#note-33\" class=\"note-ref\" data-note=\"33\">33</a></sup> Another is written from bed by someone too sick to rise.<sup><a href=\"#note-34\" class=\"note-ref\" data-note=\"34\">34</a></sup> A Ptolemaic letter notes simply, &ldquo;I am healthy too&rdquo; <greek>(ὑγιαίνω δὲ καὶ αὐτός)</greek>, before moving into other business.<sup><a href=\"#note-35\" class=\"note-ref\" data-note=\"35\">35</a></sup></p>\n<p>These are not all letters by doctors, and that is the point. They show the medical world from the household side. Illness remained domestic, improvisational, and full of dependence on absent kin, local messengers, and whatever ingredients could be obtained quickly.<sup><a href=\"#note-9\" class=\"note-ref\" data-note=\"9\">9</a></sup><sup><a href=\"#note-10\" class=\"note-ref\" data-note=\"10\">10</a></sup><sup><a href=\"#note-33\" class=\"note-ref\" data-note=\"33\">33</a></sup><sup><a href=\"#note-34\" class=\"note-ref\" data-note=\"34\">34</a></sup><sup><a href=\"#note-35\" class=\"note-ref\" data-note=\"35\">35</a></sup></p>\n<p>Even an early Zenon letter about a man who tends injured gazelles <greek>(θεραπεύει)</greek> belongs here in a loose comparative way.<sup><a href=\"#note-36\" class=\"note-ref\" data-note=\"36\">36</a></sup> It reminds us that care or treatment <greek>(θεραπεία)</greek> in documentary Greek can mean skilled care before it means medicine in a strict professional sense. The boundary between healer, handler, and caretaker was not always where modern readers expect it to be.<sup><a href=\"#note-36\" class=\"note-ref\" data-note=\"36\">36</a></sup></p>"
+    },
+    {
+      "id": "8-why-officials-needed-doctors",
+      "title": "8. Why Officials Needed Doctors",
+      "body_html": "<p>Across the dossier, one quality matters most: credibility.</p>\n<p>A doctor can be sent to inspect a corpse.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup><sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup> A doctor can confirm a fever case.<sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup> A doctor can be paid from a designated fund.<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup> A chief physician can administer a temple death.<sup><a href=\"#note-5\" class=\"note-ref\" data-note=\"5\">5</a></sup> A physician can receive rations, grain, or land allotments as a recognized professional.<sup><a href=\"#note-11\" class=\"note-ref\" data-note=\"11\">11</a></sup><sup><a href=\"#note-12\" class=\"note-ref\" data-note=\"12\">12</a></sup><sup><a href=\"#note-13\" class=\"note-ref\" data-note=\"13\">13</a></sup><sup><a href=\"#note-21\" class=\"note-ref\" data-note=\"21\">21</a></sup><sup><a href=\"#note-22\" class=\"note-ref\" data-note=\"22\">22</a></sup><sup><a href=\"#note-23\" class=\"note-ref\" data-note=\"23\">23</a></sup> Even family letters assume that certain ingredients, certain procedures, and certain names count as medicine.<sup><a href=\"#note-9\" class=\"note-ref\" data-note=\"9\">9</a></sup><sup><a href=\"#note-10\" class=\"note-ref\" data-note=\"10\">10</a></sup><sup><a href=\"#note-28\" class=\"note-ref\" data-note=\"28\">28</a></sup><sup><a href=\"#note-29\" class=\"note-ref\" data-note=\"29\">29</a></sup><sup><a href=\"#note-30\" class=\"note-ref\" data-note=\"30\">30</a></sup></p>\n<p>That is why the doctor&rsquo;s report mattered so much. It was not simply that physicians cured. It was that they produced statements that other institutions were prepared to believe.</p>\n<p>The <span class=\"term\" data-definition=\"Chief magistrate of a nome (district) in Roman Egypt — responsible for tax collection, law enforcement, and local administration.\">strategus</span> does not need philosophy when he sends <span class=\"entity\" data-entity-id=\"dionysus-oxyrhynchus-173-ce\" data-type=\"person\">Dionysus</span> to Broad Street.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup> He needs a man whose trained eyes can turn a hanging corpse into a sentence fit for the file. The <span class=\"entity\" data-entity-id=\"logistes\" data-type=\"office\">logistes</span> does not need bedside poetry when he sends <span class=\"entity\" data-entity-id=\"heron-oxyrhynchus-316-ce\" data-type=\"person\">Heron</span> and <span class=\"entity\" data-entity-id=\"didymus-oxyrhynchus-316-ce\" data-type=\"person\">Didymus</span> to the fever case.<sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup> He needs a report whose authority rests on recognized expertise. The banker paying out the physician-fund <greek>(ἰατρικόν)</greek> does not need the details of treatment.<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup> He needs the category of physician to be stable enough to disburse money against it.</p>"
+    },
+    {
+      "id": "9-medicine-as-paperwork",
+      "title": "9. Medicine as Paperwork",
+      "body_html": "<p>This is the broadest claim the papyri can support, and it should be phrased carefully.</p>\n<p>They do not show one uniform medical service operating unchanged from the third century BCE to late antiquity.<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup><sup><a href=\"#note-14\" class=\"note-ref\" data-note=\"14\">14</a></sup><sup><a href=\"#note-17\" class=\"note-ref\" data-note=\"17\">17</a></sup><sup><a href=\"#note-23\" class=\"note-ref\" data-note=\"23\">23</a></sup> They do not let us reconstruct a full hierarchy of public physicians for every <span class=\"term\" data-definition=\"An administrative district in Egypt, inherited from pharaonic times. Roman Egypt had about 30 nomes, each governed by a strategos.\">nome</span>. They do not tell us how often officials actually summoned doctors, or how often families ignored them.</p>\n<p>But this dossier does show something hard to miss. Whenever bodies, drugs, or illnesses touched institutions, medicine became paperwork.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup><sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup><sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup><sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup><sup><a href=\"#note-5\" class=\"note-ref\" data-note=\"5\">5</a></sup><sup><a href=\"#note-6\" class=\"note-ref\" data-note=\"6\">6</a></sup><sup><a href=\"#note-7\" class=\"note-ref\" data-note=\"7\">7</a></sup><sup><a href=\"#note-9\" class=\"note-ref\" data-note=\"9\">9</a></sup><sup><a href=\"#note-12\" class=\"note-ref\" data-note=\"12\">12</a></sup><sup><a href=\"#note-13\" class=\"note-ref\" data-note=\"13\">13</a></sup></p>\n<p>That is what makes these texts so vivid. A public physician inspects a hanging man. Another must examine a dead child before burial. Two more certify a fever. Grain goes to a doctor. A wage comes from the physician-fund <greek>(ἰατρικόν)</greek>. Temple drugs are taxed. A father begs for salt of ammonia before it is too late.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup><sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup><sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup><sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup><sup><a href=\"#note-6\" class=\"note-ref\" data-note=\"6\">6</a></sup><sup><a href=\"#note-9\" class=\"note-ref\" data-note=\"9\">9</a></sup><sup><a href=\"#note-12\" class=\"note-ref\" data-note=\"12\">12</a></sup></p>\n<p>The doctor in Roman Egypt was not only a healer. In the documents that survive, he was very often the man who made a body, an illness, or a cure administratively intelligible.</p>\n<hr></hr>"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "section": "1-the-corpse-must-first-be-seen",
+      "text": "Corpus ID `43165`, `P.Oxy. 1.51`: `31 August 173 CE`. Report by the public physician `Dionysus` on the body of `Hierax`, found hanged in Oxyrhynchus.",
+      "text_html": "Corpus ID <code>43165</code>, <code>P.Oxy. 1.51</code>: <code>31 August 173 CE</code>. Report by the public physician <code>Dionysus</code> on the body of <code>Hierax</code>, found hanged in Oxyrhynchus.",
+      "corpus_ids": []
+    },
+    {
+      "id": 2,
+      "section": "1-the-corpse-must-first-be-seen",
+      "text": "Corpus ID `43461`, `P.Oxy. 3.475`: `3 November 182 CE`. Order requiring a public physician to inspect the body of the child `Epaphroditus` before burial.",
+      "text_html": "Corpus ID <code>43461</code>, <code>P.Oxy. 3.475</code>: <code>3 November 182 CE</code>. Order requiring a public physician to inspect the body of the child <code>Epaphroditus</code> before burial.",
+      "corpus_ids": []
+    },
+    {
+      "id": 3,
+      "section": "2-doctors-also-certified-the-living",
+      "text": "Corpus ID `22703`, `P.Oxy. 6.896 col. ii`: `1 April 316 CE`. Report by the public physicians `Heron` and `Didymus` on a man lying in bed with a slight fever.",
+      "text_html": "Corpus ID <code>22703</code>, <code>P.Oxy. 6.896 col. ii</code>: <code>1 April 316 CE</code>. Report by the public physicians <code>Heron</code> and <code>Didymus</code> on a man lying in bed with a slight fever.",
+      "corpus_ids": []
+    },
+    {
+      "id": 4,
+      "section": "3-medicine-had-its-own-fiscal-vocabulary",
+      "text": "Corpus ID `42972`, `P.Hamb. 2.171`: `1 May 246 BCE`. Receipt for `80 drachmas` paid to `Demetrios the physician` from the account of the physician-fund <greek>(ἰατρικόν)</greek>.",
+      "text_html": "Corpus ID <code>42972</code>, <code>P.Hamb. 2.171</code>: <code>1 May 246 BCE</code>. Receipt for <code>80 drachmas</code> paid to <code>Demetrios the physician</code> from the account of the physician-fund <greek>(ἰατρικόν)</greek>.",
+      "corpus_ids": []
+    },
+    {
+      "id": 5,
+      "section": "5-temple-medicine-was-not-separate-from-the-paper-world",
+      "text": "Corpus ID `40110`, `SB 1.5216`: around `101 BCE`. Letter of `Athenagoras`, chief physician <greek>(ἀρχιατρός)</greek>, to the priests of the stolistai in the Labyrinth, concerning burial and release of a body.",
+      "text_html": "Corpus ID <code>40110</code>, <code>SB 1.5216</code>: around <code>101 BCE</code>. Letter of <code>Athenagoras</code>, chief physician <greek>(ἀρχιατρός)</greek>, to the priests of the stolistai in the Labyrinth, concerning burial and release of a body.",
+      "corpus_ids": []
+    },
+    {
+      "id": 6,
+      "section": "5-temple-medicine-was-not-separate-from-the-paper-world",
+      "text": "Corpus ID `57393`, `P.Ryl. 4.574`: late `1st century BCE`. Note referring to tax paid for the drugs of the Serapeum <greek>(φάρμακα τοῦ Σαραπείου)</greek>.",
+      "text_html": "Corpus ID <code>57393</code>, <code>P.Ryl. 4.574</code>: late <code>1st century BCE</code>. Note referring to tax paid for the drugs of the Serapeum <greek>(φάρμακα τοῦ Σαραπείου)</greek>.",
+      "corpus_ids": []
+    },
+    {
+      "id": 7,
+      "section": "6-drugs-belonged-to-markets-letters-and-tax-farming",
+      "text": "Corpus ID `11680`, `Tyche 30.82`: mid `2nd century BCE`. Petition about the retailing and tax-farmed sale of juniper resin, a good window onto regulated drug-like commodities.",
+      "text_html": "Corpus ID <code>11680</code>, <code>Tyche 30.82</code>: mid <code>2nd century BCE</code>. Petition about the retailing and tax-farmed sale of juniper resin, a good window onto regulated drug-like commodities.",
+      "corpus_ids": []
+    },
+    {
+      "id": 8,
+      "section": "6-drugs-belonged-to-markets-letters-and-tax-farming",
+      "text": "Corpus ID `13813`, `P.Bad. 2.17`: `1st century BCE (?)`. Documentary use of \"drug\" <greek>(φάρμακον)</greek>.",
+      "text_html": "Corpus ID <code>13813</code>, <code>P.Bad. 2.17</code>: <code>1st century BCE (?)</code>. Documentary use of &ldquo;drug&rdquo; <greek>(φάρμακον)</greek>.",
+      "corpus_ids": []
+    },
+    {
+      "id": 9,
+      "section": "6-drugs-belonged-to-markets-letters-and-tax-farming",
+      "text": "Corpus ID `21576`, `P.Oxy. 9.1222`: `4th century CE`. Domestic letter requesting sal ammoniac, basil-seed, and transport so treatment can happen locally.",
+      "text_html": "Corpus ID <code>21576</code>, <code>P.Oxy. 9.1222</code>: <code>4th century CE</code>. Domestic letter requesting sal ammoniac, basil-seed, and transport so treatment can happen locally.",
+      "corpus_ids": []
+    },
+    {
+      "id": 10,
+      "section": "7-the-doctor-was-not-only-a-state-agent",
+      "text": "Corpus ID `26255`, `P.Fouad 1.80`: `4th century CE`. Family letter from `Eudaimon the physician`.",
+      "text_html": "Corpus ID <code>26255</code>, <code>P.Fouad 1.80</code>: <code>4th century CE</code>. Family letter from <code>Eudaimon the physician</code>.",
+      "corpus_ids": []
+    },
+    {
+      "id": 11,
+      "section": "4-doctors-took-grain-wages-and-rations-like-other-working-men",
+      "text": "Corpus ID `8680`, `P.Ryl. 4.571`: mid `3rd century BCE`. Crop account of `Artemidorus the physician`, including grain, sesame, and black poppy seed.",
+      "text_html": "Corpus ID <code>8680</code>, <code>P.Ryl. 4.571</code>: mid <code>3rd century BCE</code>. Crop account of <code>Artemidorus the physician</code>, including grain, sesame, and black poppy seed.",
+      "corpus_ids": []
+    },
+    {
+      "id": 12,
+      "section": "4-doctors-took-grain-wages-and-rations-like-other-working-men",
+      "text": "Corpus ID `25463`, `O.Trim. 2.520`: ca. `350-370 CE`. Ostracon recording barley for `the doctor`.",
+      "text_html": "Corpus ID <code>25463</code>, <code>O.Trim. 2.520</code>: ca. <code>350-370 CE</code>. Ostracon recording barley for <code>the doctor</code>.",
+      "corpus_ids": []
+    },
+    {
+      "id": 13,
+      "section": "4-doctors-took-grain-wages-and-rations-like-other-working-men",
+      "text": "Corpus ID `50570`, `P.Stras. 9.830`: `160-161 CE (?)`. Land list including a physician among local holders.",
+      "text_html": "Corpus ID <code>50570</code>, <code>P.Stras. 9.830</code>: <code>160-161 CE (?)</code>. Land list including a physician among local holders.",
+      "corpus_ids": []
+    },
+    {
+      "id": 14,
+      "section": "1-the-corpse-must-first-be-seen",
+      "text": "Corpus ID `137131`, `Chrest.Mitt. 55`: before `29 July 368 CE`. Legal text naming `Aurelius Athenodorus`, public physician <greek>(δημόσιος ἰατρός)</greek> of Hermopolis.",
+      "text_html": "Corpus ID <code>137131</code>, <code>Chrest.Mitt. 55</code>: before <code>29 July 368 CE</code>. Legal text naming <code>Aurelius Athenodorus</code>, public physician <greek>(δημόσιος ἰατρός)</greek> of Hermopolis.",
+      "corpus_ids": []
+    },
+    {
+      "id": 15,
+      "section": "2-doctors-also-certified-the-living",
+      "text": "Corpus ID `p.oxy.59.4001`, `P.Oxy. 59.4001`: `4th century CE`. Documentary text preserving clinic <greek>(ἰατρεῖον)</greek>, \"fell ill\" <greek>(ἐνόσησεν)</greek>, and \"by illness\" <greek>(νόσῳ)</greek>.",
+      "text_html": "Corpus ID <code>p.oxy.59.4001</code>, <code>P.Oxy. 59.4001</code>: <code>4th century CE</code>. Documentary text preserving clinic <greek>(ἰατρεῖον)</greek>, &ldquo;fell ill&rdquo; <greek>(ἐνόσησεν)</greek>, and &ldquo;by illness&rdquo; <greek>(νόσῳ)</greek>.",
+      "corpus_ids": []
+    },
+    {
+      "id": 16,
+      "section": "2-doctors-also-certified-the-living",
+      "text": "Corpus ID `sb.24.16282`, `SB 24.16282`: `376-400 CE`. Documentary illness text combining doctor <greek>(ἰατρόν)</greek> and treatment language.",
+      "text_html": "Corpus ID <code>sb.24.16282</code>, <code>SB 24.16282</code>: <code>376-400 CE</code>. Documentary illness text combining doctor <greek>(ἰατρόν)</greek> and treatment language.",
+      "corpus_ids": []
+    },
+    {
+      "id": 17,
+      "section": "3-medicine-had-its-own-fiscal-vocabulary",
+      "text": "Corpus ID `9504`, `P.Tebt. 3.2.1036`: `2nd century BCE`. Fiscal text including the medical-fund charge <greek>(ἰατρικοῦ)</greek> among assessed charges.",
+      "text_html": "Corpus ID <code>9504</code>, <code>P.Tebt. 3.2.1036</code>: <code>2nd century BCE</code>. Fiscal text including the medical-fund charge <greek>(ἰατρικοῦ)</greek> among assessed charges.",
+      "corpus_ids": []
+    },
+    {
+      "id": 18,
+      "section": "3-medicine-had-its-own-fiscal-vocabulary",
+      "text": "Corpus ID `13021`, `P.Tebt. 3.2.1037`: early `2nd century BCE`. Parallel fiscal text with the medical-fund charge <greek>(ἰατρικοῦ)</greek>.",
+      "text_html": "Corpus ID <code>13021</code>, <code>P.Tebt. 3.2.1037</code>: early <code>2nd century BCE</code>. Parallel fiscal text with the medical-fund charge <greek>(ἰατρικοῦ)</greek>.",
+      "corpus_ids": []
+    },
+    {
+      "id": 19,
+      "section": "3-medicine-had-its-own-fiscal-vocabulary",
+      "text": "Corpus ID `10501`, `SB 26.16634`: `235-234 BCE (?)`. Ptolemaic account preserving the medical-fund term <greek>(ἰατρικοῦ)</greek>.",
+      "text_html": "Corpus ID <code>10501</code>, <code>SB 26.16634</code>: <code>235-234 BCE (?)</code>. Ptolemaic account preserving the medical-fund term <greek>(ἰατρικοῦ)</greek>.",
+      "corpus_ids": []
+    },
+    {
+      "id": 20,
+      "section": "3-medicine-had-its-own-fiscal-vocabulary",
+      "text": "Corpus ID `p.hib.1.102`, `P.Hib. 1.102`: late `3rd century BCE`. Document naming \"to a physician\" <greek>(ἰατρῶι)</greek> within a fiscal or allotment context.",
+      "text_html": "Corpus ID <code>p.hib.1.102</code>, <code>P.Hib. 1.102</code>: late <code>3rd century BCE</code>. Document naming &ldquo;to a physician&rdquo; <greek>(ἰατρῶι)</greek> within a fiscal or allotment context.",
+      "corpus_ids": []
+    },
+    {
+      "id": 21,
+      "section": "4-doctors-took-grain-wages-and-rations-like-other-working-men",
+      "text": "Corpus ID `11889`, `BGU 7.1525`: `210-204 BCE (?)`. Account recording money and garments received from `Apollonius the physician`.",
+      "text_html": "Corpus ID <code>11889</code>, <code>BGU 7.1525</code>: <code>210-204 BCE (?)</code>. Account recording money and garments received from <code>Apollonius the physician</code>.",
+      "corpus_ids": []
+    },
+    {
+      "id": 22,
+      "section": "4-doctors-took-grain-wages-and-rations-like-other-working-men",
+      "text": "Corpus ID `11894`, `BGU 7.1530`: `210-204 BCE (?)`. Grain and ration account for `Horus the physician`.",
+      "text_html": "Corpus ID <code>11894</code>, <code>BGU 7.1530</code>: <code>210-204 BCE (?)</code>. Grain and ration account for <code>Horus the physician</code>.",
+      "corpus_ids": []
+    },
+    {
+      "id": 23,
+      "section": "4-doctors-took-grain-wages-and-rations-like-other-working-men",
+      "text": "Corpus ID `137299`, `P.Ross.Georg. 5.60v`: after `10 June 391 CE`. Ration account giving grain both to `Heraklammon the physician` and to `Isidoros the horse doctor` <greek>(ἱπποϊατρός)</greek>.",
+      "text_html": "Corpus ID <code>137299</code>, <code>P.Ross.Georg. 5.60v</code>: after <code>10 June 391 CE</code>. Ration account giving grain both to <code>Heraklammon the physician</code> and to <code>Isidoros the horse doctor</code> <greek>(ἱπποϊατρός)</greek>.",
+      "corpus_ids": []
+    },
+    {
+      "id": 24,
+      "section": "4-doctors-took-grain-wages-and-rations-like-other-working-men",
+      "text": "Corpus ID `15524`, `SB 20.14670`: mid `6th century CE`. Land record mentioning the heirs of `Papnoute the physician`; used here only as late comparative evidence for medical households in property records.",
+      "text_html": "Corpus ID <code>15524</code>, <code>SB 20.14670</code>: mid <code>6th century CE</code>. Land record mentioning the heirs of <code>Papnoute the physician</code>; used here only as late comparative evidence for medical households in property records.",
+      "corpus_ids": []
+    },
+    {
+      "id": 25,
+      "section": "6-drugs-belonged-to-markets-letters-and-tax-farming",
+      "text": "Corpus ID `p.oslo.2.54`, `P.Oslo 2.54`: `2nd-3rd century CE`. Documentary text combining physician <greek>(ἰατροῦ)</greek> and drug <greek>(φάρμακο)</greek>.",
+      "text_html": "Corpus ID <code>p.oslo.2.54</code>, <code>P.Oslo 2.54</code>: <code>2nd-3rd century CE</code>. Documentary text combining physician <greek>(ἰατροῦ)</greek> and drug <greek>(φάρμακο)</greek>.",
+      "corpus_ids": []
+    },
+    {
+      "id": 26,
+      "section": "6-drugs-belonged-to-markets-letters-and-tax-farming",
+      "text": "Corpus ID `p.flor.2.222`, `P.Flor. 2.222`: `253 CE`. Documentary text combining drug <greek>(φάρμακον)</greek> with \"be treated\" <greek>(θεραπευθῇ)</greek>.",
+      "text_html": "Corpus ID <code>p.flor.2.222</code>, <code>P.Flor. 2.222</code>: <code>253 CE</code>. Documentary text combining drug <greek>(φάρμακον)</greek> with &ldquo;be treated&rdquo; <greek>(θεραπευθῇ)</greek>.",
+      "corpus_ids": []
+    },
+    {
+      "id": 27,
+      "section": "6-drugs-belonged-to-markets-letters-and-tax-farming",
+      "text": "Corpus ID `stud.pal.22.56`, `Stud.Pal. 22.56`: `2nd-3rd century CE`. Documentary pharmaceutical text with drug <greek>(φάρμακον)</greek>.",
+      "text_html": "Corpus ID <code>stud.pal.22.56</code>, <code>Stud.Pal. 22.56</code>: <code>2nd-3rd century CE</code>. Documentary pharmaceutical text with drug <greek>(φάρμακον)</greek>.",
+      "corpus_ids": []
+    },
+    {
+      "id": 28,
+      "section": "6-drugs-belonged-to-markets-letters-and-tax-farming",
+      "text": "Corpus ID `10069`, `P.Hib. 2.192`: `270-250 BCE`. Recipe papyrus with measured ingredients and preparation instructions.",
+      "text_html": "Corpus ID <code>10069</code>, <code>P.Hib. 2.192</code>: <code>270-250 BCE</code>. Recipe papyrus with measured ingredients and preparation instructions.",
+      "corpus_ids": []
+    },
+    {
+      "id": 29,
+      "section": "6-drugs-belonged-to-markets-letters-and-tax-farming",
+      "text": "Corpus ID `10070`, `SB 8.9860`: `225-200 BCE`. Recipe papyrus with mixing and administration directions.",
+      "text_html": "Corpus ID <code>10070</code>, <code>SB 8.9860</code>: <code>225-200 BCE</code>. Recipe papyrus with mixing and administration directions.",
+      "corpus_ids": []
+    },
+    {
+      "id": 30,
+      "section": "6-drugs-belonged-to-markets-letters-and-tax-farming",
+      "text": "Corpus ID `137492`, `P.Horak. 14`: undated. Remedy text for ophthalmia including pepper, cadmia, psimythion, gum, and opobalsam.",
+      "text_html": "Corpus ID <code>137492</code>, <code>P.Horak. 14</code>: undated. Remedy text for ophthalmia including pepper, cadmia, psimythion, gum, and opobalsam.",
+      "corpus_ids": []
+    },
+    {
+      "id": 31,
+      "section": "6-drugs-belonged-to-markets-letters-and-tax-farming",
+      "text": "Corpus ID `p.mert.1.12`, `P.Mert. 1.12`: `59 CE`. Text preserving a four-drug compound <greek>(τετραφάρμακος)</greek> with a doctor.",
+      "text_html": "Corpus ID <code>p.mert.1.12</code>, <code>P.Mert. 1.12</code>: <code>59 CE</code>. Text preserving a four-drug compound <greek>(τετραφάρμακος)</greek> with a doctor.",
+      "corpus_ids": []
+    },
+    {
+      "id": 32,
+      "section": "6-drugs-belonged-to-markets-letters-and-tax-farming",
+      "text": "Corpus ID `p.cair.zen.1.59036`, `P.Cair.Zen. 1.59036`: `3rd century BCE`. Ptolemaic document with medical goods <greek>(ἰατρικῶν)</greek>.",
+      "text_html": "Corpus ID <code>p.cair.zen.1.59036</code>, <code>P.Cair.Zen. 1.59036</code>: <code>3rd century BCE</code>. Ptolemaic document with medical goods <greek>(ἰατρικῶν)</greek>.",
+      "corpus_ids": []
+    },
+    {
+      "id": 33,
+      "section": "7-the-doctor-was-not-only-a-state-agent",
+      "text": "Corpus ID `22711`, `P.Oxy. 6.939`: `4th century CE`. Letter giving thanks for a woman's recovery from sickness.",
+      "text_html": "Corpus ID <code>22711</code>, <code>P.Oxy. 6.939</code>: <code>4th century CE</code>. Letter giving thanks for a woman&rsquo;s recovery from sickness.",
+      "corpus_ids": []
+    },
+    {
+      "id": 34,
+      "section": "7-the-doctor-was-not-only-a-state-agent",
+      "text": "Corpus ID `22955`, `P.Oxy. 8.1161`: `4th century CE`. Letter written from bed by someone too ill to rise.",
+      "text_html": "Corpus ID <code>22955</code>, <code>P.Oxy. 8.1161</code>: <code>4th century CE</code>. Letter written from bed by someone too ill to rise.",
+      "corpus_ids": []
+    },
+    {
+      "id": 35,
+      "section": "7-the-doctor-was-not-only-a-state-agent",
+      "text": "Corpus ID `148909`, `P.Cair.Zen. 2.59217`: before `30 September 254 BCE`. Letter with the simple health formula \"I am healthy too\" <greek>(ὑγιαίνω δὲ καὶ αὐτός)</greek>.",
+      "text_html": "Corpus ID <code>148909</code>, <code>P.Cair.Zen. 2.59217</code>: before <code>30 September 254 BCE</code>. Letter with the simple health formula &ldquo;I am healthy too&rdquo; <greek>(ὑγιαίνω δὲ καὶ αὐτός)</greek>.",
+      "corpus_ids": []
+    },
+    {
+      "id": 36,
+      "section": "7-the-doctor-was-not-only-a-state-agent",
+      "text": "Corpus ID `8638`, `P.Cair.Zen. 1.59019`: `258-256 BCE`. Letter on a man who was tending injured gazelles <greek>(θεραπεύων)</greek>; used comparatively for the wider semantic field of care and treatment.",
+      "text_html": "Corpus ID <code>8638</code>, <code>P.Cair.Zen. 1.59019</code>: <code>258-256 BCE</code>. Letter on a man who was tending injured gazelles <greek>(θεραπεύων)</greek>; used comparatively for the wider semantic field of care and treatment.",
+      "corpus_ids": []
+    }
+  ],
+  "sources": [
+    {
+      "corpus_id": 43165,
+      "reference": "P.Oxy. 1.51",
+      "date": "31 August 173 CE",
+      "description": "Public physician's report on a man found hanged",
+      "description_html": "Public physician&rsquo;s report on a man found hanged",
+      "greek": "Ἰσιδώρωι στρατηγῶι π αρὰ Διονύσο υ Ἀπολλοδώρου Διονυσ Διονυσ ί ου ἀπʼ Ὀξυρύγχων πόλεως δημοσίου ἰατροῦ. πόλεως δημοσίου ἰατροῦ. τῇ ἐνεστώσῃ ἡμέρᾳ ἐπε τῇ ἐνεστώσῃ ἡμέρᾳ ἐπε τράπην τράπην ὑ πὸ σοῦ διὰ Ἡρακλείδου ὑ πηρέτου ἐπιδεῖν ἐφιδεῖν σῶμα νεκρὸν ἀπηρτημένον νεκρὸν ἀπηρτημένον Ἱ έρακος καὶ προσφωνῆσαί σοι ἣν ἐὰν καταλάβωμαι περὶ ἣν ἐὰν καταλάβωμαι περὶ αὐτὸ διάθεσιν. ἐπιδὼν οὖν αὐτὸ διάθεσιν. ἐπιδὼν οὖν τοῦτο ἐπὶ παρόντι τῷ αὐτῷ τοῦτο ἐπὶ παρόντι τῷ αὐτῷ ὑ πηρέτῃ ἐν οἰκίᾳ Ἐπαγάθου ..... υ μερου Σαραπίωνος ἐ πʼ ἀμφόδου Πλατείας εὗρον αὐτὸ ἀπηρτημένον βρό αὐτὸ ἀπηρτημένον βρό χῳ· διὸ προσφωνῶ. χῳ· διὸ προσφωνῶ. ἔτους ιδ Αὐτοκράτορος Καίσαρος Μάρκου Αὐτοκράτορος Καίσαρος Μάρκου Α ὐρηλ ίο υ Ἀντωνίνου Σεβαστοῦ Ἀρ μενιακο ῦ Μηδικοῦ Παρθικοῦ Γερμανικοῦ Μεγίσ του, Θὼθ γ . διὸ προσφ ω νῶ .",
+      "translation": "To Isidoros, strategus, from Dionysus, son of Apollodorus, son of Dionysius, of Oxyrhynchus, \n              public physician. I was today instructed by you, through Heraclides your assistant, \n              to inspect the body of a man who had been found hanged, named Hierax, and to report to you my opinion upon it. \n              I therefore inspected the body in the presence of the aforesaid Heraclides at the house of Epagathus, \n              son of ...merus, son of Sarapion, in the Broad Street quarter, and found it hanged by a noose, which fact I accordingly report.\n              Translation: from P.Oxy. 1 with modification"
+    },
+    {
+      "corpus_id": 43461,
+      "reference": "P.Oxy. 3.475",
+      "date": "3 November 182 CE",
+      "description": "Public physician inspection required before burial of a child killed at a festival",
+      "description_html": "Public physician inspection required before burial of a child killed at a festival",
+      "greek": "Ἱέραξ στρατηγὸς Ὀξυρυγχείτου Κλαυ Ἱέραξ στρατηγὸς Ὀξυρυγχείτου Κλαυ δίῳ Σερήνῳ ὑπηρέτῃ. τῶν δοθέν δίῳ Σερήνῳ ὑπηρέτῃ. τῶν δοθέν των μοι βιβλιδί των μοι βιβλιδί ω ν ὑ π ὸ Λεωνίδου το το ῦ κ αὶ Σερήνου τὸ ἴσον ἐπιστέλλεταί ἐπε στέλλεταί σοι, ὅπως παραλαβ ὅπως παραλαβ ὼν δημόσιον ἰατρὸν ἐπ ἐπ ι θεωρήσῃς τὸ τὸν δηλούμενον νε κρὸν σῶμα καὶ παραδοὺς εἰς κηδεί κρὸν σῶμα καὶ παραδοὺς εἰς κηδεί αν ἐνγράφ αν ἐνγράφ ω ς ἀποφάσεις προσφω νήσητε. νήσητε. σεσ η μ είωμαι . ἔτους κγ Μ άρκου Αὐρηλίου Κομμόδου Ἀντωνίνου Καίσαρος τοῦ κυρίου Ἀντωνίνου Καίσαρος τοῦ κυρίου Ἁθὺρ Ἁθὺρ ζ . Ἱέρακι στρα τηγῷ παρὰ Λεωνίδου τοῦ καὶ παρὰ Λεωνίδου τοῦ καὶ Σερήνου χ ρη ματίζοντος μητρὸς Ταύριο ματίζοντος μητρὸς Ταύριο ς ἀπὸ Σε νέπτα. ὀψ νέπτα. ὀψ ί ας τῆς διελθούσ ης ἕκ τ ης ἑκης ἑορτῆς οὔσης ἐν τῇ Σενέ ἑορτῆς οὔσης ἐν τῇ Σενέ πτα καὶ κρο ταλιστρίδων λειτουργου ταλιστρίδων λειτουργου σῶν κατὰ τὸ ἔθος πρὸς οἰκίᾳ Πλουτίωνος τοῦ ἔθος πρὸς οἰκίᾳ Πλουτίωνος τοῦ γαμ βροῦ μου βροῦ μου τοῦ υἱοῦυἱοῦυεἱοῦ Ἀριστοδήμου Ἐπαφρόδειτος δοῦλος αὐτοῦ ὡς Ἐπαφρόδειτος δοῦλος αὐτοῦ ὡς ἐτῶν η βουληθεὶς ἀπὸ τοῦ δώματος τῆς αὐτῆς οἰκίας παρακύψαι καὶ τῆς αὐτῆς οἰκίας παρακύψαι καὶ θεάσασθαι τὰς θεάσασθαι τὰς κρο ταλιστρίδας ἔπεσεν καὶ ἐτελε ἔπεσεν καὶ ἐτελε ύ τησεν. οὗ χά ριν ἐπιδιδοὺς τὸ ριν ἐπιδιδοὺς τὸ βιβλίδιον βιβλείδιον ἀξ ιῶ ἐὰν δόξῃ σοι ἀποτάξαι ἐὰν δόξῃ σοι ἀποτάξαι ἕνα τῶν περὶ σὲ ὑπηρετῶν εἰς τὴν Σενέπτα σὲ ὑπηρετῶν εἰς τὴν Σενέπτα ὅπως τὸ τοῦ Ἐπαφροδείτου σῶμα ὅπως τὸ τοῦ Ἐπαφροδείτου σῶμα τύχῃ τῆς δεούσης περιστολ τύχῃ τῆς δεούσης περιστολ ῆς καὶ καταθέσεως. καταθέσεως. ἔτους κγ Αὐτοκράτορος Καίσαρος Μάρκου Αὐρηλίου Κομμόδου Ἀντωνίνου Καίσαρος Μάρκου Αὐρηλίου Κομμόδου Ἀντωνίνου Σεβαστοῦ Ἀρμενιακοῦ Μηδικοῦ Παρθικοῦ Σεβαστοῦ Ἀρμενιακοῦ Μηδικοῦ Παρθικοῦ Σαρματικοῦ Γερμανικοῦ Μεγίστου Ἁθὺρ Σαρματικοῦ Γερμανικοῦ Μεγίστου Ἁθὺρ ζ . Λεωνίδης ὁ καὶ Σερῆνος ἐπι Λεωνίδης ὁ καὶ Σερῆνος ἐπι δ έδωκα.",
+      "translation": "Translation: from P.Oxy. 3\n              Hierax, strategus of the Oxyrhynchite nome, to Claudius Serenus, assistant. A copy of the application which has been presented to me by Leonides also called Serenus is herewith sent to you. Take a public physician and view the dead body referred to, and having delivered it over for burial make a report in writing. Signed by me. The 23rd year of Marcus Aurelius Commodus Antoninus Caesar the lord, Athur 7.\n              To Hierax, strategus, from Leonides also called Serenus, whose mother is stated as Tauris, of Senepta. At a late hour of yesterday the 6th, while a festival was taking place at Senepta and the castanet-players were giving their customary performance at the house of Plution my son-in-law ..., his slave Epaphroditus, aged about 8 years, wishing to lean out from the bed-chamber(?) of the said house and see the castanet-players, fell and was killed. I therefore present this application and ask you, if it please you, to appoint one of your assistants to come to Senepta in order that the body of Epaphroditus may receive proper laying out and burial.\n              Date and signature of Leonides."
+    },
+    {
+      "corpus_id": 22703,
+      "reference": "P.Oxy. 6.896 col. ii",
+      "date": "1 April 316 CE",
+      "description": "Public physicians' report on a fever case",
+      "description_html": "Public physicians&rsquo; report on a fever case",
+      "greek": "ρκη Ο ὐα λ ε ρ ίῳ Ἀμμωνιανῷ τῷ καὶ Γεροντίῳ λογιστῇ Ὀξυρυγχίτου παρὰ Αὐρηλίων Ἥρωνος παρὰ Αὐρηλίων Ἥρωνος . . ....... καὶ Διδύμου Διοσκόρου Διοσκόρου ἀμφ οτέρων ἀπὸ τῆς λα μπρᾶς καὶ λαμπ ροτάτης Ὀξυ ρυγχ ιτῶν πόλεως δημοσίων πόλεως δημοσίων ἰ ατρῶν. ἐπ εσ τάλ ημ ε ν ὑπὸ σοῦ σήμερον ἥτις ἐστὶν Φαρμοῦθι σήμερον ἥτις ἐστὶν Φαρμοῦθι ϛ ἐκ β ιβλιδίων ἐπιδοθέντων σοι ἐπιδοθέντων σοι ὑ πὸ Ἀπολλωνίου ὀφ φικιαλίου ἡγουμένου Αἰ Αἰ γύπτ ου Ἡρκουλείας Αὐρηλίου Ἀντωνίου ὥστε γενέσθαι ἐπ ὶ τὴ ν οἰκίαν ἐν τῇ αὐτῇ πόλει καὶ τοῦτον ἐπιδεῖν ἐφιδῖν καὶ καὶ ἣ ν ἂν καταλάβ ωμε ν περὶ αὐτὸν διάθεσιν ἐγ γ ράφω ς προσφωνῆσαι. ὅθεν γενόμενοι ἔνθα ὁ ρ ῶ με ν αὐτὸ ν το ῦτ ον κλ ινή ρην κλε ινή ρη ν ὄντα πυρετίοις πυραιτίοις ἀκρίτοις συνε χ όμενον· ὅπερ προσφωνοῦμεν. ὑπατείας Και ὑπατείας Και κι νίου Σ α βίν ου καὶ Οὐεττίου Ῥουφίνου τῶν τῶν λαμπ ροτάτων Φαρμ ο ῦθι ϛ . Αὐρήλιος Ἥρων ἐπιδέδωκα ἐπειδέδωκα πρ πρ οσ φωνῶν ὡς πρόκειται. Αὐρήλιος Δίδυμος ἐπιδέδωκα προσφωνῶν ὡς πρ ὡς πρ ό κειται.",
+      "translation": "Translation: from P.Oxy. 6\n              To Valerius Ammonianus also called Gerontius, logistes of the Oxyrhynchite nome, from the Aurelii Heron son of ... and Didymus son of Dioscorus, both of the illustrious and most illustrious city of Oxyrhynchus, public physicians. We were sent by you to-day, Pharmouthi 6, in consequence of a petition delivered to you by Apollonius, officer of Aurelius Antonius governor of Aegyptus Herculia, to go to the house in the said city and inspect this person, and to make a written report upon the condition in which we found him. Having therefore proceeded thither we saw the man himself lying on a bed seized with a slight ... fever; which we accordingly report. Date and signature of the two physicians."
+    },
+    {
+      "corpus_id": 42972,
+      "reference": "P.Hamb. 2.171",
+      "date": "1 May 246 BCE",
+      "description": "Receipt for physician's wage from the physician-fund <greek>(ἰατρικόν)</greek>",
+      "description_html": "Receipt for physician&rsquo;s wage from the physician-fund <greek>(ἰατρικόν)</greek>",
+      "greek": "βασιλ εύοντος Πτολεμαίου τοῦ Πτολεμαίου κ κ αὶ Ἀρσ ινόης θεῶν Ἀδελ φῶν ἔτους α, ὡς δʼ αἱ πρόσ οδοι ἔτους β μηνὸς Φ αμενὼθ ι· ἔχ ει Δ ημή τριος ἰατ ρὸς παρὰ Νικ άνο ρος τραπε ζίτου ἀπὸ τ ῆ ς ἐν Ὀξυρύγχοις τρ α πέζης ἐκ τοῦ ἰατρικοῦ λόγου εἰς τὸ προσοφειλό μενον τῶν ἐ τείω ν πρὸς τὸ πρὸς τὸ λθ ἔτος , ὃ συν έχω παρὰ τρα πεζί του , ἰατρικὸν τοῦ Χοιὰχ τοῦ λθ ἔτους δραχμὰς π . βασι λεύοντος Πτ ολεμαίου τοῦ Πτο λεμαίου καὶ Ἀρσινόης Θεῶν Ἀ δε λφῶν ἔτους α , ὡς δʼ αἱ πρόσοδοι ἔτους β μην ὸς Φαμενὼθ ι · ἔχει Δημήτριος ἰατρὸς παρ ὰ Νικάνορος τραπεζίτου ἀπὸ τῆς ἐν Ὀξυ ρ ύγχοις τραπέζης ἐκ τοῦ ἰατρικοῦ λόγο υ εἰς τὸ προσοφειλό μενον ........ τοῖς κατὰ τόπον ἰατροῖς πρὸς τ ὸ λ θ ἔτος , ὃ συνέχω παρὰ τραπεζίτου ..... ἰατρι κ ὸν τοῦ Χοιὰχ τοῦ λθ ἔτους δραχμὰς π",
+      "translation": "Interior Text: Under King Ptolemaios (son) of Ptolemaios\n                      and Arsinoe, the sibling gods, Year 1 which is\n                      Financial Year 2, month Phamenoth 10. Demetrios\n                      the physician has received from Nikanor the banker\n                      from the bank in Oxyrhynchus from the account of the physician-tax\n                      for the still-owing yearly wage\n                      for Year 39, which I receive from the bank,\n                      the physician-tax of Khoiakh for Year 39, 80 drachmas.\n                Exterior Text: Identical\n                      Translation: B. Muhs, AncSoc 48 (2018) 93"
+    },
+    {
+      "corpus_id": 40110,
+      "reference": "SB 1.5216",
+      "date": "around 101 BCE",
+      "description": "Letter of a chief physician attached to temple priests",
+      "description_html": "Letter of a chief physician attached to temple priests",
+      "greek": "Ἀθηναγόρας ὁ ἀρχιατρὸς τοῖς ἱερεῦσι τῶν Ἀθηναγόρας ὁ ἀρχιατρὸς τοῖς ἱερεῦσι τῶν ἐν τῶ ἐν τῶ ι Λαβυρίνθωι στολιστῶν καὶ τοῖς στολ στολ ισ ταῖς χαίρειν. ἐπεὶ Ἡρακλείδης ὁ πα ὁ πα ρʼ ἐ μοῦ ἐπὶ τῶν τόπων τετελεύτηκ εν καὶ ἔ καὶ ἔ σ τ ιν ἐν ταῖς παρʼ ὑμῖν ὑμεῖν νεκρίαις, τού τού τ ου δὲ χάριν πέπομφα Νικίαν κ αὶ Κρόκον , καλῶς ποιήσετε προέμενοι τὸ σω καλῶς ποιήσετε προέμενοι τὸ σω μάτι μάτι ο ν μηθὲν πράξαντες καὶ συν καταστήσατε αὐτοῖς ἕως Πτολεμα καταστήσατε αὐτοῖς ἕως Πτολεμα ΐ δος, γέγραφαν δὲ ὑμῖν ὑμεῖν καὶ οἱ ἀπʼ Ἀλεξανδρείας στολ στολ ισ ταὶ περὶ αὐτοῦ. ἐπιμέλεσθε δὲ ἑαυ ἑαυ τῶ ν, ἵνʼ ὑγιαίνητε. ἔρρωσ θε . ἔτους ιδ , Ἁθὺρ κε . τοῖς ἱερεῦσι τῶν στολιστῶν τοῖς ἱερεῦσι τῶν στολιστῶν καὶ τοῖς στολιστα καὶ τοῖς στολιστα ῖς .",
+      "translation": "[Translation from Bagnall and Derow, The Hellenistic Period 2004] Athenagoras the chief physician to the priests of the stolistai in the Labyrinth and to the stolistai, greeting. Since Herakleides, my subordinate over your district, has died and is in your cemetery, I have sent Nikias and Krokos for him. You will do well to release the body without having charged anything, and you will accompany them as far as Ptolemais. The vestmentkeepers in Alexandria have also written to you about him. Take care of yourselves, that you may be well. Farewell. Year 14, Hathyr 25. \n               \n            \n            \n               \n                  (Address) to the priests of the stolistai and to the stolistai."
+    },
+    {
+      "corpus_id": 57393,
+      "reference": "P.Ryl. 4.574",
+      "date": "late 1st century BCE",
+      "description": "Tax note for the drugs of the Serapeum",
+      "description_html": "Tax note for the drugs of the Serapeum",
+      "greek": "Ἰσχυρίων Πε Ἰσχυρίων Πε το σίρει καὶ τοῖς συννεκροτάφοις χαίρειν. συννεκροτάφοις χαίρειν. διαγεγράφατε τὸν φόρον διαγεγράφατε τὸν φόρον τοῦ φαρμάκου τοῦ Σαρ τοῦ φαρμάκου τοῦ Σαρ απ είου ἀρ γ υρί ου δρ αχμ ὰς τεσ σα ράκον τ α . ν",
+      "translation": "‘Ischyrion to Petosiris and his partners in the buriers’ guild, greeting. You have paid as tax for drugs of the Serapeum 40 silver drachmae….’"
+    },
+    {
+      "corpus_id": 11680,
+      "reference": "Tyche 30.82",
+      "date": "mid 2nd century BCE",
+      "description": "Petition on the taxed sale of juniper resin",
+      "description_html": "Petition on the taxed sale of juniper resin",
+      "greek": "βασ βασ ιλεῖ Πτ ο λεμ α ίωι καὶ βασ ι λί σσηι Κλ ε οπάτραι χ χ α ί ρει ν. Πεε π ... ης Π . κέους Ἀρ σι νοΐτης, ἐξειληφὼς τὴν διάθεσιν καὶ καὶ τ ὸ τέλος τῆ ς ... ισση ς κεδρ ί α ς . ἀδικοῦμαι ὑπὸ τιν τιν ω ν τῶν ἐ ν τ ῶ ι νομῶι ἰβι ο τά φω ν μέ μέ ν ων τῆι μ ὲν πλ είστας τα φ ὰ ς συν τῶν διακολ τῶν διακολ π ι τευόντων καὶ κα τ ἱερῶ ἱερῶ ν τινών τ ε καὶ ἑτέροις διατιθ ε ἀπὸ τοῦ βασιλικοῦ πρατηρίου πρατηρίου μη θὲ ν ἁπλῶς συν ηγο ρα ἕωςμέχρι τοῦ νῦν τοῦ νῦν ο ὐ συ μ βα ί νει κολούε ιν καὶ διάφορά μο καὶ διάφορά μο ι οὔ τ ε τὰ τυχόντα γ ί ν εται ἰβιοτ ά φ ο υ ς σ υ κοφ αντε ῖ ν τοὺς π .. ... ευ αῖς οτε . . κ . ε ......",
+      "translation": "To King Ptolemy and Queen Cleopatra ...\n                         greetings. I, Peep...es, son of P...kes, Arsinoite, ... the contractor for the retailing and\n                         the tax upon the ... juniper resin ..., am being wronged by (?)\n                         some ibis-buriers in the nome ...\n                         who, on the one hand, ... numerous burials ...\n                         of those selling illegally and ...\n                         of some temples (sacred things?) and distribute to others ...\n                         they purchased nothing at all from the royal (?) place of sale ... until\n                   now it has not happened that they are punished ...\n                         and the damage to me is not inconsiderable ...\n                         accuse the ibis-buriers falsely ...\n                         Translation: C.A. Láda – A. Papathomas, Tyche 30 (2015) 82"
+    },
+    {
+      "corpus_id": 21576,
+      "reference": "P.Oxy. 9.1222",
+      "date": "4th century CE",
+      "description": "Letter requesting ingredients for treatment",
+      "description_html": "Letter requesting ingredients for treatment",
+      "greek": "Ἰσίδωρος Δημητρίῳ Ἰσίδωρος Δημητρίῳ υ ἱῷ χαίρειν. δὸς τῷ ἀδελφῷ Ἀμ μ ωνιανῷ τὸν πῶλον ἵνα εἵνα ἐνεχθῇ μοι καὶ τὸ ἅλας τὸ ἀμ μ ωνιακὸν τὸ τετριμ μ ένον καὶ τὸ ἄτριπτον καὶ τὸ σπέρ μα τοῦ ὠκίμου μα τοῦ ὠκίμου ἵνα εἵνα θεραπεύσω αὐτὸν ὧδε ἕξω, ἐπεὶ ἐπὶ γὰρ ἠξιώθην ὑπὸ τοῦ πατρός μου Ποσιδωνίου παραμεῖναι τ πατρός μου Ποσιδωνίου παραμεῖναι τ ῇ ἀπαιτήσει ἀ πε τ ήση τὰς πέντε ἡμέρας ταύτας· καὶ πέμψον καὶ πέμψον ἐ μοὶ περὶ εἴἤ τινος χρείαν χρήαν ἔχετε ἔχεται . ἐρρῶσθαι ὑμᾶς εὔχομαι εὔχομε πολλοῖς χρόνοις.",
+      "translation": "Translation: from P.Oxy. 9\n              Isidorus to his son Demetrius, greeting. Give your brother Ammonianus the colt to be brought to me and the salt of ammonia, both the pounded and the unpounded, and the basil-seed, in order that I may doctor him away here, for I have been asked by my father Posidonius to stay for the collection during these five days; and send to me about anything you need, I pray for your lasting health."
+    },
+    {
+      "corpus_id": 26255,
+      "reference": "P.Fouad 1.80",
+      "date": "4th century CE",
+      "description": "Family letter from Eudaimon the physician",
+      "description_html": "Family letter from Eudaimon the physician",
+      "greek": "κυρίᾳ μου μητρὶ καὶ ἀδελφοῖς Εὐδαίμων ὁ ἰατρὸς κυρίᾳ μου μητρὶ καὶ ἀδελφοῖς Εὐδαίμων ὁ ἰατρὸς εὖ πράττειν. εὖ πράττειν. πολλῶν πολιτῶν ἐπιδημησάντων ἡμῖν χωρὶς πολλῶν πολιτῶν ἐπιδημησάντων ἡμῖν χωρὶς γ γ ρ αμμάτων πάνυ γε ἐλυπήθημεν καὶ εἰς τοιαύτην ὑπόνοιαν διακείμεθα ὡς ὑμῶν ἀρρωστούντων σὺν ὑπόνοιαν διακείμεθα ὡς ὑμῶν ἀρρωστούντων σὺν τοῖς κακοῖς ἡμῶν, οὐδὲ ἐν τούτῳ τοῖς κακοῖς ἡμῶν, οὐδὲ ἐν τούτῳ παρηγορεῖτε παρηγορῖτε ἡμᾶς ὥστε εὐθυμεῖν εὐθυμῖν περὶ τῆς σωτηρίας ὑμῶν. ο ὐκ ἔλαθεν δὲ ἡμᾶς ὅσα πεπόνθατε· τὰ δʼ α ὅσα πεπόνθατε· τὰ δʼ α ὐ τὰ καὶ ἡμεῖ ς ἢ τάχα καὶ χείρονα. ἀκούσαντες γὰρ περὶ τῆς νίκης Εὐ ἀκούσαντες γὰρ περὶ τῆς νίκης Εὐ δα ίμονο ς τοῦ μικροῦ ποσῶς πωσῶς ποτε ἐχάρημεν καὶ ἐφ εῖδ ον ἀρχὴν γε γ ονέναι τοῦ ἐλεεῖσθαι ὑπὸ τοῦ θεοῦ· καὶ εὐθ τοῦ ἐλεεῖσθαι ὑπὸ τοῦ θεοῦ· καὶ εὐθ ὺ ς μετὰ τοῦτο ὅσα ἀνέ β β η καὶ ἡμῖν πράγματ α ο ὐ δ ύ να μαι δ ι ηγήσασθαι διὰ τὸ πολλὰ αὐτὰ αὐτὰ ε ἶ ναι ηρ .... ν α λω εν ἱ ερ α .. ς τὸν οὐρανὸν τῇ γῇ μ εμ ί χαμε ν . ι .. ἂν ἐξειδῇς. ἡ κ α ὶ Στ εθητῶς ἡ ἱ έρισσα τ οῦ Τριφιείου Τρ ιφίου ἔδωκεν τρία τάλαντα ἔστʼ ἂν κοιμίσθῃ κ υμίσθῃ τὸ πρᾶγμα καὶ πρᾶγμα καὶ μὴ προσενεχθ ῶ σι τῶι ἡγεμόνι· εἰ ἦ σαν γὰρ προσενεχθέντες σαν γὰρ προσενεχθέντες ἐκολ ά ζοντο ἐκολζοντο δεκάδαρχος καὶ ἑκατόνταρχ καὶ ἑκατόνταρχ ο ς ... . θησαν δʼ α ὐτὸ τοῦτο καὶ ὁ υἱὸς τοῦ τοῦ Σ εσκαπόλλω ν ος .... .. . εβληθη δ ι ὰ τοῦτο βενεφικιάριος βενεφικιάριος .. ι . ανω ἐξηλθα . ἀπὸ ἀπὸ τ ῆς φυλακῆς κ α τ τ ε κα .. κ ω νδ . υ τ λη σ της ε ὑρ έθη εν σπ ασθη δωκω ἀλλὰ δ . υ τ αστο . αν . . κει .. α ν . ω ρ . . ευ ... κ . . ν . ω .. εν . . ε . . π οι η σα τ . σ υν . .... . σω κακ ῶ ς . . . ι να τὴν τύχην εἰ μὴ δι ε . ε ι . τας .. . α ν .. σκη .. αη . . . αλλω αὐτ ῷ κ αὶ . ὅτι ὅτι .. τα ἔχω ἢ ἐπι . τὸ ν ἐπ ί τροπο τροπο ν ὡς ειστ ο ὑ μεῖ ς .. ... χηρο ν μονετον ποιη μονετον ποιη σα . εἰς τὸ ν σχολαστικὸ ν καὶ τὸν καὶ τὸν α ... ρ . . ζητοῦσα τὰ αὐτοῦ .... .. ιτ .. ν συνάπτει καὶ ἐντελλ α .... . α ς ... . ἐντεῦθεν μὴ ηὑρόμην εὑρέμην ... α . ρ .. δ . ντων παρʼ ἐμὲ ταῦτα . ντων παρʼ ἐμὲ ταῦτα π .. τ ο ς ... ει θλιβόμενος θλειβόμενος ὑπὸ τῆς .... ὁ κλῆρος τῆς κληρονομίας καὶ μ ... δικα .. . θ ι ων πρὸς τὸν ταβουλά ρι ον τῆς οὐσία ς καὶ πρὸς τοὺς ἐ πι σφραγιστὰς τοῦ μεγάλου μεγάλλου των ενταπρ ι .. . κατα τ .. .. μὴ ἔχ ω ν τί ποιῆσαι τ οῦ ἀ δ ε λφο ῦ κ .. .. ουπρασω .. π αρακαλέσειν αὐτὸν καὶ μη . τ . ε ... ηα π .. . ε . . ν τῆς κ λη ρ ονομίας· χάρις δὲ τῶι θεῶι ἔσ τω δ ... ... επι . ου .... . καὶ οὐδὲν ἄλογον ἔχει πρὸς ὃ μέλλει π ράττε σθαι πρὸς τὸν ἐ πί τροπον καὶ πολλὰ πράγματα π ερὶ δὲ οὐε τ ρανοῦ οὐδε ν ὸς οὐδὲν ἐπράχθη πρὸς καὶ τ ὰς δίκας .. ν τ ὴ ν δίκη ν περὶ τῆς ἐπιθήκης .. αποβη τ .. . αυ τω . ω ς ἵ να μὴ πρὸς ἡμᾶς τὴ ν δίκη ν . ανισκου καὶ οὐκ ἐπὶ σίτου σ είτ ου ἵ εροῦ εἰ δὲ ἐ δείσαμεν αὐτῷ οὐδὲ καὶ .. ι σθ αι ητ . ου συνεγραψάμην ἀ π οφ έρ οι ὑπε . αται ὥστε ὑπερθείσης .... ιστηνετ .. ωτηρουσιατο οἶδα δὲ τῆς οκυριας αὐτοῦ τοῦ δραπετ ........................................................................... .. κ αὶ ἀναβῶ· ἠκούσαμεν δὲ περὶ τοῦ πλοίου καὶ π η . τ ο .... ε ... ης περὶ τού τ ου εἶτα οὐκ ἐπετράπημεν περὶ τῶν αὐτοῦ ὡς μὴ ἡμῶ ν εἰλήφατε εἰλήφαται γὰρ αὐτὸ καὶ δεδώκατε πᾶν αὐτο .. . .... .. ἐν τάχει ἐπάγγειλ αι ς ἐπέστειλον δὲ λ όγο ν ἐν τάχει ἀναβῆναι μὴ εἰδὼς τὰ συμβησόμ εν α . . ... ς ... σα . ε . στου ει ... ε τον . ε .... . και . .. .. . ε . ν .. δ .. α α ε π ηδ π . εν . κ . ο ν π ο κ αικο τρος . ρας εχ στου π υταλ λ ω να . αιεισεπ . τωχωδ ... η σθη τει διὰ τουδ . ση . .. ..",
+      "translation": "To my lady mother and brothers, Eudaimon the physician, good health. Since many citizens arrived in our presence without letters, we were greatly distressed and are in such a state of suspicion that you are ill, along with our troubles; not even in this do you console us so that we may be cheerful about your health. It has not escaped us that [...]"
+    },
+    {
+      "corpus_id": 25463,
+      "reference": "O.Trim. 2.520",
+      "date": "ca. 350-370 CE",
+      "description": "Ration note including allotment to the doctor",
+      "description_html": "Ration note including allotment to the doctor",
+      "greek": "ι ε Χοιὰκ κριθ ῆς μ άτια β 𐅵 καὶ τῷ ἰατρῷ ἰατρῷ μ άτιον α . σεσημείωμ αι σεσημίωμ αι Σερῆνος. Σερῆνος.",
+      "translation": "15th Choiak: two and a half matia of barley. And to the doctor: one mation. I have signed. Serenos."
+    },
+    {
+      "corpus_id": 50570,
+      "reference": "P.Stras. 9.830",
+      "date": "160-161 CE (?)",
+      "description": "Land list including a physician",
+      "description_html": "Land list including a physician",
+      "greek": "...... ς ..... ἄρουραι δ ..... ς ἰ ατρὸς κ α ὶ Μυσθαρίων Μυσθαρίων Ἡ ρα κλ ίδ ου ἄρουρα α Φ Φ ί λιππο ς Ἰ σι δ ώ ρο υ ἄρουραι η Φίλ Φίλ ιπ πο ς Ἀφροδ ισίου καὶ Ἀπο Ἀπο λλ ων ίο υ Ἥ ρωνος ἄρουραι δ Ἀθηνίων Ἀθηνίων Ἰσχυρίω νος ἄρουραι β Κάστωρ Κάστωρ Ὀ ρ σ ενούφεω ς ἄρουραι γ Σαρᾶς Διοσ Σαρᾶς Διοσ κ όρου ἄρουρα α Σοῦχο Σοῦχο ς Ἰσ ι . Ἥ Ἥ ρ ω ν Πά π ου . Ι Ι .. . ση Ὥρου .. Δ Δ εῖ ος Ἡρακλ ς Π ασιω ὁμ οίως ἄλλ οι κδ διὰ διὰ Μύσθου ὥστ ε Φιλαδ ελφ .. καὶ διὰ Νικάνδρ ου .. ἔτους κδ .. καὶ ἐν Φιλαγ ρίδι ϛ καὶ",
+      "translation": "[...] arourai 4. [...] physician; and Mystharion son of Herakleides, aroura 1; Philippos son of Isidoros, arourai 8; Philippos son of Aphrodisios and Apollonios son of Heron, arourai 4; Athenion son of Ischyrion, arourai 2; Kastor son of Orsenouphis, arourai 3; Saras son of Dioskoros, aroura 1; Souchos son of Isi[...]; Heron son of Papos; I[...]; [...] son of Horos; Deios son of Herakl[...]; son of Pasio[...]. Likewise another 24, through Mysthos, so that Philadelph[...]; and through Nikandros [...]. Year 24 [...]; and in Philagris 6; and [...]."
+    },
+    {
+      "corpus_id": 8680,
+      "reference": "P.Ryl. 4.571",
+      "date": "mid 3rd century BCE",
+      "description": "Crop account of Artemidorus the physician",
+      "description_html": "Crop account of Artemidorus the physician",
+      "greek": "Παχὼνς παρὰ Ἀρτεμιδώρου Παχὼνς παρὰ Ἀρτεμιδώρου ἰατροῦ ἰατροῦ ιθ μήκωνος μελαί νης ια 𐅵 δ κ Μηδικοῦ πυ ροῦ ιϛ 𐅵 Παῦνι Παῦνι ζ ὀλύρ ας ρα ιζ σησάμου κα κγ σησάμ ου λγ γίνονται πυρ οῦ ιϛ 𐅵 ὀλύρ ας ρα σησάμου σησάμου νδ μήκωνος μήκωνος μελαίνης ια 𐅵 δ τῶν Ἀρτεμιδώρου τῶν Ἀρτεμιδώρου γενημάτων. γενημάτων.",
+      "translation": "‘Pachons, from Artemidorus the physician: 19th, of black poppy seed 11¾ artabs; 20th, of Median wheat 16½. Pauni 7th, of olyra 101; 17th, of sesame 33. Total: 16½ artabs of wheat, 101 of olyra, 54 of sesame, 11¾ of black poppy seed. \n               \n            \n            \n               \n                   (Endorsed) List of the crops of Artemidorus.’"
+    },
+    {
+      "corpus_id": 8650,
+      "reference": "P.Cair.Zen. 3.59402",
+      "date": "mid 3rd century BCE",
+      "description": "Letter from or about Artemidorus the physician",
+      "description_html": "Letter from or about Artemidorus the physician",
+      "greek": "Ἀρτε μίδωρος Ζήνω νι ἂν παραγένωντ αι ς ἄρτων πεπε μ μένων π αρʼ ἡμῶν γεγρ Ἀρτεμιδώρουπαρ’ Ἀρτεμιδώρουἰατροῦ Ἀρτεμιδώρου Ζήνωνι.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 69349,
+      "reference": "P.Cair.Zen. 4.59555",
+      "date": "before August-September 255 BCE",
+      "description": "Account noting Artemidorus the physician",
+      "description_html": "Account noting Artemidorus the physician",
+      "greek": "Ἀρτεμίδ Ἀρτεμίδ ωρος χρηστὸν χρηστὸν τιμὴν κα τιμὴν κα γενώμε γενώμε θα τρεῖς τρεῖς ἀγο ρ ἔτους λα , Πανήμ ου Ἐφεὶπ Ἐφεὶπ παρʼ Ἀρτεμ παρʼ Ἀρτεμ ιδώρου ἰατροῦ ἰατροῦ",
+      "translation": ""
+    },
+    {
+      "corpus_id": 9504,
+      "reference": "P.Tebt. 3.2.1036",
+      "date": "2nd century BCE",
+      "description": "Fiscal account preserving the medical-fund charge <greek>(ἰατρικοῦ)</greek>",
+      "description_html": "Fiscal account preserving the medical-fund charge <greek>(ἰατρικοῦ)</greek>",
+      "greek": "χου ἑκατοντάρουρος ἀγο ραστοῦ κ , φυ λακιτικοῦ γ , ἰα τρικοῦ β , στεφ άνου ε 𐅷 , γίνονται λ 𐅷 . ἑκατοντάρουρος ἀγο ραστοῦ ν , φυ λακιτικοῦ γ , ἰα τρικοῦ β , στεφ άνου ιδ , γίνονται ξθ . χε ιου ἑκατοντάρουρος ἀγο ραστοῦ ξ , φυ λακιτικοῦ γ , ἰα τρικοῦ β , στε φάνου ιϛ 𐅷 , γίνονται πα 𐅷 . . γίνονται σκη , φυ λακιτικοῦ ιζ η , ἰα τρικοῦ ιβ , στε φάνου ξγ 𐅵 γ καθ άρσ εως κβ , κο σκινευτικοῦ ιϛ , γίνονται τλε 𐅵 γ η . .. , ἐν Θεαδελφ είαι· άχου ἑκατοντάρουρος ι ἔτους φυ λακιτικοῦ γ , ἰα τρικοῦ β , στε φάνου ιδ , γίνονται ιθ . Ἀρι στοδ ήμου μου ἑκατοντάρουρος ἀγο ραστοῦ ν , φυ λακιτικοῦ γ , ἰατρικοῦ .. , στεφάνου . γ , γίνονται .. Π το λεμαίου ἑκατοντάρουρος ἀγο ραστοῦ νε , φυ λακιτικοῦ γ , ἰα τρικοῦ β , στεφάνου .. 𐅵, γίνονται .. 𐅵 . ήμ ου ἑκατοντάρουρος ι ἔτους ἀγο ραστοῦ ιδ , φυ λακιτικοῦ β 𐅵 γ , ἰατρικοῦ .. , στεφάνου .. , γίνονται .. η . ........ ιθ , ἐν Φιλωτερίδ ι· Κλεινίας Ἀπ Κλεινίας Ἀπ ολ λωνίου Ἀρίστιππος Ἀρίστωνο Ἀρίστιππος Ἀρίστωνο ς γίνονται τῆς ε ι ἔτους ἀ γοραστοῦ . . φυ λακιτικοῦ .. , ἰατρικοῦ .. , στεφάνου .. , γίνονται ... κα , ἐν Φιλωτερίδι· Σέλευκος Σελεύκ Σέλευκος Σελεύκ ου Λυσίμαχος Λυσ Λυσίμαχος Λυσ ιμάχου Πρωτογένης Π Πρωτογένης Π ρ ωτογένους στεφά νου ι ἔτους . γίνονται τῆς κώ μης ι ἔτους τῆι αὐτῆι ἐν τῆι αὐτῆι ἐν Αὐτόνους Αὐτόνους . γίνονται τῆς ε κβ , ἐν Φιλωτ ερίδι· Πρωτογ Πρωτογ έ νης Διογένης Σ Διογένης Σ Θεόφιλος Εὐ Θεόφιλος Εὐ γίνονται τῆς κ γ , ἐν .. Ἡγήμων Πτολεμαίου ἐ κ Θεαδελφείας Τρύφων Τρύφων Λυσιμάχου ἐκ Φιλωτερίδος ............ Νίκων Νίκων .. γίνονται τῆς ε ἀνιπ ἀνιπ πίας κε , ἐν Φιλ ωτερίδι· Ἀρσίνου Ἀρσίνου ς Κρίτω Κρίτω ν Αἰσχ Αἰσχ ι .. γίνονται ἀνιππία ἀνιππία ς",
+      "translation": ""
+    },
+    {
+      "corpus_id": 13021,
+      "reference": "P.Tebt. 3.2.1037",
+      "date": "early 2nd century BCE",
+      "description": "Parallel fiscal account with the medical-fund charge <greek>(ἰατρικοῦ)</greek>",
+      "description_html": "Parallel fiscal account with the medical-fund charge <greek>(ἰατρικοῦ)</greek>",
+      "greek": ".... Νέαρχος Νέαρχος .. το το ... νωτοφ όρων α γ τῆς τῆς ἡμέ ρας ἰατρ ικοῦ ἑκατονταρούρων 𐅷 ἑβδομηκονταρούρων . ἀγο ραστοῦ ἑκατονταρούρων λϛ ἑβδομηκονταρούρων . κα θάρσεως γ ιβ , ἐπ ιμέτρου α 𐅵 , κο σκινευτικοῦ ιβ , , χει ριστικοῦ 𐅵 δ , γίνονται ϛ 𐅵 ιβ , γίνονται θέ μα Πυθαγόρ ου ς κεχώρισται κεχώρισται ... .",
+      "translation": ""
+    },
+    {
+      "corpus_id": 10501,
+      "reference": "SB 26.16634",
+      "date": "235-234 BCE (?)",
+      "description": "Ptolemaic account with medical dues",
+      "description_html": "Ptolemaic account with medical dues",
+      "greek": ". ϛ θ ἥμισυ γ μένου τοὺς . δ η μεμετρη τάλαντον α Δ . μβ ἡμιωβέλιον τέταρτον Ἐσ . ζ ἥμισυ δ τάλαντα .. ἔτους ζ φυ λακιτικοῦ γ ἰ ατρι κοῦ β στε φ άνου ιδ ἔτους ϛ φυ λακιτικοῦ γ ......... γίνονται χιβ τῆς τῆς τ ρίτ ης ἱ ππ αρχίας Ἡρ Ἡρ α κλείτωι Ἡρακλείτου Ἀθηναί ω ι σν πρὸς τὰ σιτι πρὸς τὰ σιτι κὰ ἐκφόρια τοῦ ιγ ἔτους ϛ 𐅷 η ἔτους ι β κζ δ η γίνονται λδ ϛ τῆς τετάρτης τῆς τετάρτης Σεύθηι Ἐβρυζέλμιος Θραικὶ Σεύθηι Ἐβρυζέλμιος Θραικὶ υ ἔτους ι γ φυλακι τικοῦ πυροῦ γ ἰατρι κοῦ β ἀνιππί ας πβ ἥμισυ ἔτους ιβ ἀνιππί ας σ ἔτους ια ἀνιππί ας σ ἔτους ι ἀνιππίας ν ζυ τηρ ᾶ ς λ ἔτους η ἀνιππί ας σ ἔτους ϛ ἀνιπ πίας ν γίνονται ω ιζ ἥμισυ Ν ικίαι ...... . Θραικὶ ρν . .. ἔτους ϛ χωμα τικοῦ ι ... ..... γίνονται κ τετρώβολον ἡμιωβέλιον τέταρτον φ υ λακιτικοῦ γ ἰα τ ρι κοῦ α ..... .. ἥμισυ γ γίνονται ... ἀνι π πίας σ .......... ὀ φεί λ ε ται τάλαντα ε Δφοθ τετρώβολον ἡμιωβέλιον τέταρτον καί σίτου εἰς καί σίτου εἰς ..... ν μ υριὰς α Εφλγ ϛ ὧν τίμη ὧν τίμη σι ν ὑπέθε το Ἀ μ ώ νιος τῆς τῆς ἀρτάβης δραχμὰς β τάλαντα λα Εξϛ διώβολον γίνε γίνε ται τάλαντα λζ Γχμϛ ἡμιωβέλιον τέταρτον ἀφ' ὧν ἐστιν ἐν τ ἀφ' ὧν ἐστιν ἐν τ οῖς τὰ πλείονα ὀφείλουσιν ἱππεῦσιν παρ’ ὧν ἡ πρ ἱππεῦσιν παρ’ ὧν ἡ πρ ᾶξι ς συντε λ εῖτ αι κατ’ καθ’ ἔτος ἐκ τῶν ἡμικληρ ίων π π ... αγγ ... .. ιασ ..... τῆς πρ ώτης ἱππαρχίας",
+      "translation": ""
+    },
+    {
+      "corpus_id": 11889,
+      "reference": "BGU 7.1525",
+      "date": "210-204 BCE (?)",
+      "description": "Account recording money and garments connected with a physician",
+      "description_html": "Account recording money and garments connected with a physician",
+      "greek": "ἔχω παρὰ Ἀπολλωνίου ἔχω παρὰ Ἀπολλωνίου ἰατροῦ ἰατροῦ δραχμὰς Γ , καὶ καὶ χιτῶνας χιτῶνες βυσσίνους βυσινοι β , ἄλλας ἔχω Παχὼν ἄλλας ἔχω Παχὼν δραχμὰς Αφ , ἔχει χιτῶνα. ἔχει χιτῶνα. τιμὴ τάλαντα γ δραχμαὶ Ατο κωνητικὸν κωνητικὸν Βυ γίνονται τάλαντα γ δραχμαὶ Γψο .",
+      "translation": ""
+    },
+    {
+      "corpus_id": 11894,
+      "reference": "BGU 7.1530",
+      "date": "210-204 BCE (?)",
+      "description": "Grain and ration account for a physician",
+      "description_html": "Grain and ration account for a physician",
+      "greek": "ἔχω Ὥρωι ἰατρῶι ἔχω ἔχω Ὥρωι ἰατρῶι ἔχω ἀρ τάβας . , ἔχω εἰς ἔχω εἰς σιτομετρίαν σειτομετρίαν πυ ροῦ ἀρ τάβας ιε καὶ μετέβαλον εἰς τὴν ἄλλην νου καὶ μετέβαλον εἰς τὴν ἄλλην νου πυ ροῦ ἀρ τάβας λ . ἔχει Πετεμεῖν ἔχει Πετεμεῖν πυ ροῦ ἀρ τάβας κ , ἔχει Παμνῆις οἰκοδόμος ἔχει Παμνῆις οἰκοδόμος . . . ἐκ τοῦ μεμερ ισ μένου μένου ἔχει ὁ σκορδευτὴς ἔχει ὁ σκορδευτὴς β . ἄλλας ἄλλλας μετέβαλον εἰς τ ..... .... πυ ροῦ ἀρ τάβας λ δ . ... πε Ἁρμώτης Ἁρμώτης . . ρου πυ ροῦ ἀρ τάβας κε μεμ ετ ρημέναι πυ ροῦ ἀρ τάβαι οϛ δ",
+      "translation": ""
+    },
+    {
+      "corpus_id": 137131,
+      "reference": "Chrest.Mitt. 55",
+      "date": "before 29 July 368 CE",
+      "description": "Legal text naming a public physician of Hermopolis",
+      "description_html": "Legal text naming a public physician of Hermopolis",
+      "greek": "ὑπατείας τῶν δεσ ὑπατείας τῶν δεσ ποτῶν ἡμῶνἡμῶν Φλαυίων Οὐαλεντινιανοῦ καὶ Οὐ άλεντος κ αὶ Γρατιανοῦ τῶν αἰωνίων Αὐγο ύστ ων τὸ β . Αὐρήλι Αὐρήλι ος Ἀθη ν όδωρος δημ όσιος ἰατρ ὸς ἀ πὸ Ἑρμοῦ πόλεως τῆς λαμπροτάτης τὸν λόγον ποιούμε νος ὑπὲρ Σαραπι αί ν η ς Παξά μο υ ... β . ης . καὶ καὶ μητροπολί τι δο ς μητροπολιδο ς κατʼ ἐντολὴν τὴν κ αὶ ἀναλημφ θ εῖσα ν τοῖς ἡγεμονικοῖς ὑπομνήμασι Φλ αυίοις Ἡ ρακλέωνι β ενε φ ικιαρίῳ κα ὶ ισιδω καὶ Κύρᾳ κλη κλη ρ ονόμοις Νεμεσίλλ ης ἀπὸ τ ῆς αὐτ ῆς πόλεως ἀντιδί κο ις χαίρει ν . συγχωρηθεὶς ἐγὼ ὁ Ἀθηνόδωρος π αρή γ γ ειλα μὲν ὑμῖν καὶ πολλάκις, περιφεύγοντες δὲ τὴν εὐθεῖαν, παρευρέ τὴν εὐθεῖαν, παρευρέ σεσιν ἐχρήσασ θε ἐχρήσασ θαι , ἀλλὰ καὶ νῦν ἄναρχός μ οι γέγονεν ἡ δίκη, τοῦ κυρίου μου τοῦ λ αμπροτάτου ἡγεμόνος Φλαυίου Ἡρακλείου ἀποφηναμένου γείν ἀποφηναμένου γείν εσθαι ... μόν ω σιν τῆς ἀνανεώσεως, ἧ ς ἔσχον, ἅπαξ ἐκπεισὼν ἐκπαισὼν τῶν χρόν ω ν. δι ό περ καὶ νῦν, τὴν αὐθεντ ί αν λαβών, παραγγέλ λω κατʼ ἀπόφασιν οὕτως ἔ κατʼ ἀπόφασιν οὕτως ἔ χουσα ν· Φ λά υιος Ἡράκλειος ὁ λαμπρότατος ἡγεμὼν εἶπ εν · ἀνάρχου τῆς δίκης ὀφθείσης ὀφθίσης ἐξ αὐθεντίας τοῦ δικαστηρίου παραγγ ελ εῖς. δηλῶ δὲ καὶ τὴν ἀνα δηλῶ δὲ καὶ τὴν ἀνα ν έωσ ιν ἔ χ ουσα ν οὕτως· Strat e gius v ir p erfectissimus Com es Praes es Thebai dis di xit dei xit reparabuntur reperabuntur t empora si semelsimel negotium istud evol u tum est. ἑρμ ηνεία ἑρμ ηνία · μετὰ τὰ ῥωμα ϊ κά· Φλ ά υιος Στρ ατ ήγιος ὁ διασ η μότατος κόμες καὶ ἡγε μ ὼν εἶπ εν · ἀν α νεωθήσονται οἱ χρ όνοι εἰ ἅπαξ ἡ δίκη ἐξ ἡ δίκη ἐξ έπε σεν. Πάξα μος γὰ ρ Σα ρ απια ί νης καὶ Διον υ σίας καὶ Ἡλιοδώρας καὶ Θε ο νίνης καὶ Νεμεσίλλης γέ γ ονεν πατήρ, ἔθετο δὲ βούλησιν ἔγ γρα φον, Νεμεσίλλ αν καὶ Διονυ καὶ Διονυ σίαν ἀρκεσθῆ να ι ταῖ ς προιξὶ προ ι ξεὶ β ο υλόμενος, τὰς δὲ λοιπὰς θ υγατέρας τρεῖς τὸν ὑπόλοιπον ἔχ ειν κλῆρον. ἐπειδὴ δὲ Νεμεσίλλα κα ὶ Διονυσία πρεσβύ τεραι οὖ τεραι οὖ σαι τ ὴν ἡλικίαν κατασχε ῖ ν ἐδυνήθησαν τὰ πράγματα, ἐδικασάμην· καὶ Διονυσίας μὲν ο ἱ κληρ ο νόμο ι διελύσαντο πρός με, ὑμεῖς ὑμῖς δὲ καὶ Σωκράτιον, οἱ Νεμεσ οἱ Νεμεσ ίλλ ης παῖδες ἐ ... ς ὑπερθέ σ εσι χρώμενοι, τὴν ἀπό δο σιν οὐδέπω πεποίησθε πεποίησθαι . διὰ τοῦ το κα ὶ πολλάκις πολλάκεις μὲν εἰσῆξα τὴν δίκην καὶ πρώην κατὰ κυρίαν, ὑμ κυρίαν, ὑμ ῶ ν δὲ πάλιν πάλειν ὑπ ερ θέσ εσ ι χρησαμένων ἄναρχο ς ἀπεφάνθη ἡ δίκη. διόπερ παραγγέλλω ὑμῖν περ ὶ τῶν ὑποτε τ αγμένων πραγμάτων τὸ τρίτον ἐκδικῶν μέρος ἐξ τρίτον ἐκδικῶν μέρος ἐξ ἀδιαι ρέ τ ου π ρ ὸς τὸ ὑ μᾶς εἰς τὸ οἰκεῖον ἀποκρίνασθαι ἀποκρείνασθαι μέρος κατὰ τὴν θε ίαν διάτ αξιν διάτ αξειν · φθάνω γὰρ διδάξας τὸ μεγ αλ εῖον τοῦ κυρίου μου τοῦ ἄρχοντος τοῦ κυρίου μου τοῦ ἄρχοντος ὅτι .. με . . ηὕρ η ται ἐπὶ τῆς Ἀλεξανδ ρ έων εἶναι Σωκράτιον. δηλῶν τίτλον μὲ ν ἐπὶ τὸ τ ρίτον ἀπὸ βουλήσεως ἐγγράφου πατρῴας, ἀγωγὴν δὲ τὴν ἔξτρα ἀγωγὴν δὲ τὴν ἔξτρα ὄρδι νε μ κ ο γ νιτιόνεμ, κ ο νιτιονεμ , ἀξιῶ ἐκδοθῆ ν αί μοι τὴν συνήθη ὑποσημίωσιν καὶ κατὰ κυρίαν πραχθῆναι τὴν δίκην. ἔστι δὲ καὶ τὸ πρᾶ καὶ τὸ πρᾶ γμα .. .. ........... μ ετὰ τὰ ῥ ω μαικά· Ἑλικὼν εἶπε· Πάξαμος πατὴ ρ γέγονεν θυγατέρ ων ........... Σ αραπιαίνης τῆς βοηθο υμ ένης κ αὶ Θεονίνης καὶ Ἡλιοδώρας κα ὶ Διονυσία ς καὶ Νεμεσίλλης ..................... κατὰ βο ύ λησιν ἔγγραφὸν ἀρκεσθῆναι .... τὴ ν μὲν Διονυσίαν καὶ Νεμεσ ίλλ αν ἐκέλε υ σε ταῖ ς προιξίν προιξείν , πάντα δὲ τὰ πράγματα αὑτοῦ τὰς λοιπὰς θυγατέρας τρεῖς ... εν . ἔχειν. ἐπ ειδὴ δὲ οὐκ ἀποδεδώκ ασι ν τ ὰ ἡμέτερα μέρη Διον υ σί α καὶ Νεμεσίλ λ α πρὸς ἐμαυτ ὴ ν θυ γ ατέρ α οὖσ αν . , ἐδικασά μην ......................... καὶ Διονυσίας μὲν οἱ κ ληρονόμοι διαλυ σάμεν οι ἑαυτοὺς ἀποδεδώ κασιν , οἱ δ ὲ Νεμ εσί λ λης παῖδες, Ἡρα κ λέων ὁ β ενε φ ικιάριος κα ὶ Ἰσίδωρος ὁ ὀφφικιάλιος καὶ Κύρα καὶ Σωκράτιον φεύγουσιν .... . νυν Σωκράτι ον ....... ἐπὶ τῆ ς Ἀλεξανδρέων τυγχάν ει καὶ ὡ μολόγη σε ν ἐν ὑπομ ν ή μασι πρὸ ... ε ω ς ........................... μει .... .... ... κα ........... ὑπε ρ θέσ ε σι ἐπινοοῦν τ ες .......... ς ἐ ρ γ άζονται οπ . .... . ν κ αὶ νῦ ν τῆς δίκης εἰσαχθείσηςπαραγγελθείσησ αὐτοῖς κατὰ κυρίαν παραγραφ αῖς ...... ἐπενόησαν ὡς ὅ τι ὁ ἡγεμών ἐπʼ ἀναλήμψεω ς ἐ ν ὑπομ νή μασι ο .. ............................ διὰ τοῦτο ἄναρχον ἀ π ολαβόντες τ ὴν δίκην πρὸς τὸ μεγαλεῖον τὸ σ ὸν ἥκαμεν ... συνθεμα .. δ ιὰ τοῦ δικ αστηρίου ......................... πα ρα γ γελε ῖ ν. ἐν δὲ τῇ πα ραγγελί ᾳ δηλώσομεν τόν τε τ ί τλον καὶ τὴν ἀ γ ω γ ὴν καὶ τῶν πραγμάτω ν τὸ καθʼ ἓν . Φλάυιος Ἡράκλειος ὁ λαμ π ρότ ατος ἡγεμὼν εἶπεν· ἀ νάρχ ου τῆς δίκης ὀφθείσ η ς ἐξ αὐθεντί ας τοῦ δικα στηρίο υ παραγγ ε λεῖς. Ἑλι κὼ ν εἶπεν· .................... . κέ λ ευσον διὰ τῆ ς τάξεω ς ?: Φλάυιος Ἡράκλ ειος ὁ λαμ πρότ ατ ος ἡγ εμὼν εἶπεν· πεμφθήσε ται . . .. ........................... . Ἀθηνόδωρος .......... ου κατʼ ἐντολὴ ν .......... σα ν ........... . ιεν ..... .............................. ... δ ............................................ Φλ άυιος Ἡρ άκλειος ἡγ εμὼν ἐπαρ χείας Θηβα Θηβα ί δος ἐδεξάμην τὴν παραγ γελ εί αν σήμερον Μεσορὴ πέμπτῃ σήμερον Μεσορὴ πέμπτῃ . . ....... διὰ διὰ .... .. σ υ ν ............. ..... αυ . .... ... ει ........ .....",
+      "translation": "In the consulship of our lords the Flavii Valentinianus and Valens and Gratianus, the eternal Augusti, for the 2nd time. Aurelius Athenodoros, public physician, from Hermoupolis the most brilliant, making the case on behalf of Sarapiaine daughter of Paxamos [...] and metropolite, by commission also received in the prefectural records, to the Flavii Herakleon, beneficiarius, and Isido[...] and Kyra, heirs of Nemesilla, from the same city, adversaries, greetings. I, Athenodoros, having been permitted, have summoned you many times, but you, avoiding the direct course, have resorted to pretexts. But now too the case has come before me without authority, since my lord the most illustrious prefect Flavius Herakleios has decreed that there should be [...] annulment of the renewal which I obtained, once the time limits have expired. Wherefore now too, having received authority, I summon you in accordance with the judgment, which reads as follows [...]."
+    },
+    {
+      "corpus_id": 137299,
+      "reference": "P.Ross.Georg. 5.60v",
+      "date": "after 10 June 391 CE",
+      "description": "Ration account including a physician and a horse doctor",
+      "description_html": "Ration account including a physician and a horse doctor",
+      "greek": "λόγου ὀψωνίου λόγου ὀψωνίου ἑξα μήνου ʼ ϛ μινου Ἁτρῆτι ὀνηλάτῃ ἐν Ψώβθει Ἁτρῆτι ὀνηλάτῃ ἐν Ψώβθει σίτ ου ἀρτάβαι κβ Ἡρακλάμμωνι ἰατρῷ Ἡρακλάμμωνι ἰατρῷ δι ὰ Δωροθέου σίτ ου ἀρτάβαι ι Ἰσιδώρῳ ἱππο Ἰσιδώρῳ ἱππο ι άτρῳ δ ιὰ Δωροθέου σίτ ου ἀρτάβαι δ Σιᾷ θυρωρῷ Σιᾷ θυρωρῷ δι ὰ Δωροθέου σίτ ου ἀρτάβαι η τῷ ἠπη τῷ ἠπη τῇ δι ὰ Δωροθέου Δωροθέω σίτ ου ἀρτάβαι ε Πολυδεύκῃ σαφωνίτῃ Πολυδεύκῃ σαφωνίτῃ δι ὰ Δωροθέου Δωροθέω σίτ ου ἀρτάβαι η τῷ τῷ κναφεῖ γναφεῖ δι ὰ Δωροθέου σίτ ου ἀρτάβαι η Διοσκόρῳ Διοσκόρῳ χυτροπλάστῃ κυθροπλάστῃ δι ὰ Δωροθέου Δωροθέω σίτ ου ἀρτάβαι β Στεφάνῳ σά Στεφάνῳ σά κ κων ῥάπτῃ δι ὰ Δ ω ροθέου σίτ ου ἀρτάβαι δ Πρήνι Πρήνι α ἰ γῶν βοσκῷ δι ὰ Δωροθέου σίτ ου ἀρτάβαι ιϛ Ἡρακλάμμωνι Ἡρακλάμμωνι γραμματικ ῷ δι ὰ Δωροθέου Δωροθέω σί τ ου ἀρτάβαι κ .... . .. νι ... δι ὰ Δωροθ έ ου σί τ ου ἀρτάβαι ιβ εἰς τὴν γεουχ εἰς τὴν γεουχ τιμῆς αλ τιμῆς αλ .. τοῖς καμηλ αρ ίοις Ἑρμίνῳ ποιμ έ νι τῷ ἀρ τῷ ἀρ το κό πῳ καὶ οι Νεφ Νεφ ερῶτι . Μακαρίῳ Σιμ Μακαρίῳ Σιμ ὑαλᾷ Γητια ὑαλᾷ Γητια Ἀ Ἀ ν τωνίνῳ . . ... θυ . . Βίκ τ ω ρ ι .. ω Στεφάνῳ Στεφάνῳ .... .",
+      "translation": "[Account of grain rations for a six-month period:] To Hatreti the donkey-driver at Psobthis: 22 artabas of wheat. To Heraklammon the physician, through Dorotheos: 10 artabas of wheat. To Isidoros the horse-doctor, through Dorotheos: 4 artabas of wheat. To Sia the doorkeeper, through Dorotheos: 8 artabas of wheat. To the [...] through Dorotheos: 5 artabas of wheat. To Polydeukes the bellows-worker, through Dorotheos: 8 artabas of wheat. To the fuller, through Dorotheos: 8 artabas of wheat. To Dioskoros the potter, through Dorotheos: 2 artabas of wheat. To Stephanos the sack-sewer, through Dorotheos: 4 artabas of wheat. To Prenis the goat-herd, through Dorotheos: 16 artabas of wheat. To Heraklammon the schoolmaster, through Dorotheos: 20 artabas of wheat. To [...], through Dorotheos: 12 artabas of wheat. For the estate [...] price of [...] To the camel-drivers. To Herminos the shepherd; to the baker; and [...] Nepheroti [...] To Makarios, Sim[...] the glass-worker, Getia [...] An[t...]"
+    },
+    {
+      "corpus_id": 15524,
+      "reference": "SB 20.14670",
+      "date": "mid 6th century CE",
+      "description": "Land record mentioning heirs of a physician",
+      "description_html": "Land record mentioning heirs of a physician",
+      "greek": "γ νῶ σις ἀ ρο υρῶν τοῦ μεγαλοπρ επεστάτου κόμε τος Ἀμμ ων ί ου πρὸς πρὸς κ ώ δικα Ἰωάννου ἐλλο γι μωτάτου σχ ολ αστικοῦ καὶ κ η νσίτορος ὀνό ματος Ψαί ου Φὴρ ἀ π ὸ ἐ κβολ ῆς κ λ ηρονόμων Πα πνοῦ τε ἰατρ ο ῦ ὑπὸ Ἀπολλῶν γεωρ γὸν σπο ρίμης γῆς ἀρούρης δ ὀνό ματος Κ ύρα ς Πρωμ α ῶ τος ὑπ ὸ Ὧρο ν Παρᾶς γε ωργὸν σπο ρίμης γῆς ἄρουραι η παραδ είσου ἀρούρης 𐅵 η ὀνό μάτος Βησαρίωνος πρ ω τοκω μ ή το υ ὑπὸ Ἰακῦ βι ν Μ α ξίμου γεω ρ γὸν σπο ρίμης γῆς ἄρουραι β ὀνό ματος Ἑ ρμ αυῶτος Ψενθαησίου ἀπὸ ἐκ β ολ ῆς Βησσο υροῦ τος Π ρομ α ῶτος γεωρ γοῦ σπο ρίμης γῆς ἄρουραι α 𐅵 ὀνό ματος Βίκτορος Μακαρίου ὑπ ὸ Ἴσακον Β ί κ τορος μο νά ζ οντα καὶ γεωρ γὸν σπο ρίμης γῆς ἄρουραι ϛ δ παραδ είσου ἀρούρης 𐅵 ἀ πὸ μεταπτ ώσεως ἀδεσπότ ου Μο ν ε χ θὴ ὑπ ὸ Ἀνοῦφ ι ν Μουσ αίου γεωρ γὸν σπο ρίμης γῆς ἄρουραι ιγ ὑ π ὸ Πρω μ αῶν Ἰσακί ου σπο ρίμης γῆς ἄρουραι ε ἀμπέλ ου ἄρουρα α τόπ ου Νεμήφεως ὑπ ὸ Ἰωάννη ν Μουσαίου γεωρ γὸν σπο ρίμης γῆς ἄρουραι η παραδ είσου ἀρούρης 𐅵 ὀνό ματος Κύρας Πρωμαῶτος ὑπ ὸ Ἰ ω άνν ην Μ ου σαί ο υ γε ωρ γὸν σπο ρίμης γῆς ἄρουραι ζ η παραδ είσου ἀρούρης 𐅵 η ὀνό ματος Λ ο υκανοῦ Χ αι ρ ή μ ωνος τόπ ου Π ι α Μυλʼ σπο ρίμης γῆς ἄρουραι γ θρ υίδος ἄρουρα α ὀνό ματος Ἰω άν νου Μ ουσαίου κ α τ ὰ κο ινωνίαν Εἰρήν ης ἀδελφ ῆς ἀπὸ ἀρουρῶν θ δ ενδρικῆς θ ὑπὲρ μ έρ ο υς 𐅵 σπο ρίμης γῆς ἄρουραι δ 𐅵 παραδ είσου ἄρουραι δ 𐅵 ὁμοῦ σπ ορίμης γῆς ἄρουραι νη 𐅵 η θρ υίδος ἄρουρα α ἀ μπ έ λ ου ἄρουρα α παραδ είσου ἄρουραι ϛ 𐅵 δ νσ .. κδ . ι ... χρυσ ικ νο μίσματα ι . κ εράτια ε τόπ ου Πετὸ ἐκ κλ ησία Ἀπ ό λλωνος ὑπ ὸ Σαβῖνον σπ ορίμης γῆς ἄρουραι ιε δενδρ ικῆς ἄρουραι ε ........... αγ ..... χρυ σ ικ νο μίσματα β κ εράτια ιθ",
+      "translation": ""
+    },
+    {
+      "corpus_id": 10069,
+      "reference": "P.Hib. 2.192",
+      "date": "270-250 BCE",
+      "description": "Recipe papyrus",
+      "description_html": "Recipe papyrus",
+      "greek": "σταφυλίνου λευκοῦ σταφυλίνου λευκοῦ σπέρματος καὶ δαφνίδας δύο καὶ δαφνίδας δύο καὶ πάνακες ὀβολὸν ὁλκῇ καὶ πάνακες ὀβολὸν ὁλκῇ ἐν ὄξ ἐν ὄξ ε ι τρίψας κύαθον καὶ ἁλὸς δ ι ρα χμ καὶ κοτύλην καὶ κοτύλην ὕδατος ὄδατος εἰς ταὐτὸ τρίψας πιεῖν εἰς ταὐτὸ τρίψας πιεῖν δὸς τὴν δὲ πληγὴν μικ τὴν δὲ πληγὴν μικ ρὸ ν τοῦ φαρμάκου καὶ τοῦ τοῦ φαρμάκου καὶ τοῦ μέλιτος καὶ ἐλαίου κατὰ πρα καὶ ἐλαίου κατὰ πρα κολλυρίων σύνθεσις κολλυρίων σύνθεσις σταφυλίνου τέταρ σταφυλίνου τέταρ τ o ν μ έρ ο ς τῆς χοίν χοίν ι κος δαφνίδας· κ αὶ καὶ πάνακες ὁλκῇ δ καὶ πάνακες ὁλκῇ δ ρ αχμ κόψας εἰς ταὐτὸ κόψας εἰς ταὐτὸ διάσηθειν ὀθονίῳ λεπτῶι καὶ ἀλεύρου λεπτῶι καὶ ἀλεύρου . τέταρτον μέρος πα τέταρτον μέρος πα καὶ φύρασον ὕδ καὶ φύρασον ὕδ α η τι",
+      "translation": ""
+    },
+    {
+      "corpus_id": 10070,
+      "reference": "SB 8.9860",
+      "date": "225-200 BCE",
+      "description": "Recipe papyrus",
+      "description_html": "Recipe papyrus",
+      "greek": "Μνά Μνά σ ωνος. σποδοῦ κυ σποδοῦ κυ π ρίας δραχμὴν δ , ὀποῦ ὀπτο ὀποῦ ὀπτο 3 τριώβολον τριόβολον , κόμ μεως μεως κόμ μιος μιος λευκ οῦ ὀβολὸν ἡ μιωβέλιο μιωβέλιο ν ἡ μιοβέλιο μιοβέλιο ν . τ αῦτα υ τρί ψας ἐν οἴν ψας ἐν οἴν ωι ἢ ὕδατι καὶ ἀνα καὶ ἀνα πλ άσας κολλύ ρια, χρῶ ρια, χρῶ πρὸς τὰ πρὸς τὰ ῥεύματα τὰ ῥεύματα καὶ τὰς περιωδυνί καὶ τὰς περιωδυνί ας καὶ φλεγμονάς. εἰ ας καὶ φλεγμονάς. εἰ δὲ βούλει δὲ βούλει ἐμπ λ άστωι ἐμπάστωι χρῆσθαι χρᾶσθαι αὐτῆι τῇ σπο δῶι καὶ τῶι μή κωνίωι ὀπτῶι δεῖ ἤρῳ χρῶ. Εὐήδου. Εὐήδου. ὀρι γάνου Ἡρακλε ω τικ ῆς δραχμὰς β , νάρ δ ου δραχμὰς κρό κου τριώβολον τριόβολον , κι ν ναμώμου τριώβολον , κ , σμ ύρνης ἥμισυ , μήκων ος ης στυπτηρίας σχιστῆς στυπτηρίας σχιστῆς δραχμὰς χαλκοῦ κεκαυμένου χαλκοῦ κεκαυμένου α ἰοῦ ἰοῦ δυόβολους σποδοῦ κυπρίας δραχμὰς δ ταῦτα ἐν οἴνωι εὐώδει ταῦτα ἐν οἴνωι εὐώδει ὅτι βελτίστωι λειάνας, ὅτι βελτίστωι λειάνας, ἀναπλάσας κολλύρια, χρῶ. ἀναπλάσας κολλύρια, χρῶ. ἀριστωλοχίας ἀριστωλοχείας σπέρμα τος τος δραχμὰς δ ἴρεως ἴρεος δραχμὰς δ πανά κους ὀπτοῦ κους ὀπτοῦ δραχμὰς δ κενταυ ρείου ρείου δραχμὰς δ , σταφυλίνου σταφυλείου δραχμὰς δ ἄγνου σπέρματος ἄγνου σπέρματος δραχμὰς δ ἀγχούσης ἀνχούσης σπέρμα τ ος δραχμὰς δ πηγάνου ἀγρίου πηγάνου ἀγρίου σπερ ματος ματος δραχμὰς δ καὶ ἡμέρο καὶ ἡμέρο υ δραχμὰς δ . ἄ ἄ λλ ο. σα μ ψύχου ο λλαισπουδο .. καὶ βλέφαρα χυλὸν ἀπίων ἐπίων καὶ ποι ῶν τοῦτον ὡς μέλιτος τὸ πάχος ἀναξήραινε τ ο ῦτο τρὶς ποιήσας μ έ - - λιτι ἀναπλάσας, χρῶ πε πέρεως, σμύρνης κρό κου, μήκωνος, μίσυος κινν αμώμου, χαλκίτιδος ἀπό ζ εμα, σποδοῦ ἐβένου, νάρ δου, ἴρε ως ταῦτα λεάνας ὕ δατ ι ἔμπ λα σσ ε κεφ α λῆς. λα δά νου δραχμὰς η οἴνου μέλ ανος κοτύλην ἐλαί ου νην ταῦτα ἀνα κ ό ψας ἐν τῶι χρῶ χρίου τὸν χρῶτα προσ μενος γῆι Κιμωλίαι τὴν κεφα λ ήν. Πραξάγορας μὲν ηὐδοκίμει ἐν ταύτηι Πραξάγορας μὲν ηὐδοκίμει ἐν ταύτηι τῆι δυνὰμει. τῆι δυνὰμει. ἐχρῆτο ἐχράτω γὰρ αὐτῆι καὶ ὑγρᾶι ὑγρᾶι καὶ ξηρᾶι καὶ κολλυρίωι· ὑγράι μὲν ὑγράι μὲν ο ὖ ν ν ἐν γλυκεῖ τρίβων λεῖον καὶ ποιῶν μέλιτος τὸ πάχος· ξηρᾶι δὲ καὶ ποιῶν μέλιτος τὸ πάχος· ξηρᾶι δὲ ἐν οἴνωι τρίβων λεῖον καὶ ξηραίνων. ἐν οἴνωι τρίβων λεῖον καὶ ξηραίνων. πάλιν δὲ εἰ βούλει αὐτῶι κολλυρίωι πάλιν δὲ εἰ βούλει αὐτῶι κολλυρίωι χρῆσθαι χρῆσθαι ἀναπλάσ σ ων ἀναπλάσων ἐν ει οἴνωι καὶ ἀναξηραίνων, χρῶ ἐν ὕδατι. ἀναξηραίνων, χρῶ ἐν ὕδατι. ἔστιν δὲ ἐξ ὧν συντίθεται ἔστιν δὲ ἐξ ὧν συντίθεται σποδοῦ κυπρίας σποδοῦ κυπρίας δραχμὰς δ , ἐβέ νου κατεζυσμένης δραχμὰς β , χαλκοῦ κεκαυμένου χαλκοῦ κεκαυμένου δραχμὰς β , σμ ύρνης δραχμὴν , μα - δάλκου πέντε ὀβολοὺς, νάρδου νάρνου ἰσώβολον, ἰοῦ ἰσώβολον, ἰοῦ τριώβολοντριόβολον ὀβολὸν μίσυος ὀπτοῦ ὀβολὸν μίσυος ὀπτοῦ ὀβολὸν π επέ ρεως ρεως π επέ ριος ριος στρογ γύλ ο υ κ ό κ κους τρεῖς κους τρεῖς . Διονυσίου ἡ ἀρετή. σποπδοῦ κυπρίας σποπδοῦ κυπρίας δραχμὰς β ῥόδων τοῦ ἐμμέσου ῥόδων τοῦ ἐμμέσου ἄνθους τριώβολον ἄνθους τριώβολον , κρό κου τριώβολον κου τριώβολον , σμύρνης ὀβολόν σμύρνης ὀβολόν , μηκωνίου μηκωνίου ἡμιωβέ λιον λιον ἡμιοβέ λιον λιον , κόμμεως κόμμιος λευκοῦ τριώβολοντριόβολον . ταῦ τ α ἐ κλεάνας κλεάνας ἐ γλεάνας γλεάνας ἐν ει οἴνωι λευ κῶι ὡς βελτίστωι ἀ κῶι ὡς βελτίστωι ἀ ναπλάσας ναπλάσας κολλύριον α , χρῶ. χρῶ. ἄλλο. παρὰ τὴν ἀ ρετὴν συνέθηκε ρετὴν συνέθηκε κόμμεως κόμμιος λευκοῦ μέρη τρία , σποδοῦ μέρος ἕν σποδοῦ μέρος ἕν , χαλκοῦ κεκαυμένου κεκαυμένου ἥμισυ ἥμυσυ , ὑοσ κυάμου χύλισμα ἴσον τῶι κυάμου χύλισμα ἴσον τῶι χαλκῶι χαλκοῦ . ταῦτα ἐκλεάνας ἐγλεάνας καὶ ἀναπλάσας ἐν ὕδα καὶ ἀναπλάσας ἐν ὕδα τι, χρῶ. τι, χρῶ. Μνάσωνος. Μνάσωνος. ῤόδων προσφάτων ῤόδων προσφάτων φύλλων δραχμὰς φύλλων δραχμὰς τέσσαρας τέσσαρας , χαλκοῦ κε καυμένου καυμένου τριώβολον τριόβολον . ταῦτα ταῦτα ἐκλεάνας ἐγλεάνας ὅτι κάλ λιστα καὶ ἀναπλά σας κολλύρια, χρῶ πρὸς σας κολλύρια, χρῶ πρὸς τὰ ῥεύματα, πρὸς δὲ τὰ ῥεύματα, πρὸς δὲ τὰ ἑλκώματα μὴ προσάπ ἑλκώματα μὴ προσάπ του . ἄλλο. ἄλλο. ὀμφακίου ὀμφακέου ξηρά, ψιμ ιθίου θρ ίδακος δραχμ ά ς",
+      "translation": ""
+    },
+    {
+      "corpus_id": 137492,
+      "reference": "P.Horak. 14",
+      "date": "undated",
+      "description": "Ophthalmia remedy with multiple ingredients",
+      "description_html": "Ophthalmia remedy with multiple ingredients",
+      "greek": "καὶ κὲ ψωροφθαλμίας ἀπο πείραζε πείραζε ἀπο πίραζε πίραζε καδμείας καδμίας δραχμαὶ κ . πεπέρεως πιπέρ ε ως λευκοῦ λευκοῦ δραχμὴ α ψιμυθίου ψιμιθίου δραχμαὶ η μέλανος ἰφιδικο μέλανος ἰφιδικο δραχμαὶ η κόμμεως κόμεως δραχμαὶ η ὀποβαλσάμου ἀποβαλσάμου δραχμαὶ . ὕ ὕ δω ρ κρόκου κρόκου δραχμαὶ β σμύρνης ζμήρνης δραχμαὶ β χαλκίτεως χαλ κ ίθεως τριώβολον ἐρείκης ἐρίκης τριώβολον ἀλλόης ἀλλόης δραχμαὶ β υΔ́ωρ κάλλιστο ν κα λ ιστο κολλούριον κ ολ ούριον ἀχ άρ ιστον ....... δραχμαὶ ι ϛ σμύρνης ζμήρνης δραχμαὶ .. . α . . . .",
+      "translation": "Also for ophthalmia (eye disease), try: cadmia, drachmae 20; white pepper, drachma 1; white lead, drachmae 8; black ink, drachmae 8; gum, drachmae 8; balsam oil, drachmae [...]; water; saffron, drachmae 2; myrrh, drachmae 2; copper ore, 3 obols; heather, 3 obols; aloe, drachmae 2; water, best quality. Eye-salve, \"ungrateful\" [...] drachmae 16; myrrh, drachmae [...]."
+    },
+    {
+      "corpus_id": 13813,
+      "reference": "P.Bad. 2.17",
+      "date": "1st century BCE (?)",
+      "description": "Documentary text with drug <greek>(φάρμακον)</greek>",
+      "description_html": "Documentary text with drug <greek>(φάρμακον)</greek>",
+      "greek": "Πτολεμαῖος Πτολεμαῖος παρὰ παρὰ ΘοτσυτΘοτσυτουΘοτσυτμιος γράφεις ἐνοχ γράφεις ἐνοχ λ ἀ νήγγειλεν π οὖν ε οὖν ε ... σ θ . εἰ παραγενο εἰ παραγενο μ εν μὴ οὐχ ἱκα μὴ οὐχ ἱκα ν μεθʼ αὑτῆς μεθʼ αὑτῆς . ἔτι ἐνωχλουμ ἔτι ἐνωχλουμ αν πρὸς σὲ καλ αν πρὸς σὲ καλ παρακαλεῖ οὖ παρακαλεῖ οὖ ν ἀλλʼ ἀναλαμβ ἀλλʼ ἀναλαμβ αν ναι Σώστρατον ἀκ ναι Σώστρατον ἀκ ου῏ν διὰ τοῦτο ου῏ν διὰ τοῦτο ἀ ἐγὼ γὰρ παρέ ἐγὼ γὰρ παρέ σ ομαι καθῶς κε λεύσει μεθʼ ἡμ καὶ φάρμακον ταλ καὶ φάρμακον ταλ ι σοι γὰρ οὐκ ἦν α σοι γὰρ οὐκ ἦν α ποιεῖν ἡμᾶς τι κακόν ἡμᾶς τι κακόν",
+      "translation": ""
+    }
+  ],
+  "further_reading": [
+    "Vivian Nutton, *Ancient Medicine*.",
+    "Ann Ellis Hanson, essays on medical papyri and healing practice in Graeco-Roman Egypt.",
+    "Isabella Andorlini, writings on Greek medical papyri from Egypt.",
+    "Lawrence M. Bliquez, *The Tools of Asclepius*.",
+    "Roger S. Bagnall, *Egypt in Late Antiquity*."
+  ]
+}

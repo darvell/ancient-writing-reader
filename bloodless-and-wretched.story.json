@@ -89,6 +89,7 @@
       "id": 1,
       "section": "",
       "text": "ISic030032 (corpus ID 8420), Kamarina, 460--440 BCE. The Greek closing formula reads: *anaimatoi eston hoi de pantes dussooi*. Translation based on Dubois's French: \"Que tous ceux-ci soient exsangues, malheureux soient-ils.\" The present translation renders the Greek more literally.",
+      "text_html": "ISic030032 (corpus ID 8420), Kamarina, 460&ndash;440 BCE. The Greek closing formula reads: <em>anaimatoi eston hoi de pantes dussooi</em>. Translation based on Dubois&rsquo;s French: &ldquo;Que tous ceux-ci soient exsangues, malheureux soient-ils.&rdquo; The present translation renders the Greek more literally.",
       "corpus_ids": [
         8420
       ]
@@ -97,6 +98,7 @@
       "id": 2,
       "section": "",
       "text": "ISic030032 (corpus ID 8420). The tablet opens: *hoi de gegrabatai epi dyspragiai* -- \"those who follow are inscribed for failure.\" On the typical dimensions and materiality of Greek curse tablets, see D.R. Jordan, \"A Survey of Greek Defixiones Not Included in the Special Corpora,\" *Greek, Roman, and Byzantine Studies* 26 (1985): 151--197.",
+      "text_html": "ISic030032 (corpus ID 8420). The tablet opens: <em>hoi de gegrabatai epi dyspragiai</em> &ndash; &ldquo;those who follow are inscribed for failure.&rdquo; On the typical dimensions and materiality of Greek curse tablets, see D.R. Jordan, &ldquo;A Survey of Greek Defixiones Not Included in the Special Corpora,&rdquo; <em>Greek, Roman, and Byzantine Studies</em> 26 (1985): 151&ndash;197.",
       "corpus_ids": [
         8420
       ]
@@ -105,6 +107,7 @@
       "id": 3,
       "section": "",
       "text": "ISic030032 (corpus ID 8420). The names are read from the Greek text: Kerdon, Puthon son of Diokles, Melanthios, Dion son of Parmenon, Onasimos, Athanios, Darchon, Tellon, Euthymos, Geloios, Gerys, Hagnos, Chairis, Xenippos. Some readings are uncertain due to damage.",
+      "text_html": "ISic030032 (corpus ID 8420). The names are read from the Greek text: Kerdon, Puthon son of Diokles, Melanthios, Dion son of Parmenon, Onasimos, Athanios, Darchon, Tellon, Euthymos, Geloios, Gerys, Hagnos, Chairis, Xenippos. Some readings are uncertain due to damage.",
       "corpus_ids": [
         8420
       ]
@@ -113,12 +116,14 @@
       "id": 4,
       "section": "",
       "text": "On the necropolis of Passo Marinaro, southeast of Kamarina, and the archaeological context of the lead tablets, see G. Pelagatti, \"Camarina: relazione preliminare della campagna di scavi 1961--1965,\" *Bollettino d'Arte* 51 (1966). On the piercing of tablets, see J.G. Gager, *Curse Tablets and Binding Spells from the Ancient World* (Oxford: Oxford University Press, 1992), 18--21.",
+      "text_html": "On the necropolis of Passo Marinaro, southeast of Kamarina, and the archaeological context of the lead tablets, see G. Pelagatti, &ldquo;Camarina: relazione preliminare della campagna di scavi 1961&ndash;1965,&rdquo; <em>Bollettino d&rsquo;Arte</em> 51 (1966). On the piercing of tablets, see J.G. Gager, <em>Curse Tablets and Binding Spells from the Ancient World</em> (Oxford: Oxford University Press, 1992), 18&ndash;21.",
       "corpus_ids": []
     },
     {
       "id": 5,
       "section": "",
       "text": "F. Cordano identified eleven katadesmoi among the lead assemblage from Passo Marinaro. See F. Cordano, \"Le tessere pubbliche del tempio di Atena a Camarina,\" *Quaderni di Archeologia della Libia* 21 (2006), and the analysis in the research file at corpus ID 8420.",
+      "text_html": "F. Cordano identified eleven katadesmoi among the lead assemblage from Passo Marinaro. See F. Cordano, &ldquo;Le tessere pubbliche del tempio di Atena a Camarina,&rdquo; <em>Quaderni di Archeologia della Libia</em> 21 (2006), and the analysis in the research file at corpus ID 8420.",
       "corpus_ids": [
         8420
       ]
@@ -127,24 +132,28 @@
       "id": 6,
       "section": "lead",
       "text": "On the overwhelming preference for lead as the medium for curse tablets across the Greek and Roman worlds, see Gager, *Curse Tablets*, 3--7; Jordan, \"Survey of Greek Defixiones,\" 151--155; and J.L. Lamont, *In Blood and Ashes: Curse Tablets and Binding Spells in Ancient Greece* (Oxford: Oxford University Press, 2023), ch. 1.",
+      "text_html": "On the overwhelming preference for lead as the medium for curse tablets across the Greek and Roman worlds, see Gager, <em>Curse Tablets</em>, 3&ndash;7; Jordan, &ldquo;Survey of Greek Defixiones,&rdquo; 151&ndash;155; and J.L. Lamont, <em>In Blood and Ashes: Curse Tablets and Binding Spells in Ancient Greece</em> (Oxford: Oxford University Press, 2023), ch. 1.",
       "corpus_ids": []
     },
     {
       "id": 7,
       "section": "lead",
       "text": "On lead as a byproduct of silver mining, see R.J. Forbes, *Studies in Ancient Technology*, vol. 8 (Leiden: Brill, 1971), 193--220. The Laurion mines in Attica were the principal Greek source; Sicilian and Sardinian deposits also contributed.",
+      "text_html": "On lead as a byproduct of silver mining, see R.J. Forbes, <em>Studies in Ancient Technology</em>, vol. 8 (Leiden: Brill, 1971), 193&ndash;220. The Laurion mines in Attica were the principal Greek source; Sicilian and Sardinian deposits also contributed.",
       "corpus_ids": []
     },
     {
       "id": 8,
       "section": "lead",
       "text": "Hesiod, *Works and Days*, line 741: lead appears as a symbol of heaviness. On the symbolic properties of lead in magical thought, see the discussion in C. Faraone, \"The Agonistic Context of Early Greek Binding Spells,\" in C. Faraone and D. Obbink, eds., *Magika Hiera: Ancient Greek Magic and Religion* (Oxford: Oxford University Press, 1991), 3--32.",
+      "text_html": "Hesiod, <em>Works and Days</em>, line 741: lead appears as a symbol of heaviness. On the symbolic properties of lead in magical thought, see the discussion in C. Faraone, &ldquo;The Agonistic Context of Early Greek Binding Spells,&rdquo; in C. Faraone and D. Obbink, eds., <em>Magika Hiera: Ancient Greek Magic and Religion</em> (Oxford: Oxford University Press, 1991), 3&ndash;32.",
       "corpus_ids": []
     },
     {
       "id": 9,
       "section": "lead",
       "text": "ISic030019 (corpus ID 8373), Gela, 475--450 BCE: \"As this lead (does), so may my spells against those men draw away their honour\" -- *hos houtos ho bolimos tos te...epoidi ai timan erysainto*. Translation by P. Wilson and F. Favi.",
+      "text_html": "ISic030019 (corpus ID 8373), Gela, 475&ndash;450 BCE: &ldquo;As this lead (does), so may my spells against those men draw away their honour&rdquo; &ndash; <em>hos houtos ho bolimos tos te&hellip;epoidi ai timan erysainto</em>. Translation by P. Wilson and F. Favi.",
       "corpus_ids": [
         8373
       ]
@@ -153,60 +162,70 @@
       "id": 10,
       "section": "lead",
       "text": "On the *similia similibus* formula in curse tablets, see J. Franek and D. Urbanová, \"'May Their Limbs Melt, Just as This Lead Shall Melt...': Sympathetic Magic and Similia Similibus Formulae in Greek and Latin Curse Tablets (Part 1),\" *Philologia Classica* 14.1 (2019): 27--55. The analogy is foundational to the theory of sympathetic magic as formulated by J.G. Frazer, *The Golden Bough* (1890), and refined by subsequent scholarship.",
+      "text_html": "On the <em>similia similibus</em> formula in curse tablets, see J. Franek and D. Urbanová, &ldquo;&lsquo;May Their Limbs Melt, Just as This Lead Shall Melt&hellip;&rsquo;: Sympathetic Magic and Similia Similibus Formulae in Greek and Latin Curse Tablets (Part 1),&rdquo; <em>Philologia Classica</em> 14.1 (2019): 27&ndash;55. The analogy is foundational to the theory of sympathetic magic as formulated by J.G. Frazer, <em>The Golden Bough</em> (1890), and refined by subsequent scholarship.",
       "corpus_ids": []
     },
     {
       "id": 11,
       "section": "lead",
       "text": "The Greek term *katadesmos* (κατάδεσμος) derives from *kata* (\"down\") + *deo* (\"I bind\"). See Gager, *Curse Tablets*, 3.",
+      "text_html": "The Greek term <em>katadesmos</em> (κατάδεσμος) derives from <em>kata</em> (&ldquo;down&rdquo;) + <em>deo</em> (&ldquo;I bind&rdquo;). See Gager, <em>Curse Tablets</em>, 3.",
       "corpus_ids": []
     },
     {
       "id": 12,
       "section": "lead",
       "text": "The Latin term *defixio* derives from *defigere*, \"to fix down, to nail.\" See A. Audollent, *Defixionum Tabellae* (Paris, 1904), the foundational corpus.",
+      "text_html": "The Latin term <em>defixio</em> derives from <em>defigere</em>, &ldquo;to fix down, to nail.&rdquo; See A. Audollent, <em>Defixionum Tabellae</em> (Paris, 1904), the foundational corpus.",
       "corpus_ids": []
     },
     {
       "id": 13,
       "section": "lead",
       "text": "At least three Kamarina tablets bear nail-holes. See the discussion in Cordano's analysis and the archaeological reports from Passo Marinaro. On the ritual significance of nailing, see Gager, *Curse Tablets*, 18--21.",
+      "text_html": "At least three Kamarina tablets bear nail-holes. See the discussion in Cordano&rsquo;s analysis and the archaeological reports from Passo Marinaro. On the ritual significance of nailing, see Gager, <em>Curse Tablets</em>, 18&ndash;21.",
       "corpus_ids": []
     },
     {
       "id": 14,
       "section": "lead",
       "text": "On the depositional contexts of curse tablets -- graves, wells, chthonic sanctuaries, bodies of water -- see Lamont, *In Blood and Ashes*, ch. 2; Gager, *Curse Tablets*, 18--22.",
+      "text_html": "On the depositional contexts of curse tablets &ndash; graves, wells, chthonic sanctuaries, bodies of water &ndash; see Lamont, <em>In Blood and Ashes</em>, ch. 2; Gager, <em>Curse Tablets</em>, 18&ndash;22.",
       "corpus_ids": []
     },
     {
       "id": 15,
       "section": "lead",
       "text": "On the *aoroi* (premature dead) and *biaiothanatoi* (violently dead) as preferred intermediaries for curse magic, see S.I. Johnston, *Restless Dead: Encounters Between the Living and the Dead in Ancient Greece* (Berkeley: University of California Press, 1999), chs. 3--4.",
+      "text_html": "On the <em>aoroi</em> (premature dead) and <em>biaiothanatoi</em> (violently dead) as preferred intermediaries for curse magic, see S.I. Johnston, <em>Restless Dead: Encounters Between the Living and the Dead in Ancient Greece</em> (Berkeley: University of California Press, 1999), chs. 3&ndash;4.",
       "corpus_ids": []
     },
     {
       "id": 16,
       "section": "the-island-where-it-started",
       "text": "Jordan, \"Survey of Greek Defixiones,\" catalogues examples from across the Greek world. Jordan's 2000 supplement, \"New Greek Curse Tablets (1985--2000),\" *Greek, Roman, and Byzantine Studies* 41 (2000): 5--46, adds approximately one hundred more.",
+      "text_html": "Jordan, &ldquo;Survey of Greek Defixiones,&rdquo; catalogues examples from across the Greek world. Jordan&rsquo;s 2000 supplement, &ldquo;New Greek Curse Tablets (1985&ndash;2000),&rdquo; <em>Greek, Roman, and Byzantine Studies</em> 41 (2000): 5&ndash;46, adds approximately one hundred more.",
       "corpus_ids": []
     },
     {
       "id": 17,
       "section": "the-island-where-it-started",
       "text": "On the Selinus tablets as among the earliest surviving defixiones, see Lamont, *In Blood and Ashes*, ch. 3; M. Bettarini, *Corpus delle defixiones di Selinunte* (Alessandria: Edizioni dell'Orso, 2005). Also: L. Ferreri, \"The Selinunte Defixiones as Evidence for Epigraphic Literacy and Western Sicilian Identities,\" in *Sicilian Identities* (2019).",
+      "text_html": "On the Selinus tablets as among the earliest surviving defixiones, see Lamont, <em>In Blood and Ashes</em>, ch. 3; M. Bettarini, <em>Corpus delle defixiones di Selinunte</em> (Alessandria: Edizioni dell&rsquo;Orso, 2005). Also: L. Ferreri, &ldquo;The Selinunte Defixiones as Evidence for Epigraphic Literacy and Western Sicilian Identities,&rdquo; in <em>Sicilian Identities</em> (2019).",
       "corpus_ids": []
     },
     {
       "id": 18,
       "section": "the-island-where-it-started",
       "text": "On the sanctuary of Zeus Meilichios at Selinus and the deposition of curse tablets in the *campo di stele*, see V. Hinz, *Der Kult von Demeter und Kore auf Sizilien und in der Magna Graecia* (Wiesbaden: Reichert, 1998); and C. Grotta, *Zeus Meilichios a Selinunte* (Rome, 2010).",
+      "text_html": "On the sanctuary of Zeus Meilichios at Selinus and the deposition of curse tablets in the <em>campo di stele</em>, see V. Hinz, <em>Der Kult von Demeter und Kore auf Sizilien und in der Magna Graecia</em> (Wiesbaden: Reichert, 1998); and C. Grotta, <em>Zeus Meilichios a Selinunte</em> (Rome, 2010).",
       "corpus_ids": []
     },
     {
       "id": 19,
       "section": "the-island-where-it-started",
       "text": "ISic030317 (corpus ID 71), Monte Casasia, first half of the 6th century BCE. The text is fragmentary and its classification remains debated. See R. Arena, *Iscrizioni greche arcaiche di Sicilia e Magna Grecia*, vol. 2 (Milan, 1996).",
+      "text_html": "ISic030317 (corpus ID 71), Monte Casasia, first half of the 6th century BCE. The text is fragmentary and its classification remains debated. See R. Arena, <em>Iscrizioni greche arcaiche di Sicilia e Magna Grecia</em>, vol. 2 (Milan, 1996).",
       "corpus_ids": [
         71
       ]
@@ -215,30 +234,35 @@
       "id": 20,
       "section": "the-island-where-it-started",
       "text": "On the foundation dates and histories of the major Greek colonies in Sicily, see T.J. Dunbabin, *The Western Greeks* (Oxford: Clarendon Press, 1948); I. Malkin, *Religion and Colonization in Ancient Greece* (Leiden: Brill, 1987).",
+      "text_html": "On the foundation dates and histories of the major Greek colonies in Sicily, see T.J. Dunbabin, <em>The Western Greeks</em> (Oxford: Clarendon Press, 1948); I. Malkin, <em>Religion and Colonization in Ancient Greece</em> (Leiden: Brill, 1987).",
       "corpus_ids": []
     },
     {
       "id": 21,
       "section": "the-island-where-it-started",
       "text": "On Aeschylus in Gela, see the *Vita Aeschyli* and Plutarch, *Cimon* 8.8. Pausanias 1.14.5 records that Aeschylus died at Gela. Peter Wilson has argued that the Apellis tablet is evidence for choregic competition at Gela in the 470s--450s; see P. Wilson, \"Sicilian Choruses,\" in P. Wilson, ed., *The Greek Theatre and Festivals* (Oxford: Oxford University Press, 2007).",
+      "text_html": "On Aeschylus in Gela, see the <em>Vita Aeschyli</em> and Plutarch, <em>Cimon</em> 8.8. Pausanias 1.14.5 records that Aeschylus died at Gela. Peter Wilson has argued that the Apellis tablet is evidence for choregic competition at Gela in the 470s&ndash;450s; see P. Wilson, &ldquo;Sicilian Choruses,&rdquo; in P. Wilson, ed., <em>The Greek Theatre and Festivals</em> (Oxford: Oxford University Press, 2007).",
       "corpus_ids": []
     },
     {
       "id": 22,
       "section": "the-island-where-it-started",
       "text": "Lamont, *In Blood and Ashes*, introduction and ch. 1: \"a continuous history of curse-tablets from archaic to late Hellenistic times, beginning in Sicily and Italy then moving eastward to Attica, the Aegean, and beyond -- contrary to modern expectations that such ritual technologies generally moved from East to West.\"",
+      "text_html": "Lamont, <em>In Blood and Ashes</em>, introduction and ch. 1: &ldquo;a continuous history of curse-tablets from archaic to late Hellenistic times, beginning in Sicily and Italy then moving eastward to Attica, the Aegean, and beyond &ndash; contrary to modern expectations that such ritual technologies generally moved from East to West.&rdquo;",
       "corpus_ids": []
     },
     {
       "id": 23,
       "section": "the-island-where-it-started",
       "text": "On the cult of Zeus Meilichios at Selinus and its possible blend of Greek and indigenous elements, see Grotta, *Zeus Meilichios a Selinunte* (2010).",
+      "text_html": "On the cult of Zeus Meilichios at Selinus and its possible blend of Greek and indigenous elements, see Grotta, <em>Zeus Meilichios a Selinunte</em> (2010).",
       "corpus_ids": []
     },
     {
       "id": 24,
       "section": "the-island-where-it-started",
       "text": "ISic030317 (corpus ID 71): \"subdue, and master the unwilling by force\" -- *damnameneu damason de kakos aekontas anankiai*. The imperative *damason* (\"subdue!\") and the noun *anankia* (\"force,\" \"necessity\") belong to the vocabulary of magical compulsion.",
+      "text_html": "ISic030317 (corpus ID 71): &ldquo;subdue, and master the unwilling by force&rdquo; &ndash; <em>damnameneu damason de kakos aekontas anankiai</em>. The imperative <em>damason</em> (&ldquo;subdue!&rdquo;) and the noun <em>anankia</em> (&ldquo;force,&rdquo; &ldquo;necessity&rdquo;) belong to the vocabulary of magical compulsion.",
       "corpus_ids": [
         71
       ]
@@ -247,6 +271,7 @@
       "id": 25,
       "section": "the-names-at-kamarina",
       "text": "ISic030032 (corpus ID 8420): *hoi de gegrabatai epi dyspragiai*.",
+      "text_html": "ISic030032 (corpus ID 8420): <em>hoi de gegrabatai epi dyspragiai</em>.",
       "corpus_ids": [
         8420
       ]
@@ -255,12 +280,14 @@
       "id": 26,
       "section": "the-names-at-kamarina",
       "text": "The name *Kerdon* derives from *kerdos* (\"gain,\" \"profit\"). It is attested as a common name among artisans and traders; see LGPN (Lexicon of Greek Personal Names).",
+      "text_html": "The name <em>Kerdon</em> derives from <em>kerdos</em> (&ldquo;gain,&rdquo; &ldquo;profit&rdquo;). It is attested as a common name among artisans and traders; see LGPN (Lexicon of Greek Personal Names).",
       "corpus_ids": []
     },
     {
       "id": 27,
       "section": "the-names-at-kamarina",
       "text": "*Melanthios* appears on ISic030032 (corpus ID 8420) at Kamarina and on ISic030019 (corpus ID 8373) at Gela, where Sosias is cursed \"because of his love of Melanthios.\" Whether the same individual is meant cannot be determined, but the name is not extremely common in the Sicilian corpus.",
+      "text_html": "<em>Melanthios</em> appears on ISic030032 (corpus ID 8420) at Kamarina and on ISic030019 (corpus ID 8373) at Gela, where Sosias is cursed &ldquo;because of his love of Melanthios.&rdquo; Whether the same individual is meant cannot be determined, but the name is not extremely common in the Sicilian corpus.",
       "corpus_ids": [
         8420,
         8373
@@ -270,6 +297,7 @@
       "id": 28,
       "section": "the-names-at-kamarina",
       "text": "ISic030032 (corpus ID 8420): *anaimatoi eston hoi de pantes dussooi*.",
+      "text_html": "ISic030032 (corpus ID 8420): <em>anaimatoi eston hoi de pantes dussooi</em>.",
       "corpus_ids": [
         8420
       ]
@@ -278,24 +306,28 @@
       "id": 29,
       "section": "the-names-at-kamarina",
       "text": "Homer, *Odyssey* 11.34--43: Odysseus digs a trench and pours libations, then sacrifices animals so that the dead may drink blood and speak. The *anaimonoi nekroi* -- bloodless dead -- are a fundamental concept in Greek eschatology.",
+      "text_html": "Homer, <em>Odyssey</em> 11.34&ndash;43: Odysseus digs a trench and pours libations, then sacrifices animals so that the dead may drink blood and speak. The <em>anaimonoi nekroi</em> &ndash; bloodless dead &ndash; are a fundamental concept in Greek eschatology.",
       "corpus_ids": []
     },
     {
       "id": 30,
       "section": "the-names-at-kamarina",
       "text": "*Dussooi* (δύσσοοι) -- \"wretched,\" \"ill-fated\" -- is rare in literary Greek. Its appearance on the Kamarina tablet marks it as belonging to the register of popular, ritual, or vernacular language rather than to the literary koine.",
+      "text_html": "<em>Dussooi</em> (δύσσοοι) &ndash; &ldquo;wretched,&rdquo; &ldquo;ill-fated&rdquo; &ndash; is rare in literary Greek. Its appearance on the Kamarina tablet marks it as belonging to the register of popular, ritual, or vernacular language rather than to the literary koine.",
       "corpus_ids": []
     },
     {
       "id": 31,
       "section": "the-names-at-kamarina",
       "text": "On the Passo Marinaro necropolis at Kamarina, see Pelagatti, \"Camarina: relazione preliminare\" (1966); and C.W. Weiss, *The Bioarchaeology of Classical Kamarina: Life and Death in Greek Sicily* (Gainesville: University Press of Florida, 2017), reviewed in *American Journal of Archaeology* 121.3 (2017).",
+      "text_html": "On the Passo Marinaro necropolis at Kamarina, see Pelagatti, &ldquo;Camarina: relazione preliminare&rdquo; (1966); and C.W. Weiss, <em>The Bioarchaeology of Classical Kamarina: Life and Death in Greek Sicily</em> (Gainesville: University Press of Florida, 2017), reviewed in <em>American Journal of Archaeology</em> 121.3 (2017).",
       "corpus_ids": []
     },
     {
       "id": 32,
       "section": "the-names-at-kamarina",
       "text": "Cordano's study of the Kamarina katadesmoi is discussed in the research analysis accompanying corpus ID 8420. See also the I.Sicily entries for ISic030028 through ISic030260.",
+      "text_html": "Cordano&rsquo;s study of the Kamarina katadesmoi is discussed in the research analysis accompanying corpus ID 8420. See also the I.Sicily entries for ISic030028 through ISic030260.",
       "corpus_ids": [
         8420
       ]
@@ -304,6 +336,7 @@
       "id": 33,
       "section": "the-names-at-kamarina",
       "text": "Examples from the Kamarina phratry tablets: ISic030122 (corpus ID 8423): \"Herakleidas son of Archonidas, fourth\"; ISic030124 (corpus ID 8425): \"Silanos son of Ithaigeues, fourteenth\"; ISic030125 (corpus ID 8426): \"Daikrates son of Lykiskos, fifth phratry\"; ISic030029 (corpus ID 8417): \"Aischylos son of Aristios, fourteenth.\"",
+      "text_html": "Examples from the Kamarina phratry tablets: ISic030122 (corpus ID 8423): &ldquo;Herakleidas son of Archonidas, fourth&rdquo;; ISic030124 (corpus ID 8425): &ldquo;Silanos son of Ithaigeues, fourteenth&rdquo;; ISic030125 (corpus ID 8426): &ldquo;Daikrates son of Lykiskos, fifth phratry&rdquo;; ISic030029 (corpus ID 8417): &ldquo;Aischylos son of Aristios, fourteenth.&rdquo;",
       "corpus_ids": [
         8423,
         8425,
@@ -315,12 +348,14 @@
       "id": 34,
       "section": "the-names-at-kamarina",
       "text": "On the possible functions of lead phratry tablets deposited in the Kamarina necropolis, see Cordano's analysis and the discussion in L. Dubois, *Inscriptions grecques dialectales de Sicile* (Rome: Ecole francaise de Rome, 1989), no. 120--135.",
+      "text_html": "On the possible functions of lead phratry tablets deposited in the Kamarina necropolis, see Cordano&rsquo;s analysis and the discussion in L. Dubois, <em>Inscriptions grecques dialectales de Sicile</em> (Rome: Ecole francaise de Rome, 1989), no. 120&ndash;135.",
       "corpus_ids": []
     },
     {
       "id": 35,
       "section": "apellis-and-the-boy-he-wanted",
       "text": "ISic030019 (corpus ID 8373), Gela, 475--450 BCE. The tablet is opisthographic (inscribed on both sides); the curse occupies one face, a commercial document the other. Translation by P. Wilson and F. Favi.",
+      "text_html": "ISic030019 (corpus ID 8373), Gela, 475&ndash;450 BCE. The tablet is opisthographic (inscribed on both sides); the curse occupies one face, a commercial document the other. Translation by P. Wilson and F. Favi.",
       "corpus_ids": [
         8373
       ]
@@ -329,6 +364,7 @@
       "id": 36,
       "section": "apellis-and-the-boy-he-wanted",
       "text": "ISic030019 (corpus ID 8373): *Eucha* (Εὐχά) -- \"Prayer\" or \"Vow.\" The word positions the curse as a religious act, an appeal to divine power.",
+      "text_html": "ISic030019 (corpus ID 8373): <em>Eucha</em> (Εὐχά) &ndash; &ldquo;Prayer&rdquo; or &ldquo;Vow.&rdquo; The word positions the curse as a religious act, an appeal to divine power.",
       "corpus_ids": [
         8373
       ]
@@ -337,6 +373,7 @@
       "id": 37,
       "section": "apellis-and-the-boy-he-wanted",
       "text": "ISic030019 (corpus ID 8373), full translation. See the corpus entry and Wilson's analysis in *The Greek Theatre and Festivals*.",
+      "text_html": "ISic030019 (corpus ID 8373), full translation. See the corpus entry and Wilson&rsquo;s analysis in <em>The Greek Theatre and Festivals</em>.",
       "corpus_ids": [
         8373
       ]
@@ -345,24 +382,28 @@
       "id": 38,
       "section": "apellis-and-the-boy-he-wanted",
       "text": "The word *philotati* (φιλότατι) in the Apellis tablet carries strong erotic connotations. In Homeric and archaic Greek, *philotes* can mean \"love,\" \"friendship,\" or specifically \"sexual love.\" The repeated phrase *epi philotati tai Eunikou* -- \"for love of Eunikos\" -- frames the entire curse as an act of erotic devotion.",
+      "text_html": "The word <em>philotati</em> (φιλότατι) in the Apellis tablet carries strong erotic connotations. In Homeric and archaic Greek, <em>philotes</em> can mean &ldquo;love,&rdquo; &ldquo;friendship,&rdquo; or specifically &ldquo;sexual love.&rdquo; The repeated phrase <em>epi philotati tai Eunikou</em> &ndash; &ldquo;for love of Eunikos&rdquo; &ndash; frames the entire curse as an act of erotic devotion.",
       "corpus_ids": []
     },
     {
       "id": 39,
       "section": "apellis-and-the-boy-he-wanted",
       "text": "On the *choregos* (χορηγός) and the choregic system, see P. Wilson, *The Athenian Institution of the Khoregia* (Cambridge: Cambridge University Press, 2000). The Apellis tablet uses the Doric form *khoragos* (χοραγός).",
+      "text_html": "On the <em>choregos</em> (χορηγός) and the choregic system, see P. Wilson, <em>The Athenian Institution of the Khoregia</em> (Cambridge: Cambridge University Press, 2000). The Apellis tablet uses the Doric form <em>khoragos</em> (χοραγός).",
       "corpus_ids": []
     },
     {
       "id": 40,
       "section": "apellis-and-the-boy-he-wanted",
       "text": "Wilson, in *The Greek Theatre and Festivals*, argues that the Apellis tablet provides crucial evidence for organized choregic competition at Gela, and that the presence of such competition helps explain the city's attraction for Aeschylus and Pindar.",
+      "text_html": "Wilson, in <em>The Greek Theatre and Festivals</em>, argues that the Apellis tablet provides crucial evidence for organized choregic competition at Gela, and that the presence of such competition helps explain the city&rsquo;s attraction for Aeschylus and Pindar.",
       "corpus_ids": []
     },
     {
       "id": 41,
       "section": "apellis-and-the-boy-he-wanted",
       "text": "ISic030019 (corpus ID 8373): *Sosian apographo apo tou kapeleiou Alkidan* -- \"I mark down Sosias, the one from the shop of the Alkiadai.\" *Kapeleion* is a \"shop\" or \"tavern\"; the Alkiadai are a family whose establishment serves as a social identifier.",
+      "text_html": "ISic030019 (corpus ID 8373): <em>Sosian apographo apo tou kapeleiou Alkidan</em> &ndash; &ldquo;I mark down Sosias, the one from the shop of the Alkiadai.&rdquo; <em>Kapeleion</em> is a &ldquo;shop&rdquo; or &ldquo;tavern&rdquo;; the Alkiadai are a family whose establishment serves as a social identifier.",
       "corpus_ids": [
         8373
       ]
@@ -371,6 +412,7 @@
       "id": 42,
       "section": "business-on-the-back-of-the-spell",
       "text": "ISic030016 (corpus ID 8389), Gela, 500--475 BCE. A lead letter recording a commercial transaction involving surety and cattle.",
+      "text_html": "ISic030016 (corpus ID 8389), Gela, 500&ndash;475 BCE. A lead letter recording a commercial transaction involving surety and cattle.",
       "corpus_ids": [
         8389
       ]
@@ -379,6 +421,7 @@
       "id": 43,
       "section": "business-on-the-back-of-the-spell",
       "text": "ISic030016 (corpus ID 8389), translation by Miller: \"Myskon, son of Damis son of Kobetos [...] Anthemokritos bade Apellis offer security [...] Myskon sitting along the avenue [...] came not having the money, the price of the cattle; he did not buy [...] went to Empedokles, son of Mnasimachos.\"",
+      "text_html": "ISic030016 (corpus ID 8389), translation by Miller: &ldquo;Myskon, son of Damis son of Kobetos [&hellip;] Anthemokritos bade Apellis offer security [&hellip;] Myskon sitting along the avenue [&hellip;] came not having the money, the price of the cattle; he did not buy [&hellip;] went to Empedokles, son of Mnasimachos.&rdquo;",
       "corpus_ids": [
         8389
       ]
@@ -387,6 +430,7 @@
       "id": 44,
       "section": "business-on-the-back-of-the-spell",
       "text": "The name *Mysskelos* on the curse tablet (ISic030019, corpus ID 8373) and *Myskon* on the commercial letter (ISic030016, corpus ID 8389) are different names but share the root *Mysk-/Myssk-*. The identification is speculative.",
+      "text_html": "The name <em>Mysskelos</em> on the curse tablet (ISic030019, corpus ID 8373) and <em>Myskon</em> on the commercial letter (ISic030016, corpus ID 8389) are different names but share the root <em>Mysk-/Myssk-</em>. The identification is speculative.",
       "corpus_ids": [
         8373,
         8389
@@ -396,42 +440,49 @@
       "id": 45,
       "section": "business-on-the-back-of-the-spell",
       "text": "Wilson's interpretation of the opisthographic nature of the Apellis tablet -- that the successful commercial use of the lead reinforced its magical efficacy -- is discussed in *The Greek Theatre and Festivals* and in the Livius.org commentary on the Sicilian curse tablet.",
+      "text_html": "Wilson&rsquo;s interpretation of the opisthographic nature of the Apellis tablet &ndash; that the successful commercial use of the lead reinforced its magical efficacy &ndash; is discussed in <em>The Greek Theatre and Festivals</em> and in the Livius.org commentary on the Sicilian curse tablet.",
       "corpus_ids": []
     },
     {
       "id": 46,
       "section": "the-lawsuit-city",
       "text": "On the foundation and history of Selinus, see Dunbabin, *The Western Greeks*, ch. 6; M.H. Jameson, D.R. Jordan, and R.D. Kotansky, *A Lex Sacra from Selinous* (Durham: Duke University, 1993).",
+      "text_html": "On the foundation and history of Selinus, see Dunbabin, <em>The Western Greeks</em>, ch. 6; M.H. Jameson, D.R. Jordan, and R.D. Kotansky, <em>A Lex Sacra from Selinous</em> (Durham: Duke University, 1993).",
       "corpus_ids": []
     },
     {
       "id": 47,
       "section": "the-lawsuit-city",
       "text": "Diodorus Siculus 13.57 records the sack of Selinus in 409 BCE by the Carthaginian army under Hannibal Mago. The death toll of sixteen thousand is given by Diodorus.",
+      "text_html": "Diodorus Siculus 13.57 records the sack of Selinus in 409 BCE by the Carthaginian army under Hannibal Mago. The death toll of sixteen thousand is given by Diodorus.",
       "corpus_ids": []
     },
     {
       "id": 48,
       "section": "the-lawsuit-city",
       "text": "On the temples of Selinus, see D. Mertens, *Selinus I: Die Stadt und ihre Mauern* (Mainz: von Zabern, 2003). Temple G measured approximately 110.36 metres in length.",
+      "text_html": "On the temples of Selinus, see D. Mertens, <em>Selinus I: Die Stadt und ihre Mauern</em> (Mainz: von Zabern, 2003). Temple G measured approximately 110.36 metres in length.",
       "corpus_ids": []
     },
     {
       "id": 49,
       "section": "the-lawsuit-city",
       "text": "The *lex sacra* of Selinus: Jameson, Jordan, and Kotansky, *A Lex Sacra from Selinous* (1993). This lead tablet prescribes purification rituals and is one of the most important documents of Greek sacred law from the colonial west.",
+      "text_html": "The <em>lex sacra</em> of Selinus: Jameson, Jordan, and Kotansky, <em>A Lex Sacra from Selinous</em> (1993). This lead tablet prescribes purification rituals and is one of the most important documents of Greek sacred law from the colonial west.",
       "corpus_ids": []
     },
     {
       "id": 50,
       "section": "the-lawsuit-city",
       "text": "On the findspots of the Selinus defixiones, see Bettarini, *Corpus delle defixiones di Selinunte*; and Ferreri, \"The Selinunte Defixiones as Evidence for Epigraphic Literacy.\"",
+      "text_html": "On the findspots of the Selinus defixiones, see Bettarini, <em>Corpus delle defixiones di Selinunte</em>; and Ferreri, &ldquo;The Selinunte Defixiones as Evidence for Epigraphic Literacy.&rdquo;",
       "corpus_ids": []
     },
     {
       "id": 51,
       "section": "the-lawsuit-city",
       "text": "ISic030010 (corpus ID 8583), Selinus, 499--450 BCE: *Chamis epecho kai noso ropai ep' ateleia*. Translation based on Dubois's French: \"Je te maintiens dans la crise fatale de la maladie afin que tu ne puisses atteindre tes objectifs.\"",
+      "text_html": "ISic030010 (corpus ID 8583), Selinus, 499&ndash;450 BCE: <em>Chamis epecho kai noso ropai ep&rsquo; ateleia</em>. Translation based on Dubois&rsquo;s French: &ldquo;Je te maintiens dans la crise fatale de la maladie afin que tu ne puisses atteindre tes objectifs.&rdquo;",
       "corpus_ids": [
         8583
       ]
@@ -440,36 +491,42 @@
       "id": 52,
       "section": "the-lawsuit-city",
       "text": "The medical term *rhope* (ῥοπή) -- \"turning-point,\" \"crisis\" -- appears in the Hippocratic corpus to describe the critical moment in an illness. See W.H.S. Jones, ed., *Hippocrates*, vol. 1 (Loeb Classical Library, 1923), *Prognostic* 1.",
+      "text_html": "The medical term <em>rhope</em> (ῥοπή) &ndash; &ldquo;turning-point,&rdquo; &ldquo;crisis&rdquo; &ndash; appears in the Hippocratic corpus to describe the critical moment in an illness. See W.H.S. Jones, ed., <em>Hippocrates</em>, vol. 1 (Loeb Classical Library, 1923), <em>Prognostic</em> 1.",
       "corpus_ids": []
     },
     {
       "id": 53,
       "section": "who-wrote-for-hire",
       "text": "The \"self-service\" model for early Sicilian curse tablets is argued by C. Faraone, \"The Agonistic Context of Early Greek Binding Spells,\" in Faraone and Obbink, *Magika Hiera* (1991), 3--32.",
+      "text_html": "The &ldquo;self-service&rdquo; model for early Sicilian curse tablets is argued by C. Faraone, &ldquo;The Agonistic Context of Early Greek Binding Spells,&rdquo; in Faraone and Obbink, <em>Magika Hiera</em> (1991), 3&ndash;32.",
       "corpus_ids": []
     },
     {
       "id": 54,
       "section": "who-wrote-for-hire",
       "text": "The formulaic consistency of the Kamarina tablets is noted by Dubois, *Inscriptions grecques dialectales de Sicile*, and by Cordano in her analysis of the Passo Marinaro corpus.",
+      "text_html": "The formulaic consistency of the Kamarina tablets is noted by Dubois, <em>Inscriptions grecques dialectales de Sicile</em>, and by Cordano in her analysis of the Passo Marinaro corpus.",
       "corpus_ids": []
     },
     {
       "id": 55,
       "section": "who-wrote-for-hire",
       "text": "On the verbs of writing in Sicilian curse tablets -- *engrapho*, *katagrapho*, *apographo* -- and their implications for the literate character of the practice, see Ferreri, \"The Selinunte Defixiones as Evidence for Epigraphic Literacy,\" and Lamont, *In Blood and Ashes*, ch. 3.",
+      "text_html": "On the verbs of writing in Sicilian curse tablets &ndash; <em>engrapho</em>, <em>katagrapho</em>, <em>apographo</em> &ndash; and their implications for the literate character of the practice, see Ferreri, &ldquo;The Selinunte Defixiones as Evidence for Epigraphic Literacy,&rdquo; and Lamont, <em>In Blood and Ashes</em>, ch. 3.",
       "corpus_ids": []
     },
     {
       "id": 56,
       "section": "who-wrote-for-hire",
       "text": "On the textual features of Sicilian curse tablets -- columnar layouts, abbreviations, scribal symbols -- see Ferreri, \"The Selinunte Defixiones,\" and Bettarini, *Corpus delle defixiones di Selinunte*.",
+      "text_html": "On the textual features of Sicilian curse tablets &ndash; columnar layouts, abbreviations, scribal symbols &ndash; see Ferreri, &ldquo;The Selinunte Defixiones,&rdquo; and Bettarini, <em>Corpus delle defixiones di Selinunte</em>.",
       "corpus_ids": []
     },
     {
       "id": 57,
       "section": "who-wrote-for-hire",
       "text": "ISic030330 (corpus ID 12734), Messana, mid-3rd century BCE: \"Dameas son of Aristodamos, Sostratos son of Xenotimos, Sostratos son of Antaios, Aristodamos son of Sostratos, Aristodamos.\"",
+      "text_html": "ISic030330 (corpus ID 12734), Messana, mid-3rd century BCE: &ldquo;Dameas son of Aristodamos, Sostratos son of Xenotimos, Sostratos son of Antaios, Aristodamos son of Sostratos, Aristodamos.&rdquo;",
       "corpus_ids": [
         12734
       ]
@@ -478,6 +535,7 @@
       "id": 58,
       "section": "when-the-scripts-got-longer",
       "text": "ISic030075 (corpus ID 47186), Messana, 1st--2nd century CE. Translation reconstructed from the Greek text. On the theological apparatus of this tablet, see the research analysis accompanying corpus ID 47186.",
+      "text_html": "ISic030075 (corpus ID 47186), Messana, 1st&ndash;2nd century CE. Translation reconstructed from the Greek text. On the theological apparatus of this tablet, see the research analysis accompanying corpus ID 47186.",
       "corpus_ids": [
         47186,
         47186
@@ -487,6 +545,7 @@
       "id": 59,
       "section": "when-the-scripts-got-longer",
       "text": "ISic030075 (corpus ID 47186): *hierion triakadin* -- \"sacrificial offering on the thirtieth day.\" The prescribed follow-up ritual suggests a structured magical practice requiring multiple visits to the depositional site.",
+      "text_html": "ISic030075 (corpus ID 47186): <em>hierion triakadin</em> &ndash; &ldquo;sacrificial offering on the thirtieth day.&rdquo; The prescribed follow-up ritual suggests a structured magical practice requiring multiple visits to the depositional site.",
       "corpus_ids": [
         47186
       ]
@@ -495,36 +554,42 @@
       "id": 60,
       "section": "the-map-of-the-trade",
       "text": "On the geographic distribution of Sicilian curse tablets, see the comprehensive survey in A. Castiglione, \"A New Sicilian Curse Corpus: A Blueprint for a Geographical and Chronological Analysis of Defixiones from Sicily\" (2019).",
+      "text_html": "On the geographic distribution of Sicilian curse tablets, see the comprehensive survey in A. Castiglione, &ldquo;A New Sicilian Curse Corpus: A Blueprint for a Geographical and Chronological Analysis of Defixiones from Sicily&rdquo; (2019).",
       "corpus_ids": []
     },
     {
       "id": 61,
       "section": "the-map-of-the-trade",
       "text": "The earliest Sicilian tablets cluster at Selinus (late 6th--early 5th c. BCE), Gela (500--450 BCE), Kamarina (480--440 BCE), and Monte Casasia (first half of 6th c. BCE). See Bettarini, Dubois, Arena, and Cordano for the respective corpora.",
+      "text_html": "The earliest Sicilian tablets cluster at Selinus (late 6th&ndash;early 5th c. BCE), Gela (500&ndash;450 BCE), Kamarina (480&ndash;440 BCE), and Monte Casasia (first half of 6th c. BCE). See Bettarini, Dubois, Arena, and Cordano for the respective corpora.",
       "corpus_ids": []
     },
     {
       "id": 62,
       "section": "the-map-of-the-trade",
       "text": "On the two curse tablets from Lilybaeum, see D.R. Jordan, \"Two Curse Tablets from Lilybaeum,\" *Greek, Roman, and Byzantine Studies* 38 (1997): 387--396. These provide the only Sicilian instances of the verb *katadeo*.",
+      "text_html": "On the two curse tablets from Lilybaeum, see D.R. Jordan, &ldquo;Two Curse Tablets from Lilybaeum,&rdquo; <em>Greek, Roman, and Byzantine Studies</em> 38 (1997): 387&ndash;396. These provide the only Sicilian instances of the verb <em>katadeo</em>.",
       "corpus_ids": []
     },
     {
       "id": 63,
       "section": "the-map-of-the-trade",
       "text": "On the Morgantina curse tablets, see the publication in *Axon* 5.2 (2021): \"A Greek Defixio from Morgantina.\" Four of ten tablets from the pit in the sanctuary of the Chthonic Deities target a slave named Venusta using nearly identical wording.",
+      "text_html": "On the Morgantina curse tablets, see the publication in <em>Axon</em> 5.2 (2021): &ldquo;A Greek Defixio from Morgantina.&rdquo; Four of ten tablets from the pit in the sanctuary of the Chthonic Deities target a slave named Venusta using nearly identical wording.",
       "corpus_ids": []
     },
     {
       "id": 64,
       "section": "civic-lists-same-metal",
       "text": "The Kamarina phratry tablets (ISic030028 through ISic030260 and beyond) number over 130 in the corpus, all dating to 480--450 BCE. See Cordano's publications and the I.Sicily entries.",
+      "text_html": "The Kamarina phratry tablets (ISic030028 through ISic030260 and beyond) number over 130 in the corpus, all dating to 480&ndash;450 BCE. See Cordano&rsquo;s publications and the I.Sicily entries.",
       "corpus_ids": []
     },
     {
       "id": 65,
       "section": "civic-lists-same-metal",
       "text": "ISic030029 (corpus ID 8417): \"Aischylos son of Aristios, fourteenth\"; ISic030030 (corpus ID 8418): \"Antisthenes son of Parmenon, fourteenth phratry\"; ISic030122 (corpus ID 8423): \"Herakleidas son of Archonidas, fourth\"; ISic030124 (corpus ID 8425): \"Silanos son of Ithaigeues, fourteenth\"; ISic030125 (corpus ID 8426): \"Daikrates son of Lykiskos, fifth phratry.\"",
+      "text_html": "ISic030029 (corpus ID 8417): &ldquo;Aischylos son of Aristios, fourteenth&rdquo;; ISic030030 (corpus ID 8418): &ldquo;Antisthenes son of Parmenon, fourteenth phratry&rdquo;; ISic030122 (corpus ID 8423): &ldquo;Herakleidas son of Archonidas, fourth&rdquo;; ISic030124 (corpus ID 8425): &ldquo;Silanos son of Ithaigeues, fourteenth&rdquo;; ISic030125 (corpus ID 8426): &ldquo;Daikrates son of Lykiskos, fifth phratry.&rdquo;",
       "corpus_ids": [
         8417,
         8418,
@@ -537,12 +602,14 @@
       "id": 66,
       "section": "civic-lists-same-metal",
       "text": "Phratry numbers attested on the Kamarina tablets include: first (*prata*), fourth (*tetarta*), fifth (*pemptas*), eighth (*ogdoa*), ninth (*henatas*), eleventh (*hendekatas*), twelfth (*duodekatas*), and fourteenth (*tetartas epi deka*). See the corpus entries ISic030122--ISic030260.",
+      "text_html": "Phratry numbers attested on the Kamarina tablets include: first (<em>prata</em>), fourth (<em>tetarta</em>), fifth (<em>pemptas</em>), eighth (<em>ogdoa</em>), ninth (<em>henatas</em>), eleventh (<em>hendekatas</em>), twelfth (<em>duodekatas</em>), and fourteenth (<em>tetartas epi deka</em>). See the corpus entries ISic030122&ndash;ISic030260.",
       "corpus_ids": []
     },
     {
       "id": 67,
       "section": "civic-lists-same-metal",
       "text": "The financial notation *dekalitron* (\"ten litrai\") appears on several Kamarina tablets, e.g., ISic030131 (corpus ID 8432): \"Pyrrichos son of Nikophanes, dekalitron, eighth.\"",
+      "text_html": "The financial notation <em>dekalitron</em> (&ldquo;ten litrai&rdquo;) appears on several Kamarina tablets, e.g., ISic030131 (corpus ID 8432): &ldquo;Pyrrichos son of Nikophanes, dekalitron, eighth.&rdquo;",
       "corpus_ids": [
         8432
       ]
@@ -551,6 +618,7 @@
       "id": 68,
       "section": "civic-lists-same-metal",
       "text": "ISic030031 (corpus ID 8419): name-list including \"Menon son of Dameas, Echecratides, Archedamos, Aristodamos, Charipos, Archethales son of Chiron, Herakleidas, Archytas, Sosias son of Archonidas, Sosias son of Archias, Symarias, Sikanas, Timokrateia, Polemainetos.\"",
+      "text_html": "ISic030031 (corpus ID 8419): name-list including &ldquo;Menon son of Dameas, Echecratides, Archedamos, Aristodamos, Charipos, Archethales son of Chiron, Herakleidas, Archytas, Sosias son of Archonidas, Sosias son of Archias, Symarias, Sikanas, Timokrateia, Polemainetos.&rdquo;",
       "corpus_ids": [
         8419
       ]
@@ -559,6 +627,7 @@
       "id": 69,
       "section": "before-and-after",
       "text": "ISic030317 (corpus ID 71), Monte Casasia, first half of the 6th century BCE. On the dating, see Arena, *Iscrizioni greche arcaiche di Sicilia e Magna Grecia*, vol. 2.",
+      "text_html": "ISic030317 (corpus ID 71), Monte Casasia, first half of the 6th century BCE. On the dating, see Arena, <em>Iscrizioni greche arcaiche di Sicilia e Magna Grecia</em>, vol. 2.",
       "corpus_ids": [
         71
       ]
@@ -567,6 +636,7 @@
       "id": 70,
       "section": "before-and-after",
       "text": "ISic030317 (corpus ID 71), translation. The fragmentary text combines elements of hexameter verse, mystery-religion language (*olbios*), and magical compulsion (*damason*).",
+      "text_html": "ISic030317 (corpus ID 71), translation. The fragmentary text combines elements of hexameter verse, mystery-religion language (<em>olbios</em>), and magical compulsion (<em>damason</em>).",
       "corpus_ids": [
         71
       ]
@@ -575,12 +645,14 @@
       "id": 71,
       "section": "before-and-after",
       "text": "The formula *olbios hos* -- \"blessed is he who\" -- appears in the Orphic gold leaves from Thurii and elsewhere in southern Italy. See F. Graf and S.I. Johnston, *Ritual Texts for the Afterlife: Orpheus and the Bacchic Gold Tablets* (London: Routledge, 2007).",
+      "text_html": "The formula <em>olbios hos</em> &ndash; &ldquo;blessed is he who&rdquo; &ndash; appears in the Orphic gold leaves from Thurii and elsewhere in southern Italy. See F. Graf and S.I. Johnston, <em>Ritual Texts for the Afterlife: Orpheus and the Bacchic Gold Tablets</em> (London: Routledge, 2007).",
       "corpus_ids": []
     },
     {
       "id": 72,
       "section": "before-and-after",
       "text": "ISic030317 (corpus ID 71): *damnameneu damason de kakos aekontas anankiai* -- \"subdue, and master the unwilling by force.\" The word *ananke* (\"necessity,\" \"compulsion\") is a key term in Greek magical vocabulary.",
+      "text_html": "ISic030317 (corpus ID 71): <em>damnameneu damason de kakos aekontas anankiai</em> &ndash; &ldquo;subdue, and master the unwilling by force.&rdquo; The word <em>ananke</em> (&ldquo;necessity,&rdquo; &ldquo;compulsion&rdquo;) is a key term in Greek magical vocabulary.",
       "corpus_ids": [
         71
       ]
@@ -589,6 +661,7 @@
       "id": 73,
       "section": "before-and-after",
       "text": "ISic002761 (corpus ID 24144), Hybla Heraea, 4th--5th century CE.",
+      "text_html": "ISic002761 (corpus ID 24144), Hybla Heraea, 4th&ndash;5th century CE.",
       "corpus_ids": [
         24144
       ]
@@ -597,6 +670,7 @@
       "id": 74,
       "section": "before-and-after",
       "text": "ISic002761 (corpus ID 24144): *exelthe diabole Adonai...Sabaoth...ARAKIA*. The formula *exelthe* (\"come out!\") is standard in late antique exorcism texts.",
+      "text_html": "ISic002761 (corpus ID 24144): <em>exelthe diabole Adonai&hellip;Sabaoth&hellip;ARAKIA</em>. The formula <em>exelthe</em> (&ldquo;come out!&rdquo;) is standard in late antique exorcism texts.",
       "corpus_ids": [
         24144
       ]
@@ -605,36 +679,42 @@
       "id": 75,
       "section": "before-and-after",
       "text": "On the syncretic use of Jewish divine names (*Adonai*, *Sabaoth*, *Iao*) in late antique magical texts, see Gager, *Curse Tablets*, ch. 1; and G. Bohak, *Ancient Jewish Magic: A History* (Cambridge: Cambridge University Press, 2008).",
+      "text_html": "On the syncretic use of Jewish divine names (<em>Adonai</em>, <em>Sabaoth</em>, <em>Iao</em>) in late antique magical texts, see Gager, <em>Curse Tablets</em>, ch. 1; and G. Bohak, <em>Ancient Jewish Magic: A History</em> (Cambridge: Cambridge University Press, 2008).",
       "corpus_ids": []
     },
     {
       "id": 76,
       "section": "what-people-paid-for",
       "text": "The categories of motive behind curse tablets -- competition, litigation, erotics, commerce -- are systematically analysed in Gager, *Curse Tablets*, chs. 3--7, and in Faraone, \"The Agonistic Context of Early Greek Binding Spells.\"",
+      "text_html": "The categories of motive behind curse tablets &ndash; competition, litigation, erotics, commerce &ndash; are systematically analysed in Gager, <em>Curse Tablets</em>, chs. 3&ndash;7, and in Faraone, &ldquo;The Agonistic Context of Early Greek Binding Spells.&rdquo;",
       "corpus_ids": []
     },
     {
       "id": 77,
       "section": "what-people-paid-for",
       "text": "On competitive cursing in Athens -- targeting craftsmen, litigants, athletes, and performers -- see Lamont, *In Blood and Ashes*, chs. 4--6; and W. Riess, T. Gellar-Goad, and J.L. Lamont, *Magic in Ancient Athens: A Complete Translation of Attic Curse Tablets* (forthcoming).",
+      "text_html": "On competitive cursing in Athens &ndash; targeting craftsmen, litigants, athletes, and performers &ndash; see Lamont, <em>In Blood and Ashes</em>, chs. 4&ndash;6; and W. Riess, T. Gellar-Goad, and J.L. Lamont, <em>Magic in Ancient Athens: A Complete Translation of Attic Curse Tablets</em> (forthcoming).",
       "corpus_ids": []
     },
     {
       "id": 78,
       "section": "what-people-paid-for",
       "text": "On litigation curses, see Gager, *Curse Tablets*, ch. 4: \"Tongue-Tied in Court: Curses Against Litigation.\" The Selinus tablets are the earliest examples of this category.",
+      "text_html": "On litigation curses, see Gager, <em>Curse Tablets</em>, ch. 4: &ldquo;Tongue-Tied in Court: Curses Against Litigation.&rdquo; The Selinus tablets are the earliest examples of this category.",
       "corpus_ids": []
     },
     {
       "id": 79,
       "section": "what-the-lead-kept",
       "text": "On the chronological and geographic range of the curse tablet tradition -- from the 6th century BCE to the 5th century CE and beyond, across the entire Mediterranean -- see Jordan, \"Survey of Greek Defixiones\" (1985) and \"New Greek Curse Tablets\" (2000); Gager, *Curse Tablets*; and Lamont, *In Blood and Ashes*.",
+      "text_html": "On the chronological and geographic range of the curse tablet tradition &ndash; from the 6th century BCE to the 5th century CE and beyond, across the entire Mediterranean &ndash; see Jordan, &ldquo;Survey of Greek Defixiones&rdquo; (1985) and &ldquo;New Greek Curse Tablets&rdquo; (2000); Gager, <em>Curse Tablets</em>; and Lamont, <em>In Blood and Ashes</em>.",
       "corpus_ids": []
     },
     {
       "id": 80,
       "section": "what-the-lead-kept",
       "text": "Gager, *Curse Tablets and Binding Spells from the Ancient World* (1992), introduction: these texts \"shed light on a new dimension of classical study previously inaccessible,\" extending \"into every aspect of ancient life -- athletic and theatrical competitions, judicial proceedings, love affairs, business rivalries, and the recovery of stolen property.\"",
+      "text_html": "Gager, <em>Curse Tablets and Binding Spells from the Ancient World</em> (1992), introduction: these texts &ldquo;shed light on a new dimension of classical study previously inaccessible,&rdquo; extending &ldquo;into every aspect of ancient life &ndash; athletic and theatrical competitions, judicial proceedings, love affairs, business rivalries, and the recovery of stolen property.&rdquo;",
       "corpus_ids": []
     }
   ],
@@ -644,6 +724,7 @@
       "reference": "ISic030019",
       "date": "475--450 BCE",
       "description": "Apellis love-competition curse tablet, Gela",
+      "description_html": "Apellis love-competition curse tablet, Gela",
       "greek": "Ε ὐχά Ἀπέλλις ἐπὶ φιλότατι τᾶι Εὐνίϙοˉ μεˉδέν’ Ε ὐνίϙοˉ σπευ δ δ αι ότερον ε῏μεν μεˉδὲ Φίντίοˉνα ἀλλ’ἐπαινε῀ ν καὶ ἑϙόντα κἀέϙ όντα καὶ φιλετἄν ἐπὶ φιλότατι τᾶι όντα καὶ φιλετἄν ἐπὶ φιλότατι τᾶι Εὐνίϙοˉ ἀπογ α ράφοˉ τὸˉ ς χορᾱγὸˉς πάντας ἐπ’ ἀτελεία ς χορᾱγὸˉς πάντας ἐπ’ ἀτελεία ι κἐˉπέοˉν καὶ ἔργοˉν καὶ τ ὸˉς παι῀δ ὸˉς παι῀δ ι ας ἀπὸ τένον καὶ τὸˉς πατέρας κἀπρακτίαι κἐˉν ἀγο῀ νι κἐχθὸς ἀγόˉνοˉν οἵτινες μὲ παρ’ ἐμ’ ἀπολείποιεν νι κἐχθὸς ἀγόˉνοˉν οἵτινες μὲ παρ’ ἐμ’ ἀπολείποιεν Καλεδίαν ἀπογ α ράφοˉ ἀπ’ Ἀπελλίος καὶ τὸˉς ς τεˉνε῀ι πάντας ἐπὶ μεσοτερ ο ... ἐντάδα Σοˉσίαν ἀπογράφοˉ ἀπὸ το῀ καπεˉλείοˉ Ἀλκιδᾶν ἐπὶ τᾶ ι Μελ ανθίοˉ φιλότᾱτι Πυρία μ Μύσσκελον Δᾱμόφαντον καὶ τὸν χοραγ ὸν ἀπογράφοˉ ἀπὸ το῀μ παίδοˉν καὶ το῀μ πατέροˉν καὶ τὸˉς ἄλλ ος πά ντας οἵτινες ἐντάδε ἀφικνοίατο μεˉδέν’ Εὐνίκοˉ σπευδαιό τερο ν γενέσθαι, μέˉτ’ ἄνδρεσι μέˉτε γυναικέσσι ὁς οὗτος ὁ βόλιμοˉς τὸˉς τε . νον επ ο ι δ ι α ὶ τιμὰν ἐρύσαιντο Εὐνίκοˉι ἀὲ νίκᾶν παντε῀ ἐμ βολύμο ι ἐ π ὶ φιλ ότατι τᾶι Εὐνίκοˉ γ ρά άρ φοˉ",
       "translation": "Prayer: Apellis, for love of Eunikos (prays) that no one be taken more seriously or be more popular than Eunikos, but (all) should praise and admire (him) both willingly and unwillingly. For Love of Eunikos I mark down all the khoragoi so that they be ineffectual both in word and in deed, along with their sons and fathers, and so that they fail both in the contest and outside the contests. Whoever does not leave him (sc. Eunikos) with me. I mark down Kaledias to keep him apart from Apellis, along with all those in between there and here [fortasse 'all those there against the arbiters here']. I mark down Sosias, the one from the shop of the Alkiadai, bacause of his love of (Mel)anthios. Pyrias, Mysskelos, Damophantos and their khoragos I mark down, along with their sons and fathers, and all the others who arrive here. May no one be taken more seriously than Eunikos either among men or women. As this lead (does), so may my spells against those men draw away their honour. For Eunikos may there be victory always, everywhere. on the lead for love of Eunikos I write [Trans. P. Wilson F. Favi]"
     },
@@ -652,6 +733,7 @@
       "reference": "ISic030016",
       "date": "500--475 BCE",
       "description": "Commercial lead letter mentioning Apellis, Gela",
+      "description_html": "Commercial lead letter mentioning Apellis, Gela",
       "greek": "Μ υσκο̄ν : Δάμιος : τοῦ Κοβέτου Ἀνθ εμόκριτος : ἐφίετο Ἄπελιν ἐνγυάσασθαι μ α δὲ ἔφα εἴμειν κατελάζετο το͂ν Λεοντίνο̄ν ξε Μύσκο̄να : ἐν τᾶι πλατείαι θο̄κέοντας ἀργύριον ἔχο̄ν hῖκε βοο͂ν τιμάν οὐκ ἐπρίατο αι ποτ’ Ἐνπεδοκλε͂ τὸν Μνασιμάχου ποτε̄́νθετο γενέσθο̄ ἐν γ υάσασθαι",
       "translation": "[...] Myskon, son of Damis son of Kobetos [...] Anthemokritos bade Apellis offer security \n                    [...] said [...] was; he came upon [...] of the Leontines [...] Myskon sitting along the avenue [...] \n                    came (not?) having the money, the price of the cattle; he did not buy [...] went to Empedokles, \n                    son of Mnasimachos [...] let [...] become (liable?) to act as surety (trans. by Miller)."
     },
@@ -660,6 +742,7 @@
       "reference": "ISic030032",
       "date": "460--440 BCE",
       "description": "Kamarina curse tablet with mass name-list",
+      "description_html": "Kamarina curse tablet with mass name-list",
       "greek": "hοί δε γεγράβαται ἐπὶ δυσπραγ ἐπὶ δυσπραγ ίαι Κέρδο̄ν Ἐ λ αχ ιξ ͱο Τοπερκο Πύθον Διοκλ έος Τίτά Ἐξάκο ν ͱυι ος ος Ἐξάκονος Μελάνθιο ς . ατίμο Δίον Π αρ μέ νονος Όνάσιμ ος Αθ άνιος Δαρχον Τ έλλον Εὔθυμο ς .. θ .. Ε ὐφραίο Γελο͂ιος δας Γελο̄́ιο̄ Γῆρυς Παρ ρ Ἀγνος Χαΐρις Διο ιβείο Ξήνιππος Μ ίο Ναραονίδα ἀναίμα ἀναίμα τοι ἔστο̄ν ͱοί δε πάντες δύσσοοι δύσσοοι",
       "translation": "Ceux qui suivent sont inscrits (dans le plomb) pour qu'ils échouent : (liste des individus maudits). Que tous ceux-ci soient exsangues, malheureux soient-ils. (Dubois)"
     },
@@ -668,6 +751,7 @@
       "reference": "ISic030031",
       "date": "480--450 BCE",
       "description": "Kamarina name-list defixio",
+      "description_html": "Kamarina name-list defixio",
       "greek": "Μένον Δαμέα ‒ Ἐ χ εκρατ είδαν ‒ Ἀρ χεδάμο Ἀριστόδαμον Χαιρί π ο Ἀ ρχ εθάλες Χίρονος Hɛρακλείδα Ἀ ρχ ύ τ αν · Σοσίας ‒ Ἀ ρ χο̄νίδᾱ Σοσίας ‒ Ἀρχία Συμ α ρία Σικανᾶς Τιμοκράτειαν Πολεμαίνετον ‒ Προδόξο Μένο̄ν Δα μέα",
       "translation": ""
     },
@@ -676,6 +760,7 @@
       "reference": "ISic030033",
       "date": "460--450 BCE",
       "description": "Kamarina name-list defixio (women's names)",
+      "description_html": "Kamarina name-list defixio (women&rsquo;s names)",
       "greek": "Λάκαινα Δαμαρέτα Άναξιμένη Δαμ αρέτα ΚΥΤΑΣ AY ΑΣ",
       "translation": ""
     },
@@ -684,6 +769,7 @@
       "reference": "ISic030034",
       "date": "late 5th c. BCE",
       "description": "Kamarina name-list defixio",
+      "description_html": "Kamarina name-list defixio",
       "greek": "Ναιρογένε̄ς ΦΥ ET Εύκλείδα Φ άυλλος Γέλ ων ΣΟΝ ‒ Ο Φάνονος Άρατίο hε̄ ρακλείδας Νικία Σ κύθας Λύκ ι ς",
       "translation": ""
     },
@@ -692,6 +778,7 @@
       "reference": "ISic030010",
       "date": "499--450 BCE",
       "description": "Selinus curse against Chamis combining illness and failure",
+      "description_html": "Selinus curse against Chamis combining illness and failure",
       "greek": "Χάμις ἐπέ χ ο̄ κα κα ὶ νόσο̄ ῥοπᾶι ἐπ’ ἀτελείαι ℎο ἐπ’ ἀτελείαι ℎο τ ι ΚΑ .. Ε .. Ο ΝΤΙ",
       "translation": "Je te maintiens dans la crise fatale de la maladie afin que tu ne puisses atteindre tes objectifs.(Dubois)"
     },
@@ -700,6 +787,7 @@
       "reference": "ISic030075",
       "date": "1st--2nd c. CE",
       "description": "Messana defixio against woman compared to Medusa",
+      "description_html": "Messana defixio against woman compared to Medusa",
       "greek": "καταδῶ Νυμφὶκὲ παρακατατίθεμε τοί τ’ Ἅδ ου ἄναξ ἐπὶ κτήσιν ἀ ΐ διον αὐτᾶς τὰ δὲ ἑ Κόρα κ Ἐρίνυσ ιν ἵνα κατ’ ἄκρω ν τ’ ἀ χω πό λ οι το κὲ ἀπάξητ’ αὐτάν τ’ αὖτε παντάκιστα κὲ κατὰ τᾶ ς χ θ όνος Ἐρίν υες αὖτε κομ ίσω ντε ἀνθρωπί σκ ον καταδῶ Νυ μιφὶκε παρακαταθίτομε τοι Ἑρμεῖα πα ντάγι ἵννα αὐτὰν ἀπάξης κατὰ χθόν ος τάχιστα· λάβε αὐτᾶς ἱ αρεῖον τρι ακάδιν κὲ τρέχε ἵνα αὐτὰν κατὰ χθόνος κλ είσης κ’ ἐν ἀνθρώπο ις μηκ έ τ’ ἔα Μεδ ούσαν ἄλ λαν καταγίνε σθ ε",
       "translation": ""
     },
@@ -708,6 +796,7 @@
       "reference": "ISic030330",
       "date": "mid-3rd c. BCE",
       "description": "Messana name-list defixio",
+      "description_html": "Messana name-list defixio",
       "greek": "Δα μέας Ἀρι στοδά μου μου Σώστ ρ α α τος Ξε νοτί μ μ ου Σώστρ α τος τος Ἀν τ αί ου Ἀρι στο δ άμ ο υ Ἀριστό δα μος Σω στ στ ρ άτου ΡΑΤΑ . ΤΟΥ Ι ΝΟΚΑΙ",
       "translation": ""
     },
@@ -716,6 +805,7 @@
       "reference": "ISic030317",
       "date": "first half 6th c. BCE",
       "description": "Oldest lead tablet, Monte Casasia",
+      "description_html": "Oldest lead tablet, Monte Casasia",
       "greek": "ε νδα σι ἀ μολ γ ἐκ κάπου ἐλαυν ἐλαυν ε ὄνομα Τετ Τετ ρ αγος ε ἀνε μώλ μώλ ιος ἀκτὰ ΑΙΝ ὑ δάτω ν ν ιοσ νει ὄλβιος ᾧ κ ᾧ κ ε ταδε σει κατὰ δῶ μα 'αι' μα 'αι' καὶ φ ρασὶν αὐτὸς ἔχηι μακ μακ ά ρων κατ’ ἀμαξ ε τὸν αὐδ ὰ ν Δα μνα μνα μενεῦ δάμασ ον δὲ κακ ῶ ς ἀ έ κοντ κοντ ας ἀνάγκαι ΣΦΙΝ ΚΑΚ Λ ΟΙΕΣ ΤΑ Γ ΤΑΚ ΡΑ",
       "translation": "[...] from the garden, driving [...] by name Tetragos [...] windswept shore [...] of waters [...] blessed is he who [...] these things throughout his house and in his mind holds [...] of the blessed ones along the wagon-road [...] the voice [...] subdue, and master the unwilling by force [...]."
     },
@@ -724,6 +814,7 @@
       "reference": "ISic002761",
       "date": "4th--5th c. CE",
       "description": "Hybla late-antique magical text with Jewish names",
+      "description_html": "Hybla late-antique magical text with Jewish names",
       "greek": "ΦΕ ΜΕΘΕΞ ἔξελθ ε διάβο λ ε Ἀδωνα ι Ε . Ι Σα βαὼθ βαὼθ Α Ρ ΑΚΙΑ",
       "translation": ""
     },
@@ -732,6 +823,7 @@
       "reference": "ISic030029",
       "date": "480--450 BCE",
       "description": "Kamarina phratry tablet: Aischylos son of Aristios",
+      "description_html": "Kamarina phratry tablet: Aischylos son of Aristios",
       "greek": "Αἰσχύλος ∶ Ἀρίστιος τετάρτας ἐπὶ δέκα",
       "translation": ""
     },
@@ -740,6 +832,7 @@
       "reference": "ISic030030",
       "date": "480--450 BCE",
       "description": "Kamarina phratry tablet: Antisthenes son of Parmenon",
+      "description_html": "Kamarina phratry tablet: Antisthenes son of Parmenon",
       "greek": "Ἀντισθένε̄ς Πα ρ μ ένοντο ς φράτρα φράτρα τε τετάρτα ἐπὶ δέκα",
       "translation": ""
     },
@@ -748,6 +841,7 @@
       "reference": "ISic030122",
       "date": "480--450 BCE",
       "description": "Kamarina phratry tablet: Herakleidas son of Archonidas",
+      "description_html": "Kamarina phratry tablet: Herakleidas son of Archonidas",
       "greek": "hε̄ρακλείδᾱς Ἀρχονίδᾱ τ ε τάρ τ α",
       "translation": ""
     },
@@ -756,6 +850,7 @@
       "reference": "ISic030124",
       "date": "480--450 BCE",
       "description": "Kamarina phratry tablet: Silanos son of Ithaigeues",
+      "description_html": "Kamarina phratry tablet: Silanos son of Ithaigeues",
       "greek": "Σιλᾱνός ‒ Ἰθαιγένεο ς τ ετ άρτας ἐπ ὶ δέ ὶ δέ κ α",
       "translation": ""
     },
@@ -764,6 +859,7 @@
       "reference": "ISic030125",
       "date": "480--450 BCE",
       "description": "Kamarina phratry tablet: Daikrates son of Lykiskos",
+      "description_html": "Kamarina phratry tablet: Daikrates son of Lykiskos",
       "greek": "Δαικράτε̄ς Λυκίσ κο̄ κο̄ φράτρα φράτρα πέμ πτ πτ α",
       "translation": ""
     },
@@ -772,6 +868,7 @@
       "reference": "ISic030126",
       "date": "480--450 BCE",
       "description": "Kamarina phratry tablet: Sikanos son of Archonidas",
+      "description_html": "Kamarina phratry tablet: Sikanos son of Archonidas",
       "greek": "Σικανός Ἀρχο̄νίδα νε̄́τας νε̄́τας",
       "translation": ""
     },
@@ -780,6 +877,7 @@
       "reference": "ISic030129",
       "date": "480--450 BCE",
       "description": "Kamarina phratry tablet: Nikomachos son of Simos",
+      "description_html": "Kamarina phratry tablet: Nikomachos son of Simos",
       "greek": "Νικόμαχος Σίμο̄ ͱενδε κάτα κάτα φράτρα πράτα τρια κὰς ͱεβ κὰς ͱεβ δ έμα ͱικάς",
       "translation": ""
     },
@@ -788,6 +886,7 @@
       "reference": "ISic030131",
       "date": "480--450 BCE",
       "description": "Kamarina phratry tablet with financial notation",
+      "description_html": "Kamarina phratry tablet with financial notation",
       "greek": "Πύρριχο ς Νικοφάν εος Δ εκάλιτρον ὀγδόα",
       "translation": ""
     },
@@ -796,6 +895,7 @@
       "reference": "ISic030136",
       "date": "480--450 BCE",
       "description": "Kamarina phratry tablet: Ainesidamos son of Pasillos",
+      "description_html": "Kamarina phratry tablet: Ainesidamos son of Pasillos",
       "greek": "Αἰνε̄σίδαμος Π ασίλλο̄ ασίλλο̄ ͱενδεκάτας",
       "translation": ""
     },
@@ -804,6 +904,7 @@
       "reference": "ISic030142",
       "date": "480--450 BCE",
       "description": "Kamarina tablet praising Thrasys Emmenidas as warrior",
+      "description_html": "Kamarina tablet praising Thrasys Emmenidas as warrior",
       "greek": "ΤΑΙΝ . . κ ας Θράσυς Ἐμ μενίδας μενίδας Δορι στόνφο̄ν στόνφο̄ν ͱαπ άντο̄ν ἐστὶ ͱυ άντο̄ν ἐστὶ ͱυ πέρτατος ἀκίδ πέρτατος ἀκίδ ον ον",
       "translation": "[Italian] [...] Thrasys Emmenidas di tutti i coraggiosi con la lancia è il migliore degli arcieri (trans. Cordano)"
     },
@@ -812,6 +913,7 @@
       "reference": "ISic030185",
       "date": "480--450 BCE",
       "description": "Kamarina phratry tablet: Sikanos son of Apellion",
+      "description_html": "Kamarina phratry tablet: Sikanos son of Apellion",
       "greek": "Σι κανὸς Ἀπ ελλίο̄νος τε τάρτας ἐπὶ δέκα",
       "translation": ""
     },
@@ -820,6 +922,7 @@
       "reference": "ISic030186",
       "date": "480--450 BCE",
       "description": "Kamarina tablet with death notation (*tethnake*)",
+      "description_html": "Kamarina tablet with death notation (<em>tethnake</em>)",
       "greek": "ΤΙΑ Σ ο̄ σία ς τρίτα ς ἀπὸ νε̄́ ἀπὸ νε̄́ τας τρί τας ἀπὸ νε̄́ τας τέ θνα κε",
       "translation": ""
     },
@@ -828,6 +931,7 @@
       "reference": "ISic030017",
       "date": "500--480 BCE",
       "description": "Lead ownership mark: \"I belong to the Geloi\"",
+      "description_html": "Lead ownership mark: &ldquo;I belong to the Geloi&rdquo;",
       "greek": "το͂ν Γελο̄́ιο̄ν ε̄̓μί το͂ν Γελο̄́ιο̄ν ε̄̓μί",
       "translation": "I belong to the Geloi."
     },
@@ -836,6 +940,7 @@
       "reference": "ISic030002",
       "date": "525--500 BCE",
       "description": "Syracusan decree mentioning the gamoroi",
+      "description_html": "Syracusan decree mentioning the gamoroi",
       "greek": "θεός τύχα ἀγαθά οἱ Συρακόσι οι ἐψαφίσαν το καὶ ἀτ έλειαν καὶ ἀτ ἔν πασιν γᾶς καὶ οἰκίας ....... α ἴ κα γαμόρο̄ν ἐσγόνοις εἶμεν καὶ τᾶν πασᾶν ἀ ρχᾶν πεδεῖμ εν αὐτοῖς πλάν καὶ h ιπάρχου καὶ",
       "translation": "God, (grant) good luck. The Syracusans have decreed\n                    [in favour of ... and immunity] from taxes and the right\n                    [to the possession of land and house ...] in case they are descendants of gamoroi\n                    and (have decreed) that they have the right to participate in all public offices\n                    [with the exception of (that of) ... and] (that of) the hipparchus and\n                    [---]"
     },
@@ -844,6 +949,7 @@
       "reference": "ISic030011",
       "date": "475--450 BCE",
       "description": "Selinus defixio",
+      "description_html": "Selinus defixio",
       "greek": "τ ο͂ι Σο̄π ά τ ρ ο̄ι ΓΥϘ ... ο ς κ α ὶ ͱα Σο̄π ά τρο̄ γλο͂ σα γλο͂ σσα Φρῦνις Νοαβ αρ ίλο̄ καὶ ͱα Φρύνιος γ λο͂σ λο͂σ α γ λο͂σσα γλο͂σα γλο͂σσα : ἀ ν ε ΜΕ Κ ΟΛΥ Ε συνδικε τὰς τὰς Γ ... ΛΟ Λ",
       "translation": ""
     },
@@ -852,6 +958,7 @@
       "reference": "ISic030012",
       "date": "499--450 BCE",
       "description": "Selinus defixio",
+      "description_html": "Selinus defixio",
       "greek": ". Ο ονα καὶ Φ α ιν hόσα hόσσα Σ . ΕΟΝΤΙΛΕ τιδαν κἀ λ . ν",
       "translation": ""
     },
@@ -860,6 +967,7 @@
       "reference": "ISic030013",
       "date": "475--450 BCE",
       "description": "Selinus defixio",
+      "description_html": "Selinus defixio",
       "greek": "ἐ ἐ π ὶ ἐξο̄ λ είαι καὶ αὐτο͂ν καὶ γενεᾶς Νίκυλλος Καπόσο̄ Δένδιλος Μάμονος Αἴνο̄ν Β λ έπονος Ξένιος Ἀπόντιος Hɛ̄ρακλείδας Σαῦρις ανις Ἄθ Ἄθ Ταμμάρο̄ Hɛ̄ρακλείδας Ῥας Φαρμαυα ν Δίο̄ Δίο̄ Πιάκιος Πιθθίας Χαίο̄ν Μαμαρειṑι Μαμμαρειṑι τα Ζο Ζο ζ Ἀγάθυλλος Ξένιος Hɛ̄ρακλείδας τος Σύνε Σύνε Ξένο̄νος",
       "translation": ""
     },
@@ -868,6 +976,7 @@
       "reference": "ISic030014",
       "date": "499--450 BCE",
       "description": "Selinus defixio",
+      "description_html": "Selinus defixio",
       "greek": "ίΠ θο̄ ν Γορ ίγ α ς Πυθόδ ο̄ ρος Δέ̄ ίας Χίμ α ρος Φιλόλεο̄ς Ἀκ ρ ιο κὸ̄ ι Σελινό̄ ι",
       "translation": ""
     },
@@ -876,6 +985,7 @@
       "reference": "ISic030015",
       "date": "499--450 BCE",
       "description": "Selinus defixio",
+      "description_html": "Selinus defixio",
       "greek": "Ε Ͱυψ Ͱεˉρακλ Ͱιστια Χαρο Ͱυψ . μαρι Μαιε Δειν Διο Ͱιστι Ἄ π ι σ Δαμ Σασα",
       "translation": ""
     },
@@ -884,6 +994,7 @@
       "reference": "ISic030021",
       "date": "450--425 BCE",
       "description": "Selinus defixio",
+      "description_html": "Selinus defixio",
       "greek": "Ο ΟΝΑ καὶ Φ ΑΙΝ hόσα Σ λ έοντι λέ γε̄ν ΤΙ δ’ ἀνκαλ",
       "translation": ""
     }

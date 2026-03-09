@@ -89,7 +89,7 @@
       '<span class="note-number">' +
       noteId +
       ".</span> " +
-      (noteText ? noteText.textContent : "");
+      (noteText ? noteText.innerHTML : "");
 
     for (var k = 0; k < sourceLinks.length; k++) {
       var cid = sourceLinks[k].dataset.corpusId;
@@ -406,7 +406,7 @@
     } else {
       panelRef.textContent = src.reference || "Source #" + corpusId;
       panelDate.textContent = src.date || "";
-      panelDesc.textContent = src.description || "";
+      panelDesc.innerHTML = src.description_html || src.description || "";
       panelTranslation.textContent =
         src.translation || "No translation available.";
       panelGreek.textContent = src.greek || "No Greek text available.";
