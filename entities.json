@@ -186,6 +186,110 @@
         "she-conducted-herself-blamelessly"
       ]
     },
+    "apollophanes-oxyrhynchus-fl-ca-41-54-ce": {
+      "id": "apollophanes-oxyrhynchus-fl-ca-41-54-ce",
+      "type": "person",
+      "canonical_name": "Apollophanes",
+      "name_variants": [
+        "Apollophanes"
+      ],
+      "patronymic": "unknown",
+      "dates": "fl. ca. 41-54 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "ex-tax collector",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "extortionist",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43401,
+        44673
+      ],
+      "bio": "Former collector of the trade tax upon weavers. Systematically extorted weavers including Sarapion son of Theon and Alexandrus son of Apollonius.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.285",
+        "P.Oxy. 2.284"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "alexandrus-son-of-apollonius-oxyrhynchus-quarter-of-the-square-of-thoëris-fl-ca-50-ce": {
+      "id": "alexandrus-son-of-apollonius-oxyrhynchus-quarter-of-the-square-of-thoëris-fl-ca-50-ce",
+      "type": "person",
+      "canonical_name": "Alexandrus son of Apollonius",
+      "name_variants": [
+        "Alexandrus son of Apollonius"
+      ],
+      "patronymic": "son of Apollonius",
+      "dates": "fl. ca. 50 CE",
+      "location": "Oxyrhynchus, quarter of the Square of Thoëris",
+      "roles": [
+        {
+          "title": "weaver",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "petitioner",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        44673
+      ],
+      "bio": "Weaver of Oxyrhynchus. Petitioned about extortion of 16 drachmae by Apollophanes.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.284"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "tiberius-claudius-pasion-oxyrhynchus-fl-ca-41-54-ce": {
+      "id": "tiberius-claudius-pasion-oxyrhynchus-fl-ca-41-54-ce",
+      "type": "person",
+      "canonical_name": "Tiberius Claudius Pasion",
+      "name_variants": [
+        "Tiberius Claudius Pasion",
+        "Τιβερίωι Κλαυδίῳ Πασίωνι"
+      ],
+      "patronymic": "unknown",
+      "dates": "fl. ca. 41-54 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "strategus",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        40441,
+        43401,
+        44673
+      ],
+      "bio": "Strategus of the Oxyrhynchite nome during the reign of Claudius. Received petitions from weavers and others.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.285",
+        "P.Oxy. 2.284",
+        "P.Oxy. 2.283"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
     "tryphon-son-of-dionysius-oxyrhynchus-ca-8-9-ce---after-66-ce": {
       "id": "tryphon-son-of-dionysius-oxyrhynchus-ca-8-9-ce---after-66-ce",
       "type": "person",
@@ -229,6 +333,106 @@
         "P.Oxy. 2.264",
         "P.Oxy. 2.275",
         "P.Oxy. 1.39 dupl."
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "demetrous-oxyrhynchus-fl-29-37-ce": {
+      "id": "demetrous-oxyrhynchus-fl-29-37-ce",
+      "type": "person",
+      "canonical_name": "Demetrous",
+      "name_variants": [
+        "Demetrous daughter of Heraclides"
+      ],
+      "patronymic": "daughter of Heraclides",
+      "dates": "fl. 29-37 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "wife (first) of Tryphon",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        141045
+      ],
+      "bio": "First wife of Tryphon. Left him and took property, prompting his petition. Mother of Thoönis, who later disappeared.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.282"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "saraeus-oxyrhynchus-fl-37-66-ce": {
+      "id": "saraeus-oxyrhynchus-fl-37-66-ce",
+      "type": "person",
+      "canonical_name": "Saraeus",
+      "name_variants": [
+        "Saraeus daughter of Apion"
+      ],
+      "patronymic": "daughter of Apion",
+      "dates": "fl. 37-66 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "wife (second) of Tryphon",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "mother of Thoenis",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43391,
+        43394
+      ],
+      "bio": "Second wife of Tryphon. Brought a dowry of 72 drachmae. Mother of Thoenis, apprenticed as a weaver in 66 CE. Marriage contract included hemiolion penalty.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.267",
+        "P.Oxy. 2.275"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "thamounion-oxyrhynchus-fl-44-ce": {
+      "id": "thamounion-oxyrhynchus-fl-44-ce",
+      "type": "person",
+      "canonical_name": "Thamounion",
+      "name_variants": [
+        "Thamounion daughter of Onnophris",
+        "Thamounis"
+      ],
+      "patronymic": "daughter of Onnophris",
+      "dates": "fl. 44 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "mother of Tryphon",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "petitioner",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43381
+      ],
+      "bio": "Mother of Tryphon. In 44 CE reported the disappearance of her grandson Thoönis, requesting his registration as removed for tax purposes.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.251"
       ],
       "stories": [
         "she-conducted-herself-blamelessly"
@@ -287,6 +491,162 @@
       "disambiguation": "Distinct from Thoönis son of Dionysius (Tryphon's son by Demetrous).\n",
       "physical_ids": [
         "P.Oxy. 2.275"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "ptolemaeus-son-of-pausirion-oxyrhynchus-fl-66-ce": {
+      "id": "ptolemaeus-son-of-pausirion-oxyrhynchus-fl-66-ce",
+      "type": "person",
+      "canonical_name": "Ptolemaeus son of Pausirion",
+      "name_variants": [
+        "Ptolemaeus son of Pausirion"
+      ],
+      "patronymic": "son of Pausirion",
+      "dates": "fl. 66 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "weaver",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "master weaver",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43394
+      ],
+      "bio": "Master weaver who took Tryphon's son Thoenis as an apprentice in 66 CE.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.275"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "thaesis-oxyrhynchus-fl-96-ce": {
+      "id": "thaesis-oxyrhynchus-fl-96-ce",
+      "type": "person",
+      "canonical_name": "Thaesis",
+      "name_variants": [
+        "Thaesis daughter of Thonis",
+        "Thaësis"
+      ],
+      "patronymic": "daughter of Thonis",
+      "dates": "fl. 96 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "divorcee",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        141040
+      ],
+      "bio": "Divorced wife of Petosarapis. Received 400 silver drachmae in dowry return during an amicable divorce in 96 CE. Acted with her step-father Onnophris as guardian.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.266"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "petosarapis-oxyrhynchus-fl-96-ce": {
+      "id": "petosarapis-oxyrhynchus-fl-96-ce",
+      "type": "person",
+      "canonical_name": "Petosarapis",
+      "name_variants": [
+        "Petosarapis son of Thompekusis"
+      ],
+      "patronymic": "son of Thompekusis son of Sarapion",
+      "dates": "fl. 96 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "former husband",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        141040
+      ],
+      "bio": "Former husband of Thaesis. Returned her 400-drachma dowry and parapherna in an amicable divorce in 96 CE.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.266"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "dionysia-oxyrhynchus-fl-2nd-century-ce": {
+      "id": "dionysia-oxyrhynchus-fl-2nd-century-ce",
+      "type": "person",
+      "canonical_name": "Dionysia",
+      "name_variants": [
+        "Dionysia daughter of Chaeremon"
+      ],
+      "patronymic": "daughter of Chaeremon",
+      "dates": "fl. 2nd century CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "litigant",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        141383
+      ],
+      "bio": "Woman who fought a landmark legal battle against her father when he attempted to dissolve her marriage and reclaim her dowry. The case established precedents affirming women's marriage autonomy.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.237"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "flavius-titianus-alexandria-fl-2nd-century-ce": {
+      "id": "flavius-titianus-alexandria-fl-2nd-century-ce",
+      "type": "person",
+      "canonical_name": "Flavius Titianus",
+      "name_variants": [
+        "Flavius Titianus"
+      ],
+      "patronymic": "unknown",
+      "dates": "fl. 2nd century CE",
+      "location": "Alexandria",
+      "roles": [
+        {
+          "title": "prefect of Egypt",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "judge",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        141383
+      ],
+      "bio": "Former prefect whose ruling established that \"the decision depends upon the question, with whom the wife wishes to live.\"\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.237"
       ],
       "stories": [
         "she-conducted-herself-blamelessly"
@@ -355,6 +715,235 @@
       "disambiguation": "Not the same Theon as Syra's father.\n",
       "physical_ids": [
         "P.Oxy. 2.268"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "aurelius-gaius-harpocration-alexandria-fl-267-ce": {
+      "id": "aurelius-gaius-harpocration-alexandria-fl-267-ce",
+      "type": "person",
+      "canonical_name": "Aurelius Gaius (Harpocration)",
+      "name_variants": [
+        "Aurelius Gaius also called Harpocration"
+      ],
+      "patronymic": "unknown",
+      "dates": "fl. 267 CE",
+      "location": "Alexandria",
+      "roles": [
+        {
+          "title": "priest",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "archidikastes",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43248
+      ],
+      "bio": "Priest and archidikastes in 267 CE. Used the same title formula as Heraclides two centuries earlier.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 12.1475"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "ammonarion-oxyrhynchus-fl-after-57-ce": {
+      "id": "ammonarion-oxyrhynchus-fl-after-57-ce",
+      "type": "person",
+      "canonical_name": "Ammonarion",
+      "name_variants": [
+        "Ammonarion daughter of Ammonius"
+      ],
+      "patronymic": "daughter of Ammonius",
+      "dates": "fl. after 57 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "widow",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "petitioner",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        141041
+      ],
+      "bio": "Widow who settled her late husband's 800-drachma dowry obligation through the archidikastes Theon.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.268"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "julia-heracla-oxyrhynchus-fl-95-ce": {
+      "id": "julia-heracla-oxyrhynchus-fl-95-ce",
+      "type": "person",
+      "canonical_name": "Julia Heracla",
+      "name_variants": [
+        "Julia Heracla"
+      ],
+      "patronymic": "unknown",
+      "dates": "fl. 95 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "property owner",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "Roman citizen",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43392
+      ],
+      "bio": "Roman citizen woman who transferred five arourae of land to her daughter in 95 CE, acting with a praefect-assigned guardian.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.273"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "sieapis-oxyrhynchus-fl-ca-76-ce": {
+      "id": "sieapis-oxyrhynchus-fl-ca-76-ce",
+      "type": "person",
+      "canonical_name": "Sieapis",
+      "name_variants": [
+        "Sieapis daughter of Sarapion"
+      ],
+      "patronymic": "daughter of Sarapion son of Apollonius",
+      "dates": "fl. ca. 76 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "property registrant",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        39488
+      ],
+      "bio": "Woman who registered property in her own name around 76 CE, using her son Ariston as guardian.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 74.4983"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "senyris-oxyrhynchus-fl-ca-156-125-bce": {
+      "id": "senyris-oxyrhynchus-fl-ca-156-125-bce",
+      "type": "person",
+      "canonical_name": "Senyris",
+      "name_variants": [
+        "Senyris"
+      ],
+      "patronymic": "unknown",
+      "dates": "fl. ca. 156-125 BCE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "petitioner",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "abandoned partner",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        11799
+      ],
+      "bio": "Woman who petitioned the chief judge after her partner threw her out, stopped feeding and clothing her and their two children, and took another woman.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "ZPE 176.213"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly",
+        "weeping-by-night"
+      ]
+    },
+    "diemous-oxyrhynchus-fl-144-ce": {
+      "id": "diemous-oxyrhynchus-fl-144-ce",
+      "type": "person",
+      "canonical_name": "Diemous",
+      "name_variants": [
+        "Diemous daughter of Colluthus"
+      ],
+      "patronymic": "daughter of Colluthus",
+      "dates": "fl. 144 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "petitioner",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "burglary victim",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43200
+      ],
+      "bio": "Woman who reported a burglary, naming her neighbor Heras the weaver as suspect.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 10.1272"
+      ],
+      "stories": [
+        "she-conducted-herself-blamelessly"
+      ]
+    },
+    "philumene-oxyrhynchus-fl-82-ce": {
+      "id": "philumene-oxyrhynchus-fl-82-ce",
+      "type": "person",
+      "canonical_name": "Philumene",
+      "name_variants": [
+        "Philumene daughter of Heron"
+      ],
+      "patronymic": "daughter of Heron",
+      "dates": "fl. 82 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "creditor",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43402
+      ],
+      "bio": "Woman who was \"continually pressing\" for repayment of 2,000 drachmae.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.286"
       ],
       "stories": [
         "she-conducted-herself-blamelessly"
@@ -4834,6 +5423,194 @@
         "weeping-by-night"
       ]
     },
+    "serenus-oxyrhynchus-fl-2nd-c-ce": {
+      "id": "serenus-oxyrhynchus-fl-2nd-c-ce",
+      "type": "person",
+      "canonical_name": "Serenus",
+      "name_variants": [
+        "Serenus"
+      ],
+      "patronymic": "unknown",
+      "dates": "fl. 2nd c. CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "husband",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "letter writer",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43498
+      ],
+      "bio": "Husband (and possibly brother) of Isidora. After she left, he did not bathe for a month, wept by night, and wrote desperate letters through intermediaries. Accused of selling Isidora's gold chain and putting her on a boat.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 3.528"
+      ],
+      "stories": [
+        "weeping-by-night"
+      ]
+    },
+    "colobus-oxyrhynchus-fl-2nd-c-ce": {
+      "id": "colobus-oxyrhynchus-fl-2nd-c-ce",
+      "type": "person",
+      "canonical_name": "Colobus",
+      "name_variants": [
+        "Kolobos",
+        "the maimed one"
+      ],
+      "patronymic": "unknown",
+      "dates": "fl. 2nd c. CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "intermediary",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43498
+      ],
+      "bio": "Intermediary between Serenus and Isidora. Conveyed accusations in both directions: told Serenus that Isidora accused him of selling her chain; Isidora accused Colobus of \"making her a prostitute.\"\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 3.528"
+      ],
+      "stories": [
+        "weeping-by-night"
+      ]
+    },
+    "panetbeous-theadelphia-arsinoite-nome-fl-mid-3rd-c-ce": {
+      "id": "panetbeous-theadelphia-arsinoite-nome-fl-mid-3rd-c-ce",
+      "type": "person",
+      "canonical_name": "Panetbeous",
+      "name_variants": [
+        "Panetbeous"
+      ],
+      "patronymic": "unknown",
+      "dates": "fl. mid-3rd c. CE",
+      "location": "Theadelphia (Arsinoite nome)",
+      "roles": [
+        {
+          "title": "public farmer",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "petitioner",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        50328
+      ],
+      "bio": "Public farmer from Theadelphia who petitioned the centurion Claudius Alexandros after his cohabiting wife left with household goods and was subsequently seized and married by Neilos son of Syros.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Heid. 3.237"
+      ],
+      "stories": [
+        "weeping-by-night"
+      ]
+    },
+    "wife-of-panetbeous-theadelphia-arsinoite-nome-fl-mid-3rd-c-ce": {
+      "id": "wife-of-panetbeous-theadelphia-arsinoite-nome-fl-mid-3rd-c-ce",
+      "type": "person",
+      "canonical_name": "Wife of Panetbeous",
+      "name_variants": [],
+      "patronymic": "unknown",
+      "dates": "fl. mid-3rd c. CE",
+      "location": "Theadelphia (Arsinoite nome)",
+      "roles": [
+        {
+          "title": "wife",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "mother",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        50328
+      ],
+      "bio": "Unnamed cohabiting wife of Panetbeous, mother of his children. Left his house during his absence, taking household goods including a white garment, an Oxyrhynchite pillow, a cross-striped double-blanket, materials for two tunics, and agricultural tools. Refused to return property despite repeated demands. Subsequently joined Neilos son of Syros.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Heid. 3.237"
+      ],
+      "stories": [
+        "weeping-by-night"
+      ]
+    },
+    "neilos-theadelphia-arsinoite-nome-fl-mid-3rd-c-ce": {
+      "id": "neilos-theadelphia-arsinoite-nome-fl-mid-3rd-c-ce",
+      "type": "person",
+      "canonical_name": "Neilos",
+      "name_variants": [
+        "Neilos son of Syros"
+      ],
+      "patronymic": "son of Syros",
+      "dates": "fl. mid-3rd c. CE",
+      "location": "Theadelphia (Arsinoite nome)",
+      "roles": [
+        {
+          "title": "second husband",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        50328
+      ],
+      "bio": "Man from Theadelphia who \"seized and married\" the wife of Panetbeous. Accused by Panetbeous of unlawful seizure.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Heid. 3.237"
+      ],
+      "stories": [
+        "weeping-by-night"
+      ]
+    },
+    "demetria-elephantine-fl-310-bce": {
+      "id": "demetria-elephantine-fl-310-bce",
+      "type": "person",
+      "canonical_name": "Demetria",
+      "name_variants": [
+        "Demetria the Koan"
+      ],
+      "patronymic": "daughter of Leptines",
+      "dates": "fl. 310 BCE",
+      "location": "Elephantine",
+      "roles": [
+        {
+          "title": "bride",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        85743
+      ],
+      "bio": "Koan woman who married Herakleides the Temnitan in 310 BCE under the earliest known complete Greek marriage contract from Egypt. The contract protected her against her husband's infidelity with a double penalty.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Eleph. 1"
+      ],
+      "stories": [
+        "weeping-by-night"
+      ]
+    },
     "herakleides-elephantine-fl-310-bce": {
       "id": "herakleides-elephantine-fl-310-bce",
       "type": "person",
@@ -4892,352 +5669,224 @@
         "weeping-by-night"
       ]
     },
-    "hermotimus-of-pedasa-pedasa-caria-persian-court-fl-c-490-480-bce": {
-      "id": "hermotimus-of-pedasa-pedasa-caria-persian-court-fl-c-490-480-bce",
+    "saraeus-oxyrhynchus-fl-37-ce": {
+      "id": "saraeus-oxyrhynchus-fl-37-ce",
       "type": "person",
-      "canonical_name": "Hermotimus of Pedasa",
+      "canonical_name": "Saraeus",
       "name_variants": [
-        "Hermotimos",
-        "Hermotimus"
+        "Saraeus daughter of Apion"
       ],
-      "patronymic": "",
-      "dates": "fl. c. 490-480 BCE",
-      "location": "Pedasa, Caria; Persian court",
+      "patronymic": "daughter of Apion",
+      "dates": "fl. 37 CE",
+      "location": "Oxyrhynchus",
       "roles": [
         {
-          "title": "eunuch attendant to Xerxes I",
-          "date": "c. 480 BCE",
-          "location": "Persian court"
+          "title": "wife of Tryphon the weaver",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43391
+      ],
+      "bio": "Second wife of the weaver Tryphon. Brought a modest dowry of 72 drachmae (cash, gold earrings, and a milk-white robe) to a marriage that existed without a formal contract.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 2.267"
+      ],
+      "stories": [
+        "weeping-by-night"
+      ]
+    },
+    "aurelia-tausiris-oxyrhynchus-fl-260-ce": {
+      "id": "aurelia-tausiris-oxyrhynchus-fl-260-ce",
+      "type": "person",
+      "canonical_name": "Aurelia Tausiris",
+      "name_variants": [
+        "Aurelia Tausiris"
+      ],
+      "patronymic": "daughter of Aurelia Thaesis",
+      "dates": "fl. 260 CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "bride",
+          "date": "",
+          "location": ""
+        }
+      ],
+      "corpus_ids": [
+        43201
+      ],
+      "bio": "Bride whose mother gave her in marriage with a lavish dowry of gold jewelry (necklace, brooch, pearl earrings, ring) and Dalmatian veils.\n",
+      "disambiguation": "",
+      "physical_ids": [
+        "P.Oxy. 10.1273"
+      ],
+      "stories": [
+        "weeping-by-night"
+      ]
+    },
+    "aurelia-aristous-oxyrhynchus-fl-mid-3rd-c-ce": {
+      "id": "aurelia-aristous-oxyrhynchus-fl-mid-3rd-c-ce",
+      "type": "person",
+      "canonical_name": "Aurelia Aristous",
+      "name_variants": [
+        "Aurelia Aristous"
+      ],
+      "patronymic": "daughter of Aurelius Herodes son of Apion",
+      "dates": "fl. mid-3rd c. CE",
+      "location": "Oxyrhynchus",
+      "roles": [
+        {
+          "title": "widow",
+          "date": "",
+          "location": ""
         },
         {
-          "title": "guardian of Xerxes' sons",
-          "date": "480 BCE",
-          "location": "Sardis and Greece"
+          "title": "senator's daughter",
+          "date": "",
+          "location": ""
         }
       ],
       "corpus_ids": [
-        110775,
-        110777,
-        110781
+        43202
       ],
-      "bio": "A native of Pedasa in Caria, near Halicarnassus, who was captured by enemies, sold to the slave-trader Panionius of Chios, castrated, and resold to the Persian court. Rose to become the most favoured eunuch of Xerxes I. Entrusted with the guardianship of the king's sons during the invasion of Greece in 480 BCE. Achieved what Herodotus called \"the fullest vengeance for wrong done to him than had any man whom we know\" by compelling Panionius to castrate his own four sons, and then compelling the sons to castrate their father.\n",
+      "bio": "Daughter of the ex-gymnasiarch and senator Herodes. Claimed a dowry of 2 talents and 3,000 drachmae from her deceased husband Achillion's estate, valued at 200,000 sesterces.\n",
       "disambiguation": "",
-      "physical_ids": [],
+      "physical_ids": [
+        "P.Oxy. 10.1274"
+      ],
       "stories": [
-        "objects-of-contempt"
+        "weeping-by-night"
       ]
     },
-    "panionius-of-chios-chios-sardis-ephesus-atarneus-fl-c-500-480-bce": {
-      "id": "panionius-of-chios-chios-sardis-ephesus-atarneus-fl-c-500-480-bce",
+    "kronous-philoumene-arsinoite-nome-fl-113-114-ce": {
+      "id": "kronous-philoumene-arsinoite-nome-fl-113-114-ce",
       "type": "person",
-      "canonical_name": "Panionius of Chios",
+      "canonical_name": "Kronous (Philoumene)",
       "name_variants": [
-        "Panionios",
-        "Panionius"
+        "Kronous also called Philoumene"
       ],
-      "patronymic": "",
-      "dates": "fl. c. 500-480 BCE",
-      "location": "Chios; Sardis; Ephesus; Atarneus",
+      "patronymic": "daughter of Kastor son of Pyrion",
+      "dates": "fl. 113-114 CE",
+      "location": "Arsinoite nome",
       "roles": [
         {
-          "title": "slave-trader specialising in castration of boys",
-          "date": "c. 500-480 BCE",
-          "location": "Chios, Sardis, Ephesus"
+          "title": "divorcee",
+          "date": "",
+          "location": ""
         }
       ],
       "corpus_ids": [
-        110775,
-        110781
+        30102
       ],
-      "bio": "A man from the island of Chios who earned his living by procuring beautiful boys, castrating them, and selling them at high prices in Sardis and Ephesus, where the Persian market for eunuchs created strong demand. Among his victims was Hermotimus of Pedasa. Later found by Hermotimus at Atarneus in Mysia with his wife and four sons, and subjected to a revenge in which he was compelled to castrate his own children, who then castrated him in turn. Herodotus describes his trade as \"most wicked practices.\"\n",
+      "bio": "Twenty-year-old woman who divorced her husband Lysimachos in an orderly legal proceeding, receiving back her dowry and the right to marry again. Had a son named Herakleides also called Valerius.\n",
       "disambiguation": "",
-      "physical_ids": [],
+      "physical_ids": [
+        "P.Fam.Tebt. 13"
+      ],
       "stories": [
-        "objects-of-contempt"
+        "weeping-by-night"
       ]
     },
-    "bagoas-the-younger-persian-court-alexanders-court-fl-c-330-323-bce": {
-      "id": "bagoas-the-younger-persian-court-alexanders-court-fl-c-330-323-bce",
+    "thenstotoetis-tebtunis-arsinoite-nome-fl-123-ce": {
+      "id": "thenstotoetis-tebtunis-arsinoite-nome-fl-123-ce",
       "type": "person",
-      "canonical_name": "Bagoas (the younger)",
+      "canonical_name": "Thenstotoetis",
       "name_variants": [
-        "Bagoas"
+        "Thenstotoetis",
+        "Thenstouetis"
       ],
-      "patronymic": "",
-      "dates": "fl. c. 330-323 BCE",
-      "location": "Persian court; Alexander's court",
+      "patronymic": "daughter of Heron son of Neilos",
+      "dates": "fl. 123 CE",
+      "location": "Tebtunis (Arsinoite nome)",
       "roles": [
         {
-          "title": "eunuch courtier to Darius III",
-          "date": "c. 336-330 BCE",
-          "location": "Persian court"
+          "title": "divorcee",
+          "date": "",
+          "location": ""
         },
         {
-          "title": "favourite of Alexander the Great",
-          "date": "c. 330-323 BCE",
-          "location": "Alexander's court"
+          "title": "divorcing wife",
+          "date": "123 CE",
+          "location": "Tebtunis"
         }
       ],
       "corpus_ids": [
-        99458,
-        130192
+        49138
       ],
-      "bio": "A Persian eunuch who served first in the court of Darius III and, after Darius's defeat and murder in 330 BCE, passed into Alexander the Great's household. Described as \"in the flower of his youth.\" Won a prize for song and dance at a festival; Alexander kissed him publicly at the crowd's demand (Plutarch). Exercised significant political influence at Alexander's court according to Curtius Rufus. The satrap Orxines, who insulted Bagoas by refusing to pay respect to \"men used as women,\" was manoeuvred into execution. Historical existence debated by some scholars.\n",
-      "disambiguation": "Not to be confused with Bagoas the elder, a eunuch who was a powerful vizier under Artaxerxes III and involved in regicide.\n",
-      "physical_ids": [],
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "favorinus-of-arles-arelate-arles-gaul-rome-athens-ephesus-c-80-160-ce": {
-      "id": "favorinus-of-arles-arelate-arles-gaul-rome-athens-ephesus-c-80-160-ce",
-      "type": "person",
-      "canonical_name": "Favorinus of Arles",
-      "name_variants": [
-        "Favorinus",
-        "Phavorinus"
-      ],
-      "patronymic": "",
-      "dates": "c. 80-160 CE",
-      "location": "Arelate (Arles), Gaul; Rome; Athens; Ephesus",
-      "roles": [
-        {
-          "title": "sophist and philosopher",
-          "date": "c. 110-150 CE",
-          "location": "Rome, Athens, Ephesus"
-        }
-      ],
-      "corpus_ids": [
-        103799,
-        103803
-      ],
-      "bio": "Born in Arelate (Arles), Gaul, around 80 CE. Described by his rival Polemo as \"a eunuch born without testicles\" and by Philostratus as a hermaphrodite; modern scholars suggest a possible intersex condition. Despite his beardless face and high voice, became one of the most celebrated orators of the Second Sophistic. Friend of the emperor Hadrian, from whom he later fell out of favour. Famous for three self-proclaimed paradoxes: that as a Gaul he spoke Greek; that as a eunuch he was tried for adultery; and that having quarrelled with an emperor he was still alive. His career demonstrates that ancient gender categories, while fiercely policed, could be overcome by individual talent and ambition.\n",
-      "disambiguation": "The Favorinus who appears in Plutarch's dialogues (e.g., Concerning the First Principles of Cold) and is cited frequently in Diogenes Laertius's Lives of Eminent Philosophers is the same individual.\n",
-      "physical_ids": [],
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "polemo-of-laodicea-laodicea-on-the-lycus-smyrna-c-88-144-ce": {
-      "id": "polemo-of-laodicea-laodicea-on-the-lycus-smyrna-c-88-144-ce",
-      "type": "person",
-      "canonical_name": "Polemo of Laodicea",
-      "name_variants": [
-        "Marcus Antonius Polemo",
-        "Polemon"
-      ],
-      "patronymic": "",
-      "dates": "c. 88-144 CE",
-      "location": "Laodicea on the Lycus; Smyrna",
-      "roles": [
-        {
-          "title": "sophist and physiognomist",
-          "date": "c. 110-144 CE",
-          "location": "Smyrna"
-        }
-      ],
-      "corpus_ids": [],
-      "bio": "A celebrated sophist from Laodicea who settled in Smyrna and became one of the leading orators of the Second Sophistic. Author of a treatise on physiognomy that catalogued the bodily signs of gender deviance, including the gait, voice, and deportment of the kinaidos. Rival of Favorinus of Arles, whom he attacked in both person and writing. His physiognomic analysis is a key source for understanding how Roman masculinity was constructed as a performed achievement rather than a biological given.\n",
-      "disambiguation": "Not to be confused with Polemon I of Pontus, the Hellenistic king.\n",
-      "physical_ids": [],
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "attis-phrygia-pessinus-mythological": {
-      "id": "attis-phrygia-pessinus-mythological",
-      "type": "person",
-      "canonical_name": "Attis",
-      "name_variants": [
-        "Attis",
-        "Atys"
-      ],
-      "patronymic": "",
-      "dates": "mythological",
-      "location": "Phrygia; Pessinus",
-      "roles": [
-        {
-          "title": "mythological consort of Cybele",
-          "date": "mythological",
-          "location": "Phrygia"
-        }
-      ],
-      "corpus_ids": [
-        113366,
-        113367,
-        113368,
-        113369
-      ],
-      "bio": "Mythological Phrygian youth beloved by Cybele (the Great Mother). In the dominant version of the myth (preserved by Pausanias), born from an almond tree that grew from the severed male organ of the hermaphroditic demon Agdistis. Attis's beauty surpassed the human. When Agdistis disrupted his wedding, Attis went mad and castrated himself, dying beneath a pine tree. Agdistis persuaded Zeus to preserve his body from decay. The annual Roman festival of Attis, culminating on March 24 (Dies Sanguinis), re-enacted his castration. An alternative tradition (Hermesianax) described Attis as \"a eunuch from birth.\"\n",
-      "disambiguation": "Not to be confused with the historical Attis mentioned by Plutarch in the Life of Sertorius (corpus ID 98257), an Arcadian killed by a boar.\n",
-      "physical_ids": [],
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "combabos-hierapolis-syria-mythologicallegendary": {
-      "id": "combabos-hierapolis-syria-mythologicallegendary",
-      "type": "person",
-      "canonical_name": "Combabos",
-      "name_variants": [
-        "Combabos",
-        "Combabus"
-      ],
-      "patronymic": "",
-      "dates": "mythological/legendary",
-      "location": "Hierapolis, Syria",
-      "roles": [
-        {
-          "title": "legendary founder of the Galli",
-          "date": "mythological",
-          "location": "Hierapolis"
-        }
-      ],
-      "corpus_ids": [],
-      "bio": "A legendary figure described by Lucian in De Dea Syria as the origin of the Galli priesthood at Hierapolis. Sent by the Assyrian king to oversee the construction of a temple with the queen Stratonice, Combabos preemptively castrated himself and sealed his genitals in a box, which he left with the king. When Stratonice fell in love with him and he was accused of adultery, the box was opened to prove his innocence. According to Lucian, his closest friends then castrated themselves out of sympathy, establishing the tradition of the Galli.\n",
+      "bio": "Sixteen-year-old woman who divorced her husband Lysas, a freedman, after a marriage that lasted approximately two years. Received back a 300-drachma dowry. Free to marry again without accusation.\n",
       "disambiguation": "",
-      "physical_ids": [],
+      "physical_ids": [
+        "P.Lips. 1.27"
+      ],
       "stories": [
-        "objects-of-contempt"
+        "the-man-whom-she-preferred",
+        "weeping-by-night"
       ]
     },
-    "masabates-persian-court-fl-c-401-bce": {
-      "id": "masabates-persian-court-fl-c-401-bce",
+    "zois-alexandria-fl-augustan-period": {
+      "id": "zois-alexandria-fl-augustan-period",
       "type": "person",
-      "canonical_name": "Masabates",
+      "canonical_name": "Zois",
       "name_variants": [
-        "Masabates"
+        "Zois daughter of Herakleides"
       ],
-      "patronymic": "",
-      "dates": "fl. c. 401 BCE",
-      "location": "Persian court",
+      "patronymic": "daughter of Herakleides",
+      "dates": "fl. Augustan period",
+      "location": "Alexandria (?)",
       "roles": [
         {
-          "title": "royal eunuch of Artaxerxes II",
-          "date": "c. 401 BCE",
-          "location": "Persian court"
+          "title": "divorcee",
+          "date": "",
+          "location": ""
         }
       ],
       "corpus_ids": [
-        103130,
-        103133,
-        103134,
-        103135
+        137350
       ],
-      "bio": "A eunuch of the Persian king Artaxerxes II who cut off the head and right hand of the dead prince Cyrus the Younger after the Battle of Cunaxa in 401 BCE. The queen mother Parysatis, who favoured Cyrus, plotted revenge. She won Masabates in a dice game with the king, then had him flayed alive, his body set up on three stakes and his skin nailed to a fourth. Artaxerxes was furious but unable to undo the act. The episode illustrates both the vulnerability and the expendability of eunuchs in the Persian court.\n",
+      "bio": "Woman who separated amicably from Antipatros, receiving back garments valued at 120 drachmae and a pair of gold earrings. Both parties declared free to remarry.\n",
       "disambiguation": "",
-      "physical_ids": [],
+      "physical_ids": [
+        "BGU 4.1103"
+      ],
       "stories": [
-        "objects-of-contempt"
+        "weeping-by-night"
       ]
     },
-    "pariscas-battlefield-of-cunaxa-fl-c-401-bce": {
-      "id": "pariscas-battlefield-of-cunaxa-fl-c-401-bce",
+    "makaria-unknown-egypt-fl-after-55-bce": {
+      "id": "makaria-unknown-egypt-fl-after-55-bce",
       "type": "person",
-      "canonical_name": "Pariscas",
+      "canonical_name": "Makaria",
       "name_variants": [
-        "Pariscas"
+        "Makaria"
       ],
-      "patronymic": "",
-      "dates": "fl. c. 401 BCE",
-      "location": "Battlefield of Cunaxa",
+      "patronymic": "unknown",
+      "dates": "fl. after 55 BCE",
+      "location": "unknown (Egypt)",
       "roles": [
         {
-          "title": "eunuch attendant to Cyrus the Younger",
-          "date": "c. 401 BCE",
-          "location": "battlefield of Cunaxa"
+          "title": "petitioner",
+          "date": "",
+          "location": ""
+        },
+        {
+          "title": "expelled wife",
+          "date": "",
+          "location": ""
         }
       ],
       "corpus_ids": [
-        103106
+        137033
       ],
-      "bio": "A eunuch who attended Cyrus the Younger and mourned over his dead body on the battlefield of Cunaxa. When Artasyras, the king's Eye, asked who lay dead, Pariscas replied: \"Dost thou not see Cyrus dead?\" Described by Plutarch as one of Cyrus's most trusted attendants. His vigil over the body exemplifies the fidelity that Xenophon theorised in the Cyropaedia.\n",
+      "bio": "Woman whose husband threw her out of the house, did not provide necessities or clothing, and did not return her dowry.\n",
       "disambiguation": "",
-      "physical_ids": [],
+      "physical_ids": [
+        "BGU 8.1820"
+      ],
       "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "satibarzanes-battlefield-of-cunaxa-fl-c-401-bce": {
-      "id": "satibarzanes-battlefield-of-cunaxa-fl-c-401-bce",
-      "type": "person",
-      "canonical_name": "Satibarzanes",
-      "name_variants": [
-        "Satibarzanes"
-      ],
-      "patronymic": "",
-      "dates": "fl. c. 401 BCE",
-      "location": "Battlefield of Cunaxa",
-      "roles": [
-        {
-          "title": "eunuch attendant to Artaxerxes II",
-          "date": "c. 401 BCE",
-          "location": "battlefield of Cunaxa"
-        }
-      ],
-      "corpus_ids": [
-        103108
-      ],
-      "bio": "A eunuch who served Artaxerxes II and who, after the king was wounded at Cunaxa, \"ran about in quest of a drink for him.\" He found only vile water in a wretched skin carried by a Caunian, about two quarts in all. The king drank it gratefully. A minor figure whose act of devotion illustrates the intimate service eunuchs provided to Persian kings.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "arnaces-salamis-fl-c-480-bce": {
-      "id": "arnaces-salamis-fl-c-480-bce",
-      "type": "person",
-      "canonical_name": "Arnaces",
-      "name_variants": [
-        "Arnaces"
-      ],
-      "patronymic": "",
-      "dates": "fl. c. 480 BCE",
-      "location": "Salamis",
-      "roles": [
-        {
-          "title": "royal eunuch (captured by Greeks)",
-          "date": "c. 480 BCE",
-          "location": "Salamis"
-        }
-      ],
-      "corpus_ids": [
-        93850
-      ],
-      "bio": "A Persian royal eunuch captured by the Greeks during the invasion of 480 BCE. Themistocles used him as a messenger to deceive Xerxes, sending him to tell the king that the Greeks planned to destroy the bridge at the Hellespont, thus encouraging Xerxes to retreat. The episode illustrates how eunuchs served as intermediaries between powers -- trusted by virtue of their status, useful precisely because their loyalties were assumed to follow power rather than principle.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "ethiopian-eunuch-road-from-jerusalem-to-gaza-fl-c-30-60-ce-narrative-setting": {
-      "id": "ethiopian-eunuch-road-from-jerusalem-to-gaza-fl-c-30-60-ce-narrative-setting",
-      "type": "person",
-      "canonical_name": "Ethiopian eunuch",
-      "name_variants": [
-        "eunuch of Candace",
-        "the eunuch"
-      ],
-      "patronymic": "",
-      "dates": "fl. c. 30-60 CE (narrative setting)",
-      "location": "road from Jerusalem to Gaza",
-      "roles": [
-        {
-          "title": "treasurer to Candace, queen of Ethiopia",
-          "date": "c. 30-60 CE (narrative setting)",
-          "location": "Ethiopian court; Jerusalem"
-        }
-      ],
-      "corpus_ids": [
-        33884
-      ],
-      "bio": "An unnamed eunuch described in Acts 8 as \"a eunuch of great authority under Candace, queen of the Ethiopians, who was over all her treasure.\" A court eunuch in the traditional pattern -- powerful, wealthy, managing a queen's finances. Had travelled to Jerusalem to worship, suggesting Jewish sympathies, but would have been excluded from the Temple under Deuteronomy 23:1. Philip the Evangelist baptised him on the road to Gaza after finding him reading Isaiah 53 in his chariot. The passage he was reading -- about a man whose \"generation\" is cut off -- resonates with the eunuch's own condition. His baptism represents the early Christian inclusion of those excluded by traditional Jewish law.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "objects-of-contempt"
+        "weeping-by-night"
       ]
     },
     "apellis-gela-sicily-fl-500--450-bce": {
@@ -5245,8 +5894,8 @@
       "type": "person",
       "canonical_name": "Apellis",
       "name_variants": [
-        "Apelis",
-        "Apellis"
+        "Apellis",
+        "Apelis"
       ],
       "patronymic": "unknown",
       "dates": "fl. 500--450 BCE",
@@ -5395,8 +6044,8 @@
       "type": "person",
       "canonical_name": "Sosias",
       "name_variants": [
-        "Sosia",
-        "Sosias"
+        "Sosias",
+        "Sosia"
       ],
       "patronymic": "unknown (possibly son of Archonidas or son of Archias)",
       "dates": "fl. 480--450 BCE",
@@ -5691,206 +6340,127 @@
         "fever-faith-and-formulae"
       ]
     },
-    "neoteros-son-of-marreous-karanis-fayum-egypt-fl-21-22-ce": {
-      "id": "neoteros-son-of-marreous-karanis-fayum-egypt-fl-21-22-ce",
+    "neoteros-karanis-or-the-fayum-fl-21-22-ce": {
+      "id": "neoteros-karanis-or-the-fayum-fl-21-22-ce",
       "type": "person",
-      "canonical_name": "Neoteros son of Marreous",
-      "name_variants": [
-        "Neoteros"
-      ],
+      "canonical_name": "Neoteros",
+      "name_variants": [],
       "patronymic": "son of Marreous",
       "dates": "fl. 21-22 CE",
-      "location": "Karanis, Fayum, Egypt",
+      "location": "Karanis or the Fayum",
       "roles": [
         {
           "title": "oracle petitioner",
           "date": "21-22 CE",
-          "location": "Karanis"
+          "location": "Fayum"
         }
       ],
       "corpus_ids": [
         36299
       ],
-      "bio": "Resident of the Fayum (probably Karanis) who submitted a written oracle question to the god Soxis Pnepheros in the eighth year of Tiberius (21-22 CE), asking whether he should travel to Alexandria to bring a legal complaint. His name, Neoteros (\"Younger\"), suggests he was distinguished from an older relative of the same name. His patronymic Marreous is Egyptian.\n",
-      "disambiguation": "Known only from this single oracle question.\n",
-      "physical_ids": [
-        "DCLP 958.957673"
-      ],
+      "bio": "Asked Soxis Pnepheros whether he should go to Alexandria to bring a complaint. His surviving ticket preserves the decision before it was made.\n",
+      "disambiguation": "",
+      "physical_ids": [],
       "stories": [
         "ask-the-god"
       ]
     },
-    "asklepiades-son-of-areios-soknopaiou-nesos-fayum-egypt-fl-6-ce": {
-      "id": "asklepiades-son-of-areios-soknopaiou-nesos-fayum-egypt-fl-6-ce",
+    "asklepiades-fayum-fl-6-ce": {
+      "id": "asklepiades-fayum-fl-6-ce",
       "type": "person",
-      "canonical_name": "Asklepiades son of Areios",
-      "name_variants": [
-        "Asklepiades"
-      ],
+      "canonical_name": "Asklepiades",
+      "name_variants": [],
       "patronymic": "son of Areios",
       "dates": "fl. 6 CE",
-      "location": "Soknopaiou Nesos, Fayum, Egypt",
+      "location": "Fayum",
       "roles": [
         {
           "title": "oracle petitioner",
           "date": "6 CE",
-          "location": "Soknopaiou Nesos"
+          "location": "Fayum"
         }
       ],
       "corpus_ids": [
         47329
       ],
-      "bio": "Man who submitted a written oracle question to the god Soknopaios on 26 April 6 CE, asking whether he was permitted to marry Tapetheus daughter of Marres, who had previously been the wife of Horion. His Greek name and patronymic suggest Hellenised background; his consultation of an Egyptian crocodile god shows cultural integration.\n",
-      "disambiguation": "Known only from this oracle question.\n",
-      "physical_ids": [
-        "AnalPap 16/17.100"
-      ],
+      "bio": "Asked Soknopaios whether he was permitted to marry Tapetheus daughter of Marres.\n",
+      "disambiguation": "",
+      "physical_ids": [],
       "stories": [
         "ask-the-god"
       ]
     },
-    "tapetheus-daughter-of-marres-soknopaiou-nesos-fayum-egypt-fl-6-ce": {
-      "id": "tapetheus-daughter-of-marres-soknopaiou-nesos-fayum-egypt-fl-6-ce",
+    "tapetheus-fayum-fl-6-ce": {
+      "id": "tapetheus-fayum-fl-6-ce",
       "type": "person",
-      "canonical_name": "Tapetheus daughter of Marres",
-      "name_variants": [
-        "Tapetheus"
-      ],
+      "canonical_name": "Tapetheus",
+      "name_variants": [],
       "patronymic": "daughter of Marres",
       "dates": "fl. 6 CE",
-      "location": "Soknopaiou Nesos, Fayum, Egypt",
+      "location": "Fayum",
       "roles": [
         {
-          "title": "subject of oracle question (proposed marriage)",
+          "title": "woman named in marriage query",
           "date": "6 CE",
-          "location": "Soknopaiou Nesos"
+          "location": "Fayum"
         }
       ],
       "corpus_ids": [
         47329
       ],
-      "bio": "Woman whose proposed marriage to Asklepiades son of Areios was the subject of an oracle question to Soknopaios in 6 CE. Previously married to Horion. Her Egyptian name (Tapetheus) contrasts with her suitor's Greek name.\n",
+      "bio": "The woman Asklepiades hoped to marry; the oracle ticket notes that she had previously been the wife of Horion.\n",
       "disambiguation": "",
-      "physical_ids": [
-        "AnalPap 16/17.100"
-      ],
+      "physical_ids": [],
       "stories": [
         "ask-the-god"
       ]
     },
-    "theodora-krokodilopolis-arsinoe-fayum-egypt-fl-501-700-ce": {
-      "id": "theodora-krokodilopolis-arsinoe-fayum-egypt-fl-501-700-ce",
+    "theodora-egypt-501-700-ce": {
+      "id": "theodora-egypt-501-700-ce",
       "type": "person",
       "canonical_name": "Theodora",
-      "name_variants": [
-        "Theodora"
-      ],
+      "name_variants": [],
       "patronymic": "",
-      "dates": "fl. 501-700 CE",
-      "location": "Krokodilopolis (Arsinoe), Fayum, Egypt",
+      "dates": "501-700 CE",
+      "location": "Egypt",
       "roles": [
         {
-          "title": "subject of Christian oracle question (proposed marriage)",
+          "title": "woman named in Christian oracle question",
           "date": "501-700 CE",
-          "location": "Krokodilopolis"
-        }
-      ],
-      "corpus_ids": [
-        3741
-      ],
-      "bio": "Woman described as \"your servant\" (of God) whose proposed marriage to Joseph was the subject of a Christian oracle question. The answer was \"Yes. Yes.\" Nothing else is known about her.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "DCLP 37.36291"
-      ],
-      "stories": [
-        "ask-the-god"
-      ]
-    },
-    "didymus-son-of-unknown-egypt-possibly-oxyrhynchus-fl-3rd-c-ce": {
-      "id": "didymus-son-of-unknown-egypt-possibly-oxyrhynchus-fl-3rd-c-ce",
-      "type": "person",
-      "canonical_name": "Didymus (son of unknown)",
-      "name_variants": [
-        "Didymus"
-      ],
-      "patronymic": "",
-      "dates": "fl. 3rd c. CE",
-      "location": "Egypt (possibly Oxyrhynchus)",
-      "roles": [
-        {
-          "title": "letter-writer",
-          "date": "3rd c. CE",
           "location": "Egypt"
         }
       ],
       "corpus_ids": [
-        42659
+        42625
       ],
-      "bio": "Son who wrote to his father Chaeremon about estate management and family news. His mother Thaesis had gone to Antinoopolis for a funeral. His letter includes the standard evil eye protection formula for the children of a man named Phullon.\n",
+      "bio": "Named in a Christian oracle question asking whether she should be given to Joseph.\n",
       "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 9.1218"
-      ],
+      "physical_ids": [],
       "stories": [
         "ask-the-god"
       ]
     },
-    "ammonios-xystophorus-antinoopolis-egypt-fl-3rd-c-ce": {
-      "id": "ammonios-xystophorus-antinoopolis-egypt-fl-3rd-c-ce",
+    "joseph-egypt-501-700-ce": {
+      "id": "joseph-egypt-501-700-ce",
       "type": "person",
-      "canonical_name": "Ammonios (xystophorus?)",
-      "name_variants": [
-        "Ammonios"
-      ],
+      "canonical_name": "Joseph",
+      "name_variants": [],
       "patronymic": "",
-      "dates": "fl. 3rd c. CE",
-      "location": "Antinoopolis, Egypt",
+      "dates": "501-700 CE",
+      "location": "Egypt",
       "roles": [
         {
-          "title": "letter-writer",
-          "date": "3rd c. CE",
-          "location": "Antinoopolis"
+          "title": "prospective husband in Christian oracle question",
+          "date": "501-700 CE",
+          "location": "Egypt"
         }
       ],
       "corpus_ids": [
-        57395
+        42625
       ],
-      "bio": "Man writing from Antinoopolis to his brother Andronikos about letters of introduction and household management. His letter includes the evil eye protection formula for Andronikos's children. The epithet \"xystophorus\" in the address may indicate an athletic or military role.\n",
+      "bio": "Named as the proposed husband in a later Christian oracle question concerning Theodora.\n",
       "disambiguation": "",
-      "physical_ids": [
-        "P.Ryl. 4.604"
-      ],
-      "stories": [
-        "ask-the-god"
-      ]
-    },
-    "aurelius-pakysis-son-of-tesenouphis-soknopaiou-nesos-fayum-egypt-fl-216-ce": {
-      "id": "aurelius-pakysis-son-of-tesenouphis-soknopaiou-nesos-fayum-egypt-fl-216-ce",
-      "type": "person",
-      "canonical_name": "Aurelius Pakysis son of Tesenouphis",
-      "name_variants": [
-        "Aurelius Pakysis",
-        "Pakysis"
-      ],
-      "patronymic": "son of Tesenouphis",
-      "dates": "fl. 216 CE",
-      "location": "Soknopaiou Nesos, Fayum, Egypt",
-      "roles": [
-        {
-          "title": "priest and stolistes, temple of Soknopaiou Nesos",
-          "date": "216 CE",
-          "location": "Soknopaiou Nesos"
-        }
-      ],
-      "corpus_ids": [
-        47354
-      ],
-      "bio": "Priest and stolistes (vestment-keeper) of the first-rank temple at Soknopaiou Nesos. Filed an administrative declaration on 7 April 216 CE regarding property holdings. Representative of the priestly class that administered the oracle services of the Fayum temples.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "BGU 1.321"
-      ],
+      "physical_ids": [],
       "stories": [
         "ask-the-god"
       ]
@@ -6083,1123 +6653,6 @@
       "physical_ids": [],
       "stories": [
         "for-i-am-not-able-the-trapping-of-achilles"
-      ]
-    },
-    "kametis-son-of-psenchonsis-thebes-active-119--190-ce": {
-      "id": "kametis-son-of-psenchonsis-thebes-active-119--190-ce",
-      "type": "person",
-      "canonical_name": "Kametis son of Psenchonsis",
-      "name_variants": [
-        "Kametis"
-      ],
-      "patronymic": "son of Psenchonsis",
-      "dates": "active 119--190 CE",
-      "location": "Thebes",
-      "roles": [
-        {
-          "title": "grain-tax payer",
-          "date": "119--190 CE",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        51218,
-        51226,
-        51227,
-        51228,
-        51233,
-        51244
-      ],
-      "bio": "The fiscal center of this reconstruction, visible through repeated grain, market, and quarter-account entries rather than through narrative documents.\n",
-      "disambiguation": "Later Kametis entries may refer to collateral kin or namesakes; the story treats them as part of a household or lineage cluster unless identity is secure.\n",
-      "physical_ids": [],
-      "stories": [
-        "the-grain-ledger-of-kametis"
-      ]
-    },
-    "psenchonsis-thebes-active-105--118-ce": {
-      "id": "psenchonsis-thebes-active-105--118-ce",
-      "type": "person",
-      "canonical_name": "Psenchonsis",
-      "name_variants": [
-        "Psenchonsis son of Psenchonsis"
-      ],
-      "patronymic": "father of Kametis",
-      "dates": "active 105--118 CE",
-      "location": "Thebes",
-      "roles": [
-        {
-          "title": "grain measurer / taxpayer",
-          "date": "105--118 CE",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        51195,
-        51202,
-        51205
-      ],
-      "bio": "Earlier member of the same fiscal household whose granary appearances anchor the lineage before Kametis.\n",
-      "disambiguation": "Theban onomastics are repetitive; treated here as the most plausible father-generation anchor.\n",
-      "physical_ids": [],
-      "stories": [
-        "the-grain-ledger-of-kametis"
-      ]
-    },
-    "senchonsis-daughter-of-kametis-thebes-active-125--138-ce": {
-      "id": "senchonsis-daughter-of-kametis-thebes-active-125--138-ce",
-      "type": "person",
-      "canonical_name": "Senchonsis daughter of Kametis",
-      "name_variants": [
-        "Senchonsis"
-      ],
-      "patronymic": "daughter of Kametis",
-      "dates": "active 125--138 CE",
-      "location": "Thebes",
-      "roles": [
-        {
-          "title": "grain-share holder",
-          "date": "125--138 CE",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        51243,
-        51245,
-        51252,
-        51705
-      ],
-      "bio": "Woman whose repeated appearance in granary and market records shows female-held shares moving through the same household network.\n",
-      "disambiguation": "Likely linked to Kametis' immediate household, though the precise kin position cannot be proved in every entry.\n",
-      "physical_ids": [],
-      "stories": [
-        "the-grain-ledger-of-kametis"
-      ]
-    },
-    "thaesis-daughter-of-kametis-thebes-active-112--186-ce": {
-      "id": "thaesis-daughter-of-kametis-thebes-active-112--186-ce",
-      "type": "person",
-      "canonical_name": "Thaesis daughter of Kametis",
-      "name_variants": [
-        "Thaesis"
-      ],
-      "patronymic": "daughter of Kametis",
-      "dates": "active 112--186 CE",
-      "location": "Thebes",
-      "roles": [
-        {
-          "title": "taxpayer",
-          "date": "112--186 CE",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        51199,
-        51522,
-        51523
-      ],
-      "bio": "Another woman in the Kametis cluster whose appearances suggest the long persistence of female fiscal identity in Theban records.\n",
-      "disambiguation": "Some later Thaesis references may belong to a related branch rather than the same individual.\n",
-      "physical_ids": [],
-      "stories": [
-        "the-grain-ledger-of-kametis"
-      ]
-    },
-    "apollophanes-oxyrhynchus-fl-ca-41-54-ce": {
-      "id": "apollophanes-oxyrhynchus-fl-ca-41-54-ce",
-      "type": "person",
-      "canonical_name": "Apollophanes",
-      "name_variants": [
-        "Apollophanes"
-      ],
-      "patronymic": "unknown",
-      "dates": "fl. ca. 41-54 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "ex-tax collector",
-          "date": "",
-          "location": ""
-        },
-        {
-          "title": "extortionist",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        43401,
-        44673
-      ],
-      "bio": "Former collector of the trade tax upon weavers. Systematically extorted weavers including Sarapion son of Theon and Alexandrus son of Apollonius.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 2.285",
-        "P.Oxy. 2.284"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly"
-      ]
-    },
-    "alexandrus-son-of-apollonius-oxyrhynchus-quarter-of-the-square-of-thoëris-fl-ca-50-ce": {
-      "id": "alexandrus-son-of-apollonius-oxyrhynchus-quarter-of-the-square-of-thoëris-fl-ca-50-ce",
-      "type": "person",
-      "canonical_name": "Alexandrus son of Apollonius",
-      "name_variants": [
-        "Alexandrus son of Apollonius"
-      ],
-      "patronymic": "son of Apollonius",
-      "dates": "fl. ca. 50 CE",
-      "location": "Oxyrhynchus, quarter of the Square of Thoëris",
-      "roles": [
-        {
-          "title": "weaver",
-          "date": "",
-          "location": ""
-        },
-        {
-          "title": "petitioner",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        44673
-      ],
-      "bio": "Weaver of Oxyrhynchus. Petitioned about extortion of 16 drachmae by Apollophanes.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 2.284"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly"
-      ]
-    },
-    "tiberius-claudius-pasion-oxyrhynchus-fl-ca-41-54-ce": {
-      "id": "tiberius-claudius-pasion-oxyrhynchus-fl-ca-41-54-ce",
-      "type": "person",
-      "canonical_name": "Tiberius Claudius Pasion",
-      "name_variants": [
-        "Tiberius Claudius Pasion",
-        "Τιβερίωι Κλαυδίῳ Πασίωνι"
-      ],
-      "patronymic": "unknown",
-      "dates": "fl. ca. 41-54 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "strategus",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        40441,
-        43401,
-        44673
-      ],
-      "bio": "Strategus of the Oxyrhynchite nome during the reign of Claudius. Received petitions from weavers and others.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 2.285",
-        "P.Oxy. 2.284",
-        "P.Oxy. 2.283"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly"
-      ]
-    },
-    "demetrous-oxyrhynchus-fl-29-37-ce": {
-      "id": "demetrous-oxyrhynchus-fl-29-37-ce",
-      "type": "person",
-      "canonical_name": "Demetrous",
-      "name_variants": [
-        "Demetrous daughter of Heraclides"
-      ],
-      "patronymic": "daughter of Heraclides",
-      "dates": "fl. 29-37 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "wife (first) of Tryphon",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        141045
-      ],
-      "bio": "First wife of Tryphon. Left him and took property, prompting his petition. Mother of Thoönis, who later disappeared.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 2.282"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly"
-      ]
-    },
-    "saraeus-oxyrhynchus-fl-37-66-ce": {
-      "id": "saraeus-oxyrhynchus-fl-37-66-ce",
-      "type": "person",
-      "canonical_name": "Saraeus",
-      "name_variants": [
-        "Saraeus daughter of Apion"
-      ],
-      "patronymic": "daughter of Apion",
-      "dates": "fl. 37-66 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "wife (second) of Tryphon",
-          "date": "",
-          "location": ""
-        },
-        {
-          "title": "mother of Thoenis",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        43391,
-        43394
-      ],
-      "bio": "Second wife of Tryphon. Brought a dowry of 72 drachmae. Mother of Thoenis, apprenticed as a weaver in 66 CE. Marriage contract included hemiolion penalty.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 2.267",
-        "P.Oxy. 2.275"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly"
-      ]
-    },
-    "thamounion-oxyrhynchus-fl-44-ce": {
-      "id": "thamounion-oxyrhynchus-fl-44-ce",
-      "type": "person",
-      "canonical_name": "Thamounion",
-      "name_variants": [
-        "Thamounion daughter of Onnophris",
-        "Thamounis"
-      ],
-      "patronymic": "daughter of Onnophris",
-      "dates": "fl. 44 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "mother of Tryphon",
-          "date": "",
-          "location": ""
-        },
-        {
-          "title": "petitioner",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        43381
-      ],
-      "bio": "Mother of Tryphon. In 44 CE reported the disappearance of her grandson Thoönis, requesting his registration as removed for tax purposes.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 2.251"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly"
-      ]
-    },
-    "ptolemaeus-son-of-pausirion-oxyrhynchus-fl-66-ce": {
-      "id": "ptolemaeus-son-of-pausirion-oxyrhynchus-fl-66-ce",
-      "type": "person",
-      "canonical_name": "Ptolemaeus son of Pausirion",
-      "name_variants": [
-        "Ptolemaeus son of Pausirion"
-      ],
-      "patronymic": "son of Pausirion",
-      "dates": "fl. 66 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "weaver",
-          "date": "",
-          "location": ""
-        },
-        {
-          "title": "master weaver",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        43394
-      ],
-      "bio": "Master weaver who took Tryphon's son Thoenis as an apprentice in 66 CE.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 2.275"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly"
-      ]
-    },
-    "thaesis-oxyrhynchus-fl-96-ce": {
-      "id": "thaesis-oxyrhynchus-fl-96-ce",
-      "type": "person",
-      "canonical_name": "Thaesis",
-      "name_variants": [
-        "Thaesis daughter of Thonis",
-        "Thaësis"
-      ],
-      "patronymic": "daughter of Thonis",
-      "dates": "fl. 96 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "divorcee",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        141040
-      ],
-      "bio": "Divorced wife of Petosarapis. Received 400 silver drachmae in dowry return during an amicable divorce in 96 CE. Acted with her step-father Onnophris as guardian.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 2.266"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly"
-      ]
-    },
-    "petosarapis-oxyrhynchus-fl-96-ce": {
-      "id": "petosarapis-oxyrhynchus-fl-96-ce",
-      "type": "person",
-      "canonical_name": "Petosarapis",
-      "name_variants": [
-        "Petosarapis son of Thompekusis"
-      ],
-      "patronymic": "son of Thompekusis son of Sarapion",
-      "dates": "fl. 96 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "former husband",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        141040
-      ],
-      "bio": "Former husband of Thaesis. Returned her 400-drachma dowry and parapherna in an amicable divorce in 96 CE.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 2.266"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly"
-      ]
-    },
-    "dionysia-oxyrhynchus-fl-2nd-century-ce": {
-      "id": "dionysia-oxyrhynchus-fl-2nd-century-ce",
-      "type": "person",
-      "canonical_name": "Dionysia",
-      "name_variants": [
-        "Dionysia daughter of Chaeremon"
-      ],
-      "patronymic": "daughter of Chaeremon",
-      "dates": "fl. 2nd century CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "litigant",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        141383
-      ],
-      "bio": "Woman who fought a landmark legal battle against her father when he attempted to dissolve her marriage and reclaim her dowry. The case established precedents affirming women's marriage autonomy.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 2.237"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly"
-      ]
-    },
-    "flavius-titianus-alexandria-fl-2nd-century-ce": {
-      "id": "flavius-titianus-alexandria-fl-2nd-century-ce",
-      "type": "person",
-      "canonical_name": "Flavius Titianus",
-      "name_variants": [
-        "Flavius Titianus"
-      ],
-      "patronymic": "unknown",
-      "dates": "fl. 2nd century CE",
-      "location": "Alexandria",
-      "roles": [
-        {
-          "title": "prefect of Egypt",
-          "date": "",
-          "location": ""
-        },
-        {
-          "title": "judge",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        141383
-      ],
-      "bio": "Former prefect whose ruling established that \"the decision depends upon the question, with whom the wife wishes to live.\"\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 2.237"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly"
-      ]
-    },
-    "aurelius-gaius-harpocration-alexandria-fl-267-ce": {
-      "id": "aurelius-gaius-harpocration-alexandria-fl-267-ce",
-      "type": "person",
-      "canonical_name": "Aurelius Gaius (Harpocration)",
-      "name_variants": [
-        "Aurelius Gaius also called Harpocration"
-      ],
-      "patronymic": "unknown",
-      "dates": "fl. 267 CE",
-      "location": "Alexandria",
-      "roles": [
-        {
-          "title": "priest",
-          "date": "",
-          "location": ""
-        },
-        {
-          "title": "archidikastes",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        43248
-      ],
-      "bio": "Priest and archidikastes in 267 CE. Used the same title formula as Heraclides two centuries earlier.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 12.1475"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly"
-      ]
-    },
-    "ammonarion-oxyrhynchus-fl-after-57-ce": {
-      "id": "ammonarion-oxyrhynchus-fl-after-57-ce",
-      "type": "person",
-      "canonical_name": "Ammonarion",
-      "name_variants": [
-        "Ammonarion daughter of Ammonius"
-      ],
-      "patronymic": "daughter of Ammonius",
-      "dates": "fl. after 57 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "widow",
-          "date": "",
-          "location": ""
-        },
-        {
-          "title": "petitioner",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        141041
-      ],
-      "bio": "Widow who settled her late husband's 800-drachma dowry obligation through the archidikastes Theon.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 2.268"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly"
-      ]
-    },
-    "julia-heracla-oxyrhynchus-fl-95-ce": {
-      "id": "julia-heracla-oxyrhynchus-fl-95-ce",
-      "type": "person",
-      "canonical_name": "Julia Heracla",
-      "name_variants": [
-        "Julia Heracla"
-      ],
-      "patronymic": "unknown",
-      "dates": "fl. 95 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "property owner",
-          "date": "",
-          "location": ""
-        },
-        {
-          "title": "Roman citizen",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        43392
-      ],
-      "bio": "Roman citizen woman who transferred five arourae of land to her daughter in 95 CE, acting with a praefect-assigned guardian.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 2.273"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly"
-      ]
-    },
-    "sieapis-oxyrhynchus-fl-ca-76-ce": {
-      "id": "sieapis-oxyrhynchus-fl-ca-76-ce",
-      "type": "person",
-      "canonical_name": "Sieapis",
-      "name_variants": [
-        "Sieapis daughter of Sarapion"
-      ],
-      "patronymic": "daughter of Sarapion son of Apollonius",
-      "dates": "fl. ca. 76 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "property registrant",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        39488
-      ],
-      "bio": "Woman who registered property in her own name around 76 CE, using her son Ariston as guardian.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 74.4983"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly"
-      ]
-    },
-    "senyris-oxyrhynchus-fl-ca-156-125-bce": {
-      "id": "senyris-oxyrhynchus-fl-ca-156-125-bce",
-      "type": "person",
-      "canonical_name": "Senyris",
-      "name_variants": [
-        "Senyris"
-      ],
-      "patronymic": "unknown",
-      "dates": "fl. ca. 156-125 BCE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "petitioner",
-          "date": "",
-          "location": ""
-        },
-        {
-          "title": "abandoned partner",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        11799
-      ],
-      "bio": "Woman who petitioned the chief judge after her partner threw her out, stopped feeding and clothing her and their two children, and took another woman.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "ZPE 176.213"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly",
-        "weeping-by-night"
-      ]
-    },
-    "diemous-oxyrhynchus-fl-144-ce": {
-      "id": "diemous-oxyrhynchus-fl-144-ce",
-      "type": "person",
-      "canonical_name": "Diemous",
-      "name_variants": [
-        "Diemous daughter of Colluthus"
-      ],
-      "patronymic": "daughter of Colluthus",
-      "dates": "fl. 144 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "petitioner",
-          "date": "",
-          "location": ""
-        },
-        {
-          "title": "burglary victim",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        43200
-      ],
-      "bio": "Woman who reported a burglary, naming her neighbor Heras the weaver as suspect.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 10.1272"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly"
-      ]
-    },
-    "serenus-oxyrhynchus-fl-2nd-c-ce": {
-      "id": "serenus-oxyrhynchus-fl-2nd-c-ce",
-      "type": "person",
-      "canonical_name": "Serenus",
-      "name_variants": [
-        "Serenus"
-      ],
-      "patronymic": "unknown",
-      "dates": "fl. 2nd c. CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "husband",
-          "date": "",
-          "location": ""
-        },
-        {
-          "title": "letter writer",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        43498
-      ],
-      "bio": "Husband (and possibly brother) of Isidora. After she left, he did not bathe for a month, wept by night, and wrote desperate letters through intermediaries. Accused of selling Isidora's gold chain and putting her on a boat.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 3.528"
-      ],
-      "stories": [
-        "weeping-by-night"
-      ]
-    },
-    "colobus-oxyrhynchus-fl-2nd-c-ce": {
-      "id": "colobus-oxyrhynchus-fl-2nd-c-ce",
-      "type": "person",
-      "canonical_name": "Colobus",
-      "name_variants": [
-        "Kolobos",
-        "the maimed one"
-      ],
-      "patronymic": "unknown",
-      "dates": "fl. 2nd c. CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "intermediary",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        43498
-      ],
-      "bio": "Intermediary between Serenus and Isidora. Conveyed accusations in both directions: told Serenus that Isidora accused him of selling her chain; Isidora accused Colobus of \"making her a prostitute.\"\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 3.528"
-      ],
-      "stories": [
-        "weeping-by-night"
-      ]
-    },
-    "panetbeous-theadelphia-arsinoite-nome-fl-mid-3rd-c-ce": {
-      "id": "panetbeous-theadelphia-arsinoite-nome-fl-mid-3rd-c-ce",
-      "type": "person",
-      "canonical_name": "Panetbeous",
-      "name_variants": [
-        "Panetbeous"
-      ],
-      "patronymic": "unknown",
-      "dates": "fl. mid-3rd c. CE",
-      "location": "Theadelphia (Arsinoite nome)",
-      "roles": [
-        {
-          "title": "public farmer",
-          "date": "",
-          "location": ""
-        },
-        {
-          "title": "petitioner",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        50328
-      ],
-      "bio": "Public farmer from Theadelphia who petitioned the centurion Claudius Alexandros after his cohabiting wife left with household goods and was subsequently seized and married by Neilos son of Syros.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Heid. 3.237"
-      ],
-      "stories": [
-        "weeping-by-night"
-      ]
-    },
-    "wife-of-panetbeous-theadelphia-arsinoite-nome-fl-mid-3rd-c-ce": {
-      "id": "wife-of-panetbeous-theadelphia-arsinoite-nome-fl-mid-3rd-c-ce",
-      "type": "person",
-      "canonical_name": "Wife of Panetbeous",
-      "name_variants": [],
-      "patronymic": "unknown",
-      "dates": "fl. mid-3rd c. CE",
-      "location": "Theadelphia (Arsinoite nome)",
-      "roles": [
-        {
-          "title": "wife",
-          "date": "",
-          "location": ""
-        },
-        {
-          "title": "mother",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        50328
-      ],
-      "bio": "Unnamed cohabiting wife of Panetbeous, mother of his children. Left his house during his absence, taking household goods including a white garment, an Oxyrhynchite pillow, a cross-striped double-blanket, materials for two tunics, and agricultural tools. Refused to return property despite repeated demands. Subsequently joined Neilos son of Syros.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Heid. 3.237"
-      ],
-      "stories": [
-        "weeping-by-night"
-      ]
-    },
-    "neilos-theadelphia-arsinoite-nome-fl-mid-3rd-c-ce": {
-      "id": "neilos-theadelphia-arsinoite-nome-fl-mid-3rd-c-ce",
-      "type": "person",
-      "canonical_name": "Neilos",
-      "name_variants": [
-        "Neilos son of Syros"
-      ],
-      "patronymic": "son of Syros",
-      "dates": "fl. mid-3rd c. CE",
-      "location": "Theadelphia (Arsinoite nome)",
-      "roles": [
-        {
-          "title": "second husband",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        50328
-      ],
-      "bio": "Man from Theadelphia who \"seized and married\" the wife of Panetbeous. Accused by Panetbeous of unlawful seizure.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Heid. 3.237"
-      ],
-      "stories": [
-        "weeping-by-night"
-      ]
-    },
-    "demetria-elephantine-fl-310-bce": {
-      "id": "demetria-elephantine-fl-310-bce",
-      "type": "person",
-      "canonical_name": "Demetria",
-      "name_variants": [
-        "Demetria the Koan"
-      ],
-      "patronymic": "daughter of Leptines",
-      "dates": "fl. 310 BCE",
-      "location": "Elephantine",
-      "roles": [
-        {
-          "title": "bride",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        85743
-      ],
-      "bio": "Koan woman who married Herakleides the Temnitan in 310 BCE under the earliest known complete Greek marriage contract from Egypt. The contract protected her against her husband's infidelity with a double penalty.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Eleph. 1"
-      ],
-      "stories": [
-        "weeping-by-night"
-      ]
-    },
-    "saraeus-oxyrhynchus-fl-37-ce": {
-      "id": "saraeus-oxyrhynchus-fl-37-ce",
-      "type": "person",
-      "canonical_name": "Saraeus",
-      "name_variants": [
-        "Saraeus daughter of Apion"
-      ],
-      "patronymic": "daughter of Apion",
-      "dates": "fl. 37 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "wife of Tryphon the weaver",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        43391
-      ],
-      "bio": "Second wife of the weaver Tryphon. Brought a modest dowry of 72 drachmae (cash, gold earrings, and a milk-white robe) to a marriage that existed without a formal contract.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 2.267"
-      ],
-      "stories": [
-        "weeping-by-night"
-      ]
-    },
-    "aurelia-tausiris-oxyrhynchus-fl-260-ce": {
-      "id": "aurelia-tausiris-oxyrhynchus-fl-260-ce",
-      "type": "person",
-      "canonical_name": "Aurelia Tausiris",
-      "name_variants": [
-        "Aurelia Tausiris"
-      ],
-      "patronymic": "daughter of Aurelia Thaesis",
-      "dates": "fl. 260 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "bride",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        43201
-      ],
-      "bio": "Bride whose mother gave her in marriage with a lavish dowry of gold jewelry (necklace, brooch, pearl earrings, ring) and Dalmatian veils.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 10.1273"
-      ],
-      "stories": [
-        "weeping-by-night"
-      ]
-    },
-    "aurelia-aristous-oxyrhynchus-fl-mid-3rd-c-ce": {
-      "id": "aurelia-aristous-oxyrhynchus-fl-mid-3rd-c-ce",
-      "type": "person",
-      "canonical_name": "Aurelia Aristous",
-      "name_variants": [
-        "Aurelia Aristous"
-      ],
-      "patronymic": "daughter of Aurelius Herodes son of Apion",
-      "dates": "fl. mid-3rd c. CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "widow",
-          "date": "",
-          "location": ""
-        },
-        {
-          "title": "senator's daughter",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        43202
-      ],
-      "bio": "Daughter of the ex-gymnasiarch and senator Herodes. Claimed a dowry of 2 talents and 3,000 drachmae from her deceased husband Achillion's estate, valued at 200,000 sesterces.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 10.1274"
-      ],
-      "stories": [
-        "weeping-by-night"
-      ]
-    },
-    "kronous-philoumene-arsinoite-nome-fl-113-114-ce": {
-      "id": "kronous-philoumene-arsinoite-nome-fl-113-114-ce",
-      "type": "person",
-      "canonical_name": "Kronous (Philoumene)",
-      "name_variants": [
-        "Kronous also called Philoumene"
-      ],
-      "patronymic": "daughter of Kastor son of Pyrion",
-      "dates": "fl. 113-114 CE",
-      "location": "Arsinoite nome",
-      "roles": [
-        {
-          "title": "divorcee",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        30102
-      ],
-      "bio": "Twenty-year-old woman who divorced her husband Lysimachos in an orderly legal proceeding, receiving back her dowry and the right to marry again. Had a son named Herakleides also called Valerius.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Fam.Tebt. 13"
-      ],
-      "stories": [
-        "weeping-by-night"
-      ]
-    },
-    "thenstotoetis-tebtunis-arsinoite-nome-fl-123-ce": {
-      "id": "thenstotoetis-tebtunis-arsinoite-nome-fl-123-ce",
-      "type": "person",
-      "canonical_name": "Thenstotoetis",
-      "name_variants": [
-        "Thenstotoetis",
-        "Thenstouetis"
-      ],
-      "patronymic": "daughter of Heron son of Neilos",
-      "dates": "fl. 123 CE",
-      "location": "Tebtunis (Arsinoite nome)",
-      "roles": [
-        {
-          "title": "divorcee",
-          "date": "",
-          "location": ""
-        },
-        {
-          "title": "divorcing wife",
-          "date": "123 CE",
-          "location": "Tebtunis"
-        }
-      ],
-      "corpus_ids": [
-        49138
-      ],
-      "bio": "Sixteen-year-old woman who divorced her husband Lysas, a freedman, after a marriage that lasted approximately two years. Received back a 300-drachma dowry. Free to marry again without accusation.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Lips. 1.27"
-      ],
-      "stories": [
-        "the-man-whom-she-preferred",
-        "weeping-by-night"
-      ]
-    },
-    "zois-alexandria-fl-augustan-period": {
-      "id": "zois-alexandria-fl-augustan-period",
-      "type": "person",
-      "canonical_name": "Zois",
-      "name_variants": [
-        "Zois daughter of Herakleides"
-      ],
-      "patronymic": "daughter of Herakleides",
-      "dates": "fl. Augustan period",
-      "location": "Alexandria (?)",
-      "roles": [
-        {
-          "title": "divorcee",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        137350
-      ],
-      "bio": "Woman who separated amicably from Antipatros, receiving back garments valued at 120 drachmae and a pair of gold earrings. Both parties declared free to remarry.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "BGU 4.1103"
-      ],
-      "stories": [
-        "weeping-by-night"
-      ]
-    },
-    "makaria-unknown-egypt-fl-after-55-bce": {
-      "id": "makaria-unknown-egypt-fl-after-55-bce",
-      "type": "person",
-      "canonical_name": "Makaria",
-      "name_variants": [
-        "Makaria"
-      ],
-      "patronymic": "unknown",
-      "dates": "fl. after 55 BCE",
-      "location": "unknown (Egypt)",
-      "roles": [
-        {
-          "title": "petitioner",
-          "date": "",
-          "location": ""
-        },
-        {
-          "title": "expelled wife",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        137033
-      ],
-      "bio": "Woman whose husband threw her out of the house, did not provide necessities or clothing, and did not return her dowry.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "BGU 8.1820"
-      ],
-      "stories": [
-        "weeping-by-night"
-      ]
-    },
-    "philumene-oxyrhynchus-fl-82-ce": {
-      "id": "philumene-oxyrhynchus-fl-82-ce",
-      "type": "person",
-      "canonical_name": "Philumene",
-      "name_variants": [
-        "Philumene daughter of Heron"
-      ],
-      "patronymic": "daughter of Heron",
-      "dates": "fl. 82 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "creditor",
-          "date": "",
-          "location": ""
-        }
-      ],
-      "corpus_ids": [
-        43402
-      ],
-      "bio": "Woman who was \"continually pressing\" for repayment of 2,000 drachmae.\n",
-      "disambiguation": "",
-      "physical_ids": [
-        "P.Oxy. 2.286"
-      ],
-      "stories": [
-        "she-conducted-herself-blamelessly"
       ]
     },
     "kronous-also-called-philoumene-tebtunis-arsinoite-nome-fl-113-114-ce": {
@@ -7780,781 +7233,6 @@
         "what-a-god-cost"
       ]
     },
-    "neoteros-karanis-or-the-fayum-fl-21-22-ce": {
-      "id": "neoteros-karanis-or-the-fayum-fl-21-22-ce",
-      "type": "person",
-      "canonical_name": "Neoteros",
-      "name_variants": [],
-      "patronymic": "son of Marreous",
-      "dates": "fl. 21-22 CE",
-      "location": "Karanis or the Fayum",
-      "roles": [
-        {
-          "title": "oracle petitioner",
-          "date": "21-22 CE",
-          "location": "Fayum"
-        }
-      ],
-      "corpus_ids": [
-        36299
-      ],
-      "bio": "Asked Soxis Pnepheros whether he should go to Alexandria to bring a complaint. His surviving ticket preserves the decision before it was made.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "ask-the-god"
-      ]
-    },
-    "asklepiades-fayum-fl-6-ce": {
-      "id": "asklepiades-fayum-fl-6-ce",
-      "type": "person",
-      "canonical_name": "Asklepiades",
-      "name_variants": [],
-      "patronymic": "son of Areios",
-      "dates": "fl. 6 CE",
-      "location": "Fayum",
-      "roles": [
-        {
-          "title": "oracle petitioner",
-          "date": "6 CE",
-          "location": "Fayum"
-        }
-      ],
-      "corpus_ids": [
-        47329
-      ],
-      "bio": "Asked Soknopaios whether he was permitted to marry Tapetheus daughter of Marres.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "ask-the-god"
-      ]
-    },
-    "tapetheus-fayum-fl-6-ce": {
-      "id": "tapetheus-fayum-fl-6-ce",
-      "type": "person",
-      "canonical_name": "Tapetheus",
-      "name_variants": [],
-      "patronymic": "daughter of Marres",
-      "dates": "fl. 6 CE",
-      "location": "Fayum",
-      "roles": [
-        {
-          "title": "woman named in marriage query",
-          "date": "6 CE",
-          "location": "Fayum"
-        }
-      ],
-      "corpus_ids": [
-        47329
-      ],
-      "bio": "The woman Asklepiades hoped to marry; the oracle ticket notes that she had previously been the wife of Horion.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "ask-the-god"
-      ]
-    },
-    "theodora-egypt-501-700-ce": {
-      "id": "theodora-egypt-501-700-ce",
-      "type": "person",
-      "canonical_name": "Theodora",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "501-700 CE",
-      "location": "Egypt",
-      "roles": [
-        {
-          "title": "woman named in Christian oracle question",
-          "date": "501-700 CE",
-          "location": "Egypt"
-        }
-      ],
-      "corpus_ids": [
-        42625
-      ],
-      "bio": "Named in a Christian oracle question asking whether she should be given to Joseph.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "ask-the-god"
-      ]
-    },
-    "joseph-egypt-501-700-ce": {
-      "id": "joseph-egypt-501-700-ce",
-      "type": "person",
-      "canonical_name": "Joseph",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "501-700 CE",
-      "location": "Egypt",
-      "roles": [
-        {
-          "title": "prospective husband in Christian oracle question",
-          "date": "501-700 CE",
-          "location": "Egypt"
-        }
-      ],
-      "corpus_ids": [
-        42625
-      ],
-      "bio": "Named as the proposed husband in a later Christian oracle question concerning Theodora.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "ask-the-god"
-      ]
-    },
-    "aurelius-euripas-euergetis-fl-late-3rd-century-ce": {
-      "id": "aurelius-euripas-euergetis-fl-late-3rd-century-ce",
-      "type": "person",
-      "canonical_name": "Aurelius Euripas",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "fl. late 3rd century CE",
-      "location": "Euergetis",
-      "roles": [
-        {
-          "title": "actor",
-          "date": "late 3rd century CE",
-          "location": "Euergetis"
-        }
-      ],
-      "corpus_ids": [
-        16778
-      ],
-      "bio": "Actor summoned by civic officials of Euergetis to perform at the birthday festival of Cronus.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
-    "aurelius-sarapas-euergetis-fl-late-3rd-century-ce": {
-      "id": "aurelius-sarapas-euergetis-fl-late-3rd-century-ce",
-      "type": "person",
-      "canonical_name": "Aurelius Sarapas",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "fl. late 3rd century CE",
-      "location": "Euergetis",
-      "roles": [
-        {
-          "title": "Homeric reciter",
-          "date": "late 3rd century CE",
-          "location": "Euergetis"
-        }
-      ],
-      "corpus_ids": [
-        16778
-      ],
-      "bio": "Homeric reciter summoned with the actor Euripas for the festival of Cronus.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
-    "aurelius-cornelianus-oxyrhynchus-fl-late-3rd-early-4th-century-ce": {
-      "id": "aurelius-cornelianus-oxyrhynchus-fl-late-3rd-early-4th-century-ce",
-      "type": "person",
-      "canonical_name": "Aurelius Cornelianus",
-      "name_variants": [],
-      "patronymic": "son of Amunius",
-      "dates": "fl. late 3rd-early 4th century CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "head of a performer troupe",
-          "date": "late 3rd-early 4th century CE",
-          "location": "Oxyrhynchus"
-        }
-      ],
-      "corpus_ids": [
-        24596
-      ],
-      "bio": "Leader of a troupe engaged by village presidents of Sinkepha to entertain at local festivities.\n",
-      "disambiguation": "Patronymic partially uncertain in the damaged text.",
-      "physical_ids": [],
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
-    "petosiris-oxyrhynchus-3rd-4th-century-ce": {
-      "id": "petosiris-oxyrhynchus-3rd-4th-century-ce",
-      "type": "person",
-      "canonical_name": "Petosiris",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "3rd-4th century CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "festival host and correspondent",
-          "date": "3rd-4th century CE",
-          "location": "Oxyrhynchus"
-        }
-      ],
-      "corpus_ids": [
-        22089
-      ],
-      "bio": "Writer of a practical invitation asking how transport should be arranged for a guest coming to a divine birthday festival.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
-    "epaphroditus-senepta-d-182-ce": {
-      "id": "epaphroditus-senepta-d-182-ce",
-      "type": "person",
-      "canonical_name": "Epaphroditus",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "d. 182 CE",
-      "location": "Senepta",
-      "roles": [
-        {
-          "title": "slave child",
-          "date": "182 CE",
-          "location": "Senepta"
-        }
-      ],
-      "corpus_ids": [
-        43461
-      ],
-      "bio": "Child of about eight who died after leaning out to watch castanet- players performing during a festival.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
-    "dionysus-son-of-apollodorus-son-of-dionysius-oxyrhynchus-fl-173-ce": {
-      "id": "dionysus-son-of-apollodorus-son-of-dionysius-oxyrhynchus-fl-173-ce",
-      "type": "person",
-      "canonical_name": "Dionysus son of Apollodorus son of Dionysius",
-      "name_variants": [],
-      "patronymic": "son of Apollodorus son of Dionysius",
-      "dates": "fl. 173 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "public physician",
-          "date": "173 CE",
-          "location": "Oxyrhynchus"
-        }
-      ],
-      "corpus_ids": [
-        43165
-      ],
-      "bio": "Public physician of Oxyrhynchus who inspected the body of the hanged man Hierax and reported his findings to the strategus.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-doctors-report"
-      ]
-    },
-    "heron-oxyrhynchus-fl-316-ce": {
-      "id": "heron-oxyrhynchus-fl-316-ce",
-      "type": "person",
-      "canonical_name": "Heron",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "fl. 316 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "public physician",
-          "date": "316 CE",
-          "location": "Oxyrhynchus"
-        }
-      ],
-      "corpus_ids": [
-        22703
-      ],
-      "bio": "One of two public physicians who inspected a fever case under official order and reported their findings to the logistes.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-doctors-report"
-      ]
-    },
-    "didymus-son-of-dioscorus-oxyrhynchus-fl-316-ce": {
-      "id": "didymus-son-of-dioscorus-oxyrhynchus-fl-316-ce",
-      "type": "person",
-      "canonical_name": "Didymus son of Dioscorus",
-      "name_variants": [],
-      "patronymic": "son of Dioscorus",
-      "dates": "fl. 316 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "public physician",
-          "date": "316 CE",
-          "location": "Oxyrhynchus"
-        }
-      ],
-      "corpus_ids": [
-        22703
-      ],
-      "bio": "Public physician of Oxyrhynchus who joined Heron in inspecting a man with fever and reporting the case officially.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-doctors-report"
-      ]
-    },
-    "demetrios-oxyrhynchus-fl-246-bce": {
-      "id": "demetrios-oxyrhynchus-fl-246-bce",
-      "type": "person",
-      "canonical_name": "Demetrios",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "fl. 246 BCE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "physician",
-          "date": "246 BCE",
-          "location": "Oxyrhynchus"
-        }
-      ],
-      "corpus_ids": [
-        42972
-      ],
-      "bio": "Physician whose wage was paid through the bank from the account of the physician-tax.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-doctors-report"
-      ]
-    },
-    "eudaimon-egypt-4th-century-ce": {
-      "id": "eudaimon-egypt-4th-century-ce",
-      "type": "person",
-      "canonical_name": "Eudaimon",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "4th century CE",
-      "location": "Egypt",
-      "roles": [
-        {
-          "title": "physician and family correspondent",
-          "date": "4th century CE",
-          "location": "Egypt"
-        }
-      ],
-      "corpus_ids": [
-        26255
-      ],
-      "bio": "Physician whose surviving family letter shows the domestic side of medical life and concern for absent relatives.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-doctors-report"
-      ]
-    },
-    "sarapion-son-of-artemidorus-son-of-ptolemaeus-ptolemais-euergetis-fl-161-ce": {
-      "id": "sarapion-son-of-artemidorus-son-of-ptolemaeus-ptolemais-euergetis-fl-161-ce",
-      "type": "person",
-      "canonical_name": "Sarapion son of Artemidorus son of Ptolemaeus",
-      "name_variants": [],
-      "patronymic": "son of Artemidorus son of Ptolemaeus",
-      "dates": "fl. 161 CE",
-      "location": "Ptolemais Euergetis",
-      "roles": [
-        {
-          "title": "lessee of perfume and unguent business",
-          "date": "161 CE",
-          "location": "Ptolemais Euergetis"
-        }
-      ],
-      "corpus_ids": [
-        46441
-      ],
-      "bio": "Man who sought to lease a share in a perfume-selling and unguent-making business for monthly payment.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "how-to-smell-expensive"
-      ]
-    },
-    "castor-son-of-antiphilus-ptolemais-euergetis-fl-161-ce": {
-      "id": "castor-son-of-antiphilus-ptolemais-euergetis-fl-161-ce",
-      "type": "person",
-      "canonical_name": "Castor son of Antiphilus",
-      "name_variants": [],
-      "patronymic": "son of Antiphilus",
-      "dates": "fl. 161 CE",
-      "location": "Ptolemais Euergetis",
-      "roles": [
-        {
-          "title": "holder of perfume-business share",
-          "date": "161 CE",
-          "location": "Ptolemais Euergetis"
-        }
-      ],
-      "corpus_ids": [
-        46441
-      ],
-      "bio": "Holder of a commercial share in the perfume and unguent trade which he leased out to Sarapion.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "how-to-smell-expensive"
-      ]
-    },
-    "achillis-oxyrhynchus-late-3rd-century-ce": {
-      "id": "achillis-oxyrhynchus-late-3rd-century-ce",
-      "type": "person",
-      "canonical_name": "Achillis",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "late 3rd century CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "shopping agent or subordinate",
-          "date": "late 3rd century CE",
-          "location": "Oxyrhynchus"
-        }
-      ],
-      "corpus_ids": [
-        22948
-      ],
-      "bio": "Recipient of a shopping order for perfume, powder, combs, oil, and other mixed household goods.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "how-to-smell-expensive"
-      ]
-    },
-    "kalokeros-theadelphia-fl-249-268-ce": {
-      "id": "kalokeros-theadelphia-fl-249-268-ce",
-      "type": "person",
-      "canonical_name": "Kalokeros",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "fl. 249-268 CE",
-      "location": "Theadelphia",
-      "roles": [
-        {
-          "title": "camel-driver linked to barber's equipment transfer",
-          "date": "249-268 CE",
-          "location": "Theadelphia"
-        }
-      ],
-      "corpus_ids": [
-        50445
-      ],
-      "bio": "Camel-driver named in the transfer of timber intended for barber's equipment.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "how-to-smell-expensive"
-      ]
-    },
-    "aurelius-agathus-euergetis-late-3rd-century-ce": {
-      "id": "aurelius-agathus-euergetis-late-3rd-century-ce",
-      "type": "person",
-      "canonical_name": "Aurelius Agathus",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "late 3rd century CE",
-      "location": "Euergetis",
-      "roles": [
-        {
-          "title": "gymnasiarch and acting prytanis",
-          "date": "late 3rd century CE",
-          "location": "Euergetis"
-        }
-      ],
-      "corpus_ids": [
-        16778
-      ],
-      "bio": "Co-signatory of the performer summons in P.Oxy. 7.1025.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
-    "aurelius-hermanoubammon-euergetis-late-3rd-century-ce": {
-      "id": "aurelius-hermanoubammon-euergetis-late-3rd-century-ce",
-      "type": "person",
-      "canonical_name": "Aurelius Hermanoubammon",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "late 3rd century CE",
-      "location": "Euergetis",
-      "roles": [
-        {
-          "title": "exegetes",
-          "date": "late 3rd century CE",
-          "location": "Euergetis"
-        }
-      ],
-      "corpus_ids": [
-        16778
-      ],
-      "bio": "Co-signatory of the performer summons in P.Oxy. 7.1025.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
-    "aurelius-didymus-euergetis-late-3rd-century-ce": {
-      "id": "aurelius-didymus-euergetis-late-3rd-century-ce",
-      "type": "person",
-      "canonical_name": "Aurelius Didymus",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "late 3rd century CE",
-      "location": "Euergetis",
-      "roles": [
-        {
-          "title": "chief priest",
-          "date": "late 3rd century CE",
-          "location": "Euergetis"
-        }
-      ],
-      "corpus_ids": [
-        16778
-      ],
-      "bio": "Co-signatory of the performer summons in P.Oxy. 7.1025.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
-    "aurelius-coprias-euergetis-late-3rd-century-ce": {
-      "id": "aurelius-coprias-euergetis-late-3rd-century-ce",
-      "type": "person",
-      "canonical_name": "Aurelius Coprias",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "late 3rd century CE",
-      "location": "Euergetis",
-      "roles": [
-        {
-          "title": "cosmetes",
-          "date": "late 3rd century CE",
-          "location": "Euergetis"
-        }
-      ],
-      "corpus_ids": [
-        16778
-      ],
-      "bio": "Co-signatory of the performer summons in P.Oxy. 7.1025.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
-    "aurelius-euripas-euergetis-late-3rd-century-ce": {
-      "id": "aurelius-euripas-euergetis-late-3rd-century-ce",
-      "type": "person",
-      "canonical_name": "Aurelius Euripas",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "late 3rd century CE",
-      "location": "Euergetis",
-      "roles": [
-        {
-          "title": "actor",
-          "date": "late 3rd century CE",
-          "location": "Euergetis"
-        }
-      ],
-      "corpus_ids": [
-        16778
-      ],
-      "bio": "Named performer summoned to the birthday festival of Cronus in P.Oxy. 7.1025.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
-    "aurelius-sarapas-euergetis-late-3rd-century-ce": {
-      "id": "aurelius-sarapas-euergetis-late-3rd-century-ce",
-      "type": "person",
-      "canonical_name": "Aurelius Sarapas",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "late 3rd century CE",
-      "location": "Euergetis",
-      "roles": [
-        {
-          "title": "Homeric reciter",
-          "date": "late 3rd century CE",
-          "location": "Euergetis"
-        }
-      ],
-      "corpus_ids": [
-        16778
-      ],
-      "bio": "Named performer summoned alongside Euripas in P.Oxy. 7.1025.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
-    "aurelius-cornelianus-oxyrhynchus-late-3rd-early-4th-century-ce": {
-      "id": "aurelius-cornelianus-oxyrhynchus-late-3rd-early-4th-century-ce",
-      "type": "person",
-      "canonical_name": "Aurelius Cornelianus",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "late 3rd-early 4th century CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "troupe leader",
-          "date": "late 3rd-early 4th century CE",
-          "location": "Oxyrhynchus"
-        }
-      ],
-      "corpus_ids": [
-        24596
-      ],
-      "bio": "Addressee of the village hiring letter in P.Oxy. 74.5016.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
-    "dioscurides-oxyrhynchus-323-ce": {
-      "id": "dioscurides-oxyrhynchus-323-ce",
-      "type": "person",
-      "canonical_name": "Dioscurides",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "323 CE",
-      "location": "Oxyrhynchus",
-      "roles": [
-        {
-          "title": "logistes",
-          "date": "323 CE",
-          "location": "Oxyrhynchus"
-        }
-      ],
-      "corpus_ids": [
-        22112
-      ],
-      "bio": "Announces the ephebic display before spectators in P.Oxy. 1.42.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
-    "petosiris-oxyrhynchus-region-3rd-4th-century-ce": {
-      "id": "petosiris-oxyrhynchus-region-3rd-4th-century-ce",
-      "type": "person",
-      "canonical_name": "Petosiris",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "3rd-4th century CE",
-      "location": "Oxyrhynchus region",
-      "roles": [
-        {
-          "title": "letter writer and festival host",
-          "date": "3rd-4th century CE",
-          "location": "Oxyrhynchus region"
-        }
-      ],
-      "corpus_ids": [
-        22089
-      ],
-      "bio": "Invites Serenia to the god's birthday celebration in P.Oxy. 1.112.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
-    "serenia-oxyrhynchus-region-3rd-4th-century-ce": {
-      "id": "serenia-oxyrhynchus-region-3rd-4th-century-ce",
-      "type": "person",
-      "canonical_name": "Serenia",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "3rd-4th century CE",
-      "location": "Oxyrhynchus region",
-      "roles": [
-        {
-          "title": "invited guest",
-          "date": "3rd-4th century CE",
-          "location": "Oxyrhynchus region"
-        }
-      ],
-      "corpus_ids": [
-        22089
-      ],
-      "bio": "Asked whether she will travel by boat or donkey to attend the festival in P.Oxy. 1.112.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
-    "epaphroditus-senepta-182-ce": {
-      "id": "epaphroditus-senepta-182-ce",
-      "type": "person",
-      "canonical_name": "Epaphroditus",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "182 CE",
-      "location": "Senepta",
-      "roles": [
-        {
-          "title": "child slave",
-          "date": "182 CE",
-          "location": "Senepta"
-        }
-      ],
-      "corpus_ids": [
-        43461
-      ],
-      "bio": "Died after leaning out to watch festival performers in P.Oxy. 3.475.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
-    "plution-senepta-182-ce": {
-      "id": "plution-senepta-182-ce",
-      "type": "person",
-      "canonical_name": "Plution",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "182 CE",
-      "location": "Senepta",
-      "roles": [
-        {
-          "title": "householder",
-          "date": "182 CE",
-          "location": "Senepta"
-        }
-      ],
-      "corpus_ids": [
-        43461
-      ],
-      "bio": "His house was the site of the performance described in P.Oxy. 3.475.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
     "dionysus-oxyrhynchus-173-ce": {
       "id": "dionysus-oxyrhynchus-173-ce",
       "type": "person",
@@ -8707,104 +7385,29 @@
         "the-doctors-report"
       ]
     },
-    "sarapion-ptolemais-euergetis-161-ce": {
-      "id": "sarapion-ptolemais-euergetis-161-ce",
+    "eudaimon-egypt-4th-century-ce": {
+      "id": "eudaimon-egypt-4th-century-ce",
       "type": "person",
-      "canonical_name": "Sarapion",
-      "name_variants": [],
-      "patronymic": "son of Artemidorus",
-      "dates": "161 CE",
-      "location": "Ptolemais Euergetis",
-      "roles": [
-        {
-          "title": "lessee of a perfumery share",
-          "date": "161 CE",
-          "location": "Ptolemais Euergetis"
-        }
-      ],
-      "corpus_ids": [
-        46441
-      ],
-      "bio": "Sought to lease part of a perfume-selling and scent-making business.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "how-to-smell-expensive"
-      ]
-    },
-    "castor-ptolemais-euergetis-161-ce": {
-      "id": "castor-ptolemais-euergetis-161-ce",
-      "type": "person",
-      "canonical_name": "Castor",
-      "name_variants": [],
-      "patronymic": "son of Antiphilus",
-      "dates": "161 CE",
-      "location": "Ptolemais Euergetis",
-      "roles": [
-        {
-          "title": "holder of a perfumery share",
-          "date": "161 CE",
-          "location": "Ptolemais Euergetis"
-        }
-      ],
-      "corpus_ids": [
-        46441
-      ],
-      "bio": "Lessor in the contract for the perfume-selling business.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "how-to-smell-expensive"
-      ]
-    },
-    "petesis-egypt-3rd-century-bce": {
-      "id": "petesis-egypt-3rd-century-bce",
-      "type": "person",
-      "canonical_name": "Petesis",
+      "canonical_name": "Eudaimon",
       "name_variants": [],
       "patronymic": "",
-      "dates": "3rd century BCE",
+      "dates": "4th century CE",
       "location": "Egypt",
       "roles": [
         {
-          "title": "perfume seller",
-          "date": "3rd century BCE",
+          "title": "physician and family correspondent",
+          "date": "4th century CE",
           "location": "Egypt"
         }
       ],
       "corpus_ids": [
-        13858
+        26255
       ],
-      "bio": "Named as the perfume seller in a Zenon letter.\n",
+      "bio": "Writer of a surviving family letter.\n",
       "disambiguation": "",
       "physical_ids": [],
       "stories": [
-        "how-to-smell-expensive"
-      ]
-    },
-    "kalokeros-theadelphia-249-268-ce": {
-      "id": "kalokeros-theadelphia-249-268-ce",
-      "type": "person",
-      "canonical_name": "Kalokeros",
-      "name_variants": [],
-      "patronymic": "",
-      "dates": "249-268 CE",
-      "location": "Theadelphia",
-      "roles": [
-        {
-          "title": "camel-driver attached to barber equipment transfer",
-          "date": "249-268 CE",
-          "location": "Theadelphia"
-        }
-      ],
-      "corpus_ids": [
-        50445
-      ],
-      "bio": "Mentioned in the letter carrying wood for barber's equipment.\n",
-      "disambiguation": "",
-      "physical_ids": [],
-      "stories": [
-        "how-to-smell-expensive"
+        "the-doctors-report"
       ]
     },
     "hermione-oxyrhynchus-131-ce": {
@@ -8991,6 +7594,400 @@
       "stories": [
         "the-poisoning-rumor"
       ]
+    },
+    "aurelius-aethiops-son-of-kanis-theadelphia-fl-318-321-ce": {
+      "id": "aurelius-aethiops-son-of-kanis-theadelphia-fl-318-321-ce",
+      "type": "person",
+      "canonical_name": "Aurelius Aethiops son of Kanis",
+      "name_variants": [
+        "Aethiops",
+        "Aurelius Aethiops"
+      ],
+      "patronymic": "Kanis",
+      "dates": "fl. 318-321 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "minor petitioner",
+          "date": "318-321 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        24815
+      ],
+      "bio": "Orphaned boy from Theadelphia who petitioned with the help of his guardian Sakaon after his paternal grandaunt Annous tried to seize his father's livestock.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "aurelius-sakaon-son-of-satabous-theadelphia-fl-299-342-ce": {
+      "id": "aurelius-sakaon-son-of-satabous-theadelphia-fl-299-342-ce",
+      "type": "person",
+      "canonical_name": "Aurelius Sakaon son of Satabous",
+      "name_variants": [
+        "Aurelius Sakaon",
+        "Sakaon"
+      ],
+      "patronymic": "Satabous",
+      "dates": "fl. 299-342 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "guardian",
+          "date": "318-321 CE",
+          "location": "Theadelphia"
+        },
+        {
+          "title": "komarches",
+          "date": "312-327 CE",
+          "location": "Theadelphia"
+        },
+        {
+          "title": "sitologos",
+          "date": "319-320 CE",
+          "location": "Theadelphia"
+        },
+        {
+          "title": "petitioner",
+          "date": "318-342 CE",
+          "location": "Theadelphia"
+        },
+        {
+          "title": "lessor and debtor",
+          "date": "321-328 CE",
+          "location": "Theadelphia and Bubastos"
+        }
+      ],
+      "corpus_ids": [
+        24776,
+        24793,
+        24795,
+        24796,
+        24797,
+        24798,
+        24799,
+        24800,
+        24814,
+        24815,
+        24819,
+        24822,
+        24823,
+        24841,
+        24842,
+        24843
+      ],
+      "bio": "Villager of Theadelphia whose archive preserves census records, petitions, office receipts, leases, and debts across the early fourth century. He acted as guardian for the orphan Aethiops and appears as one of the men still trying to keep Theadelphia functioning when much of the village had already emptied out.\n",
+      "disambiguation": "The Sakaon of the Theadelphia archive, son of Satabous, not other men of the same name.\n",
+      "physical_ids": [
+        "scar on left shin noted in census declaration"
+      ],
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "annous-theadelphia-fl-318-321-ce-dead-by-336-ce": {
+      "id": "annous-theadelphia-fl-318-321-ce-dead-by-336-ce",
+      "type": "person",
+      "canonical_name": "Annous",
+      "name_variants": [
+        "Annous",
+        "Annous the grandaunt"
+      ],
+      "patronymic": "",
+      "dates": "fl. 318-321 CE; dead by 336 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "paternal grandaunt and adverse claimant",
+          "date": "318-321 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        24785,
+        24815
+      ],
+      "bio": "Paternal grandaunt of Aethiops, accused of trying to seize his father's livestock. The grain register of 336 later refers to her heirs.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "kanis-theadelphia-d-before-318-ce": {
+      "id": "kanis-theadelphia-d-before-318-ce",
+      "type": "person",
+      "canonical_name": "Kanis",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "d. before 318 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "father of Aethiops",
+          "date": "before 318 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        24815
+      ],
+      "bio": "Deceased father of Aethiops. The petition says his livestock formed the patrimony under attack and mentions that he had carried grain-office obligations.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "aurelia-artemis-daughter-of-paesius-thraso-fl-ca-280-ce": {
+      "id": "aurelia-artemis-daughter-of-paesius-thraso-fl-ca-280-ce",
+      "type": "person",
+      "canonical_name": "Aurelia Artemis daughter of Paesius",
+      "name_variants": [
+        "Artemis"
+      ],
+      "patronymic": "Paesius",
+      "dates": "fl. ca. 280 CE",
+      "location": "Thraso",
+      "roles": [
+        {
+          "title": "widow petitioner",
+          "date": "ca. 280 CE",
+          "location": "Thraso"
+        }
+      ],
+      "corpus_ids": [
+        55101
+      ],
+      "bio": "Widow from nearby Thraso who petitioned after a local official seized the flock of her dead husband, leaving her and her young children exposed.\n",
+      "disambiguation": "Included as a comparative figure from the same documentary and regional environment.\n",
+      "physical_ids": [],
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "syrion-thraso-fl-ca-280-ce": {
+      "id": "syrion-thraso-fl-ca-280-ce",
+      "type": "person",
+      "canonical_name": "Syrion",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. ca. 280 CE",
+      "location": "Thraso",
+      "roles": [
+        {
+          "title": "dekaprotos of Thraso",
+          "date": "ca. 280 CE",
+          "location": "Thraso"
+        }
+      ],
+      "corpus_ids": [
+        55101
+      ],
+      "bio": "Village notable accused by the widow Artemis of taking over sixty goats and sheep after the death of her husband.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "melas-son-of-herakleides-theadelphia-fl-312-ce": {
+      "id": "melas-son-of-herakleides-theadelphia-fl-312-ce",
+      "type": "person",
+      "canonical_name": "Melas son of Herakleides",
+      "name_variants": [
+        "Melas"
+      ],
+      "patronymic": "Herakleides",
+      "dates": "fl. 312 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "petitioner and father of Zoilos",
+          "date": "312 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        24813
+      ],
+      "bio": "Petitioner in the marriage dispute involving Zoilos, Taeus, Sakaon, and Kamoutis.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "zoilos-son-of-melas-theadelphia-fl-312-ce": {
+      "id": "zoilos-son-of-melas-theadelphia-fl-312-ce",
+      "type": "person",
+      "canonical_name": "Zoilos son of Melas",
+      "name_variants": [
+        "Zoilos"
+      ],
+      "patronymic": "Melas",
+      "dates": "fl. 312 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "prospective bridegroom",
+          "date": "312 CE",
+          "location": "Theadelphia"
+        },
+        {
+          "title": "sitologos",
+          "date": "312 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        24813
+      ],
+      "bio": "Son of Melas. His intended marriage became the subject of litigation after Sakaon and Kamoutis intervened.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "kamoutis-theadelphia-fl-312-ce": {
+      "id": "kamoutis-theadelphia-fl-312-ce",
+      "type": "person",
+      "canonical_name": "Kamoutis",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 312 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "wife of Sakaon",
+          "date": "312 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        24813
+      ],
+      "bio": "Sakaon's later wife, accused in Melas's petition of trying to redirect the marriage of Taeus toward her own nephew Sarmates.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "heron-theadelphia-fl-331-342-ce": {
+      "id": "heron-theadelphia-fl-331-342-ce",
+      "type": "person",
+      "canonical_name": "Heron",
+      "name_variants": [
+        "Heron son of Sakaon"
+      ],
+      "patronymic": "son of Sakaon",
+      "dates": "fl. 331-342 CE",
+      "location": "Theadelphia",
+      "roles": [
+        {
+          "title": "community representative",
+          "date": "331-332 CE",
+          "location": "Theadelphia"
+        },
+        {
+          "title": "adverse party in sheep seizure",
+          "date": "342 CE",
+          "location": "Theadelphia"
+        }
+      ],
+      "corpus_ids": [
+        24819,
+        24822,
+        24823
+      ],
+      "bio": "One of the three men representing the collapsing community of Theadelphia in 331-332. A later petition names a Heron son of Sakaon as the man who seized eighty-two sheep.\n",
+      "disambiguation": "The 342 Heron is probably, though not absolutely certainly, the same man connected to Sakaon's family.\n",
+      "physical_ids": [],
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "pappos-ghoran-fl-222-bce": {
+      "id": "pappos-ghoran-fl-222-bce",
+      "type": "person",
+      "canonical_name": "Pappos",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 222 BCE",
+      "location": "Ghoran",
+      "roles": [
+        {
+          "title": "petitioner and aging father",
+          "date": "222 BCE",
+          "location": "Ghoran"
+        }
+      ],
+      "corpus_ids": [
+        44241
+      ],
+      "bio": "Elderly petitioner from Ghoran who said his son had stopped providing the monthly grain and cash support that had been agreed for his maintenance.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-grain-owed-to-an-old-father"
+      ]
+    },
+    "strouthos-ghoran-or-arsinoe-fl-222-bce": {
+      "id": "strouthos-ghoran-or-arsinoe-fl-222-bce",
+      "type": "person",
+      "canonical_name": "Strouthos",
+      "name_variants": [],
+      "patronymic": "",
+      "dates": "fl. 222 BCE",
+      "location": "Ghoran or Arsinoe",
+      "roles": [
+        {
+          "title": "son accused of withholding support",
+          "date": "222 BCE",
+          "location": "Arsinoite nome"
+        }
+      ],
+      "corpus_ids": [
+        44241
+      ],
+      "bio": "Son of Pappos, accused of failing to provide one artaba of wheat and four drachmas each month and of verbally abusing his father.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-grain-owed-to-an-old-father"
+      ]
+    },
+    "dioskourides-arsinoe-fl-222-bce": {
+      "id": "dioskourides-arsinoe-fl-222-bce",
+      "type": "person",
+      "canonical_name": "Dioskourides",
+      "name_variants": [
+        "Dioskourides"
+      ],
+      "patronymic": "",
+      "dates": "fl. 222 BCE",
+      "location": "Arsinoe",
+      "roles": [
+        {
+          "title": "official or intermediary in Arsinoe",
+          "date": "222 BCE",
+          "location": "Arsinoe"
+        }
+      ],
+      "corpus_ids": [
+        44241
+      ],
+      "bio": "Official or intermediary through whom the support arrangement is said to have been recognized.\n",
+      "disambiguation": "",
+      "physical_ids": [],
+      "stories": [
+        "the-grain-owed-to-an-old-father"
+      ]
     }
   },
   "places": {
@@ -9024,6 +8021,7 @@
         "mistress-of-her-own-person",
         "no-small-danger",
         "she-conducted-herself-blamelessly",
+        "the-orphan-and-the-goats",
         "the-poisoning-rumor",
         "weeping-by-night"
       ]
@@ -9170,6 +8168,7 @@
       "type": "place",
       "name": "Arsinoe",
       "ancient_variants": [
+        "Arsinoe",
         "Krokodilopolis",
         "Medinet el-Fayum"
       ],
@@ -9178,6 +8177,7 @@
       "period": "Ptolemaic through Late Roman",
       "bio": "Capital of the Arsinoite nome. Administrative seat of the Appianus estate's central administration under Alypios.\n",
       "stories": [
+        "the-grain-owed-to-an-old-father",
         "the-managers-accounts"
       ]
     },
@@ -9494,7 +8494,6 @@
       "ancient_variants": [
         "Antinoe",
         "Antinoopolis",
-        "Antinoou polis",
         "Sheikh Ibada"
       ],
       "modern_location": "near Sheikh Ibada, Minya Governorate, Egypt",
@@ -9502,7 +8501,6 @@
       "period": "Roman (founded 130 CE) through Islamic",
       "bio": "City founded by the emperor Hadrian in 130 CE to honour his drowned beloved Antinous. Its cemetery yielded the most complete archaeological assemblage of love magic: the clay figurine pierced with thirteen needles, the inscribed lead tablet, and the clay pot in which both were deposited, following the instructions of PGM IV.296-466.\n",
       "stories": [
-        "ask-the-god",
         "mad-love",
         "the-purple-sellers-house"
       ]
@@ -9671,10 +8669,8 @@
         "between-women",
         "fever-faith-and-formulae",
         "for-i-am-not-able-the-trapping-of-achilles",
-        "how-to-smell-expensive",
         "mad-love",
         "the-doctors-report",
-        "the-festival-circuit",
         "what-a-god-cost"
       ]
     },
@@ -9760,359 +8756,6 @@
       "bio": "",
       "stories": [
         "weeping-by-night"
-      ]
-    },
-    "ionia-western-anatolia": {
-      "id": "ionia-western-anatolia",
-      "type": "place",
-      "name": "Ionia",
-      "ancient_variants": [
-        "Ionia",
-        "Ionie"
-      ],
-      "modern_location": "western coast of Turkey (Izmir region)",
-      "region": "western Anatolia",
-      "period": "Archaic through Roman",
-      "bio": "The Greek-settled coast of western Anatolia. After the Ionian Revolt (499-494 BCE), Persian forces crushed the Greek cities and systematically castrated the most handsome boys for service as eunuchs. The site of the earliest documented large-scale forced castration in Greek sources.\n",
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "pedasa-caria-southwestern-anatolia": {
-      "id": "pedasa-caria-southwestern-anatolia",
-      "type": "place",
-      "name": "Pedasa",
-      "ancient_variants": [
-        "Pedasa",
-        "Pedasos"
-      ],
-      "modern_location": "near Bodrum, Turkey",
-      "region": "Caria, southwestern Anatolia",
-      "period": "Classical",
-      "bio": "A small town in Caria, near Halicarnassus, birthplace of Hermotimus. Herodotus notes that the people of Pedasa had a peculiar omen: whenever danger threatened, the priestess of Athena grew a great beard.\n",
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "chios-eastern-aegean": {
-      "id": "chios-eastern-aegean",
-      "type": "place",
-      "name": "Chios",
-      "ancient_variants": [
-        "Chios",
-        "Khios"
-      ],
-      "modern_location": "Chios island, Greece",
-      "region": "Eastern Aegean",
-      "period": "Archaic through Roman",
-      "bio": "Aegean island, home of the slave-trader Panionius who made his living castrating beautiful boys and selling them to the Persian market.\n",
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "sardis-lydia-western-anatolia": {
-      "id": "sardis-lydia-western-anatolia",
-      "type": "place",
-      "name": "Sardis",
-      "ancient_variants": [
-        "Sardes",
-        "Sardis"
-      ],
-      "modern_location": "near Salihli, Turkey",
-      "region": "Lydia, western Anatolia",
-      "period": "Lydian through Roman",
-      "bio": "Capital of Lydia and major Persian satrapal seat. One of the primary markets where castrated boys were sold. Xerxes used Sardis as a staging point for his invasion of Greece in 480 BCE. Site of the encounter between Hermotimus and Panionius.\n",
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "pessinus-galatia-central-anatolia": {
-      "id": "pessinus-galatia-central-anatolia",
-      "type": "place",
-      "name": "Pessinus",
-      "ancient_variants": [
-        "Pessinous",
-        "Pessinus"
-      ],
-      "modern_location": "Ballihisar, Turkey",
-      "region": "Galatia, central Anatolia",
-      "period": "Phrygian through Roman",
-      "bio": "Centre of the cult of Cybele and Attis. The Gauls (Galatians) who settled in the region maintained the cult and abstained from pork, following the myth that Attis was killed by a boar. Pausanias records that the Gauls of Pessinus maintained the prohibition.\n",
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "hierapolis-syrian-northern-syria": {
-      "id": "hierapolis-syrian-northern-syria",
-      "type": "place",
-      "name": "Hierapolis (Syrian)",
-      "ancient_variants": [
-        "Bambyce",
-        "Hierapolis",
-        "Mabbog"
-      ],
-      "modern_location": "Manbij, Syria",
-      "region": "northern Syria",
-      "period": "Hellenistic through Roman",
-      "bio": "Site of the great temple of the Syrian Goddess (Atargatis) described by Lucian of Samosata. Home of the Galli priesthood whose self-castration rituals Lucian describes in detail. According to Lucian, the legendary Combabos was the founding figure of the Galli at Hierapolis.\n",
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "rome-palatine-hill-latium": {
-      "id": "rome-palatine-hill-latium",
-      "type": "place",
-      "name": "Rome (Palatine Hill)",
-      "ancient_variants": [
-        "Palatium",
-        "Roma"
-      ],
-      "modern_location": "Rome, Italy",
-      "region": "Latium",
-      "period": "Republican through Imperial",
-      "bio": "Site of the Temple of Magna Mater (Cybele), established in 204 BCE after the Romans officially adopted the cult during the Second Punic War. The annual festivals of Attis, including the Dies Sanguinis on March 24, were celebrated here.\n",
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "attica-central-greece": {
-      "id": "attica-central-greece",
-      "type": "place",
-      "name": "Attica",
-      "ancient_variants": [
-        "Attica",
-        "Attike"
-      ],
-      "modern_location": "Athens region, Greece",
-      "region": "Central Greece",
-      "period": "Archaic through Roman",
-      "bio": "Region surrounding Athens. Source of the tomb curses IG II^2 13209 and 13210 (corpus IDs 75579, 75580) with their disease lists invoking shivering, fever, quartan ague, and elephantiasis.\n",
-      "stories": [
-        "fever-faith-and-formulae"
-      ]
-    },
-    "cos-kos-eastern-aegean": {
-      "id": "cos-kos-eastern-aegean",
-      "type": "place",
-      "name": "Cos (Kos)",
-      "ancient_variants": [
-        "Cos",
-        "Kos"
-      ],
-      "modern_location": "Kos, Dodecanese, Greece",
-      "region": "Eastern Aegean",
-      "period": "Classical through Roman",
-      "bio": "Island associated with the Hippocratic medical school. Traditional birthplace of Hippocrates and probable origin of the treatise On the Sacred Disease (corpus ID 134569).\n",
-      "stories": [
-        "fever-faith-and-formulae"
-      ]
-    },
-    "egypt-post-conquest-north-africa-eastern-mediterranean": {
-      "id": "egypt-post-conquest-north-africa-eastern-mediterranean",
-      "type": "place",
-      "name": "Egypt (post-conquest)",
-      "ancient_variants": [
-        "Aigyptos (Greek)",
-        "Keme (Coptic/Egyptian)",
-        "Misr (Arabic)"
-      ],
-      "modern_location": "Egypt",
-      "region": "North Africa / Eastern Mediterranean",
-      "period": "Islamic (post-641 CE)",
-      "bio": "After the Arab conquest of 641 CE, Egypt retained its Coptic-speaking Christian majority for centuries while gradually arabicising. The healing amulet for Ahmed son of Mariam (corpus ID 6331) demonstrates the persistence of Coptic magical practice serving Muslim clients in the post-conquest period.\n",
-      "stories": [
-        "fever-faith-and-formulae"
-      ]
-    },
-    "karanis-fayum-arsinoite-nome-lower-egypt": {
-      "id": "karanis-fayum-arsinoite-nome-lower-egypt",
-      "type": "place",
-      "name": "Karanis",
-      "ancient_variants": [
-        "Karanis",
-        "Kom Aushim"
-      ],
-      "modern_location": "Kom Aushim, Fayum, Egypt",
-      "region": "Fayum (Arsinoite nome), Lower Egypt",
-      "period": "Ptolemaic through Late Roman",
-      "bio": "Village in the northeastern Fayum, excavated extensively by the University of Michigan (1924-1935). Home to two temples dedicated to the crocodile gods Pnepheros and Petesouchos. Probable site where Neoteros submitted his oracle question to Soxis Pnepheros in 21-22 CE. The Michigan excavations recovered houses, granaries, temples, and thousands of papyri and artifacts documenting village life over centuries.\n",
-      "stories": [
-        "ask-the-god"
-      ]
-    },
-    "soknopaiou-nesos-fayum-arsinoite-nome-lower-egypt": {
-      "id": "soknopaiou-nesos-fayum-arsinoite-nome-lower-egypt",
-      "type": "place",
-      "name": "Soknopaiou Nesos",
-      "ancient_variants": [
-        "Dime",
-        "Dimeh",
-        "Soknopaiou Nesos"
-      ],
-      "modern_location": "Dime, Fayum, Egypt",
-      "region": "Fayum (Arsinoite nome), Lower Egypt",
-      "period": "Ptolemaic through 3rd century CE",
-      "bio": "Village on the northern shore of Lake Moeris (Birket Qarun) in the Fayum, dominated by the temple of the crocodile god Soknopaios. The single most important source of Greek oracle questions from Egypt. Asklepiades submitted his marriage oracle question here in 6 CE. The village was gradually abandoned by the mid-third century CE.\n",
-      "stories": [
-        "ask-the-god"
-      ]
-    },
-    "krokodilopolis-arsinoe-fayum-arsinoite-nome-lower-egypt": {
-      "id": "krokodilopolis-arsinoe-fayum-arsinoite-nome-lower-egypt",
-      "type": "place",
-      "name": "Krokodilopolis (Arsinoe)",
-      "ancient_variants": [
-        "Arsinoe",
-        "Krokodilopolis",
-        "Ptolemais Euergetis"
-      ],
-      "modern_location": "Medinet el-Fayum, Egypt",
-      "region": "Fayum (Arsinoite nome), Lower Egypt",
-      "period": "Pharaonic through Islamic",
-      "bio": "Capital of the Arsinoite nome (Fayum). Originally named \"City of Crocodiles\" after the crocodile cult. Renamed Arsinoe under the Ptolemies. Site where the Christian oracle question about Theodora and Joseph was found (501-700 CE).\n",
-      "stories": [
-        "ask-the-god"
-      ]
-    },
-    "dios-praesidium-eastern-desert-upper-egypt": {
-      "id": "dios-praesidium-eastern-desert-upper-egypt",
-      "type": "place",
-      "name": "Dios (praesidium)",
-      "ancient_variants": [
-        "Dios",
-        "Iovis"
-      ],
-      "modern_location": "Eastern Desert of Egypt, between Coptos and Berenike",
-      "region": "Eastern Desert, Upper Egypt",
-      "period": "1st-3rd century CE",
-      "bio": "Roman military fortlet on the road from Coptos to the Red Sea port of Berenike. Excavated by Helene Cuvigny. Contained a shrine dedicated to Zeus Helios Megas Sarapis with lot oracle texts on ostraca dating to 175-225 CE. The oracles resemble the astragaloi traditions of southwestern Asia Minor.\n",
-      "stories": [
-        "ask-the-god"
-      ]
-    },
-    "xeron-pelagos-praesidium-eastern-desert-upper-egypt": {
-      "id": "xeron-pelagos-praesidium-eastern-desert-upper-egypt",
-      "type": "place",
-      "name": "Xeron Pelagos (praesidium)",
-      "ancient_variants": [
-        "Dry Sea",
-        "Xeron Pelagos"
-      ],
-      "modern_location": "Eastern Desert of Egypt, between Coptos and Berenike",
-      "region": "Eastern Desert, Upper Egypt",
-      "period": "1st-3rd century CE",
-      "bio": "Roman military fortlet in the Eastern Desert, named \"Dry Sea\" with characteristic military humour. Site where oracle tickets bearing divine names (Hermes, Ares, a chthonian daimon) were found. Also yielded a postal register of the curator Turbo, documenting the logistics of desert communication.\n",
-      "stories": [
-        "ask-the-god"
-      ]
-    },
-    "alexandria-mediterranean-coast-lower-egypt": {
-      "id": "alexandria-mediterranean-coast-lower-egypt",
-      "type": "place",
-      "name": "Alexandria",
-      "ancient_variants": [
-        "Alexandreia",
-        "Alexandria"
-      ],
-      "modern_location": "Alexandria, Egypt",
-      "region": "Mediterranean coast, Lower Egypt",
-      "period": "331 BCE through present",
-      "bio": "Capital of Ptolemaic and Roman Egypt, seat of the provincial governor (prefect) and the Roman courts. The destination Neoteros contemplated travelling to in order to bring a legal complaint. A journey of several days from the Fayum by Nile transport.\n",
-      "stories": [
-        "ask-the-god"
-      ]
-    },
-    "hermopolis-magna-middle-egypt-hermopolite-nome": {
-      "id": "hermopolis-magna-middle-egypt-hermopolite-nome",
-      "type": "place",
-      "name": "Hermopolis Magna",
-      "ancient_variants": [
-        "Hermopolis",
-        "Hermoupolis Megale"
-      ],
-      "modern_location": "el-Ashmunein, Minya Governorate, Egypt",
-      "region": "Middle Egypt, Hermopolite nome",
-      "period": "Hellenistic through late antique",
-      "bio": "Major city of Middle Egypt whose municipal elite generated the council minutes and related civic documents used in this story.\n",
-      "stories": [
-        "for-i-am-not-able-the-trapping-of-achilles"
-      ]
-    },
-    "caesareum-hermopolite-nome": {
-      "id": "caesareum-hermopolite-nome",
-      "type": "place",
-      "name": "Caesareum",
-      "ancient_variants": [
-        "Kaisareion"
-      ],
-      "modern_location": "Hermopolis Magna",
-      "region": "Hermopolite nome",
-      "period": "Roman imperial",
-      "bio": "Temple of the imperial cult that also functioned as a civic meeting place.\n",
-      "stories": [
-        "for-i-am-not-able-the-trapping-of-achilles"
-      ]
-    },
-    "skordon-upper-patemite-district": {
-      "id": "skordon-upper-patemite-district",
-      "type": "place",
-      "name": "Skordon",
-      "ancient_variants": [
-        "Skordon"
-      ],
-      "modern_location": "unknown, Hermopolite nome",
-      "region": "Upper Patemite district",
-      "period": "Roman imperial",
-      "bio": "Village in the Hermopolite nome where Diogenes and his colleague handled barley distribution.\n",
-      "stories": [
-        "for-i-am-not-able-the-trapping-of-achilles"
-      ]
-    },
-    "thebes-upper-egypt-theban-nome": {
-      "id": "thebes-upper-egypt-theban-nome",
-      "type": "place",
-      "name": "Thebes",
-      "ancient_variants": [
-        "Diospolis Magna",
-        "Theben"
-      ],
-      "modern_location": "Luxor region, Egypt",
-      "region": "Upper Egypt, Theban nome",
-      "period": "Pharaonic through late antique",
-      "bio": "Major Upper Egyptian center whose granaries, quarter accounts, and market lists generated the ostraca that preserve Kametis' world.\n",
-      "stories": [
-        "the-grain-ledger-of-kametis"
-      ]
-    },
-    "charax-theban-nome": {
-      "id": "charax-theban-nome",
-      "type": "place",
-      "name": "Charax",
-      "ancient_variants": [
-        "Charax"
-      ],
-      "modern_location": "district within or near Thebes",
-      "region": "Theban nome",
-      "period": "Roman imperial",
-      "bio": "One of the quarter designations that recurs in the grain and tax records linked to the Kametis cluster.\n",
-      "stories": [
-        "the-grain-ledger-of-kametis"
-      ]
-    },
-    "agora-theban-nome": {
-      "id": "agora-theban-nome",
-      "type": "place",
-      "name": "Agora",
-      "ancient_variants": [
-        "Agorai",
-        "Markets"
-      ],
-      "modern_location": "Thebes",
-      "region": "Theban nome",
-      "period": "Roman imperial",
-      "bio": "Fiscal and market context repeatedly associated with Kametis, Senchonsis, and related names in assessment lists.\n",
-      "stories": [
-        "the-grain-ledger-of-kametis"
       ]
     },
     "kamarina-camarina": {
@@ -10204,6 +8847,146 @@
       "bio": "",
       "stories": [
         "bloodless-and-wretched"
+      ]
+    },
+    "attica-central-greece": {
+      "id": "attica-central-greece",
+      "type": "place",
+      "name": "Attica",
+      "ancient_variants": [
+        "Attica",
+        "Attike"
+      ],
+      "modern_location": "Athens region, Greece",
+      "region": "Central Greece",
+      "period": "Archaic through Roman",
+      "bio": "Region surrounding Athens. Source of the tomb curses IG II^2 13209 and 13210 (corpus IDs 75579, 75580) with their disease lists invoking shivering, fever, quartan ague, and elephantiasis.\n",
+      "stories": [
+        "fever-faith-and-formulae"
+      ]
+    },
+    "cos-kos-eastern-aegean": {
+      "id": "cos-kos-eastern-aegean",
+      "type": "place",
+      "name": "Cos (Kos)",
+      "ancient_variants": [
+        "Cos",
+        "Kos"
+      ],
+      "modern_location": "Kos, Dodecanese, Greece",
+      "region": "Eastern Aegean",
+      "period": "Classical through Roman",
+      "bio": "Island associated with the Hippocratic medical school. Traditional birthplace of Hippocrates and probable origin of the treatise On the Sacred Disease (corpus ID 134569).\n",
+      "stories": [
+        "fever-faith-and-formulae"
+      ]
+    },
+    "egypt-post-conquest-north-africa-eastern-mediterranean": {
+      "id": "egypt-post-conquest-north-africa-eastern-mediterranean",
+      "type": "place",
+      "name": "Egypt (post-conquest)",
+      "ancient_variants": [
+        "Aigyptos (Greek)",
+        "Keme (Coptic/Egyptian)",
+        "Misr (Arabic)"
+      ],
+      "modern_location": "Egypt",
+      "region": "North Africa / Eastern Mediterranean",
+      "period": "Islamic (post-641 CE)",
+      "bio": "After the Arab conquest of 641 CE, Egypt retained its Coptic-speaking Christian majority for centuries while gradually arabicising. The healing amulet for Ahmed son of Mariam (corpus ID 6331) demonstrates the persistence of Coptic magical practice serving Muslim clients in the post-conquest period.\n",
+      "stories": [
+        "fever-faith-and-formulae"
+      ]
+    },
+    "karanis-arsinoite-nome": {
+      "id": "karanis-arsinoite-nome",
+      "type": "place",
+      "name": "Karanis",
+      "ancient_variants": [
+        "Karanis"
+      ],
+      "modern_location": "Kom Aushim, Fayum, Egypt",
+      "region": "Arsinoite nome",
+      "period": "Ptolemaic through Roman",
+      "bio": "Village in the Fayum where temple life, tax paperwork, and ordinary disputes sat close together. Neoteros's oracle ticket belongs to this documentary world.\n",
+      "stories": [
+        "ask-the-god"
+      ]
+    },
+    "dios-road-from-coptos-to-berenike": {
+      "id": "dios-road-from-coptos-to-berenike",
+      "type": "place",
+      "name": "Dios",
+      "ancient_variants": [
+        "Dios"
+      ],
+      "modern_location": "Eastern Desert, Egypt",
+      "region": "Road from Coptos to Berenike",
+      "period": "Roman imperial",
+      "bio": "Desert praesidium whose shrine preserved oracle ostraca buried in the podium fill.\n",
+      "stories": [
+        "ask-the-god"
+      ]
+    },
+    "alexandria-nile-delta": {
+      "id": "alexandria-nile-delta",
+      "type": "place",
+      "name": "Alexandria",
+      "ancient_variants": [
+        "Alexandria"
+      ],
+      "modern_location": "Alexandria, Egypt",
+      "region": "Nile Delta",
+      "period": "Hellenistic through Roman",
+      "bio": "The imperial metropolis to which Neoteros considered traveling in order to bring his complaint.\n",
+      "stories": [
+        "ask-the-god"
+      ]
+    },
+    "hermopolis-magna-middle-egypt-hermopolite-nome": {
+      "id": "hermopolis-magna-middle-egypt-hermopolite-nome",
+      "type": "place",
+      "name": "Hermopolis Magna",
+      "ancient_variants": [
+        "Hermopolis",
+        "Hermoupolis Megale"
+      ],
+      "modern_location": "el-Ashmunein, Minya Governorate, Egypt",
+      "region": "Middle Egypt, Hermopolite nome",
+      "period": "Hellenistic through late antique",
+      "bio": "Major city of Middle Egypt whose municipal elite generated the council minutes and related civic documents used in this story.\n",
+      "stories": [
+        "for-i-am-not-able-the-trapping-of-achilles"
+      ]
+    },
+    "caesareum-hermopolite-nome": {
+      "id": "caesareum-hermopolite-nome",
+      "type": "place",
+      "name": "Caesareum",
+      "ancient_variants": [
+        "Kaisareion"
+      ],
+      "modern_location": "Hermopolis Magna",
+      "region": "Hermopolite nome",
+      "period": "Roman imperial",
+      "bio": "Temple of the imperial cult that also functioned as a civic meeting place.\n",
+      "stories": [
+        "for-i-am-not-able-the-trapping-of-achilles"
+      ]
+    },
+    "skordon-upper-patemite-district": {
+      "id": "skordon-upper-patemite-district",
+      "type": "place",
+      "name": "Skordon",
+      "ancient_variants": [
+        "Skordon"
+      ],
+      "modern_location": "unknown, Hermopolite nome",
+      "region": "Upper Patemite district",
+      "period": "Roman imperial",
+      "bio": "Village in the Hermopolite nome where Diogenes and his colleague handled barley distribution.\n",
+      "stories": [
+        "for-i-am-not-able-the-trapping-of-achilles"
       ]
     },
     "tebtunis-polemon-division-arsinoite-nome": {
@@ -10298,82 +9081,6 @@
         "what-a-god-cost"
       ]
     },
-    "karanis-arsinoite-nome": {
-      "id": "karanis-arsinoite-nome",
-      "type": "place",
-      "name": "Karanis",
-      "ancient_variants": [
-        "Karanis"
-      ],
-      "modern_location": "Kom Aushim, Fayum, Egypt",
-      "region": "Arsinoite nome",
-      "period": "Ptolemaic through Roman",
-      "bio": "Village in the Fayum where temple life, tax paperwork, and ordinary disputes sat close together. Neoteros's oracle ticket belongs to this documentary world.\n",
-      "stories": [
-        "ask-the-god"
-      ]
-    },
-    "dios-road-from-coptos-to-berenike": {
-      "id": "dios-road-from-coptos-to-berenike",
-      "type": "place",
-      "name": "Dios",
-      "ancient_variants": [
-        "Dios"
-      ],
-      "modern_location": "Eastern Desert, Egypt",
-      "region": "Road from Coptos to Berenike",
-      "period": "Roman imperial",
-      "bio": "Desert praesidium whose shrine preserved oracle ostraca buried in the podium fill.\n",
-      "stories": [
-        "ask-the-god"
-      ]
-    },
-    "alexandria-nile-delta": {
-      "id": "alexandria-nile-delta",
-      "type": "place",
-      "name": "Alexandria",
-      "ancient_variants": [
-        "Alexandria"
-      ],
-      "modern_location": "Alexandria, Egypt",
-      "region": "Nile Delta",
-      "period": "Hellenistic through Roman",
-      "bio": "The imperial metropolis to which Neoteros considered traveling in order to bring his complaint.\n",
-      "stories": [
-        "ask-the-god"
-      ]
-    },
-    "euergetis-middle-egypt": {
-      "id": "euergetis-middle-egypt",
-      "type": "place",
-      "name": "Euergetis",
-      "ancient_variants": [
-        "Euergetis",
-        "Ptolemais Euergetis"
-      ],
-      "modern_location": "Egypt",
-      "region": "Middle Egypt",
-      "period": "Roman imperial",
-      "bio": "City from which the civic booking letter to Euripas and Sarapas was sent.\n",
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
-    "sinkepha-oxyrhynchite-nome": {
-      "id": "sinkepha-oxyrhynchite-nome",
-      "type": "place",
-      "name": "Sinkepha",
-      "ancient_variants": [
-        "Sinkepha"
-      ],
-      "modern_location": "Egypt",
-      "region": "Oxyrhynchite nome",
-      "period": "Late Roman",
-      "bio": "Village whose presidents hired a troupe leader from Oxyrhynchus.\n",
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
     "senepta-oxyrhynchite-nome": {
       "id": "senepta-oxyrhynchite-nome",
       "type": "place",
@@ -10386,25 +9093,7 @@
       "period": "Roman imperial",
       "bio": "Site of the child's death that required public medical inspection before burial.\n",
       "stories": [
-        "the-doctors-report",
-        "the-festival-circuit"
-      ]
-    },
-    "theadelphia-arsinoite-nome": {
-      "id": "theadelphia-arsinoite-nome",
-      "type": "place",
-      "name": "Theadelphia",
-      "ancient_variants": [
-        "Theadelphia"
-      ],
-      "modern_location": "Fayum, Egypt",
-      "region": "Arsinoite nome",
-      "period": "Roman imperial",
-      "bio": "Arsinoite village appearing in the gymnasium bath-fuel dossier.\n",
-      "stories": [
-        "how-to-smell-expensive",
-        "the-doctors-report",
-        "the-festival-circuit"
+        "the-doctors-report"
       ]
     },
     "hermopolis-middle-egypt": {
@@ -10419,8 +9108,24 @@
       "period": "Late Roman",
       "bio": "Another city where a public physician appears by title in the legal record.\n",
       "stories": [
-        "how-to-smell-expensive",
         "the-doctors-report"
+      ]
+    },
+    "theadelphia-arsinoite-nome": {
+      "id": "theadelphia-arsinoite-nome",
+      "type": "place",
+      "name": "Theadelphia",
+      "ancient_variants": [
+        "Theadelpheia",
+        "Theadelphia"
+      ],
+      "modern_location": "Fayum, Egypt",
+      "region": "Arsinoite nome",
+      "period": "Roman imperial",
+      "bio": "Village in the Fayum whose fourth-century archive preserves Sakaon's family, office burdens, and the strain of depopulation.\n",
+      "stories": [
+        "the-doctors-report",
+        "the-orphan-and-the-goats"
       ]
     },
     "the-labyrinth-arsinoite-nome": {
@@ -10436,76 +9141,6 @@
       "bio": "Sacred setting for the dossier of the chief physician attached to the stolistai priests.\n",
       "stories": [
         "the-doctors-report"
-      ]
-    },
-    "ptolemais-euergetis-middle-egypt": {
-      "id": "ptolemais-euergetis-middle-egypt",
-      "type": "place",
-      "name": "Ptolemais Euergetis",
-      "ancient_variants": [
-        "Euergetis",
-        "Ptolemais Euergetis"
-      ],
-      "modern_location": "Egypt",
-      "region": "Middle Egypt",
-      "period": "Roman imperial",
-      "bio": "Place of the perfume-business lease in P.Fay. 93.\n",
-      "stories": [
-        "how-to-smell-expensive"
-      ]
-    },
-    "philadelphia-arsinoite-nome": {
-      "id": "philadelphia-arsinoite-nome",
-      "type": "place",
-      "name": "Philadelphia",
-      "ancient_variants": [
-        "Philadelphia"
-      ],
-      "modern_location": "Fayum, Egypt",
-      "region": "Arsinoite nome",
-      "period": "Ptolemaic and Roman",
-      "bio": "Arsinoite village where a bathhouse enters the Zenon archive.\n",
-      "stories": [
-        "how-to-smell-expensive"
-      ]
-    },
-    "oxyrhynchos": {
-      "id": "oxyrhynchos",
-      "type": "place",
-      "name": "Oxyrhynchos",
-      "ancient_variants": [],
-      "modern_location": "",
-      "region": "",
-      "period": "",
-      "bio": "",
-      "stories": [
-        "the-poisoning-rumor"
-      ]
-    },
-    "alexandria": {
-      "id": "alexandria",
-      "type": "place",
-      "name": "Alexandria",
-      "ancient_variants": [],
-      "modern_location": "",
-      "region": "",
-      "period": "",
-      "bio": "",
-      "stories": [
-        "the-poisoning-rumor"
-      ]
-    },
-    "oxyrhynchite-nome": {
-      "id": "oxyrhynchite-nome",
-      "type": "place",
-      "name": "Oxyrhynchite nome",
-      "ancient_variants": [],
-      "modern_location": "",
-      "region": "",
-      "period": "",
-      "bio": "",
-      "stories": [
-        "the-poisoning-rumor"
       ]
     },
     "oxyrhynchos-middle-egypt": {
@@ -10537,6 +9172,81 @@
       "bio": "Administrative district framing the archive, officials, and land disputes.\n",
       "stories": [
         "the-poisoning-rumor"
+      ]
+    },
+    "thraso-arsinoite-nome": {
+      "id": "thraso-arsinoite-nome",
+      "type": "place",
+      "name": "Thraso",
+      "ancient_variants": [
+        "Thraso"
+      ],
+      "modern_location": "Fayum, Egypt",
+      "region": "Arsinoite nome",
+      "period": "Late Roman",
+      "bio": "Nearby Arsinoite village used here for comparison through the widow Artemis petition.\n",
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "bernikis-aigialou-arsinoite-nome": {
+      "id": "bernikis-aigialou-arsinoite-nome",
+      "type": "place",
+      "name": "Bernikis Aigialou",
+      "ancient_variants": [
+        "Bernikis Aigialou"
+      ],
+      "modern_location": "Arsinoite district",
+      "region": "Arsinoite nome",
+      "period": "Late Roman",
+      "bio": "Field district where sixteen goats under Sakaon's supervision were stolen by night.\n",
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "bubastos-arsinoite-nome": {
+      "id": "bubastos-arsinoite-nome",
+      "type": "place",
+      "name": "Bubastos",
+      "ancient_variants": [
+        "Bubastos"
+      ],
+      "modern_location": "Fayum, Egypt",
+      "region": "Arsinoite nome",
+      "period": "Late Roman",
+      "bio": "Area near which Sakaon held grain land that he could lease out.\n",
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "memphis-lower-egypt": {
+      "id": "memphis-lower-egypt",
+      "type": "place",
+      "name": "Memphis",
+      "ancient_variants": [
+        "Memphis"
+      ],
+      "modern_location": "Mit Rahina, Egypt",
+      "region": "Lower Egypt",
+      "period": "Late Roman",
+      "bio": "Destination for some of the labor and wage obligations charged through Theadelphia.\n",
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "ghoran-arsinoite-nome": {
+      "id": "ghoran-arsinoite-nome",
+      "type": "place",
+      "name": "Ghoran",
+      "ancient_variants": [
+        "Ghoran"
+      ],
+      "modern_location": "Fayum, Egypt",
+      "region": "Arsinoite nome",
+      "period": "Ptolemaic",
+      "bio": "Village in the Arsinoite nome whose petition dossier preserves Pappos's complaint.\n",
+      "stories": [
+        "the-grain-owed-to-an-old-father"
       ]
     }
   },
@@ -10703,8 +9413,7 @@
       "status_level": "Highest civic honor in Egyptian metropoleis.",
       "bio": "Chaeremon son of Phanias, Dionysia's father, was an ex-gymnasiarch. The title marked him as one of the wealthiest and most prominent citizens of Oxyrhynchus, but the financial burden may have contributed to his attempts to reclaim property from his daughter.",
       "stories": [
-        "mistress-of-her-own-person",
-        "the-festival-circuit"
+        "mistress-of-her-own-person"
       ]
     },
     "eutheniarch": {
@@ -10777,7 +9486,6 @@
       "stories": [
         "for-i-am-not-able-the-trapping-of-achilles",
         "no-small-danger",
-        "the-festival-circuit",
         "the-managers-accounts"
       ]
     },
@@ -10814,13 +9522,14 @@
       "type": "office",
       "title": "Dekaprotos",
       "greek_term": "dekaprotoi (dekaprotoi)",
-      "description": "Local tax collectors personally liable for the tax quota of their district",
+      "description": "Local notable or board member tied to tax collection and village administration.\n",
       "duties": "Collected grain and cash taxes, measured out payments, reported arrears",
       "cost_burden": "Personally liable for any shortfall in tax collection",
       "status_level": "Locally prominent, compulsory liturgical office",
       "bio": "The dekaprotoi at Theadelphia collected tax payments from Heroneinos on behalf of the Appianus estate.\n",
       "stories": [
-        "the-managers-accounts"
+        "the-managers-accounts",
+        "the-orphan-and-the-goats"
       ]
     },
     "oikonomos": {
@@ -10890,8 +9599,7 @@
       "status_level": "",
       "bio": "",
       "stories": [
-        "no-small-danger",
-        "the-festival-circuit"
+        "no-small-danger"
       ]
     },
     "logistes-curator-civitatis": {
@@ -11104,76 +9812,6 @@
         "mad-love"
       ]
     },
-    "eunuch-eunoukhos": {
-      "id": "eunuch-eunoukhos",
-      "type": "office",
-      "title": "Eunuch (Eunoukhos)",
-      "greek_term": "eunoukhos (bed-guardian)",
-      "description": "A castrated male. The term literally means \"bed-guardian\" (from eune, bed, and ekhein, to keep), reflecting the original function of guarding the women's quarters. In practice, eunuchs served as personal attendants, chamberlains, treasurers, administrators, and military guardians. In the Persian Empire, they held positions of enormous trust and power. In the Roman Empire, they were subject to special legal disabilities including reduced inheritance rights.\n",
-      "duties": "Guarding the royal bedchamber and women's quarters; personal service to rulers; treasury management (gazophylax); military service; diplomatic missions; administration. In the Persian court, eunuchs served in all positions \"from the door-keepers up\" (Xenophon).\n",
-      "cost_burden": "",
-      "status_level": "Paradoxical: simultaneously the most despised and the most trusted category of servant. Socially contemptible (Xenophon) but politically indispensable. In Roman Egypt, registered and subject to property confiscation at death.\n",
-      "bio": "",
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "gallus-pl-galli": {
-      "id": "gallus-pl-galli",
-      "type": "office",
-      "title": "Gallus (pl. Galli)",
-      "greek_term": "gallos (pl. galloi)",
-      "description": "A castrated priest of Cybele (Magna Mater) and her consort Attis. The Galli performed voluntary self-castration during the Dies Sanguinis (Day of Blood) on March 24, thereafter adopting women's clothing, cosmetics, and long hair. The name may derive from the river Gallus in Phrygia. Active from at least the 3rd century BCE through the 4th century CE.\n",
-      "duties": "Serving at the temples of Cybele and Attis; participating in the annual March festivals (Canna intrat, Arbor intrat, Dies Sanguinis, Hilaria); ritual dancing, drumming, and self-flagellation; begging for alms; prophecy and divination.\n",
-      "cost_burden": "The act of self-castration was irreversible and entailed permanent social marginality. Galli depended on the cult and on alms for sustenance. Roman law imposed inheritance penalties on eunuchs, including Galli.\n",
-      "status_level": "Sacred yet abject. Priests of an officially recognised Roman cult but excluded from many civil rights. Roman citizens were forbidden from becoming Galli (though this prohibition was not always enforced). Objects of fascination and disgust in Roman literature.\n",
-      "bio": "",
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "enaree": {
-      "id": "enaree",
-      "type": "office",
-      "title": "Enaree",
-      "greek_term": "enarees",
-      "description": "A category of Scythian people described by Herodotus as \"hermaphrodites\" who possessed the art of divination given to them by Aphrodite. The Scythians attributed the condition to a divine curse for sacrilege against the temple of Aphrodite at Ascalon. Modern scholars debate whether the Enarees were intersex individuals, transgender people, ritual specialists who adopted liminal gender roles, or some combination.\n",
-      "duties": "Divination using lime-tree bark, which they braided and unbraided in their fingers. Prophetic functions within Scythian society.\n",
-      "cost_burden": "",
-      "status_level": "Liminal. Marked as different by divine curse or gift, but socially functional as prophets and diviners.\n",
-      "bio": "",
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "gazophylax-treasurer": {
-      "id": "gazophylax-treasurer",
-      "type": "office",
-      "title": "Gazophylax (Treasurer)",
-      "greek_term": "gazophylax",
-      "description": "Keeper of the royal treasury. In the Hellenistic kingdoms, this position was frequently held by eunuchs. When Demetrius Poliorcetes insulted Lysimachus by treating him as a eunuch, the sting came from the association of eunuchs with the treasurer's role. The Ethiopian eunuch of Acts 8 served a comparable function under Queen Candace.\n",
-      "duties": "Management of royal treasure, financial administration, disbursement of funds.\n",
-      "cost_burden": "",
-      "status_level": "High responsibility but socially ambiguous due to association with eunuch status.\n",
-      "bio": "",
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
-    "idios-logos-administrator-of-special-accounts": {
-      "id": "idios-logos-administrator-of-special-accounts",
-      "type": "office",
-      "title": "Idios Logos (Administrator of Special Accounts)",
-      "greek_term": "idios logos",
-      "description": "The Roman official in Egypt responsible for administering properties, inheritances, and revenues that fell to the state through legal forfeit, intestacy, or penalty. The Gnomon of the Idios Logos (BGU 5.1210) is the administrative manual for this office, containing regulations on inheritance, marriage, priestly conduct, and the property of eunuchs.\n",
-      "duties": "Enforcing inheritance laws; confiscating properties of those who died intestate or violated marriage regulations; registering eunuchs and administering their estates; managing the fiscus.\n",
-      "cost_burden": "",
-      "status_level": "Senior provincial administrator, answering to the Roman prefect of Egypt.\n",
-      "bio": "",
-      "stories": [
-        "objects-of-contempt"
-      ]
-    },
     "amulet-practitioner": {
       "id": "amulet-practitioner",
       "type": "office",
@@ -11202,34 +9840,6 @@
         "fever-faith-and-formulae"
       ]
     },
-    "temple-priest-hiereus-stolistes": {
-      "id": "temple-priest-hiereus-stolistes",
-      "type": "office",
-      "title": "Temple Priest (hiereus / stolistes)",
-      "greek_term": "hiereus, stolistes",
-      "description": "Priest serving at an Egyptian temple. In the Fayum, priests of the crocodile god Soknopaios (and related deities like Soxis Pnepheros) administered oracle services alongside their liturgical duties. The stolistes was specifically responsible for the cult statue's vestments.\n",
-      "duties": "Receiving oracle questions from petitioners; administering the oracle procedure (presenting tickets to the god, returning the selected answer); maintaining the temple; performing daily rituals; serving as local administrators and tax intermediaries.\n",
-      "cost_burden": "Priests held temple lands and derived income from endowments and temple services. Oracle consultation likely required a fee or offering.\n",
-      "status_level": "Local elite. Priests at Soknopaiou Nesos combined religious authority with economic substance.\n",
-      "bio": "",
-      "stories": [
-        "ask-the-god"
-      ]
-    },
-    "oracle-book-operator": {
-      "id": "oracle-book-operator",
-      "type": "office",
-      "title": "Oracle Book Operator",
-      "greek_term": "chresmologos (oracle-giver)",
-      "description": "Literate individual who operated a lot oracle book (such as the Sortes Astrampsychi) for clients, generating divine answers through a standardised random procedure involving dice or numbered tickets.\n",
-      "duties": "Identifying the client's question from the standard list; performing the random operation (dice throw, lot drawing); looking up and delivering the corresponding answer from the book.\n",
-      "cost_burden": "Required literacy, a copy of the oracle book, and a randomising device (dice, knucklebones, or numbered tokens).\n",
-      "status_level": "Variable. Could be a temple priest, an itinerant specialist, or any literate person with access to the text. The decentralised nature of the practice worried church authorities.\n",
-      "bio": "",
-      "stories": [
-        "ask-the-god"
-      ]
-    },
     "cosmetes": {
       "id": "cosmetes",
       "type": "office",
@@ -11241,36 +9851,7 @@
       "status_level": "Prestigious but financially dangerous liturgical office.\n",
       "bio": "",
       "stories": [
-        "for-i-am-not-able-the-trapping-of-achilles",
-        "the-festival-circuit"
-      ]
-    },
-    "granary-clerk": {
-      "id": "granary-clerk",
-      "type": "office",
-      "title": "granary clerk",
-      "greek_term": "",
-      "description": "Local fiscal official responsible for entering grain deliveries and deficits into granary books.\n",
-      "duties": "Measured wheat, recorded names, amounts, quarters, and intermediaries in official registers.\n",
-      "cost_burden": "",
-      "status_level": "Administrative functionary within the local fiscal apparatus.\n",
-      "bio": "",
-      "stories": [
-        "the-grain-ledger-of-kametis"
-      ]
-    },
-    "tax-collector": {
-      "id": "tax-collector",
-      "type": "office",
-      "title": "tax collector",
-      "greek_term": "",
-      "description": "Collector handling market dues, bath taxes, guard-post levies, and other municipal obligations.\n",
-      "duties": "Gathered payments, issued ostraca, and routed obligations into district accounts.\n",
-      "cost_burden": "",
-      "status_level": "Mid-level local administrative role.\n",
-      "bio": "",
-      "stories": [
-        "the-grain-ledger-of-kametis"
+        "for-i-am-not-able-the-trapping-of-achilles"
       ]
     },
     "record-office-clerk-registrar": {
@@ -11298,6 +9879,7 @@
       "status_level": "High regional office within the nome administration.\n",
       "bio": "",
       "stories": [
+        "the-grain-owed-to-an-old-father",
         "the-man-whom-she-preferred"
       ]
     },
@@ -11385,35 +9967,6 @@
         "what-a-god-cost"
       ]
     },
-    "logistes": {
-      "id": "logistes",
-      "type": "office",
-      "title": "Logistes",
-      "greek_term": "logistes",
-      "description": "Financial and administrative official who could issue public notices connected to performance.\n",
-      "duties": "Managed or supervised fiscal and administrative business at city level.\n",
-      "cost_burden": "",
-      "status_level": "Senior administrative office.\n",
-      "bio": "",
-      "stories": [
-        "the-doctors-report",
-        "the-festival-circuit"
-      ]
-    },
-    "prostates": {
-      "id": "prostates",
-      "type": "office",
-      "title": "Prostates",
-      "greek_term": "prostates",
-      "description": "Village president or local official; in this dossier, one of the figures who helps procure entertainment.\n",
-      "duties": "Represented village interests and handled local administrative coordination.\n",
-      "cost_burden": "",
-      "status_level": "Local office.\n",
-      "bio": "",
-      "stories": [
-        "the-festival-circuit"
-      ]
-    },
     "public-physician": {
       "id": "public-physician",
       "type": "office",
@@ -11442,6 +9995,21 @@
         "the-doctors-report"
       ]
     },
+    "logistes": {
+      "id": "logistes",
+      "type": "office",
+      "title": "Logistes",
+      "greek_term": "logistes",
+      "description": "Financial official who appears in docket notes and in the handling of disputes.\n",
+      "duties": "Oversaw civic fiscal business and could demand certified medical observation.\n",
+      "cost_burden": "",
+      "status_level": "Senior administrative office.\n",
+      "bio": "",
+      "stories": [
+        "the-doctors-report",
+        "the-orphan-and-the-goats"
+      ]
+    },
     "horse-doctor": {
       "id": "horse-doctor",
       "type": "office",
@@ -11456,62 +10024,6 @@
         "the-doctors-report"
       ]
     },
-    "perfume-seller": {
-      "id": "perfume-seller",
-      "type": "office",
-      "title": "Perfume seller",
-      "greek_term": "myropoles",
-      "description": "Retail specialist visible in letters and commercial records as a perfume seller.\n",
-      "duties": "Sold perfumed goods, handled customers, and could appear in leases and correspondence by title.\n",
-      "cost_burden": "",
-      "status_level": "Urban or village retail trade.\n",
-      "bio": "",
-      "stories": [
-        "how-to-smell-expensive"
-      ]
-    },
-    "perfumer": {
-      "id": "perfumer",
-      "type": "office",
-      "title": "Perfumer",
-      "greek_term": "myrepse / myropoios",
-      "description": "Occupational world marked by terms connected to perfumery production.\n",
-      "duties": "Mixed, prepared, or manufactured scented substances for sale or distribution.\n",
-      "cost_burden": "",
-      "status_level": "Skilled commercial craft.\n",
-      "bio": "",
-      "stories": [
-        "how-to-smell-expensive"
-      ]
-    },
-    "barber": {
-      "id": "barber",
-      "type": "office",
-      "title": "Barber",
-      "greek_term": "koureus",
-      "description": "Trade visible through shops, payments, and equipment requests.\n",
-      "duties": "Cut hair, shaved clients, and worked through shops and portable equipment.\n",
-      "cost_burden": "",
-      "status_level": "Everyday service trade.\n",
-      "bio": "",
-      "stories": [
-        "how-to-smell-expensive"
-      ]
-    },
-    "bath-worker": {
-      "id": "bath-worker",
-      "type": "office",
-      "title": "Bath worker",
-      "greek_term": "",
-      "description": "Profession implied indirectly by the repeated expense, heating, and fuel dossier around bathhouses.\n",
-      "duties": "Helped maintain bath operation through heating, provisioning, and routine upkeep.\n",
-      "cost_burden": "Depended on fuel, buildings, and steady operating supplies.\n",
-      "status_level": "Service role attached to bath infrastructure.\n",
-      "bio": "",
-      "stories": [
-        "how-to-smell-expensive"
-      ]
-    },
     "prefect-of-egypt": {
       "id": "prefect-of-egypt",
       "type": "office",
@@ -11524,6 +10036,90 @@
       "bio": "",
       "stories": [
         "the-poisoning-rumor"
+      ]
+    },
+    "komarches": {
+      "id": "komarches",
+      "type": "office",
+      "title": "Komarches",
+      "greek_term": "κωμάρχης",
+      "description": "Village headman responsible for transmitting fiscal and labor obligations and dealing with officials above the village.\n",
+      "duties": "Received and satisfied state demands, handled receipts, and stood as the local face of administration.\n",
+      "cost_burden": "Heavy; the archive shows repeated monetary and labor liabilities routed through the office.\n",
+      "status_level": "Village office",
+      "bio": "",
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "sitologos": {
+      "id": "sitologos",
+      "type": "office",
+      "title": "Sitologos",
+      "greek_term": "σιτολόγος",
+      "description": "Grain official responsible for collection and delivery.\n",
+      "duties": "Organized grain collection, delivery, and accounting for village obligations.\n",
+      "cost_burden": "Substantial personal exposure when deliveries failed or arrears accumulated.\n",
+      "status_level": "Village fiscal office",
+      "bio": "",
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "praeses-governor": {
+      "id": "praeses-governor",
+      "type": "office",
+      "title": "Praeses / Governor",
+      "greek_term": "ἡγεμών",
+      "description": "Provincial governor or governor-level official who received petitions from villagers.\n",
+      "duties": "Heard complaints, ordered inquiries, and could instruct subordinate officials to act.\n",
+      "cost_burden": "",
+      "status_level": "Provincial office",
+      "bio": "",
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "praepositus": {
+      "id": "praepositus",
+      "type": "office",
+      "title": "Praepositus",
+      "greek_term": "πραιπόσιτος",
+      "description": "Supervisory official linked in this archive to soldiers, pagus administration, and requisitions.\n",
+      "duties": "Received deliveries, transmitted orders, and enforced compliance through subordinate structures.\n",
+      "cost_burden": "",
+      "status_level": "Military-administrative office",
+      "bio": "",
+      "stories": [
+        "the-orphan-and-the-goats"
+      ]
+    },
+    "king": {
+      "id": "king",
+      "type": "office",
+      "title": "King",
+      "greek_term": "βασιλεύς",
+      "description": "Formal addressee of the petition.\n",
+      "duties": "In practice petitions addressed to the king moved through officials who could investigate, compel, or report on the complaint.\n",
+      "cost_burden": "",
+      "status_level": "Royal office",
+      "bio": "",
+      "stories": [
+        "the-grain-owed-to-an-old-father"
+      ]
+    },
+    "epistates": {
+      "id": "epistates",
+      "type": "office",
+      "title": "Epistates",
+      "greek_term": "ἐπιστάτης",
+      "description": "Local official who could be ordered to inspect or enforce matters raised in petitions.\n",
+      "duties": "Served as an immediate local arm of administrative response.\n",
+      "cost_burden": "",
+      "status_level": "Local office",
+      "bio": "",
+      "stories": [
+        "the-grain-owed-to-an-old-father"
       ]
     }
   }
