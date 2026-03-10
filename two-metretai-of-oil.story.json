@@ -1,0 +1,101 @@
+{
+  "title": "Two Metretai of Oil",
+  "subtitle": "A Small Debt Case in the Herakleopolite, 153 BCE",
+  "summary": "Before 23 January 153 BCE, a man named Dioskourides petitioned because another man still had not paid for two metretai of oil. The papyrus turns a small commercial quarrel into a sharp picture of credit, delay, and coercion.",
+  "category": "Work, Trade & Money",
+  "tags": [
+    "Oil Trade",
+    "Debt",
+    "Petitions",
+    "Credit",
+    "Herakleopolite Nome",
+    "Ptolemaic Egypt"
+  ],
+  "sections": [
+    {
+      "id": "the-size-of-the-quarrel",
+      "title": "The size of the quarrel",
+      "body_html": "<p>Oil moved through every level of life in Hellenistic Egypt. It lit lamps, entered food, mattered to bathing, and circulated through official distribution as well as private sale.<sup><a href=\"#note-2\" class=\"note-ref\" data-note=\"2\">2</a></sup><sup><a href=\"#note-3\" class=\"note-ref\" data-note=\"3\">3</a></sup> But this petition is not about the whole oil economy. It is about what happens when one delivery does not get paid for.</p>\n<p>The text is damaged after the amount, but the drift is plain. Dioskourides says the money had been demanded repeatedly and still had not arrived.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup> He asks the official to have Petophois put under security until payment is forced.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup> That is the part worth lingering on. The debt was small enough to fit into a few lines. It was serious enough that the creditor wanted the debtor bound over until the money appeared.</p>\n<p>This is what petty commerce looked like once trust failed. A sale became a petition. Repeated requests became documentary proof that patience had run out.</p>"
+    },
+    {
+      "id": "credit-at-close-range",
+      "title": "Credit at close range",
+      "body_html": "<p>Ptolemaic petitions from the <span class=\"term\" data-definition=\"A fertile depression west of the Nile, about 80 km southwest of Cairo. Heavily settled in Ptolemaic and Roman times, producing many of the surviving papyri.\">Fayum</span> and neighboring districts show the same pattern again and again. Someone is owed grain, fodder, rent, or cash; the debtor delays; the creditor writes upward.<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup><sup><a href=\"#note-5\" class=\"note-ref\" data-note=\"5\">5</a></sup> One man from Magdola complains that another owes him the price of fodder and will not pay.<sup><a href=\"#note-4\" class=\"note-ref\" data-note=\"4\">4</a></sup> Another, from Ammonias, says a cavalryman still has not handed over fifteen <span class=\"term\" data-definition=\"A dry measure for grain. One artaba is roughly 38–40 liters (about a bushel). A family of four needed perhaps 15–20 artabas of wheat per year.\">artabas</span> of barley promised from the harvest.<sup><a href=\"#note-5\" class=\"note-ref\" data-note=\"5\">5</a></sup> The amounts and commodities change. The structure does not.</p>\n<p>That wider paperwork makes the oil case easier to read. Dioskourides was not doing anything strange or theatrical. He was using the normal machinery for collection when private pressure had failed.</p>\n<p>The surviving address matters too. He petitions a commander and phrourarch, also named Dioskourides.<sup><a href=\"#note-1\" class=\"note-ref\" data-note=\"1\">1</a></sup> Commercial life did not sit apart from the coercive arm of the state. If a debtor held out, the seller could try to bring official force down beside the account.</p>"
+    },
+    {
+      "id": "what-two-metretai-can-show",
+      "title": "What two metretai can show",
+      "body_html": "<p>It would be easy to treat this as a minor quarrel, and in one sense it is. Nobody dies. No estate is at stake. No one claims to have been beaten or dispossessed. One man says another still owes him the price of oil.</p>\n<p>That is exactly why the <span class=\"term\" data-definition=\"Writing material made from the papyrus reed, which grew abundantly in the Nile marshes. Egypt's dry climate preserved tens of thousands of documents.\">papyrus</span> matters. It catches the ordinary scale at which ancient trade actually broke down. Most people did not live inside spectacular fortunes. They lived among deliveries, promises, harvests, credit, and delay. A missing payment on two metretai of oil could be enough to send a man to a scribe.</p>\n<p>The petition survives in damaged form, but its pressure is intact. A seller has waited, demanded, waited again, and finally written the whole thing into the file. By then the oil was long gone. What remained was the debt, the irritation, and the hope that an official order might do what repeated asking had not.</p>\n<hr></hr>"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "section": "the-size-of-the-quarrel",
+      "text": "Corpus ID `137048`, `P.Diosk. 3`, before `23 January 153 BCE` (year uncertain), Herakleopolite. Petition of `Dioskourides son of Pakemis` against `Petophois son of Petonouris`. The surviving translation preserves the key sequence: \"I am being wronged\" <greek>ἀδικοῦμαι</greek>; the debt for \"the price of two metretai of oil\" <greek>τιμὴν ἐλαίου μετρητῶν β</greek>; the amount of two talents and four thousand bronze; and the request that the debtor be \"put under security\" until payment is made.",
+      "text_html": "Corpus ID <code>137048</code>, <code>P.Diosk. 3</code>, before <code>23 January 153 BCE</code> (year uncertain), Herakleopolite. Petition of <code>Dioskourides son of Pakemis</code> against <code>Petophois son of Petonouris</code>. The surviving translation preserves the key sequence: &ldquo;I am being wronged&rdquo; <greek>ἀδικοῦμαι</greek>; the debt for &ldquo;the price of two metretai of oil&rdquo; <greek>τιμὴν ἐλαίου μετρητῶν β</greek>; the amount of two talents and four thousand bronze; and the request that the debtor be &ldquo;put under security&rdquo; until payment is made.",
+      "corpus_ids": []
+    },
+    {
+      "id": 2,
+      "section": "the-size-of-the-quarrel",
+      "text": "Oil appears constantly in Ptolemaic administrative and commercial papers, including distribution and accounting texts from the Arsinoite and neighboring nomes. For one local account context, see Corpus ID `10350`, `P.Lille 1.9`, a third-century BCE memorandum concerning oil measures.",
+      "text_html": "Oil appears constantly in Ptolemaic administrative and commercial papers, including distribution and accounting texts from the Arsinoite and neighboring nomes. For one local account context, see Corpus ID <code>10350</code>, <code>P.Lille 1.9</code>, a third-century BCE memorandum concerning oil measures.",
+      "corpus_ids": []
+    },
+    {
+      "id": 3,
+      "section": "the-size-of-the-quarrel",
+      "text": "On the place of oil in the Ptolemaic economy, see Dorothy J. Thompson, *Memphis under the Ptolemies*, and related work on state-controlled staples, taxation, and household consumption.",
+      "text_html": "On the place of oil in the Ptolemaic economy, see Dorothy J. Thompson, <em>Memphis under the Ptolemies</em>, and related work on state-controlled staples, taxation, and household consumption.",
+      "corpus_ids": []
+    },
+    {
+      "id": 4,
+      "section": "credit-at-close-range",
+      "text": "Corpus ID `40196`, `P.Enteux. 36`, `27 February 221 BCE`, Magdola. Petition in which a creditor says he is being wronged because another man still owes him the price of fodder and does not pay even after repeated demands.",
+      "text_html": "Corpus ID <code>40196</code>, <code>P.Enteux. 36</code>, <code>27 February 221 BCE</code>, Magdola. Petition in which a creditor says he is being wronged because another man still owes him the price of fodder and does not pay even after repeated demands.",
+      "corpus_ids": []
+    },
+    {
+      "id": 5,
+      "section": "credit-at-close-range",
+      "text": "Corpus ID `28445`, `P.Enteux. 46`, `27 February 221 BCE`, Ammonias. Petition in which `Theonides` says `Seuthes` owes him fifteen artabas of barley and has still not paid after the agreed time passed.",
+      "text_html": "Corpus ID <code>28445</code>, <code>P.Enteux. 46</code>, <code>27 February 221 BCE</code>, Ammonias. Petition in which <code>Theonides</code> says <code>Seuthes</code> owes him fifteen artabas of barley and has still not paid after the agreed time passed.",
+      "corpus_ids": []
+    }
+  ],
+  "sources": [
+    {
+      "corpus_id": 137048,
+      "reference": "P.Diosk. 3",
+      "date": "before 23 January 153 BCE",
+      "description": "Petition over the unpaid price of two metretai of oil",
+      "description_html": "Petition over the unpaid price of two metretai of oil",
+      "greek": "Διοσκουρίδει ἡγεμόνι καὶ φρου Διοσκουρίδει ἡγεμόνι καὶ φρου ράρχωι παρὰ Διοσκουρίδου ράρχωι παρὰ Διοσκουρίδου τοῦ Πακ ήμιος τῶν ἀπὸ τῆς Ν ικά δαι νεώ ς . ἀδικοῦμα ι ὑ π ὸ Πετο φό ι τ ος το ῦ Π ετονο ύριος τ ῶ ν κατοι κο ύν τ ων ἐ ν Χ Χ ο ι ν ώτμ ει ὀφε ίλο ν τ τ ός μ οι τι μ ὴ ν ἐλαίου με τρητῶν β χ χ αλκ οῦ τάλαντα β Δ . ἔτι . ... .. ι . ς τοῦ κζ ἔτους , τ α ῦτα πλεονάκ ι ς .. . ε .. .. . ε . ε . . . ρι τ ο υ .. .. υ . μενε .. πο . .. . . . περις . .. .... ὑπ ο τ τ ... αν . ιδι ..... ι . . . υ κ . ... . ... ιωσ . ε ρ . .. . . . δ έδωκ εν , ἀξ ι ῶ σ υν τ ά ξαι ἀσφαλίσασθαι α ὐ τὸ ν μ έχρι τ ο ῦ .. . ..... . ...... .. . τ ῶ ν τ ό κ ων π α ρ α .. α .. ν . ἔτους κη Χοιὰχ κ ε . Διοσκουρ ίδου κατὰ Πετοφόϊτος περὶ Πετοφόϊτος περὶ χα λκοῦ ταλάντων β .",
+      "translation": "To Dioskourides, commander and phrourarch, from Dioskourides son of Pakemis, of those from the ship Nikada. I am being wronged by Petophois son of Petonouris, of those residing in Choinotmei, who owes me the price of 2 metretai of oil, namely 2 talents, 4,000(?) of bronze. Still [...] of year 27, these sums on many occasions [...] he has given. I request that you order that he be put under security until [...]."
+    },
+    {
+      "corpus_id": 40196,
+      "reference": "P.Enteux. 36",
+      "date": "27 February 221 BCE",
+      "description": "Parallel petition over unpaid fodder debt",
+      "description_html": "Parallel petition over unpaid fodder debt",
+      "greek": "βασιλεῖ Πτολεμαίωι χαί βασιλεῖ Πτολεμαίωι χαί ρειν Ἡρακ λείδη ς, Λ αρισαῖος τῆς γ ἱπ παρχίας ἑκατοντάρουρος . ἀδικοῦμαι ὑπὸ Ἀριστομάχου. ὀφείλων γάρ μοι χόρτου ἀρούρας τ γάρ μοι χόρτου ἀρούρας τ .......... τιμη . χαλκοῦ δραχμαὶ ε , καὶ ἔτι καὶ νῦν ἀπαιτούμενος ὑπό μου τὴν τιμὴν οὐκ ἀποδίδωσιν. δέομαι οὐκ ἀποδίδωσιν. δέομαι οὖν σου, βα σιλεῦ, εἴ σοι δοκεῖ, προστάξαι Διοφάνει τῶι στρατηγῶι γράψαι Ἡρακλείδηι ἐπιστάτηι κώ ἐπιστάτηι κώ μη ς Μέμφεως ἀποστεῖλαι αὐτὸν ἐπὶ Διοφάνην καί, ἐὰν ἦι ταῦτα ἀληθῆ, πραχθῆναι αὐτὸν τὰς ε δραχμὰς , τὴν τιμὴν τοῦ τὴν τιμὴν τοῦ χόρ του, καὶ ἀποδοθῆναί μοι, ἵνα τοῦ δικαίου τύχω διὰ σέ, βασιλεῦ. vsc εὐτύχει. Ἡρακλείδει. φ ρόντισον ὅπως τῶν δικαίων τύχηι. ἔτους α , Γορπιαίου λ , Τῦβι ιγ . ἔτους α , Γορπιαίου λ , Τῦβι ιγ . Ἡρακλείδης Ἡρακλείδης ἑκατοντάρουρος πρ ὸς Ἀριστόμαχο ν περὶ τιμῆς χό περὶ τιμῆς χό ρ του.",
+      "translation": ""
+    },
+    {
+      "corpus_id": 28445,
+      "reference": "P.Enteux. 46",
+      "date": "27 February 221 BCE",
+      "description": "Parallel petition over unpaid barley debt",
+      "description_html": "Parallel petition over unpaid barley debt",
+      "greek": "βασιλεῖ Π βασιλεῖ Π τολεμαί ωι χαίρειν Θε ω νίδης, ἐξ Ἀμμωνιάδος. ἀδικοῦμαι ὑπ ὸ Σεύθου ἱππέως ἑκατ ἱππέως ἑκατ ονταρού ρου, ὃς κατοικεῖ ἐν τῆι αὐτῆι κ ώ μηι. ὀφείλων γάρ μ ο ι διὰ χειρὸς χερὸς κριθῶν κριθῶν ἀρτάβας ιε ἅ ς μοι ἐ τάξατο ἀποδώσειν ἀπὸ τῶν γενημάτων τοῦ κϛ ἔτους καὶ παρελη λυθότος τοῦ χρόν λυθότος τοῦ χρόν ο υ, πλεονάκι ἀπῃτημένος ἀπηιτημένο ς ὑπʼ ἐμοῦ, οὐκ ἀποδίδωσίν μοι. δέομαι οὖν σου, βασιλεῦ, εἴ σοι δοκεῖ, προστάξαι Διοφάνει τῶι στρατηγῶι γράψαι Ἀγαθοκλεῖ οὖν σου, βασιλεῦ, εἴ σοι δοκεῖ, προστάξαι Διοφάνει τῶι στρατηγῶι γράψαι Ἀγαθοκλεῖ τῶι ἐπιστάτηι ἀποστεῖλαι Σεύθην τῶι ἐπιστάτηι ἀποστεῖλαι Σεύθην ἐ πʼ αὐτὸν καί, ἐὰν ἦι ταῦτα ἀληθῆ, ἐπαναγ κάσαι αὐτὸν ἀποδοῦναί μοι, εἰ δέ τι ἀντιλέγει, μὴ ὀφείλειν ὀμόσας μοι, ἀπολελύσθω, κάσαι αὐτὸν ἀποδοῦναί μοι, εἰ δέ τι ἀντιλέγει, μὴ ὀφείλειν ὀμόσας μοι, ἀπολελύσθω, ἵνα μὴ ἀδικηθῶ, ἀλλʼ ἐπὶ σὲ καταφυγών, βασιλεῦ, τὸν πάντων εὐεργέτην, ἵνα μὴ ἀδικηθῶ, ἀλλʼ ἐπὶ σὲ καταφυγών, βασιλεῦ, τὸν πάντων εὐεργέτην, τοῦ δικαίου τύχω. τοῦ δικαίου τύχω. εὐτύχει. Ἀγαθοκλεῖ. ἐπί σκεψάμενος φρ όντισον ὅπ ως τῶν δικ αί ων τύχηι. ἔτους α , Γορπιαίου λ , Τῦβι ιγ . ἔτους α , Γορπιαίου λ , Τῦβι ιγ . Θεωνίδης Θεωνίδης πρ ὸς Σεύθην περὶ κριθῶν περὶ κριθῶν ἀρταβῶν ιε .",
+      "translation": ""
+    }
+  ],
+  "further_reading": [
+    "Thompson, Dorothy J. *Memphis under the Ptolemies*. Princeton University Press, 1988.",
+    "Manning, J.G. *Land and Power in Ptolemaic Egypt*. Cambridge University Press, 2003."
+  ]
+}
